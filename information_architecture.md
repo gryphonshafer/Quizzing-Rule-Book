@@ -25,7 +25,7 @@ The following is a work-in-progress information architecture for the rule book. 
 
 ## Equipment
 
-## Quizzes
+## Quiz Process
 
 - Types of Quizzes
     - 3-Team Quiz
@@ -36,17 +36,17 @@ The following is a work-in-progress information architecture for the rule book. 
     - Pre-Jumping
     - Tie Jumping
 - Time Limits
-- Fouls
-- Time-Outs
-- Substitutions
 
-## Questions
+## Quiz Events
 
 - Rulings
     - Correct
     - Incorrect
     - Challenges
     - Protests
+- Fouls
+- Time-Outs
+- Substitutions
 - Scoring
 
 ## Quiz Meets
@@ -56,8 +56,6 @@ The following is a work-in-progress information architecture for the rule book. 
 - Championship Quizzes
 
 ## District Seasons
-
-- Scoring
 
 ## International Bible Quizzing
 
