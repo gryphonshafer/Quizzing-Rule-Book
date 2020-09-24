@@ -1,6 +1,6 @@
 # Quiz Events
 
-    Set question answer duration to 30.
+    Set the question answer duration to 30.
 
 ## Rulings
 
@@ -16,7 +16,7 @@
 
 ## Time-Outs
 
-    Set timeout duration to 60.
+    Set the timeout duration to 60.
 
 ## Substitutions
 
@@ -26,85 +26,96 @@ Below are the the scoring calculation rules and the logic for them. This procedu
 
 ### Scoring Terms and Definitions
 
-Quiz Event
+**Quiz Event**
 : Label for whatever quiz event triggered the run of the procedure; possible values are: "question", "foul", "timeout", "sub-in", "sub-out", "challenge", "unreadiness", and "unsportsmanlike"
 
-Quiz Type
+**Quiz Type**
 : Current quiz type, defined under the *Quiz Process/Types of Quizzes* section
 
-Current/Next Question Form
+**Current/Next Question Form**
 : Current or next question "form" such as: "Standard", "Toss-Up", and "Bonus"
 
-Current/Next Question Integer
+**Current/Next Question Integer**
 : Current or next question core integer value; for example, if on question 17A, the value is 17
 
-Current/Next Question Label
+**Current/Next Question Label**
 : Current or next question label, the possible suffix; for example, if on question 17A, the value is A
 
-Current/Next Question Number
+**Current/Next Question Number**
 : Current or next question number, which is a combination of integer and label
 
-Ruling
+**Ruling**
 : Ruling on a question; possible values are: "correct", "incorrect", and "none" (meaning no jump)
 
-Challenge
+**Challenge**
 : Ruling on a challenge; possible values are: "accepted" and "overruled"
 
-Overruled Challenges
+**Overruled Challenges**
 : Integer representing total overruled challenges for the given team
 
-Quizzer Score Increment
+**Quizzer Score Increment**
 : Amount the given quizzer's score should be incremented
 
-Team Score Increment
+**Team Score Increment**
 : Amount the given team's score should be incremented
 
-Quizzer Correct Answers
+**Quizzer Correct Answers**
 : Integer representing total correct answers for the given quizzer
 
-Quizzer Incorrect Answers
+**Quizzer Incorrect Answers**
 : Integer representing total incorrect answers for the given quizzer
 
-Team Correct Answers
+**Team Correct Answers**
 : Integer representing total correct answers for the given team
 
-Team Incorrect Answers
+**Team Incorrect Answers**
 : Integer representing total incorrect answers for the given team
 
-Team Quizzers with Correct Answers
+**Team Quizzers with Correct Answers**
 : Integer representing total number of quizzers for the given team with correct answers
 
-Quizzer Fouls
+**Quizzer Fouls**
 : Integer representing total number of fouls for the given quizzer
 
-Team Fouls
+**Team Fouls**
 : Integer representing total number of fouls for the given team
 
-Quizzer Name
+**Quizzer Name**
 : Name of the given quizzer (first and last)
 
-Scoresheet Label
+**Scoresheet Label**
 : String (which should be irreducably short) that will be filled in the appropriate scoresheet cell for the given quizzer (and given team provided "Scoresheet Team Label" is not also defined)
 
-Scoresheet Team Label
+**Scoresheet Team Label**
 : String (which should be irreducably short) that will be filled in the appropriate scoresheet cell for the given team; normally, this is left undefined and thus "Scoresheet Label" is used
 
-Message
+**Message**
 : An optional string for a message text to display; for example: "Quiz Out"
+
+**Team Roster**
+: This is an array of quizzer objects, each of which contains a "correct answers" value
 
 ### Scoring Logic
 
 This is the scoring logic, defined using English-Script. (For more information, see <https://metacpan.org/pod/English::Script#DEFAULT-GRAMMAR>).
 
-TODO: Need to include in the procedure below the handling of incrementing counts, like quizzer correct/incorrect, fouls counts, and so on. Note that during bonuses certain counts shouldn't increment.
-
     If the quiz event is a "question", then apply the following block.
         If the ruling is "correct", then apply the following block.
-            Set the next question form to "Standard".
-            Set the next question number to the current question integer plus 1.
+            If the current question form is not "Bonus", then apply the following block.
+                Add 1 to quizzer correct answers.
+                Add 1 to team correct answers.
+            This is the end of the block.
+
+            For each specific quizzer in the team roster, apply the following block.
+                If the specific quizzer correct answers value is greater than 0,
+                    then add 1 to the team quizzers with correct answers.
+            This is the end of the block.
+
             Set the quizzer score increment to 20.
             Set the team score increment to 20.
             Set the scoresheet label to 20.
+            Set the next question form to "Standard".
+            Set the next question number to the current question integer plus 1.
 
             If
                 the quiz type is not "2-Team 15-Question Tie-Breaker" and
@@ -147,6 +158,11 @@ TODO: Need to include in the procedure below the handling of incrementing counts
         This is the end of the block.
 
         Otherwise, if the ruling is "incorrect", then apply the following block.
+            If the current question form is not "Bonus", then apply the following block.
+                Add 1 to quizzer incorrect answers.
+                Add 1 to team incorrect answers.
+            This is the end of the block.
+
             Set the scoresheet label to "E".
 
             If the current question form is "Standard" the quiz type begins with "3", then
@@ -199,8 +215,8 @@ TODO: Need to include in the procedure below the handling of incrementing counts
                 This is the end of the block.
             This is the end of the block.
 
-            If the quizzer incorrect answers value is 3, then
-                set message to "Error Out: " plus quizzer name.
+            If the quizzer incorrect answers value is 3,
+                then set message to "Error Out: " plus quizzer name.
         This is the end of the block.
 
         Otherwise, if the ruling is "none" then apply the following block.
@@ -219,6 +235,8 @@ TODO: Need to include in the procedure below the handling of incrementing counts
     This is the end of the block.
 
     Otherwise, if the quiz event is a "foul", then apply the following block.
+        Add 1 to quizzer fouls.
+        Add 1 to team fouls.
         Set the scoresheet label to "F".
 
         If the quizzer fouls value is greater than or equal to 2, then apply the following block.
@@ -238,7 +256,8 @@ TODO: Need to include in the procedure below the handling of incrementing counts
     Otherwise, if the quiz event is a "challenge", then apply the following block.
         Set the scoresheet team label to "C".
         If the challenge is overruled, then apply the following block.
-            if the overruled challenges value is greater than or equal to 2, then apply the following block.
+            Add 1 to overruled challenges.
+            If the overruled challenges value is greater than or equal to 2, then apply the following block.
                 Set the team score increment to -10.
                 Append "-" to the scoresheet team label.
             This is the end of the block.

@@ -30,17 +30,15 @@ Block quotes are supported by starting a line with a `>` character.
 
 Terms and definitions such as the following are supported:
 
-Term
-: Definition 
+**Term**
+: Definition
 
 The syntax for which is:
 
     Term
-    : Definition 
+    : Definition
 
-## Links {#links}
-
-Internal links (like to this [links paragraph](#links)) should be in the form `[internal link](#internal_link)` and a corresponding destination header in the form `## Links {#links}`.
+## Links
 
 External links (like to <https://pnwquizzing.org>) should be in the form `<https://pnwquizzing.org>`.
 
@@ -70,8 +68,8 @@ English-Script (or English::Script) is a strict subset of simple English that ca
     Set the special prime value to 3.
     Set the answer to 123,456.78.
 
-    If the question type is "INT" then apply the following block.  
-        If the jumped quizzer correct sum is 4, then set the jumped quizzer quiz out to true.        
+    If the question type is "INT" then apply the following block.
+        If the jumped quizzer correct sum is 4, then set the jumped quizzer quiz out to true.
         Set the alert message to "Quiz out!"
     This is the end of the block.
 
