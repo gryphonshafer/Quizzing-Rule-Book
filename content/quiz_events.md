@@ -22,219 +22,235 @@
 
 ## Scoring
 
-**TODO:** Convert the below JavaScript into English-Speak.
+Below are the the scoring calculation rules and the logic for them. This procedure is executed after every "quiz event" (defined below).
 
-    // input.
-    //     number   : Current question number (i.e. "16", "17A")
-    //     as       : Current question "as" value (i.e. "Standard", "Toss-Up", "Bonus")
-    //     form     : Type of event (enum: "question", "foul", "timeout", "sub-in",
-    //                "sub-out", "challenge", "readiness", "unsportsmanlike" )
-    //     result   : Result of current answer (enum: "success", "failure", "none" )
-    //     quizzer  : Quizzer data object (of quizzer for the event)
-    //     quizzers : Array of quizzer data objects (of all quizzers in the team)
-    //     team     : Team data object
-    //     quiz     : Complex data structure of teams, quizzers, and scores
-    //     history  : Array of questions and results of the past in the quiz thus far
-    //     sk_type  : The current score type in use (as defined on admin page and set in quiz setup)
-    //     sk_types : All score types for the current program (as defined on admin page)
+### Scoring Terms and Definitions
 
-    // output.
-    //     number      : Next question number (i.e. "16", "17A")
-    //     as          : Next question "as" value (i.e. "Standard", "Toss-Up", "Bonus")
-    //     quizzer     : Quizzer incremental score value following result
-    //     team        : Team incremental score value following result
-    //     label       : Text for the quizzer/question cell scoresheet display
-    //     team_label  : Text override for the team cell scoresheet display
-    //     skip_counts : Boolean; default false; if true, will skip quizzer counts incrementing
-    //     message     : Optional alert message text (i.e. "Quiz Out")
-    //     sk_type     : If set, will change the current score type to this value
+Quiz Event
+: Label for whatever quiz event triggered the run of the procedure; possible values are: "question", "foul", "timeout", "sub-in", "sub-out", "challenge", "unreadiness", and "unsportsmanlike"
 
-    var int_number = parseInt( input.number );
-    output.number  = input.number;
-    output.as      = input.as;
+Quiz Type
+: Current quiz type, defined under the *Quiz Process/Types of Quizzes* section
 
-    if ( input.as == "Bonus" ) output.skip_counts = true;
+Current/Next Question Form
+: Current or next question "form" such as: "Standard", "Toss-Up", and "Bonus"
 
-    if ( input.form == "question" ) {
-        if ( input.result == "success" ) {
-            output.as      = "Standard";
-            output.number  = int_number + 1;
-            output.quizzer = 20;
-            output.team    = 20;
-            output.label   = 20;
+Current/Next Question Integer
+: Current or next question core integer value; for example, if on question 17A, the value is 17
 
-            if (
-                input.as == "Bonus" && (
-                    ( int_number >= 17 && input.sk_type != "2-Team 15-Question Tie-Breaker" ) ||
-                    ( int_number >= 13 && input.sk_type == "2-Team 15-Question Tie-Breaker" )
-                )
-            ) {
-                output.quizzer = 10;
-                output.team    = 10;
-                output.label   = 10;
-            }
+Current/Next Question Label
+: Current or next question label, the possible suffix; for example, if on question 17A, the value is A
 
-            if ( input.as == "Bonus" ) {
-                output.label += "B";
-            }
-            else {
-                var quizzers_with_corrects = input.quizzers.filter( function (value) {
-                    return value.correct > 0;
-                } );
-                if ( quizzers_with_corrects.length >= 2 && input.quizzer.correct == 0 ) {
-                    output.team  += 10;
-                    output.label += "+";
-                    output.message =
-                        ( quizzers_with_corrects.length + 1 ) + "-Quizzer Bonus: " + input.quizzer.name;
-                }
-            }
+Current/Next Question Number
+: Current or next question number, which is a combination of integer and label
 
-            if ( input.quizzer.correct == 3 && input.as != "Bonus" ) {
-                if ( input.quizzer.incorrect == 0 ) {
-                    output.team    += 10;
-                    output.quizzer += 10;
-                    output.label   += "+";
-                }
-                output.message = "Quiz Out: " + input.quizzer.name;
-            }
-        }
-        else if ( input.result == "failure" ) {
-            output.label = "E";
+Ruling
+: Ruling on a question; possible values are: "correct", "incorrect", and "none" (meaning no jump)
 
-            if ( input.as == "Standard" && input.sk_type.substr( 0, 1 ) == "3" ) {
-                output.as = "Toss-Up";
-            }
-            else if (
-                input.as == "Toss-Up" ||
-                ( input.as == "Standard" && input.sk_type.substr( 0, 1 ) == "2" )
-            ) {
-                output.as = "Bonus";
-            }
-            else if ( input.as == "Bonus" ) {
-                output.label = "BE";
-                output.as    = "Standard";
-            }
+Challenge
+: Ruling on a challenge; possible values are: "accepted" and "overruled"
 
-            if (
-                ( int_number < 16 && input.sk_type != "2-Team 15-Question Tie-Breaker" ) ||
-                ( int_number < 12 && input.sk_type == "2-Team 15-Question Tie-Breaker" )
-            ) {
-                output.number = int_number + 1;
-            }
-            else if (
-                input.number == int_number && input.as != "Bonus" &&
-                input.sk_type != "2-Team 15-Question Tie-Breaker"
-            ) {
-                output.number = int_number + "A";
-            }
-            else if (
-                input.number == int_number + "A" && input.as != "Bonus" ||
-                ( input.number == int_number && input.sk_type == "2-Team 15-Question Tie-Breaker" )
-            ) {
-                output.number = int_number + "B";
-            }
-            else if (
-                input.number == int_number + "B" || input.as == "Bonus"
-            ) {
-                output.number = int_number + 1;
-            }
+Overruled Challenges
+: Integer representing total overruled challenges for the given team
 
-            if ( input.as != "Bonus" ) {
-                if ( input.quizzer.incorrect >= 1 || input.team.incorrect >= 2 ) {
-                    output.quizzer = -10;
-                    output.team    = -10;
-                    output.label   += "--";
-                }
-                else if ( int_number >= 17 ) {
-                    output.team  = -10;
-                    output.label += "-";
-                }
-            }
+Quizzer Score Increment
+: Amount the given quizzer's score should be incremented
 
-            if ( input.quizzer.incorrect == 2 )
-                output.message = "Error Out: " + input.quizzer.name;
-        }
-        else if ( input.result == "none" ) {
-            output.as     = "Standard";
-            output.number = int_number + 1;
-        }
+Team Score Increment
+: Amount the given team's score should be incremented
 
-        if (
-            output.as == "Standard" && output.number == 21 &&
-            ( input.sk_type == "3-Team 20-Question" || input.sk_type == "2-Team 20-Question" )
-        ) output.sk_type = "2-Team Overtime";
-    }
+Quizzer Correct Answers
+: Integer representing total correct answers for the given quizzer
 
-    else if ( input.form == "foul" ) {
-        output.label = "F";
+Quizzer Incorrect Answers
+: Integer representing total incorrect answers for the given quizzer
 
-        var quizzer_fouls = 0;
-        var team_fouls    = 0;
+Team Correct Answers
+: Integer representing total correct answers for the given team
 
-        if ( input.quizzer.events )
-            quizzer_fouls = Object.values( input.quizzer.events ).filter( function (value) {
-                return value.toString().indexOf("F") != -1;
-            } ).length;
+Team Incorrect Answers
+: Integer representing total incorrect answers for the given team
 
-        for ( var i = 0; i < input.quizzers.length; i++ ) {
-            if ( input.quizzers[i].events ) {
-                team_fouls += Object.values( input.quizzers[i].events ).filter( function (value) {
-                    return value.toString().indexOf("F") != -1;
-                } ).length;
-            }
-        }
+Team Quizzers with Correct Answers
+: Integer representing total number of quizzers for the given team with correct answers
 
-        if ( quizzer_fouls >= 2 ) {
-            output.quizzer = -10;
-            output.team    = -10;
-            output.label   += "--";
-        }
-        else if ( team_fouls >= 3 ) {
-            output.team  = -10;
-            output.label += "-";
-        }
-    }
+Quizzer Fouls
+: Integer representing total number of fouls for the given quizzer
 
-    else if ( input.form == "timeout" ) {
-        output.team_label = "T";
-    }
+Team Fouls
+: Integer representing total number of fouls for the given team
 
-    else if ( input.form == "sub-in" ) {
-        output.label = "S+";
-    }
+Quizzer Name
+: Name of the given quizzer (first and last)
 
-    else if ( input.form == "sub-out" ) {
-        output.label = "S-";
-    }
+Scoresheet Label
+: String (which should be irreducably short) that will be filled in the appropriate scoresheet cell for the given quizzer (and given team provided "Scoresheet Team Label" is not also defined)
 
-    else if ( input.form == "challenge" ) {
-        output.team_label = "C";
+Scoresheet Team Label
+: String (which should be irreducably short) that will be filled in the appropriate scoresheet cell for the given team; normally, this is left undefined and thus "Scoresheet Label" is used
 
-        if ( input.result == "failure" ) {
-            var overruled_challenges = [];
-            if ( input.team.events )
-                overruled_challenges = Object.values( input.team.events ).filter( function (value) {
-                    return value.toString().indexOf("C~") != -1 || value.toString().indexOf("C-") != -1;
-                } );
-            if ( overruled_challenges.length >= 1 ) {
-                output.team_label += "-";
-                output.team       = -10;
-            }
-            else {
-                output.team_label += "~";
-            }
-        }
-        else {
-            output.team_label += "^";
-        }
-    }
+Message
+: An optional string for a message text to display; for example: "Quiz Out"
 
-    else if ( input.form == "readiness" ) {
-        output.team_label = "R-";
-        output.team       = -20;
-    }
+### Scoring Logic
 
-    else if ( input.form == "unsportsmanlike" ) {
-        output.team_label = "U-";
-        output.team       = -10;
-    }
+This is the scoring logic, defined using English-Script. (For more information, see <https://metacpan.org/pod/English::Script#DEFAULT-GRAMMAR>).
+
+TODO: Need to include in the procedure below the handling of incrementing counts, like quizzer correct/incorrect, fouls counts, and so on. Note that during bonuses certain counts shouldn't increment.
+
+    If the quiz event is a "question", then apply the following block.
+        If the ruling is "correct", then apply the following block.
+            Set the next question form to "Standard".
+            Set the next question number to the current question integer plus 1.
+            Set the quizzer score increment to 20.
+            Set the team score increment to 20.
+            Set the scoresheet label to 20.
+
+            If
+                the quiz type is not "2-Team 15-Question Tie-Breaker" and
+                the current question integer is greater than or equal to 17 or
+                the quiz type is "2-Team 15-Question Tie-Breaker" and
+                the current question integer is greater than or equal to 13,
+            then set reduced bonus points to true.
+
+            If the current question form is "Bonus", then apply the following block.
+                If reduced bonus points is true, then apply the following block.
+                    Set the quizzer score increment to 10.
+                    Set the team score increment to 10.
+                    Set the scoresheet label to 10.
+                This is the end of the block.
+
+                Append "B" to the scoresheet label.
+            This is the end of the block.
+
+            Otherwise, if
+                the team quizzers with correct answers value is greater than or equal to 3
+                and the quizzer correct answers value is 0,
+            then apply the following block.
+                Add 10 to the team score increment.
+                Append "+" to the scoresheet label.
+                Set type of nth bonus to team quizzers with correct answers value plus 1.
+                Set message to type of nth bonus plus "-Quizzer Bonus: " plus quizzer name.
+            This is the end of the block.
+
+            Otherwise, if the quizzer correct answers is 4 and the current question form is not "Bonus",
+                then apply the following block.
+
+                If the quizzer incorrect answers is 0, then apply the following block.
+                    Add 10 to the team score increment.
+                    Add 10 to the quizzer score increment.
+                    Append "+" to the scoresheet label.
+                This is the end of the block.
+
+                Set message to "Quiz Out: " plus quizzer name.
+            This is the end of the block.
+        This is the end of the block.
+
+        Otherwise, if the ruling is "incorrect", then apply the following block.
+            Set the scoresheet label to "E".
+
+            If the current question form is "Standard" the quiz type begins with "3", then
+                set the next question form to "Toss-Up".
+            Otherwise, if
+                the current question form is "Toss-Up" or
+                the current question form is "Standard" and the quiz type begins with "2", then
+                set the next question form to "Bonus".
+            Otherwise, if the current question form is "Bonus", then apply the following block.
+                Set the scoresheet label to "BE";
+                set the next question form to "Standard".
+            This is the end of the block.
+
+            If
+                the current question integer is less than 16 and
+                the quiz type is not "2-Team 15-Question Tie-Breaker" or
+                the current question integer is less than 12 and
+                the quiz type is "2-Team 15-Question Tie-Breaker",
+                then set the next question number to the current question integer plus 1.
+            Otherwise, if
+                the current question number is the current question integer and
+                the current question form is not "Bonus" and
+                the quiz type is not "2-Team 15-Question Tie-Breaker",
+                then set the next question number to the current question integer plus "A".
+            Otherwise, if
+                the current question number is the current question integer plus "A" and
+                the current question form is not "Bonus" or
+                the current question number is the current question integer and
+                the quiz type is "2-Team 15-Question Tie-Breaker",
+                then set the next question number to the current question integer plus "B".
+            Otherwise, if
+                the current question number is the current question integer plus "B" and
+                the current question form is "Bonus",
+                then set the next question number to the current question integer plus 1.
+
+            If the current question form is not "Bonus", then apply the following block.
+                If
+                    the quizzer incorrect answers value is greater than or equal to 2 or
+                    the team incorrect answers value is greater than or equal to 3,
+                then apply the following block.
+                    Set the quizzer score increment to -10.
+                    Set the team score increment to -10.
+                    Append "--" to the scoresheet label.
+                This is the end of the block.
+                Otherwise, if
+                    the current question integer is greater than or equal to 17,
+                then apply the following block.
+                    Set the team score increment to -10.
+                    Append "-" to the scoresheet label.
+                This is the end of the block.
+            This is the end of the block.
+
+            If the quizzer incorrect answers value is 3, then
+                set message to "Error Out: " plus quizzer name.
+        This is the end of the block.
+
+        Otherwise, if the ruling is "none" then apply the following block.
+            Set the next question form to "Standard".
+            Set the next question number to the current question integer plus 1.
+        This is the end of the block.
+
+        If the quiz type is "3-Team 20-Question" or the quiz type is "2-Team 20-Question",
+            then set 20 question quiz to true.
+
+        If
+            20 question quiz is true and
+            the next question form is "Standard" and
+            the next question number is 21,
+        then set the quiz type to "2-Team Overtime".
+    This is the end of the block.
+
+    Otherwise, if the quiz event is a "foul", then apply the following block.
+        Set the scoresheet label to "F".
+
+        If the quizzer fouls value is greater than or equal to 2, then apply the following block.
+            Set the quizzer score increment to -10.
+            Set the team score increment to -10.
+            Append "--" to the scoresheet label.
+        This is the end of the block.
+        Otherwise, if the team fouls value is greater than or equal to 3, then apply the following block.
+            Set the team score increment to -10.
+            Append "-" to the scoresheet label.
+        This is the end of the block.
+    This is the end of the block.
+
+    Otherwise, if the quiz event is a "timeout", then set the scoresheet team label to "T".
+    Otherwise, if the quiz event is a "sub-in", then set the scoresheet team label to "S+".
+    Otherwise, if the quiz event is a "sub-out", then set the scoresheet team label to "S-".
+    Otherwise, if the quiz event is a "challenge", then apply the following block.
+        Set the scoresheet team label to "C".
+        If the challenge is overruled, then apply the following block.
+            if the overruled challenges value is greater than or equal to 2, then apply the following block.
+                Set the team score increment to -10.
+                Append "-" to the scoresheet team label.
+            This is the end of the block.
+            Otherwise, append "~" to the scoresheet team label.
+        This is the end of the block.
+        Otherwise, append "^" to the scoresheet team label.
+    This is the end of the block.
+    Otherwise, if the quiz event is a "unreadiness", then apply the following block.
+        Set the scoresheet team label to "R-".
+        Set the team score increment to -20.
+    This is the end of the block.
+    Otherwise, if the quiz event is a "unsportsmanlike", then apply the following block.
+        Set the scoresheet team label to "U-".
+        Set the team score increment to -10.
+    This is the end of the block.
