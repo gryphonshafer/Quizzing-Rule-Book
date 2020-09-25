@@ -1,4 +1,5 @@
-requires 'English::Script', '>= 1.02';
+# TODO: update English::Script version to 1.02 once that's published
+requires 'English::Script', '>= 1.01';
 requires 'exact', '>= 1.13';
 requires 'exact::cli', '>= 1.03';
 requires 'Mojolicious', '>= 8.59';
