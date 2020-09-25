@@ -1,0 +1,28 @@
+---
+language: perl
+perl:
+  - 5.30
+env: PERL_CPANM_OPT="--quiet --notest --force --skip-satisfied"
+before_install:
+  - git clone git://github.com/haarg/perl-travis-helper
+  - source perl-travis-helper/init
+  - build-perl
+  - perl -V
+  - cpanm -v -n -f Test::Pod Test::Pod::Coverage Test::CheckManifest Devel::Cover::Report::Coveralls
+  - git config --global github.user gryphonshafer
+install:
+  - export RELEASE_TESTING=1 AUTOMATED_TESTING=1 AUTHOR_TESTING=1 HARNESS_OPTIONS=c HARNESS_TIMER=1
+  - cd tools
+  - cpanm -v -n --installdeps .
+  - cd ..
+script:
+  - PERL5OPT=-MDevel::Cover=-coverage,statement,branch,condition,path,subroutine prove -lrsv tools/t
+  - cover
+after_success:
+  - cover -report coveralls
+notifications:
+  email:
+    on_failure: always
+    on_success: change
+  recipients:
+    - gryphon@cpan.org

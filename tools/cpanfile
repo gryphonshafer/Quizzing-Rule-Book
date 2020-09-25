@@ -1,4 +1,6 @@
+requires 'English::Script', '>= 1.02';
 requires 'exact', '>= 1.13';
 requires 'exact::cli', '>= 1.03';
 requires 'Mojolicious', '>= 8.59';
+requires 'Test::Most', '>= 0.37';
 requires 'Text::MultiMarkdown', '>= 1.000035';
