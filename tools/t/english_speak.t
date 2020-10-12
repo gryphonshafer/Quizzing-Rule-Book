@@ -30,7 +30,6 @@ lives_ok(
 );
 
 my $es = English::Script->new;
-# TODO: uncomment after English::Script supports negative numbers
-# lives_ok( sub { $es->parse( $_->{block} ) }, "code parse: $_->{file} -- $_->{header}" ) for (@$speak);
+lives_ok( sub { $es->parse( $_->{block} ) }, "code parse: $_->{file} -- $_->{header}" ) for (@$speak);
 
 done_testing;

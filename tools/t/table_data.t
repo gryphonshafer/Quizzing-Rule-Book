@@ -1,3 +1,4 @@
+use Bible::Reference;
 use FindBin '$Bin';
 use Mojo::DOM;
 use Mojo::File 'path';
@@ -47,7 +48,26 @@ for my $year (
     );
 }
 
-# TODO: verify all references can be parsed by Bible::Reference once said module supports wider range
+my @r;
+
+lives_ok( sub {
+    @r = Bible::Reference->new->in( map { $_->{'Material Scope References'} } @$material_years )->as_text;
+}, 'Bible::Reference processing of Material Scope References' );
+
+is_deeply(
+    \@r,
+    [
+        'Matthew 1:18-25; 2-12; 14-22; 26-28',
+        'Romans, James',
+        'Acts 1-20',
+        'Galatians, Ephesians, Philippians, Colossians',
+        'Luke 1-2; 3:1-23; 9-11; 13-19; 21-24',
+        '1 Corinthians, 2 Corinthians',
+        'John',
+        'Hebrews, 1 Peter, 2 Peter',
+    ],
+    'Bible::Reference as_text check',
+);
 
 my $distribution;
 lives_ok( sub {
