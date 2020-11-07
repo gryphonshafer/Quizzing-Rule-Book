@@ -123,6 +123,7 @@ Must be spiritually significant.
 The entire reference is part of the required question + answer.
 Quizzers may go back and correct their answers if done in the 30-second time limit.  The quizzer will be required to make one full correct rotation. However, the quizzer can be called correct if they have made a mistake only in one area of the verse AND correct the mistake making it abundantly clear to the quiz master and answer judge that they know where their mistake was, and what he corrected words are.
 Context is defined as the verses or verses that are required.
+The quizzer may not continue any non-required verse or verses.
 
 ##### Quote
 A single verse
@@ -142,6 +143,7 @@ The first five words must be unique to all Finish questions.
 The quizmaster will read the first five words of the question (less if a quizzer jumps)
 Quizzers may go back and correct their answers if done in the 30-second time limit.  The quizzer will be required to make one full correct rotation. However, the quizzer can be called correct if they have made a mistake only in one area of the verse AND correct the mistake making it abundantly clear to the quiz master and answer judge that they know where their mistake was, and what he corrected words are.
 Context is defined as the verses or verses that are required.
+The quizzer may not continue any non-required verse or verses.
 
 ##### Finish-the-Verse
 Begins at the beginning of a single verse and finishes at the end of that verse.
