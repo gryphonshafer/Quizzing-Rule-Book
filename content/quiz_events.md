@@ -4,21 +4,134 @@
 
 ## Rulings
 
+### Context
+: Shall be limited to five verses before or after the verse. On all question types, a quizzer cannot automatically be ruled out of context by a single word, even if it is a unique word.  Rather, the quizzer must say a complete thought or phrase that conclusively puts them out of context.
+
+### Interchangeable
+: Means not only not incorrect; means either are acceptable as correct.
+
+### Special Name
+: A name which imparts specific character qualities or attributes to that person of the deity.
+
+### Deity Rule
+- The correct person of the deity must be given. 
+- The quizzer may not move between persons of the deity when answering. Giving the name of a deity that is not correct is considered giving incorrect information.
+- If a quizzer refers to any person of the deity as either “God” or “Lord”, these must be clarified by the quizzer within 30 seconds when the text requires a more specific answer. 
+- “Jesus” and “Christ” are Interchangeable (but refer to the person of the Son) and the quizzer will be called correct.
+- If a pronoun is used in the text to name the deity, any of the names for that person of the deity within context may be considered an acceptable answer when clarifying.
+    - If the pronoun naming the deity is identified by the quizzer using a name that correctly identifies the deity, but with an identification that is out of context, the quizzer will be considered to have not stayed in context.
+- When there is a Special Name of the deity given in the text, the Special Name must be given in the quizzer’s answer.  (i.e.  “The Lord God Almighty”, “The Bread of Life”, “Spirit of the Living God”.)
+    - If the quizzer states any other Special Names which are not in context, the quizzer will be considered to have not stayed in context, even if they refer to the same person of the deity. Example: Jesus refers to himself as “the bread of life” in John 6 and “the good shepherd” in John 10. 
+- When a quizzer gives other names for the same person of the deity, used within context, these should be allowed to be clarified within 30 seconds when a more specific answer is needed.
+
 ### Correct
+The quizzer's response is correct when:
+- It fulfills all requirements specific to the Question Type.
+- The quizzer stays in Context.
+- It contains the information requested.
+    - If the quizmaster did not complete the reading of the question, the quizzer's answer must include the information in the remainder of the question as well as the answer.
+    - It is not required to be in question and answer form, except in the case of a reference question.
+    - The quizzer’s answer must include all unique words included in both the question and the answer.
+
+Mispronounced names are still recognizable as the answer.
+
+Only the first response of the quizzer will be considered, however, if the response by the quizzer is in context and is not incorrect, the quizzer will be allowed their full 30 seconds to give the additional information necessary to satisfy the question and the answer.  Example: INT Who has been making it grow? A. God.  If the quizzer said “Apollos” they have given incorrect information (even though the name “Apollos” is in context) and would be called incorrect.  If they had said “I planted the seed”, “Apollos watered it”, they have not given any incorrect information, are in context and will be given the 30 seconds to supply the correct answer required. 
 
 ### Incorrect
+The quizzer's response is incorrect when:
+- Incorrect information has been given.
+    - e.g If the wrong person (i.e. Father, Son, Holy Spirit) in the deity (God) is given.
+- The information given within the time limit is incomplete.
+- It does not fulfill all requirements specific to the Question Type.
+     - e.g. Any word is omitted or added in a Finish-The-Verse, Finish-This, or Quote Question or the wrong verse is begun.
 
 ### Challenges
+Challenges exist so quizzers can contest rulings made by quiz officials.
+
+The team captain or co-captain may challenge if:
+- There is reason to believe the quiz officials have applied the rule book incorrectly
+- There has been a mispronunciation by the quizmaster
+- There has been an invalid question
+- The next question has not been called
+    - A challenge must be made at the time of the quizmaster's decision and before the next question is called. If a time-out is called immediately after a ruling, and a quizzer stands to challenge, the challenge may be done prior to the time-out.
+- No conferring has occurred between the quizzer challenging and anyone else. Conferring with anyone else prior to a challenge will result in:
+    - The challenge being disallowed
+    - A foul being awarded to the quizzer.
+
+Once a team has requested an explanation of a ruling, and that explanation has been given, all teams lose the right to challenge.
+- If an explanation of a ruling is requested, the quizmaster should pause before giving the explanation, to allow all teams the opportunity to challenge.
+
+The result of a challenge may not be challenged.
+
+If the challenge is accepted, points or error points that were awarded for the initial ruling of the judge will be deducted.  Points or error points which reflect the new ruling of the judge will be recorded.  A new question of the same number will be given if the question is ruled illegal.
+
+When a challenge is made, the quizmaster must give each team’s captain or co-captain an opportunity to speak to the challenge before making a ruling on the challenge.  Whichever team is being challenged against will have the right to speak last.
 
 ### Protests
+Coaches, inclding assistant coaches, of the teams participating in a quiz may place the quiz under protest under the following conditions:
+- When the coach feels a logistical rule has been broken by the quiz officials. 
+    - Any rules regarding judgment calls on questions must be challenged by a captain/co- captain before they may be protested. 
+    - An example of a logistical rule being broken is when the quizmaster did not allow the full 30 seconds for the quizzer to answer when the quizzer was in context and had not given any wrong information.
+- The protest must be placed before the next question is called.
+    - This means the protest must apply to the question and ruling that just happened.
+- The coach may only confer with their assistant coach and substitute quizzer, before protesting.
+- The quiz officials and coaches will leave the room and attempt to come to an agreement.  If no agreement is reached within 10 minutes, the meet director will arbitrate and determine the just solution.
+- If a protest is launched after question number 20 is completed it must be done immediately after the ruling is announced.
+
+Broader, logistical issues do not require a Protest. Examples include:
+- If a quizzer or coach feels there is an equipment issue.
+- If the wrong participants are in the quiz.
+- If the quiz is at a point where Question Type Minimums or Maximums cannot be met.
+
+In those broader logitical situations, a quizzer or coach should bring the issue to the attention of the quiz officials, and attempts should be made to test, verify/reject, and rectify the situation.
 
 ## Fouls
+- Fouls may be called by any quiz official:  the quizmaster, answer judge, or scorekeeper.
+- A foul must be called before the quizmaster calls for the next question.
+- If the officials fail to call a foul, a coach or team captain may call it to the attention of the quizmaster.  If in the quizmaster's (and/or the judge's) opinion a foul might have been committed, the quizmaster will give due warning to the violating team.  A foul may not be charged, and points deducted when the quizmaster receives such help from a coach or captain.
+- The quizzer upon whom a foul is called becomes ineligible to answer that numbered question, including the A and B questions.
+- Three fouls by a quizzer eliminate that quizzer from the quiz.  The quizzer must leave the platform immediately.  His/her seat will continue to be ineligible to jump for the entire numbered question including A and B.
+
+The following are fouls:
+- Team members (quizzers, coaches) communicating with each other, other teams, or with the audience between the time the question type is introduced, and points are awarded. 
+     - Communication can include non-verbal communication.
+- The use of the hands to assist in jumping.  Hands may not touch any part of the chair or the floor from the time "Question" is called until the quizmaster recognizes the first one up.
+- When electronic equipment is used, if any light goes on after the quizmaster calls "Question" and before they begin to discernibly read the question.
+    - Discernibly includes the quizmaster's mouth forming a word shape.
+- During a Reference question or Quote question, when electronic equipment is used, if any light goes on after the quizmaster calls “Question” and before they begin to discernibly read the chapter number.
+- Starting to answer before being recognized by the Quizmaster.
+- Having more than the designated team members, one coach, and an assistant coach on the quiz platform during a time-out.
+- Challenging after conferring with anyone
+- If a captain or co-captain confers with his/her coach or other quizzers prior to issuing a challenge.  In addition, the challenge will not be allowed.
+- Infraction of the rules, in spirit as well as letter, as discerned by the quiz officials.
+
+Individual Fouls
+: A foul awarded to one or more individual quizzers.
+
+Team Fouls
+: The sum of individual fouls.
 
 ## Time-Outs
 
     Set the timeout duration to 60.
 
+- Each team is allowed two, one-minute time-outs.  Only one of those time-outs may be taken during questions 18-20. 
+- Captains, co-captains or coaches may call for a time-out. 
+- Only the coach, assistant coach, and substitute may converse with the team during a time-out.
+- Time-outs may be called prior to bonus questions. 
+
 ## Substitutions
+- Substitutions may be made only during the time-outs.
+- A quizzer being removed from a quiz must stay out for at least three numbered questions including A and B before re-entering the quiz.
+- Quizzers can be substituted for any chair.
+- Quizzed-Out Quizzers:
+    - May remain in the quiz to answer bonus questions.
+        - Substituting for them later will require a time-out.
+    - If subbed out, may not return, for any reason.
+- When a quizzer quizzes-out, err-out, or fouls-out, and leaves the platform as required, a substitute may take their place:
+    - Immediately
+    - Without a time-out
+    - Even if the quizzer has been subbed-out less than three questions ago
 
 ## Scoring
 
