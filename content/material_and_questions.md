@@ -121,8 +121,8 @@ Must be quoted word-perfect.
 Must be strong enough to stand on its own without requiring additional verses to explain it.
 Must be spiritually significant.
 The entire reference is part of the required question + answer.
-Quizzers may go back and correct their answers if done in the 30-second time limit.  The quizzer will be required to make one full correct rotation. However, the quizzer can be called correct if they have made a mistake only in one area of the verse AND correct the mistake making it abundantly clear to the quiz master and answer judge that they know where their mistake was, and what he corrected words are.
-Context is defined as the verses or verses that are required.
+Quizzers may go back and correct their answers if done in the 30-second time limit.  The quizzer will be required to make one full correct rotation. However, the quizzer can be called correct if they have made a mistake only in one area of the verse AND correct the mistake making it abundantly clear to the quiz master and answer judge that they know where their mistake was, and what the corrected words are.
+Context is defined as the verse or verses that are required.
 The quizzer may not continue any non-required verse or verses.
 
 ##### Quote
@@ -139,10 +139,10 @@ Will be direct quotes from Scripture
 Must be quoted word-perfect
 Must be strong enough to stand on its own without requiring additional verses to explain it.
 Must be spiritually significant.
-The first five words must be unique to all Finish questions.
+The first five words must be unique to all Finish questions of the exact same type (e.g. FTV compared to all FTVs, FT to all FTs, F2V to all F2Vs, FTN to all FTNs).
 The quizmaster will read the first five words of the question (less if a quizzer jumps)
-Quizzers may go back and correct their answers if done in the 30-second time limit.  The quizzer will be required to make one full correct rotation. However, the quizzer can be called correct if they have made a mistake only in one area of the verse AND correct the mistake making it abundantly clear to the quiz master and answer judge that they know where their mistake was, and what he corrected words are.
-Context is defined as the verses or verses that are required.
+Quizzers may go back and correct their answers if done in the 30-second time limit.  The quizzer will be required to make one full correct rotation. However, the quizzer can be called correct if they have made a mistake only in one area of the verse AND correct the mistake making it abundantly clear to the quiz master and answer judge that they know where their mistake was, and what the corrected words are.
+Context is defined as the verse or verses that are required.
 The quizzer may not continue any non-required verse or verses.
 
 ##### Finish-the-Verse
@@ -188,8 +188,8 @@ This defines how a Quizmaster must introduce and read each question type.
 (3) "Question Number [ 1, 2, 3, 4, 5, etc ] question"
 (4) 
 - For INT and MA, begin reading the question
-- For Chapter Reference (and CRMA), "According to Chapter x, ...."
-- For Chapter Verse Reference (and CVRMA, "According to Chapter x, Verse x, ......"
+- For Chapter Reference (and CRMA), "According to [ Book Name ], Chapter [Chapter Number], ...."
+- For Chapter Verse Reference (and CVRMA, "According to [ Book Name ], Chapter [Chapter Number], Verse [ Verse Number], ......"
 - For Quote Questions, "Quote [ Book Name ], Chapter [Chapter Number], Verse [ Verse Number]"
 - For Quote these Two Verses Questions. "Quote [ Book Name ], Chapter [Chapter Number], Verses [ Verse Number 1] and [Verse Number 2]"
 - For all Finish Questions (and sub-types), begin reading the verse(s)
