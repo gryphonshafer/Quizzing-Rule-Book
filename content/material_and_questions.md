@@ -106,7 +106,8 @@ Context is the single verse.
 The Question Type abbreviation is "CVR"
 
 ##### Multiple-Answer, Chapter-Verse
-Must meet the requirements of both a MA and CVR question. 
+Must meet all the requirements of a CVR except the single answer requirement.
+Must also meet all the requirements of a MA except the unique word/phrase requirement.
 The Question Type abbreviation is "MACVR"
 
 ##### Chapter (only)
@@ -114,7 +115,8 @@ The question must contain a word or phrase that exists more than once in the mat
 The Question Type abbreviation is "CR"
 
 ##### Multiple-Answer, Chapter (only)
-Must have more than one answer.
+Must meet all the requirements of a CR except the single answer requirement.
+Must also meet all the requirements of a MA except the unique word/phrase requirement.
 The Question Type abbreviation is "MACR"
 
 #### Quote/Finish
