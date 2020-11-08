@@ -30,6 +30,7 @@ The Quizmaster should:
 - Facilitate a positive, uplifting environment throughout the quiz.  Quizmasters should speak clearly and be enthusiastic about quizzing. To this end, quizzers should be called by name, the score should be announced often (when a scoreboard is not present), and bonuses and quiz-outs should be promptly recognized.
 
 The Quizmaster must:
+- Identify the question type of each question and begin every question with, “question number_____, question”.
 - Rule immediately upon an obviously correct or incorrect answer if there is no indication from the answer judge to the contrary. 
     - When an answer is in question (different than what is on the card), the quizmaster will discuss with the answer judge.
 - During the 30-second answering period use the following prompts:
