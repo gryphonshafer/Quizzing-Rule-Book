@@ -35,7 +35,7 @@ Unique Word
 : A word appearing only once in the material or a word that occurs multiple times, but only in 1 verse in the material. Also known as "global unique words."  
 
 Unique Phrases
-: 2 or 3 consecutive words, the sequence of which is only found once in the material. While unique words have the "occurring more than once but in the same verse" corollary, this concept does not exist for 2-3 word phrases. 
+: 2 or 3 consecutive words, the sequence of which is only found in only one verse in the material.
 
 First 5 Words of the Question
 : Defined as "the first 5 spoken words after Question, whether the words are from the material or not." This concept applies to the beginning of Interrogative, Multiple Answer, Finish, Situation questions. 
@@ -101,7 +101,7 @@ The determination of a valid Reference question, and the valid sub-type only con
 
 ##### Chapter-Verse
 Must have a single answer.
-The question must contain a word or phrase that exists more than once in the same chapter.
+The question must contain a word or phrase that exists in more than one verse in the same chapter.
 Context is the single verse.
 The Question Type abbreviation is "CVR"
 
@@ -110,7 +110,7 @@ Must meet the requirements of both a MA and CVR question.
 The Question Type abbreviation is "MACVR"
 
 ##### Chapter (only)
-The question must contain a word or phrase that exists more than once in the material.
+The question must contain a word or phrase that exists more than once in the material and only once in the chapter.s
 The Question Type abbreviation is "CR"
 
 ##### Multiple-Answer, Chapter (only)
