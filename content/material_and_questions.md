@@ -133,12 +133,12 @@ Context is defined as the verse or verses that are required.
 The quizzer may not continue any non-required verse or verses.
 The Question Type abbreviation is "QT"
 
-###### Quote-these-Two-Verses
+##### Quote-these-Two-Verses
 Two consecutive verses
 Should be verses that make more sense when quoted together.  Example: Gal 5:22-23 
 The Question Type abbreviation is "Q2V"
 
-#### Finish
+##### Finish
 The first five words must be unique to all Finish questions of the exact same type (e.g. FTV compared to all FTVs, FT to all FTs, F2V to all F2Vs, FTN to all FTNs).
 The quizmaster will read the first five words of the question (less if a quizzer jumps)
 Quizzers may go back and correct their answers if done in the 30-second time limit.  The quizzer will be required to make one full correct rotation. However, the quizzer can be called correct if they have made a mistake only in one area of the verse AND correct the mistake making it abundantly clear to the quiz master and answer judge that they know where their mistake was, and what the corrected words are.
