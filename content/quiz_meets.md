@@ -2,12 +2,11 @@
 The tournament brackets are based on three things:   A preliminary round, an elimination round (at the discretion of the meet director), and championship quizzes.
 
 ## Preliminary Rounds
-The teams will all receive team points as follows:
-- First place in a quiz:  10 points, plus 1 point for every 10 points over 100
-- Second place in a quiz:  5 points, plus 1 point for every 10 points over 60
-- Third place in a quiz:  1 point, plus 1 point for every 10 points over 30
-In case of a tie, points are awarded according to the team score at the end of question 20.
-If ties are not being broken in prelims, more than one team can receive First place, Second place, or Third place points.
+- Team Points are calculated using a team's score at the end of question 20, together with their place, which could be determined at the end of question 20, or after the end of overtime.
+    - Teams start with a base number of points based on their place, and receive additional points based on their team score. The specifics are detailed in the section below.
+- In case of a tie, points are awarded according to the team score at the end of question 20.
+    - Overtime is used solely to determine placements. 
+- If ties are not being broken in prelims, more than one team can receive First place, Second place, or Third place points.
 
 ### Team Points Calculation
 
