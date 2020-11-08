@@ -94,8 +94,10 @@ If a quizzer needs to provide the reference question, the provided reference que
 - Have content AND wording is similar to the content and wording of the written question.
     - For greater clarity, we have provided the following example: CVR According to Luke chapter 23: 37 King of what?  A. The Jews The quizzer can give the question “King of what?” or “King of whom?”, as Jews could be referring to either nation (what) or people (whom).  In this case the quizzer could also give “King of the what?”
 - Have the determining word or phrase from the quizmaster’s card. 
-    - In the 50/50 example, “What men?”, and “Lawless what?, the questions are not similar.
 The determination of a valid Reference question, and the valid sub-type only considers the content in the question. 
+
+##### Example
+- Referencing the determining word or phrase, in the 50/50 example, “What men?”, and “Lawless what?, the questions are not similar.
 
 ##### Chapter-Verse
 Must have a single answer.
@@ -104,7 +106,7 @@ Context is the single verse.
 The Question Type abbreviation is "CVR"
 
 ##### Multiple-Answer, Chapter-Verse
-Must have more than one answer.
+Must meet the requirements of both a MA and CVR question. 
 The Question Type abbreviation is "MACVR"
 
 ##### Chapter (only)
@@ -115,30 +117,26 @@ The Question Type abbreviation is "CR"
 Must have more than one answer.
 The Question Type abbreviation is "MACR"
 
-#### Quote
+#### Quote/Finish
 Will be direct quotes from Scripture
 Must be quoted word-perfect.
 Must be strong enough to stand on its own without requiring additional verses to explain it.
-Must be spiritually significant.
+Must be spiritually significant and significant to the chapter.
+
+##### Quote
+A single verse
 The entire reference is part of the required question + answer.
 Quizzers may go back and correct their answers if done in the 30-second time limit.  The quizzer will be required to make one full correct rotation. However, the quizzer can be called correct if they have made a mistake only in one area of the verse AND correct the mistake making it abundantly clear to the quiz master and answer judge that they know where their mistake was, and what the corrected words are.
 Context is defined as the verse or verses that are required.
 The quizzer may not continue any non-required verse or verses.
-
-##### Quote
-A single verse
 The Question Type abbreviation is "QT"
 
-##### Quote-these-Two-Verses
+###### Quote-these-Two-Verses
 Two consecutive verses
-The Question Type abbreviation is "Q2V"
 Should be verses that make more sense when quoted together.  Example: Gal 5:22-23 
+The Question Type abbreviation is "Q2V"
 
 #### Finish
-Will be direct quotes from Scripture
-Must be quoted word-perfect
-Must be strong enough to stand on its own without requiring additional verses to explain it.
-Must be spiritually significant.
 The first five words must be unique to all Finish questions of the exact same type (e.g. FTV compared to all FTVs, FT to all FTs, F2V to all F2Vs, FTN to all FTNs).
 The quizmaster will read the first five words of the question (less if a quizzer jumps)
 Quizzers may go back and correct their answers if done in the 30-second time limit.  The quizzer will be required to make one full correct rotation. However, the quizzer can be called correct if they have made a mistake only in one area of the verse AND correct the mistake making it abundantly clear to the quiz master and answer judge that they know where their mistake was, and what the corrected words are.
