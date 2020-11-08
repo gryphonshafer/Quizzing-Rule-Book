@@ -6,6 +6,9 @@
         "3-Team 20-Question", "2-Team 15-Question Tie-Breaker",
         "2-Team 20-Question", "2-Team Overtime", and "3-Team Overtime".
 
+## Quizzes
+There will be no duplicate questions in a single quiz. 
+
 ### 3-Team Quiz
 - There will be 20 numbered questions in a quiz.
 - In the event the quiz ends in a tie, additional units of three overtime questions each will be used until the tie is broken.  Two-team rules will apply in overtime if only two teams are involved.  During overtime, all the numbered questions will be of a different question type.
