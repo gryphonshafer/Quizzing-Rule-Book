@@ -20,9 +20,14 @@
 - “Jesus” and “Christ” are Interchangeable (but refer to the person of the Son) and the quizzer will be called correct.
 - If a pronoun is used in the text to name the deity, any of the names for that person of the deity within context may be considered an acceptable answer when clarifying.
     - If the pronoun naming the deity is identified by the quizzer using a name that correctly identifies the deity, but with an identification that is out of context, the quizzer will be considered to have not stayed in context.
-- When there is a Special Name of the deity given in the text, the Special Name must be given in the quizzer’s answer.  (i.e.  “The Lord God Almighty”, “The Bread of Life”, “Spirit of the Living God”.)
-    - If the quizzer states any other Special Names which are not in context, the quizzer will be considered to have not stayed in context, even if they refer to the same person of the deity. Example: Jesus refers to himself as “the bread of life” in John 6 and “the good shepherd” in John 10. 
+- When there is a Special Name of the deity given in the text, the Special Name must be given in the quizzer’s answer.
+    - If the quizzer states any other Special Names which are not in context, the quizzer will be considered to have not stayed in context, even if they refer to the same person of the deity.
 - When a quizzer gives other names for the same person of the deity, used within context, these should be allowed to be clarified within 30 seconds when a more specific answer is needed.
+
+#### Example
+- Special Names of a deity, (i.e.  “The Lord God Almighty”, “The Bread of Life”, “Spirit of the Living God”.)
+- Special Names that aren't in context, Jesus refers to himself as “the bread of life” in John 6 and “the good shepherd” in John 10. 
+
 
 ### Correct
 The quizzer's response is correct when:
@@ -35,15 +40,20 @@ The quizzer's response is correct when:
 
 Mispronounced names are still recognizable as the answer.
 
-Only the first response of the quizzer will be considered, however, if the response by the quizzer is in context and is not incorrect, the quizzer will be allowed their full 30 seconds to give the additional information necessary to satisfy the question and the answer.  Example: INT Who has been making it grow? A. God.  If the quizzer said “Apollos” they have given incorrect information (even though the name “Apollos” is in context) and would be called incorrect.  If they had said “I planted the seed”, “Apollos watered it”, they have not given any incorrect information, are in context and will be given the 30 seconds to supply the correct answer required. 
+Only the first response of the quizzer will be considered, however, if the response by the quizzer is in context and is not incorrect, the quizzer will be allowed their full 30 seconds to give the additional information necessary to satisfy the question and the answer.  
+
+#### Example
+INT Who has been making it grow? A. God.  If the quizzer said “Apollos” they have given incorrect information (even though the name “Apollos” is in context) and would be called incorrect.  If they had said “I planted the seed”, “Apollos watered it”, they have not given any incorrect information, are in context and will be given the 30 seconds to supply the correct answer required. 
 
 ### Incorrect
 The quizzer's response is incorrect when:
 - Incorrect information has been given.
-    - e.g If the wrong person (i.e. Father, Son, Holy Spirit) in the deity (God) is given.
 - The information given within the time limit is incomplete.
 - It does not fulfill all requirements specific to the Question Type.
-     - e.g. Any word is omitted or added in a Finish-The-Verse, Finish-This, or Quote Question or the wrong verse is begun.
+
+#### Example
+Incorrect Information, e.g If the wrong person (i.e. Father, Son, Holy Spirit) in the deity (God) is given.
+All requirements not fulfilled, Any word is omitted or added in a Finish-The-Verse, Finish-This, or Quote Question or the wrong verse is begun.
 
 ### Challenges
 Challenges exist so quizzers can contest rulings made by quiz officials.
@@ -59,11 +69,13 @@ The team captain or co-captain may challenge if:
     - A foul being awarded to the quizzer.
 
 Once a team has requested an explanation of a ruling, and that explanation has been given, all teams lose the right to challenge.
-- If an explanation of a ruling is requested, the quizmaster should pause before giving the explanation, to allow all teams the opportunity to challenge.
+- If an explanation of a ruling is requested, the quizmaster will ask if any team wants to challenge. 
 
 The result of a challenge may not be challenged.
 
-If the challenge is accepted, points or error points that were awarded for the initial ruling of the judge will be deducted.  Points or error points which reflect the new ruling of the judge will be recorded.  A new question of the same number will be given if the question is ruled illegal.
+If the challenge is accepted:
+    - Points or error points which reflect the new ruling of the judge will be recorded.  
+    - A new question of the same number will be given if the question is ruled illegal.
 
 When a challenge is made, the quizmaster must give each team’s captain or co-captain an opportunity to speak to the challenge before making a ruling on the challenge.  Whichever team is being challenged against will have the right to speak last.
 
@@ -75,7 +87,7 @@ Coaches, inclding assistant coaches, of the teams participating in a quiz may pl
 - The protest must be placed before the next question is called.
     - This means the protest must apply to the question and ruling that just happened.
 - The coach may only confer with their assistant coach and substitute quizzer, before protesting.
-- The quiz officials and coaches will leave the room and attempt to come to an agreement.  If no agreement is reached within 10 minutes, the meet director will arbitrate and determine the just solution.
+- The quiz officials and coaches will meet privately and attempt to come to an agreement.  If no agreement is reached within 10 minutes, the meet director will arbitrate and determine the just solution.
 - If a protest is launched after question number 20 is completed it must be done immediately after the ruling is announced.
 
 Broader, logistical issues do not require a Protest. Examples include:
