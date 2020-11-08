@@ -38,7 +38,7 @@ The Quizmaster must:
     - On a Chapter-Verse Reference Question (CVR) or Chapter-Only Reference Question (CR), if the quizzer has given all the information in both the question and the answer and the complete question was not read, the quizmaster will ask, "What is your question?"
     - On a Finish-The-Verse (FTV), Quote, or Finish This (FT) type question, once the quizzer has quoted to the end of the required verse or verses, if the quote is not yet word-perfect, the quizmaster will say, "Again."  This will occur as often as needed until the quizzer quotes the verse perfectly or the 30-second time limit expires.  
         - The quizmaster is not allowed to say “again” until the quizzer has come to the end of the verse, each time through, as this would give the quizzer information about where their mistake was made.
-    - Once all of the information in both the question and answer have been given, but something needs to be fixed (e.g. Unique word) the quizmaster will say “Again”.
+    - Once all of the information in both the question and answer have been given, but something needs to be fixed, the quizmaster will say “Again”.
     - On a Situation (SIT) type question, when the quizzer has completed the Quotation the quizmaster will say, “Quote is complete.”
     - On an INT or MA Question, if all of the information in the answer has been given, but the quizzer is missing information in the question, the quizmaster will say “More”.
     - On a Situation question, because the quotation is part of the question, the quizmaster will say “More” when required information from the quotation is missing.
