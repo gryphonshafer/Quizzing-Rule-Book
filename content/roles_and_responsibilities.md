@@ -42,7 +42,7 @@ The Quizmaster must:
     - On a Situation (SIT) type question, when the quizzer has completed the Quotation the quizmaster will say, “Quote is complete.”
     - On an INT or MA Question, if all of the information in the answer has been given, but the quizzer is missing information in the question, the quizmaster will say “More”.
     - On a Situation question, because the quotation is part of the question, the quizmaster will say “More” when required information from the quotation is missing.
-    - On a Q, Q2, CVR, MACVR, CR, MACR question, if either the chapter or verse number were not completely finished when the quizzer jumped, the quizmaster will say “More”. 
+    - On a Q/Q2V, CVR/MACVR, CR/MACR question, if either the chapter or verse number were not completely finished when the quizzer jumped, the quizmaster will say “More”. 
         - Note: On a CVR/MACVR, CR/MACR Question once the quizzer has provided all the information in both the question and answer the quizmaster will say “What is your question”, if the response to the question supplied by the quizzer is “More”, the quizzer should consider whether the quizmaster had completely pronounced the chapter or verse number. 
     - On a Reference type question, if the quizzer gives a question that is different than the one on the card, the quizmaster and answer judge must ensure that the question given is the exact same type as the one on the card.
     - Consult with the answer judge(s) at any time he or she feels is necessary, provided it does not infringe upon the 30 seconds allotted the quizzer.
