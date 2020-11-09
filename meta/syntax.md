@@ -94,16 +94,3 @@ Header 3 are used for part titles. Part titles in the current rule book are blac
 `##### Header 5 Example`
 
 `###### Header 6 Example`
-
-## Reserved Header Names
-
-There are header names that are reserved for special purposes:
-
-- Application
-- Commentary
-- Examples
-- Scoring
-
-At any given normal header level (and thus any given spot within a document's information architecture), providing any of the reserved header names indicates that any content within that header is considered tagged by the reserved name such that processing of the source can selectively include or exclude that section.
-
-The "Application" reserved header should contain English-Script appropriate for determining when the rule defined by the parent header is applicable. The "Scoring" reserved header should contain English-Script appropriate for calculating scoring effects.
