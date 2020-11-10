@@ -90,13 +90,6 @@ Coaches, inclding assistant coaches, of the teams participating in a quiz may pl
 - The quiz officials and coaches will meet privately and attempt to come to an agreement.  If no agreement is reached within 10 minutes, the meet director will arbitrate and determine the just solution.
 - If a protest is launched after question number 20 is completed it must be done immediately after the ruling is announced.
 
-Broader, logistical issues do not require a Protest. Examples include:
-- If a quizzer or coach feels there is an equipment issue.
-- If the wrong participants are in the quiz.
-- If the quiz is at a point where Question Type Minimums or Maximums cannot be met.
-
-In those broader logitical situations, a quizzer or coach should bring the issue to the attention of the quiz officials, and attempts should be made to test, verify/reject, and rectify the situation.
-
 ## Fouls
 - Fouls may be called by any quiz official:  the quizmaster, answer judge, or scorekeeper.
 - A foul must be called before the quizmaster calls for the next question.
