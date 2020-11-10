@@ -33,7 +33,7 @@ The following are the steps of phase 2:
 
 1. Gryphon conducts an "OCD pass" of all content, making it align exactly with syntax, style, and other requirements
 2. Gryphon submits a PR for review by the other 3 developers
-3. Discussion and debate take place as part phase 1 PRs, and eventually the PR is merged to `master`
+3. Discussion and debate take place as in phase 1 PRs, and eventually the PR is merged to `master`
 4. Gryphon builds a single *Adobe PDF file* (PDF) for the entire project
 5. Gryphon creates a PR covering the entire project
 
