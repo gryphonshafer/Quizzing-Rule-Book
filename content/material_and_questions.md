@@ -92,11 +92,11 @@ The entire question is part of the required question + answer.
 If a quizzer needs to provide the reference question, the provided reference question must: 
 - Be of the exact same type as the one on the card (CR, CVR, CRMA, CVRMA).  The quizmaster and/or answer judge must check to confirm this.
 - Have content AND wording is similar to the content and wording of the written question.
-    - For greater clarity, we have provided the following example: CVR According to Luke chapter 23: 37 King of what?  A. The Jews The quizzer can give the question “King of what?” or “King of whom?”, as Jews could be referring to either nation (what) or people (whom).  In this case the quizzer could also give “King of the what?”
 - Have the determining word or phrase from the quizmaster’s card. 
-The determination of a valid Reference question, and the valid sub-type only considers the content in the question. 
+    - The determination of a valid Reference question, and the valid sub-type only considers the content in the question. 
 
 ##### Example
+- Similar content and wording: CVR According to Luke chapter 23: 37 King of what?  A. The Jews The quizzer can give the question “King of what?” or “King of whom?”, as Jews could be referring to either nation (what) or people (whom).  In this case the quizzer could also give “King of the what?”
 - Referencing the determining word or phrase, in the 50/50 example, “What men?”, and “Lawless what?, the questions are not similar.
 
 ##### Chapter-Verse
@@ -111,7 +111,7 @@ Must also meet all the requirements of a MA except the unique word/phrase requir
 The Question Type abbreviation is "MACVR"
 
 ##### Chapter (only)
-The question must contain a word or phrase that exists more than once in the material and only once in the chapter.s
+The question must contain a word or phrase that exists more than once in the material and only once in the chapter.
 The Question Type abbreviation is "CR"
 
 ##### Multiple-Answer, Chapter (only)
@@ -199,7 +199,9 @@ This defines how a Quizmaster must introduce and read each question type.
 Invalid Questions – Questions should be declared invalid by the quizmaster or answer judge(s) if:
 - The answer requires interpretation by the quizzer.
 - The question is ambiguous, tricky, or misleading.
-- The question might have two different or conflicting answers.
 - The question is multiple-choice.
-- If the question is not answered. Example: If the question asks, “What is good” and the answer states what is not good, the question is not answered and is tricky or misleading.
+- If the question is not answered.
+
+#### Example
+Regarding "if the question is not answered": If the question asks, “What is good” and the answer states what is not good, the question is not answered and is tricky or misleading.
 When a question is deemed invalid and thrown out, it must be replaced with the exact same type of question.  (i.e. Interrogative replaced with Interrogative, MACVR replaced with MACVR, etc.)
