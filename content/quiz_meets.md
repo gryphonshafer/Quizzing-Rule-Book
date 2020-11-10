@@ -127,11 +127,11 @@ Quiz M:        Third Quiz L, First Quiz L, Second Quiz L (if needed)
 ## Championship Quizzes
 A team must win twice to become the champion team.  All three teams will continue to quiz until one team wins twice.
 - If the same team wins the first two championship quizzes,
-    - 2nd place is determined by the most second places. If that is a tie, second place will be determined by Clarification (below).
+    - Second place is determined by the most second places. If that is a tie, second place will be determined by Clarification (below).
 - If the Champion team is determined in 3 quizzes
     - Second and third places will be determined by Clarification (below).
 - If the Champion team is determined in 4 quizzes
-    - Second place will be given to the remaining team that has the most seconds in the four Championship Quizzes.  If this is a tie, then Clarification (below) will be applied.
+    - Second place is determined by the most second places. If that is a tie, second place will be determined by Clarification (below).
 
 ### Clarification for second and third place:
 Second place will be determined as follows:
