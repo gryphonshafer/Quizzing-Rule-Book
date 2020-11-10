@@ -18,13 +18,16 @@ During the initial version development of this project, all changes will be made
 1. A change's author should submit the change as a *Pull Request* (PR) to the project's `master` branch
 2. At least 1 developer other than the author should comment on the PR; however, ideally many developers will comment
 3. Discussion, debate, and revisions to the PR happen all within GitHub's PR system
-4. The PR is merged to `master` when any of the following is true:
+4. PR authors will resolve comment threads after:
+    - When at least 1 other developer agrees with the PR author or 2 developers agree with each other, which will overrule the PR author
+    - The PR author has writen changes to the PR such that the comment thread's end-state vector is addressed
+5. The PR is merged to `master` when any of the following is true:
     - 1 developer other than the author agrees with the change and there are no disagreements from the other developers after 1 week from PR submission
     - 2 developers other than the author agree with the change
 
 ## Phase 2: Version 1 Quality Assurance
 
-Phase 2 begins once all 4 developers agree that all primary writing and editing as part of phase 1 has concluded. Additional editing may still take place, but at this point, all 4 developers believe they have a working product that, while potentially containing errors, is not likely missing information.
+Phase 2 begins once all 4 developers agree that all primary writing and editing that was part of phase 1 has concluded. Additional editing may still take place, but at this point, all 4 developers believe they have a working product that, while potentially containing errors, is not likely missing information.
 
 The following are the steps of phase 2:
 
@@ -44,11 +47,11 @@ At the end of the 1 month review period of phase 3, if there are no unresolved c
 
 ## Phase 4: District Ratification
 
-Following the conclusion of phase 3, Zachary will take a resulting final PDF of the whole of the project's content and submit this to all 16 active districts. Gryphon will make available a ratification PR similar to the PR from phase 3.
+Following the conclusion of phase 3, Gryphon will make available a ratification PR similar to the PR from phase 3 and generate a final PDF of the whole of the project's content. Zachary will submit the PDF and PR link to all "active" districts. ("Active" will mean districts that have responded to the CQLT's email sent October 30, 2020.) Everyone will do as much as they reasonably can to encourage a broad a reading and solicitation of feedback from all Quizzingdom as possible.
 
-During phase 4, anyone may provide feedback on the phase 4 PR. The 4 developers will respond to this feedback as they did for phase 3 feedback.
+During phase 4, anyone may provide feedback on the phase 4 PR. All feedback should be made in the form of comments on the PR on GitHub as this assures us of universal public transparency. The 4 developers will respond to this feedback as they did for phase 3 feedback. The deadline for filing comments will be 3 calendar months from the date phase 4 began.
 
-When a *district's coordinator* (DC) confirms to his or her satisfaction that the PDF represents FE to the current rule book, that DC will notify Zachary of his or her district's ratification of the PDF. Once Zachary receives ratification notification from over 66% of the 16 districts (11 or more districts), then phase 4 is complete.
+When a *district's coordinator* (DC) confirms to his or her satisfaction that the PDF represents FE to the current rule book, that DC will notify Zachary of his or her district's ratification of the PDF. Once Zachary receives ratification notification from over 66% of the "active" districts, then phase 4 is complete. The deadline for receiving votes from DCs will be 1 month after the deadline for filing comments. Any "active" district not casting a vote by this deadline will be considered "inactive" for the purposes of this vote. Any DC voting against ratification will be required to provide one or more explicit reasons for their vote.
 
 At this point, the PDF will be ratified but not implemented. It will be at the CQLT's sole discretion as to when to implement the PDF as the rule book for *International Bible Quizzing* (IBQ). It will be at each district's sole discretion as to when to implement the PDF as the rule book for their district programs.
 
