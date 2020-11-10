@@ -18,12 +18,41 @@ There are header names that are reserved for special purposes:
 
 - Application
 - Commentary
-- Examples
+- Example/Examples
 - Scoring
 
 At any given normal header level (and thus any given spot within a document's information architecture), providing any of the reserved header names indicates that any content within that header is considered tagged by the reserved name such that processing of the source can selectively include or exclude that section.
 
-The "Application" reserved header should contain English-Script appropriate for determining when the rule defined by the parent header is applicable. The "Scoring" reserved header should contain English-Script appropriate for calculating scoring effects.
+The "Application" reserved header should contain English-Script appropriate for determining when the rule defined by the parent header is applicable. (Note that "Application" headers are unlikely to exist in version 1 and will slowly appear in greater number over successive versions.) The "Scoring" reserved header should contain English-Script appropriate for calculating scoring effects.
+
+Here's an example use-case:
+
+    ### Quiz Question Topic
+
+    This is a paragraph describing the rules for this
+    particular quiz question topic.
+
+    #### Application
+
+        If specific situation is true and a different specific
+        situation is true, then application is true.
+
+    #### Commentary
+
+    This is commentary around this quiz question topic.
+
+    #### Examples
+
+    This is an example of this quiz question topic.
+
+    This is another example of this quiz question topic.
+
+    #### Scoring
+
+        If specific situation is true and a different specific
+        situation is true, then add 10 to team score.
+
+It's unlikely that all reserved header names will apply.
 
 ## "Question" De-Overloading
 
