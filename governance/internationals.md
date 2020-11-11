@@ -7,7 +7,6 @@ These rules apply to the Internationals quiz meet conducted once yearly, adminis
 
 ## Team Structure
 - Each district will be allowed to send as many teams as the district feels will be competitive and that they are financially able to send.  These will be the district International Teams.
-- A team will be composed of a maximum of five members: four starting quizzers and one substitute.  These five shall constitute the team for International Finals.  Any exceptions to this must be brought to the C&MA Quizzing Leadership Team (CQLT).
 - Each team must have a coach and may also have an assistant coach. 
 
 ## Event Registration
@@ -52,4 +51,4 @@ These rules apply to the Internationals quiz meet conducted once yearly, adminis
 ## Equipment
 - Electronic jump-seat equipment must be used for all competitions.  A back-up set must be on hand at all times.
 - An unofficial scoreboard must be maintained in full view of the audience at all times, or the score read at the beginning of each time out.
-- A tape recorder must be used in all rooms.
+- An audio recording system must be used in all rooms.
