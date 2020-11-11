@@ -172,11 +172,14 @@ Contains two parts to the question:
     - The quizzer is not required to repeat the quotation word-perfect but must be substantially close without leaving out key components of the quotation.
     - Must start at the beginning of a quotation or the beginning of a sentence within the quotation.  When a Situation question comes from a quotation that runs for more than 2 verses, the beginning of the Situation question must start within the first 2 verses of the quotation.
     - If the Quotation is split-up by non-quotation words, the Quotation will be read without the non-quotation words.
-        - A situation question can combine two separate quotations as long as no words are added and the two quotes flow easily from one to another.  For example, Matthew 4:19 says, “Come, follow me”, Jesus said, “and I will send you out to fish for people.”  This example could be written, Who said it?  “Come, follow me, and I will send you out to fish for people” Answer:  Jesus.
+        - A situation question can combine two separate quotations as long as no words are added and the two quotes flow easily from one to another. The quotation will be read excluding any non-quotation words in the middle of the quotations.
 - Questions regarding the Situation of the Quotation
     - Ask for who said it, to whom, how, why, when, where, or about whom. No other interrogatives are permissible.
     - Can only ask for a maximum of 3 Questions
 The answer to the Situation Question must be in context.
+
+##### Example
+Split quotation: For example, Matthew 4:19 says, “Come, follow me”, Jesus said, “and I will send you out to fish for people.”  This example could be written, Who said it?  “Come, follow me, and I will send you out to fish for people” Answer:  Jesus.
 
 ### Question Structure
 This defines how a Quizmaster must introduce and read each question type.
