@@ -121,8 +121,6 @@ The Question Type abbreviation is "MACR"
 #### Quote/Finish
 Will be direct quotes from Scripture
 Must be quoted word-perfect.
-Must be strong enough to stand on its own without requiring additional verses to explain it.
-Must be spiritually significant and significant to the chapter.
 
 ##### Quote
 A single verse
@@ -134,7 +132,6 @@ The Question Type abbreviation is "QT"
 
 ##### Quote-these-Two-Verses
 Two consecutive verses
-Should be verses that make more sense when quoted together.  Example: Gal 5:22-23 
 The Question Type abbreviation is "Q2V"
 
 ##### Finish
@@ -159,8 +156,6 @@ The Question Type abbreviation is "F2V"
 ##### Finish-This-and-the-Next
 Begins in the middle of a verse and finishes at the end of the next verse.  A FTN must start at the beginning of a sentence or the beginning of a quotation. Used when part of a verse is not strong enough on its own and needs another verse (or part of a verse) to explain it or can be used when two verses combined form an even stronger thought.
 The Question Type abbreviation is "FTN"
-
-FTV questions should not start out with an insignificant introduction such as “He replied” or “He said to them”.  These verses, if spiritually significant, should be used as FT or FTN type questions.  For example, Luke 11:28 says, He replied, “Blessed rather are those who hear the word of God and obey it.”  This verse could be used as an excellent FT question starting with “Blessed rather are those who …”. 
 
 #### Situation
 Used only in the year where the Material Type is Narrative
@@ -198,7 +193,7 @@ This defines how a Quizmaster must introduce and read each question type.
 - For Situation Questions, begin reading at the Quotation.
 
 ### Invalid Questions
-Invalid Questions – Questions should be declared invalid by the quizmaster or answer judge(s) if:
+Invalid Questions – Questions must be declared invalid by the quizmaster or answer judge(s) if:
 - The answer requires interpretation by the quizzer.
 - The question is ambiguous, tricky, or misleading.
 - The question is multiple-choice.

@@ -19,16 +19,6 @@ Teams can have up to 5 quizzers on it. Teams can have up to 4 quizzers in the qu
         - If the captain requests additional information regarding the ruling, this is considered an explanation of a ruling, and invalidates a Challenge or Protest. Before replying to a request for explanation, the QM must ask all teams if they wish to Challenge.
 
 ### Quizmasters
-The Quizmaster should: 
-- Be thoroughly acquainted with all rules, procedures, and material of that quiz year.
-- Be impartial and render decisions consistently.
-- See that all officials are briefed regarding rules and procedures.
-- Read at a normal conversation rate.  Hesitating or reading too quickly must be avoided since either may cause inaccurate quizzing.
-    - Read all questions at the same rate of speed with the ability to stop reading the question at the exact moment a jump is made.
-- Keep the quiz moving at a consistent pace.  A quiz should not be rushed, but it is important to maintain the quickest pace which does not interfere with accuracy.
-- Be open to a challenge and be willing to evaluate whatever the captains or co- captains feel is in error.
-- Facilitate a positive, uplifting environment throughout the quiz.  Quizmasters should speak clearly and be enthusiastic about quizzing. To this end, quizzers should be called by name, the score should be announced often (when a scoreboard is not present), and bonuses and quiz-outs should be promptly recognized.
-
 The Quizmaster must:
 - Identify the question type of each question and begin every question with, “question number_____, question”.
 - Rule immediately upon an obviously correct or incorrect answer if there is no indication from the answer judge to the contrary. 
