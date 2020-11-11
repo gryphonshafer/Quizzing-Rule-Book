@@ -70,7 +70,6 @@ All questions must contain verbatim material. On some types, the addition of a s
 ### Question Types
 
 #### Interrogative
-Should not be overly long and should be clear and precise.
 Must have exactly one inserted interrogative word.
 Must have a single answer.
 Must include a unique word, or 2-3 word unique phrase within the first 5 words of the question. 
@@ -83,7 +82,7 @@ Must have more than one answer.
 - The identification of a singular pronoun does not meet the above requirement.
 - The identification of a plural pronoun does meet the above requirement.
 Must include a unique word, or 2-3 word unique phrase within the first 5 words of the question. 
-If the multiple answers contain at least one "positive" answer AND at least one "negative" answer, this is deemed invalid as a Multiple Answer question.
+If one of the listed answers to a the multiple answers questions is a "negative" answer, this is deemed invalid as a Multiple Answer question.
 The Question Type abbreviation is "MA"
 
 #### Reference
@@ -93,7 +92,7 @@ If a quizzer needs to provide the reference question, the provided reference que
 - Be of the exact same type as the one on the card (CR, CVR, CRMA, CVRMA).  The quizmaster and/or answer judge must check to confirm this.
 - Have content AND wording is similar to the content and wording of the written question.
 - Have the determining word or phrase from the quizmaster’s card. 
-    - The determination of a valid Reference question, and the valid sub-type only considers the content in the question. 
+- The interrogative word used is not a factor when deciding the valid type of a reference question.
 
 ##### Example
 - Similar content and wording: CVR According to Luke chapter 23: 37 King of what?  A. The Jews The quizzer can give the question “King of what?” or “King of whom?”, as Jews could be referring to either nation (what) or people (whom).  In this case the quizzer could also give “King of the what?”
