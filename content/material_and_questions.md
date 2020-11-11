@@ -132,7 +132,6 @@ The Question Type abbreviation is "QT"
 
 ##### Quote-these-Two-Verses
 Two consecutive verses
-Should be verses that make more sense when quoted together.  Example: Gal 5:22-23 
 The Question Type abbreviation is "Q2V"
 
 ##### Finish
