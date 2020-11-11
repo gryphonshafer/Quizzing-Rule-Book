@@ -95,6 +95,40 @@ Below are the the scoring calculation rules and the logic for them. This procedu
 **Team Roster**
 : This is an array of quizzer objects, each of which contains a "correct answers" value
 
+### How to Score Individual and Team Points
+**Individual Points**
+
+_**Points Earned**_
+- +20 Points for every correct question & toss-up question
+- +10 Points for every quiz out without error
+
+**_Points Deducted_**
+- -10 Points for 2nd and subsequent personal errors
+     - Points are not deducted for errors on bonus questions
+     - Points are not deducted for errors during overtime
+- -10 Points for 3rd personal foul
+
+
+**Team Points**
+All point earned or deducted by an individual are to be counted towards the team’s points.
+
+_**Points Earned**_
+- +20 Points for team arriving on time. 
+     - Teams that arrive late due to quizzing in another room are excused from the forfeiture of these points. If a single quizzer is late, the coach can decide to keep the +20 points by keeping the late quizzer out the whole quiz, or forfeit the points by subbing the quizzer in after question number 1. This decision must occur before the quiz has been started. 
+- +10 Points for every 3rd and subsequent correct answer given by a unique quizzer on the team
+- +20 Points for every correct bonus question before question number 17
+     - In 2 Team Quizzes, this scoring rule does not apply 
+- +10 Points for every correct bonus question after and including question number 17
+     - In 2 Team Quizzes, all correct bonus questions are worth 10 points
+
+_**Points Deducted**_
+- -10 Points for every team error starting at error number 3
+- -10 Points for every error starting at question number 17
+- -10 Points for 4th and subsequent team fouls
+- -10 Points for 2nd and subsequent overruled challenges & protests
+- -10 Points at the determination of the room officials that a deliberate attempt was made to forfeit a question. 
+
+
 ### Scoring Logic
 
 This is the scoring logic, defined using English-Script. (For more information, see <https://metacpan.org/pod/English::Script#DEFAULT-GRAMMAR>).
