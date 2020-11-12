@@ -32,7 +32,7 @@ Interrogative Words
 : The single, interrogative words that must be inserted at either the beginning or the end of every [ Interrogative, Multiple Answer, Chapter Reference, Chapter Verse Reference ] question. The exhaustive list of these words is: who, whom, whose, what, why, where, when, which, how.
 
 Unique Word
-: A word appearing only once in the material or a word that occurs multiple times, but only in 1 verse in the material. Also known as "global unique words."  
+: A word appearing only once in the material or a word that occurs multiple times, but only in one verse in the material.
 
 Unique Phrases
 : 2 or 3 consecutive words, the sequence of which is only found in only one verse in the material.
@@ -65,38 +65,42 @@ Question Type maximums can be exceeded in Overtime.
 ## Question Writing
 
 ### Preparation of Questions
-All questions must contain verbatim material. On some types, the addition of a single, approved, interrogative word at the very beginning or very end is required.
+- All questions must contain verbatim material. 
+    - The only exception to this is Situation question Quotations, which could potentially involve a single Quotation, broken up by non-quotation words. 
+- On some types, the addition of a single, approved, interrogative word at the very beginning or very end is required.
 
 ### Question Types
 
 #### Interrogative
-Must have exactly one inserted interrogative word.
+Must have exactly one inserted interrogative word at the very beginning of the question or at the very end of the question.
 Must have a single answer.
 Must include a unique word, or 2-3 word unique phrase within the first 5 words of the question. 
 The Question Type abbreviation is "INT"
 
 #### Multiple Answer
-Must have exactly one inserted interrogative word.
+Must meet all the requirements of an INT, except the single answer requirement.
 Must have more than one answer.
 - The clarification of a single answer does not meet the above requirement.
 - The identification of a singular pronoun does not meet the above requirement.
 - The identification of a plural pronoun does meet the above requirement.
-Must include a unique word, or 2-3 word unique phrase within the first 5 words of the question. 
 If one of the listed answers to a the multiple answers questions is a "negative" answer, this is deemed invalid as a Multiple Answer question.
 The Question Type abbreviation is "MA"
 
 #### Reference
 Used to distinguish exact same words or phrases from the material.
-The entire question is part of the required question + answer.
+The entire reference question is part of the required question + answer.
 If a quizzer needs to provide the reference question, the provided reference question must: 
-- Be of the exact same type as the one on the card (CR, CVR, CRMA, CVRMA).  The quizmaster and/or answer judge must check to confirm this.
+- Be of the exact same type as the one on the card (CR, CVR, MACR, MACVR).  The quizmaster and/or answer judge must check to confirm this.
 - Have content AND wording is similar to the content and wording of the written question.
-- Have the determining word or phrase from the quizmaster’s card. 
-- The interrogative word used is not a factor when deciding the valid type of a reference question.
+- Have the determining word or phrase of the written question. 
+- The interrogative word used is not a factor when deciding the valid type of a reference question. 
 
 ##### Example
 - Similar content and wording: CVR According to Luke chapter 23: 37 King of what?  A. The Jews The quizzer can give the question “King of what?” or “King of whom?”, as Jews could be referring to either nation (what) or people (whom).  In this case the quizzer could also give “King of the what?”
 - Referencing the determining word or phrase, in the 50/50 example, “What men?”, and “Lawless what?, the questions are not similar.
+- Further explanation on the interrogative word used in a reference question. 
+    - If two identical phrases exist in the same chapter, but one occurrence grammatically calls for use of the "who" inserted interrogative word, and the other occurrence grammatically calls for the use of the "what" inserted interrogative word, that difference in grammatically dictated interrogative word does not change the fact that phrase from the material (that excludes the inserted interrogative word) occurs more than twice in the same chapter, necessitating a CVR question.
+    - The above example does not mean that if the quizzer needs to provide a reference question that is a CVR, and their choice of interrogative word changes the question type to MACVR, that the quizzer has given a valid CVR. In this case, the validity changes based on the interrogative word, because of how the required answer changes.
 
 ##### Chapter-Verse
 Must have a single answer.
@@ -119,7 +123,6 @@ Must also meet all the requirements of a MA except the unique word/phrase requir
 The Question Type abbreviation is "MACR"
 
 #### Quote/Finish
-Will be direct quotes from Scripture
 Must be quoted word-perfect.
 
 ##### Quote
@@ -161,13 +164,13 @@ The Question Type abbreviation is "FTN"
 Used only in the year where the Material Type is Narrative
 Contains two parts to the question:
 - Quotation
-    - Must be a direct quotation from Scripture by a person or an entity. 
-    - The quotation must be reasonable in length, not exceeding two consecutive verses. 
+    - Must be a direct quotation from the material by a person or an entity. 
+    - The quotation must not exceed two consecutive verses. 
     - The first five words must be unique to all Quotations.
     - The quizzer is not required to repeat the quotation word-perfect but must be substantially close without leaving out key components of the quotation.
     - Must start at the beginning of a quotation or the beginning of a sentence within the quotation.  When a Situation question comes from a quotation that runs for more than 2 verses, the beginning of the Situation question must start within the first 2 verses of the quotation.
     - If the Quotation is split-up by non-quotation words, the Quotation will be read without the non-quotation words.
-        - A situation question can combine two separate quotations as long as no words are added and the two quotes flow easily from one to another. The quotation will be read excluding any non-quotation words in the middle of the quotations.
+        - A situation question can combine two separate quotations as long as no words are added and the two quotes flow easily from one to another. The quotation must be written excluding any non-quotation words in the middle of the quotations.
 - Questions regarding the Situation of the Quotation
     - Ask for who said it, to whom, how, why, when, where, or about whom. No other interrogatives are permissible.
     - Can only ask for a maximum of 3 Questions
@@ -185,8 +188,8 @@ This defines how a Quizmaster must introduce and read each question type.
 (3) "Question Number [ 1, 2, 3, 4, 5, etc ] question"
 (4) 
 - For INT and MA, begin reading the question
-- For Chapter Reference (and CRMA), "According to [ Book Name ], Chapter [Chapter Number], ...."
-- For Chapter Verse Reference (and CVRMA, "According to [ Book Name ], Chapter [Chapter Number], Verse [ Verse Number], ......"
+- For Chapter Reference (and MACR), "According to [ Book Name ], Chapter [Chapter Number], ...."
+- For Chapter Verse Reference (and MACVR, "According to [ Book Name ], Chapter [Chapter Number], Verse [ Verse Number], ......"
 - For Quote Questions, "Quote [ Book Name ], Chapter [Chapter Number], Verse [ Verse Number]"
 - For Quote these Two Verses Questions. "Quote [ Book Name ], Chapter [Chapter Number], Verses [ Verse Number 1] and [Verse Number 2]"
 - For all Finish Questions (and sub-types), begin reading the verse(s)
@@ -199,6 +202,8 @@ Invalid Questions – Questions must be declared invalid by the quizmaster or an
 - The question is multiple-choice.
 - If the question is not answered.
 
+When a question is deemed invalid and thrown out, it must be replaced with the exact same type of question.  (i.e. Interrogative replaced with Interrogative, MACVR replaced with MACVR, etc.)
+
 #### Example
 Regarding "if the question is not answered": If the question asks, “What is good” and the answer states what is not good, the question is not answered and is tricky or misleading.
-When a question is deemed invalid and thrown out, it must be replaced with the exact same type of question.  (i.e. Interrogative replaced with Interrogative, MACVR replaced with MACVR, etc.)
+
