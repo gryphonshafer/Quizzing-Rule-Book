@@ -28,7 +28,6 @@
 - Special Names of a deity, (i.e.  “The Lord God Almighty”, “The Bread of Life”, “Spirit of the Living God”.)
 - Special Names that aren't in context, Jesus refers to himself as “the bread of life” in John 6 and “the good shepherd” in John 10. 
 
-
 ### Correct
 The quizzer's response is correct when:
 - It fulfills all requirements specific to the Question Type.

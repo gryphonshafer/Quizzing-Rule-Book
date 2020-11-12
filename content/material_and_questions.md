@@ -121,8 +121,6 @@ The Question Type abbreviation is "MACR"
 #### Quote/Finish
 Will be direct quotes from Scripture
 Must be quoted word-perfect.
-Must be strong enough to stand on its own without requiring additional verses to explain it.
-Must be spiritually significant and significant to the chapter.
 
 ##### Quote
 A single verse
@@ -134,7 +132,6 @@ The Question Type abbreviation is "QT"
 
 ##### Quote-these-Two-Verses
 Two consecutive verses
-Should be verses that make more sense when quoted together.  Example: Gal 5:22-23 
 The Question Type abbreviation is "Q2V"
 
 ##### Finish
@@ -160,8 +157,6 @@ The Question Type abbreviation is "F2V"
 Begins in the middle of a verse and finishes at the end of the next verse.  A FTN must start at the beginning of a sentence or the beginning of a quotation. Used when part of a verse is not strong enough on its own and needs another verse (or part of a verse) to explain it or can be used when two verses combined form an even stronger thought.
 The Question Type abbreviation is "FTN"
 
-FTV questions should not start out with an insignificant introduction such as “He replied” or “He said to them”.  These verses, if spiritually significant, should be used as FT or FTN type questions.  For example, Luke 11:28 says, He replied, “Blessed rather are those who hear the word of God and obey it.”  This verse could be used as an excellent FT question starting with “Blessed rather are those who …”. 
-
 #### Situation
 Used only in the year where the Material Type is Narrative
 Contains two parts to the question:
@@ -172,11 +167,14 @@ Contains two parts to the question:
     - The quizzer is not required to repeat the quotation word-perfect but must be substantially close without leaving out key components of the quotation.
     - Must start at the beginning of a quotation or the beginning of a sentence within the quotation.  When a Situation question comes from a quotation that runs for more than 2 verses, the beginning of the Situation question must start within the first 2 verses of the quotation.
     - If the Quotation is split-up by non-quotation words, the Quotation will be read without the non-quotation words.
-        - A situation question can combine two separate quotations as long as no words are added and the two quotes flow easily from one to another.  For example, Matthew 4:19 says, “Come, follow me”, Jesus said, “and I will send you out to fish for people.”  This example could be written, Who said it?  “Come, follow me, and I will send you out to fish for people” Answer:  Jesus.
+        - A situation question can combine two separate quotations as long as no words are added and the two quotes flow easily from one to another. The quotation will be read excluding any non-quotation words in the middle of the quotations.
 - Questions regarding the Situation of the Quotation
     - Ask for who said it, to whom, how, why, when, where, or about whom. No other interrogatives are permissible.
     - Can only ask for a maximum of 3 Questions
 The answer to the Situation Question must be in context.
+
+##### Example
+Split quotation: For example, Matthew 4:19 says, “Come, follow me”, Jesus said, “and I will send you out to fish for people.”  This example could be written, Who said it?  “Come, follow me, and I will send you out to fish for people” Answer:  Jesus.
 
 ### Question Structure
 This defines how a Quizmaster must introduce and read each question type.
@@ -195,7 +193,7 @@ This defines how a Quizmaster must introduce and read each question type.
 - For Situation Questions, begin reading at the Quotation.
 
 ### Invalid Questions
-Invalid Questions – Questions should be declared invalid by the quizmaster or answer judge(s) if:
+Invalid Questions – Questions must be declared invalid by the quizmaster or answer judge(s) if:
 - The answer requires interpretation by the quizzer.
 - The question is ambiguous, tricky, or misleading.
 - The question is multiple-choice.
