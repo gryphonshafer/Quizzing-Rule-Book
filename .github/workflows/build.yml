@@ -1,0 +1,26 @@
+name: build
+on: [ push, pull_request, workflow_dispatch ]
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    strategy:
+      fail-fast: false
+      matrix:
+        perl-version: [ 32, 30, 28, 26, 24, 22, 20, 18, 16, 14, 12, 10 ]
+    container:
+      image: perldocker/perl-tester:5.${{ matrix.perl-version }}
+    steps:
+      - uses: actions/checkout@v2
+      - uses: perl-actions/install-with-cpanm@v1
+        env:
+          PERL_CPANM_OPT: --from https://cpan.metacpan.org/ --quiet --notest --force --skip-satisfied
+        with:
+          sudo: false
+          args: --with-develop --with-all-features --installdeps .
+          install: |
+            Devel::Cover::Report::Codecov
+      - run: HARNESS_PERL_SWITCHES=-MDevel::Cover prove --recurse --lib --failures --jobs 4 --timer t
+      - run: cover -test -report codecov
+        if: ${{ matrix.perl-version >= 26 }}
+        env:
+          CODECOV_TOKEN: ${{ secrets.CODECOV_TOKEN }}

@@ -1,7 +1,7 @@
 # Bible Quizzing Rule Book
 
-[![Build Status](https://travis-ci.org/gryphonshafer/Quizzing-Rule-Book.svg)](https://travis-ci.org/gryphonshafer/Quizzing-Rule-Book)
-[![Coverage Status](https://coveralls.io/repos/gryphonshafer/Quizzing-Rule-Book/badge.png)](https://coveralls.io/r/gryphonshafer/Quizzing-Rule-Book)
+[![build](https://github.com/gryphonshafer/Quizzing-Rule-Book/workflows/build/badge.svg)](https://github.com/gryphonshafer/Quizzing-Rule-Book/actions?query=workflow%3Abuild)
+[![codecov](https://codecov.io/gh/gryphonshafer/Quizzing-Rule-Book/graph/badge.svg)](https://codecov.io/gh/gryphonshafer/Quizzing-Rule-Book)
 
 This project is the creation and rewriting of a Bible Quizzing rule book into a form that can be (and will be) consumed by software for a variety of purposes:
 
