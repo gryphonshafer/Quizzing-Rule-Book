@@ -14,11 +14,10 @@ jobs:
       - uses: perl-actions/install-with-cpanm@v1
         with:
           sudo: false
-      - run: cd tools
-      - run: cpanm --with-develop --with-all-features --installdeps . Devel::Cover::Report::Codecov
+      - run: cd tools; cpanm --with-develop --with-all-features --installdeps .
+      - run: cpanm Devel::Cover::Report::Codecov
         env:
           PERL_CPANM_OPT: --from https://cpan.metacpan.org/ --notest --force --skip-satisfied
-      - run: cd ..
       - run: HARNESS_PERL_SWITCHES=-MDevel::Cover prove --recurse --lib --failures --jobs 4 --timer tools/t
       - run: cover -test -report codecov
         if: ${{ matrix.perl-version >= 26 }}
