@@ -14,8 +14,7 @@ jobs:
       - uses: perl-actions/install-with-cpanm@v1
         with:
           sudo: false
-      - run: cd tools
-      - run: cpanm --with-develop --with-all-features --installdeps .
+      - run: cd tools; cpanm --with-develop --with-all-features --installdeps .
         env:
           PERL_CPANM_OPT: --from https://cpan.metacpan.org/ --notest --force --skip-satisfied
       - run: cd ..
