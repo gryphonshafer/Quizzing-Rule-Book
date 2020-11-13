@@ -4,13 +4,13 @@
 
 ## Rulings
 
-### Context
+Context
 : Limited to five verses before or after the verse. On all question types, a quizzer cannot automatically be ruled out of context by a single word, even if it is a unique word.  Rather, the quizzer must say a complete thought or phrase that conclusively puts them out of context.
 
-### Interchangeable
+Interchangeable
 : Means not only not incorrect; means either are acceptable as correct.
 
-### Special Name
+Special Name
 : A name which imparts specific character qualities or attributes to that person of the deity.
 
 ### Deity Rule
