@@ -5,7 +5,7 @@
 ## Rulings
 
 ### Context
-: Shall be limited to five verses before or after the verse. On all question types, a quizzer cannot automatically be ruled out of context by a single word, even if it is a unique word.  Rather, the quizzer must say a complete thought or phrase that conclusively puts them out of context.
+: Limited to five verses before or after the verse. On all question types, a quizzer cannot automatically be ruled out of context by a single word, even if it is a unique word.  Rather, the quizzer must say a complete thought or phrase that conclusively puts them out of context.
 
 ### Interchangeable
 : Means not only not incorrect; means either are acceptable as correct.
@@ -79,9 +79,9 @@ If the challenge is accepted:
 When a challenge is made, the quizmaster must give each team’s captain or co-captain an opportunity to speak to the challenge before making a ruling on the challenge.  Whichever team is being challenged against will have the right to speak last.
 
 ### Protests
-Coaches, inclding assistant coaches, of the teams participating in a quiz may place the quiz under protest under the following conditions:
+Coaches, including assistant coaches, of the teams participating in a quiz may place the quiz under protest under the following conditions:
 - When the coach feels a logistical rule has been broken by the quiz officials. 
-    - Any rules regarding judgment calls on questions must be challenged by a captain/co- captain before they may be protested. 
+    - Any rules regarding judgment calls on questions must be challenged by a captain/co-captain before they may be protested. 
     - An example of a logistical rule being broken is when the quizmaster did not allow the full 30 seconds for the quizzer to answer when the quizzer was in context and had not given any wrong information.
 - The protest must be placed before the next question is called.
     - This means the protest must apply to the question and ruling that just happened.
@@ -92,8 +92,9 @@ Coaches, inclding assistant coaches, of the teams participating in a quiz may pl
 ## Fouls
 - Fouls may be called by any quiz official:  the quizmaster, answer judge, or scorekeeper.
 - A foul must be called before the quizmaster calls for the next question.
-- If the officials fail to call a foul, a coach or team captain may call it to the attention of the quizmaster.  If in the quizmaster's (and/or the judge's) opinion a foul might have been committed, the quizmaster will give due warning to the violating team.  A foul may not be charged, and points deducted when the quizmaster receives such help from a coach or captain.
-- The quizzer upon whom a foul is called becomes ineligible to answer that numbered question, including the A and B questions.
+- If the officials fail to call a foul, a coach or captain may call it to the attention of the quizmaster.  If in the quizmaster's (and/or the other officials') opinion a foul might have been committed, the quizmaster will give due warning to the violating team.  A foul cannot be charged, and points cannot be deducted when the quizmaster receives such help from a coach or captain.
+- The quizzer upon whom a foul is called becomes ineligible to jump on that numbered question, including any A and B questions.
+    - The chair remains ineligible to jump on that numbered question, including any A and B questions, even if the quizzer who committed the foul is substituted for. 
 - Three fouls by a quizzer eliminate that quizzer from the quiz.  The quizzer must leave the platform immediately.  His/her seat will continue to be ineligible to jump for the entire numbered question including A and B.
 
 The following are fouls:
@@ -113,19 +114,20 @@ Individual Fouls
 : A foul awarded to one or more individual quizzers.
 
 Team Fouls
-: The sum of individual fouls.
+: The sum of individual fouls by members of the same team.
 
 ## Time-Outs
 
     Set the timeout duration to 60.
 
-- Each team is allowed two, one-minute time-outs.  Only one of those time-outs may be taken during questions 18-20. 
+- Each team is allowed two, one-minute time-outs.  Only one of those time-outs may be taken after the numbered question 17 (including any 17A or 17B).
 - Captains, co-captains or coaches may call for a time-out. 
 - Only the coach, assistant coach, and substitute may converse with the team during a time-out.
 - Time-outs may be called prior to bonus questions. 
 
 ## Substitutions
 - Substitutions may be made only during the time-outs.
+- A team can only make one substitution per time-out.
 - A quizzer being removed from a quiz must stay out for at least three numbered questions including A and B before re-entering the quiz.
 - Quizzers can be substituted for any chair.
 - Quizzed-Out Quizzers:

@@ -11,7 +11,7 @@ There will be no duplicate questions in a single quiz.
 
 ### 3-Team Quiz
 - There will be 20 numbered questions in a quiz.
-- In the event the quiz ends in a tie, additional units of three overtime questions each will be used until the tie is broken.  Two-team rules will apply in overtime if only two teams are involved.  During overtime, all the numbered questions will be of a different question type.
+- In the event the quiz ends in a tie, overtime will ensue.
 - A toss-up question is the result of an error by one team.  The two remaining teams will have the opportunity to jump, but the team making the error is ineligible for that question.
     - If question 1 to 15 is erred, the next numbered question will be a toss-up question. 
     - If question 16 is erred, the toss-up question will be question 16A.  If 16A is erred, then 16B is awarded as a 20-point assigned bonus question to the team who has not erred.  This bonus question goes to the corresponding chair of the team that has not erred. 
@@ -38,6 +38,11 @@ There will be no duplicate questions in a single quiz.
 - The bonus question will be the next numbered question, except for questions 16 and following.
 - All bonus questions throughout the whole quiz are 10 points. 
 - Both teams must be eligible to jump on questions 17 to 20.
+
+### Overtime
+- Additional units of three overtime questions each will be used until the tie is broken.  
+- Two-team rules will apply in overtime if only two teams are involved.
+- All the numbered questions will be of a different question type.
 
 ## Platform Protocol
 
