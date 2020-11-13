@@ -4,6 +4,34 @@
 
 ## Rulings
 
+## "Question" De-Overloading
+
+The word "question" is significantly overloaded in the current rule book. We're going to try to de-overload it by splitting its usage among the following terms:
+
+**Question**
+: Everything (type, ref, question text, answer text, question number, etc.)
+
+**Answer**
+: Everything the quizzer says (answer, remaining question, ref, etc.)
+
+**Question Text**
+: The full question text of the question
+
+**Answer Text**
+: The full answer text of the question
+
+**Read Question**
+: Everything the QM says (excluding prompts and rulings)
+
+**Number**
+: The identification of which question we are on in a quiz. A question number may be numeric or alphanumeric.
+
+**Numeric**
+: A question number with only numbers.
+
+**Alphanumeric**
+: A question number with numbers and letters.
+
 ### Context
 : Limited to five verses before or after the verse. On all question types, a quizzer cannot automatically be ruled out of context by a single word, even if it is a unique word.  Rather, the quizzer must say a complete thought or phrase that conclusively puts them out of context.
 
@@ -93,9 +121,9 @@ Coaches, including assistant coaches, of the teams participating in a quiz may p
 - Fouls may be called by any quiz official:  the quizmaster, answer judge, or scorekeeper.
 - A foul must be called before the quizmaster calls for the next question.
 - If the officials fail to call a foul, a coach or captain may call it to the attention of the quizmaster.  If in the quizmaster's (and/or the other officials') opinion a foul might have been committed, the quizmaster will give due warning to the violating team.  A foul cannot be charged, and points cannot be deducted when the quizmaster receives such help from a coach or captain.
-- The quizzer upon whom a foul is called becomes ineligible to jump on that numbered question, including any A and B questions.
-    - The chair remains ineligible to jump on that numbered question, including any A and B questions, even if the quizzer who committed the foul is substituted for. 
-- Three fouls by a quizzer eliminate that quizzer from the quiz.  The quizzer must leave the platform immediately.  His/her seat will continue to be ineligible to jump for the entire numbered question including A and B.
+- The quizzer upon whom a foul is called becomes ineligible to jump on that question number, including any alphanumeric question numbers.
+    - The chair remains ineligible to jump on that question number, including any alphanumeric question numbers, even if the quizzer who committed the foul is substituted for. 
+- Three fouls by a quizzer eliminate that quizzer from the quiz.  The quizzer must leave the platform immediately.  His/her seat will continue to be ineligible to jump for the entire question number, including any alphanumeric question numbers.
 
 The following are fouls:
 - Team members (quizzers, coaches) communicating with each other, other teams, or with the audience between the time the question type is introduced, and points are awarded. 
@@ -120,7 +148,7 @@ Team Fouls
 
     Set the timeout duration to 60.
 
-- Each team is allowed two, one-minute time-outs.  Only one of those time-outs may be taken after the numbered question 17 (including any 17A or 17B).
+- Each team is allowed two, one-minute time-outs.  Only one of those time-outs may be taken after question number 17, including any alphanumeric question numbers.
 - Captains, co-captains or coaches may call for a time-out. 
 - Only the coach, assistant coach, and substitute may converse with the team during a time-out.
 - Time-outs may be called prior to bonus questions. 
@@ -128,7 +156,7 @@ Team Fouls
 ## Substitutions
 - Substitutions may be made only during the time-outs.
 - A team can only make one substitution per time-out.
-- A quizzer being removed from a quiz must stay out for at least three numbered questions including A and B before re-entering the quiz.
+- A quizzer being removed from a quiz must stay out for a minimum of three question numbers, including alphanumeric question numbers, before re-entering the quiz.
 - Quizzers can be substituted for any chair.
 - Quizzed-Out Quizzers:
     - May remain in the quiz to answer bonus questions.

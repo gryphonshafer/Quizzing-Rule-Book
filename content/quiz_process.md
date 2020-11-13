@@ -29,10 +29,10 @@ If chair #2 erred on the toss-up, chair #2 of the team that did not err on the t
 - There will be 20 numbered questions in a quiz.
 - In the event the quiz ends in a tie, overtime will ensue.
 - A toss-up question is the result of an error by one team.  The two remaining teams will have the opportunity to jump, but the team making the error is ineligible for that question.
-    - If question 1 to 15 is erred, the next numbered question will be a toss-up question. 
+    - If question 1 to 15 is erred, the next question number will be a toss-up question. 
     - If question 16-20 is erred, and if three teams were participating on 16, the toss-up question will be question 16A.  
 - Bonus Questions
-    - If toss-up question 2 to 15 is erred, then the next numbered question is a bonus question.
+    - If toss-up question 2 to 15 is erred, then the next question number is a bonus question.
     - If question 16 is a toss-up question and is erred, 16A is a bonus question.
     - If 16A-20A is a toss-up and is erred, then 16B-20B is a bonus question.
 - Error points begin at question 17.
@@ -41,7 +41,7 @@ If chair #2 erred on the toss-up, chair #2 of the team that did not err on the t
 - In the event three teams are involved, a 20-question tie-breaker quiz will be used.
     - The above rules for a three-team, 20-question quiz applies.
 - In the event two teams are involved, a 15-question tie-breaker quiz will be used with the following guidelines:
-    - If an error occurs on questions 1 through 11, the next numbered question is a 20-point bonus question.
+    - If an error occurs on questions 1 through 11, the next question number is a 20-point bonus question.
     - If questions 12, 13, 14, or 15 are erred, the bonus question will remain on the same question number and will not be counted in the basic 15 questions. Both teams must jump on questions 13, 14, and 15.
     - All bonus questions up to and including 12B are worth 20 points.
     - All bonus questions from 13 to the end of the quiz are worth 10 points.
@@ -58,7 +58,7 @@ If chair #2 erred on the toss-up, chair #2 of the team that did not err on the t
 ### Overtime
 - Additional units of three overtime questions each will be used until the tie is broken.  
 - Two-team rules will apply in overtime if only two teams are involved.
-- All the numbered questions will be of a different question type.
+- All the question numbers will be of a different question type.
 
 ## Platform Protocol
 
@@ -77,7 +77,7 @@ If chair #2 erred on the toss-up, chair #2 of the team that did not err on the t
 - If a quizzer's light comes on after a question has been called and before the question has discernibly begun, a foul will be called.
 - If a quizzer's light comes on after the quizmaster has discernibly begun reading the question, this will be considered a valid jump, and the quizzer will be given an opportunity to answer.
 - The first quizzer to rise and trigger his/her light, provided there has been no foul, will be recognized.
-- If, in the judgment of the officials, a deliberate attempt is made to forfeit a question, an error will be charged, and 10 points deducted from the team score.  The next question will be numbered the same.
+- If, in the judgment of the officials, a deliberate attempt is made to forfeit a question, an error will be charged, and 10 points deducted from the team score.  The next question will be the same question number.
 
 ### Tie Jumping
 - When members of the same team tie, the captain will select one quizzer to answer without any type of verbal or non-verbal communication.
