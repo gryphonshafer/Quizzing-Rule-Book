@@ -92,7 +92,7 @@ Coaches, including assistant coaches, of the teams participating in a quiz may p
 ## Fouls
 - Fouls may be called by any quiz official:  the quizmaster, answer judge, or scorekeeper.
 - A foul must be called before the quizmaster calls for the next question.
-- If the officials fail to call a foul, a coach or captain may call it to the attention of the quizmaster.  If in the quizmaster's (and/or the other officials') opinion a foul might have been committed, the quizmaster will give due warning to the violating team.  A foul may not be charged, and points deducted when the quizmaster receives such help from a coach or captain.
+- If the officials fail to call a foul, a coach or captain may call it to the attention of the quizmaster.  If in the quizmaster's (and/or the other officials') opinion a foul might have been committed, the quizmaster will give due warning to the violating team.  A foul cannot be charged, and points cannot be deducted when the quizmaster receives such help from a coach or captain.
 - The quizzer upon whom a foul is called becomes ineligible to jump on that numbered question, including any A and B questions.
     - The chair remains ineligible to jump on that numbered question, including any A and B questions, even if the quizzer who committed the foul is substituted for. 
 - Three fouls by a quizzer eliminate that quizzer from the quiz.  The quizzer must leave the platform immediately.  His/her seat will continue to be ineligible to jump for the entire numbered question including A and B.
