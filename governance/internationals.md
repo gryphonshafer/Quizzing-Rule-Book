@@ -2,7 +2,8 @@
 These rules apply to the Internationals quiz meet conducted once yearly, administered under the oversight of the CQLT.
 
 ## Eligibility Requirements
-- All quizzers for International competition must be 12 to 18 years of age by the meet registration date or have been enrolled as a full-time high school student during the current quiz year.
+- All quizzers for International competition must be 12 to 18 years of age at any point during the quiz year. 
+- The quiz year begins on August 1 and ends on July 31.
 - In order to quiz at Internationals for a specific district, the quizzer must reside in that district or in a bordering community.  Their home church must be from the district in which they quiz.  Any exceptions to this must be brought to the C&MA Quizzing Leadership Team (CQLT).
 
 ## Team Structure
