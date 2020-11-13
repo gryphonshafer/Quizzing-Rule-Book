@@ -12,6 +12,8 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - uses: perl-actions/install-with-cpanm@v1
+        with:
+          sudo: false
       - run: cd tools
       - run: cpanm --with-develop --with-all-features --installdeps . Devel::Cover::Report::Codecov
         env:
