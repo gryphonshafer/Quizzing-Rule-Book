@@ -10,9 +10,9 @@ These rules apply to the Internationals quiz meet conducted once yearly, adminis
 - Each team must have a coach and may also have an assistant coach. 
 
 ## Event Registration
-- All arrangements, promotion, and administration will be by the Life Impact Office.
-- Notification by each district of its intention to enter a team must be received by the Life Impact Office, on a form supplied by that office, no later than the date posted on the C&MA Quizzing website.
-- The names of the International Team, coaching staff, and all registration fees must be sent, when specified, to the Life Impact Office for that quiz year.
+- All arrangements, promotion, and administration will be by the LIFE Office.
+- Notification by each district of its intention to enter a team must be received by the CQLT, on a form supplied by the CQLT, no later than the date posted on the C&MA Quizzing website.
+- The names of the International Team, coaching staff, and all registration fees must be sent, when specified, to the LIFE Office for that quiz year.
 
 ## Selection of Officials
 - Officials for a sanctioned quiz may include a quizmaster, answer judge(s), and a scorekeeper(s).
@@ -24,7 +24,6 @@ These rules apply to the Internationals quiz meet conducted once yearly, adminis
 - Team coaches whose teams are not involved in the quiz shall serve as answer judges and scorekeepers if needed.
 
 ### Answer Judge
-- The head answer judge is responsible for the correctness of questions.
 
 ### Scorekeeper
 - At least one scorekeeper will tabulate the results of each question on official score sheets in every International Final. They shall keep a running score of each quiz.  
