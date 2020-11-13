@@ -11,15 +11,11 @@ jobs:
       image: perldocker/perl-tester:5.${{ matrix.perl-version }}
     steps:
       - uses: actions/checkout@v2
-      - run: cd tools
       - uses: perl-actions/install-with-cpanm@v1
+      - run: cd tools
+      - run: cpanm --with-develop --with-all-features --installdeps . Devel::Cover::Report::Codecov
         env:
           PERL_CPANM_OPT: --from https://cpan.metacpan.org/ --notest --force --skip-satisfied
-        with:
-          sudo: false
-          args: --with-develop --with-all-features --installdeps .
-          install: |
-            Devel::Cover::Report::Codecov
       - run: cd ..
       - run: HARNESS_PERL_SWITCHES=-MDevel::Cover prove --recurse --lib --failures --jobs 4 --timer tools/t
       - run: cover -test -report codecov
