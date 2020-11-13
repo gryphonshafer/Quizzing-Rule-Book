@@ -116,6 +116,23 @@ Individual Fouls
 Team Fouls
 : The sum of individual fouls by members of the same team.
 
+Err Out
+: Three errors by the same quizzer in the same quiz.
+
+Quiz Out
+: Four correct questions by the same quizzer in the same quiz.
+
+Foul Out
+: Three fouls by the same quizzer in the same quiz.
+
+## Quizzer Jumping Eligibility
+- The team must be eligible to jump.
+- The quizzer must not have Quizzed Out.
+    - A Quizzed Out quizzer is eligible for Bonus Questions.
+- The quizzer must not have Erred Out.
+- The quizzer must not have Fouled Out.
+- The quizzer must not have committed a foul on this numerical question.
+
 ## Time-Outs
 
     Set the timeout duration to 60.
