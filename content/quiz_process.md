@@ -67,16 +67,16 @@ If chair #2 erred on the toss-up, chair #2 of the team that did not err on the t
 - Quizzers will be seated facing the audience and quizmaster.
 - Feet of the quizzers are to be on the floor while jumping. 
 - A line-up card showing the seating order of each quizzer should be given to the quizmaster or scorekeeper before the start of each quiz.
-- No verbal or non-verbal communication is permitted between quizzers, coaches, or the audience from the time the quizmaster calls introduces the question type until points have been awarded.
-- Only a coach from a team presently seated on the platform, or the meet director may confer with the officials.
+- No verbal or non-verbal communication is permitted between quizzers, coaches, or the audience from the time the quizmaster introduces the question type until points have been awarded.
+- Only a coach from a team presently participating in the quiz, or the meet director may confer with the officials.
 - Coaches may have quiz material(s) on the platform during a time-out or prior to a quiz.
 - Quizzers will not touch the officials table.
-- Push-button quizzing can be provided by a district, if needed by physically disabled quizzers.
+- Push-button quizzing can be provided, if needed by physically disabled quizzers.
 
 ## Jumping
 - If a quizzer's light comes on after a question has been called and before the question has discernibly begun, a foul will be called.
 - If a quizzer's light comes on after the quizmaster has discernibly begun reading the question, this will be considered a valid jump, and the quizzer will be given an opportunity to answer.
-- The first quizzer to rise and trigger his/her light, provided there has been no foul, will be recognized.
+- The first quizzer to rise and trigger their light, provided there has been no foul, will be awarded the jump.
 - If, in the judgment of the officials, a deliberate attempt is made to forfeit a question, an error will be charged, and 10 points deducted from the team score.  The next question will be the same question number.
 
 ### Tie Jumping

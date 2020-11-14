@@ -36,6 +36,9 @@ FTV questions should not start out with an insignificant introduction such as â€
 ## Situation
 Situation Quotations must be reasonable in length.
 
+## Overtime
+If the score in overtime is such that the final placements are decided, the current set of three overtime questions does not have to be completed.
+
 ## Districts
 - Each district retains the right to set and enforce their own rules
     - Eligibility requirements for their district

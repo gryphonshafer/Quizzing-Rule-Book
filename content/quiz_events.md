@@ -83,7 +83,7 @@ The quizzer's response is incorrect when:
 Incorrect Information, e.g If the wrong person (i.e. Father, Son, Holy Spirit) in the deity (God) is given.
 All requirements not fulfilled, Any word is omitted or added in a Finish-The-Verse, Finish-This, or Quote Question or the wrong verse is begun.
 
-### Challenges
+## Challenges
 Challenges exist so quizzers can contest rulings made by quiz officials.
 
 The team captain or co-captain may challenge if:
@@ -107,16 +107,18 @@ If the challenge is accepted:
 
 When a challenge is made, the quizmaster must give each team’s captain or co-captain an opportunity to speak to the challenge before making a ruling on the challenge.  Whichever team is being challenged against will have the right to speak last.
 
-### Protests
+## Protests
 Coaches, including assistant coaches, of the teams participating in a quiz may place the quiz under protest under the following conditions:
 - When the coach feels a logistical rule has been broken by the quiz officials. 
     - Any rules regarding judgment calls on questions must be challenged by a captain/co-captain before they may be protested. 
-    - An example of a logistical rule being broken is when the quizmaster did not allow the full 30 seconds for the quizzer to answer when the quizzer was in context and had not given any wrong information.
 - The protest must be placed before the next question is called.
     - This means the protest must apply to the question and ruling that just happened.
 - The coach may only confer with their assistant coach and substitute quizzer, before protesting.
 - The quiz officials and coaches will meet privately and attempt to come to an agreement.  If no agreement is reached within 10 minutes, the meet director will arbitrate and determine the just solution.
 - If a protest is launched after question number 20 is completed it must be done immediately after the ruling is announced.
+
+### Example
+Logistical Rule: when the quizmaster did not allow the full 30 seconds for the quizzer to answer when the quizzer was in context and had not given any wrong information.
 
 ## Fouls
 - Fouls may be called by any quiz official:  the quizmaster, answer judge, or scorekeeper.
