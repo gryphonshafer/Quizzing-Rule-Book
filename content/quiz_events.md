@@ -33,12 +33,13 @@ The word "question" is significantly overloaded in the current rule book. We're 
 : A question number with numbers and letters.
 
 ### Context
-: Limited to five verses before or after the verse. On all question types, a quizzer cannot automatically be ruled out of context by a single word, even if it is a unique word.  Rather, the quizzer must say a complete thought or phrase that conclusively puts them out of context.
 
-### Interchangeable
+Limited to five verses before or after the verse. On all question types, a quizzer cannot automatically be ruled out of context by a single word, even if it is a unique word.  Rather, the quizzer must say a complete thought or phrase that conclusively puts them out of context.
+
+Interchangeable
 : Means not only not incorrect; means either are acceptable as correct.
 
-### Special Name
+Special Name
 : A name which imparts specific character qualities or attributes to that person of the deity.
 
 ### Deity Rule
@@ -143,6 +144,23 @@ Individual Fouls
 
 Team Fouls
 : The sum of individual fouls by members of the same team.
+
+Err Out
+: Three errors by the same quizzer in the same quiz.
+
+Quiz Out
+: Four correct questions by the same quizzer in the same quiz.
+
+Foul Out
+: Three fouls by the same quizzer in the same quiz.
+
+## Quizzer Jumping Eligibility
+- The team must be eligible to jump.
+- The quizzer must not have Quizzed Out.
+    - A Quizzed Out quizzer is eligible for Bonus Questions.
+- The quizzer must not have Erred Out.
+- The quizzer must not have Fouled Out.
+- The quizzer must not have committed a foul on this numerical question.
 
 ## Time-Outs
 
