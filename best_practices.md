@@ -28,3 +28,6 @@ FTV questions should not start out with an insignificant introduction such as â€
 
 ### Situation
 Situation Quotations must be reasonable in length.
+
+## Tie-Jumps
+When a quizzer errs on the tie-jump question, it will be treated as a regular question and the quiz will continue as normal.
