@@ -26,7 +26,6 @@ is_deeply( $a, [ qw(
     quiz_events.md
     quiz_meets.md
     district_seasons.md
-    international_bible_quizzing.md
 )], 'links are correct' );
 
 lives_ok(
