@@ -53,22 +53,3 @@ Here's an example use-case:
         situation is true, then add 10 to team score.
 
 It's unlikely that all reserved header names will apply.
-
-## "Question" De-Overloading
-
-The word "question" is significantly overloaded in the current rule book. We're going to try to de-overload it by splitting its usage among the following terms (which should be defined somewhere appropriate in the rule book):
-
-**Question**
-: Everything (type, ref, question text, answer text, etc.)
-
-**Answer**
-: Everything the quizzer says (answer, remaining question, ref, etc.)
-
-**Question Text**
-: The full question text of the question
-
-**Answer Text**
-: The full answer text of the question
-
-**Read Question**
-: Everything the QM says (excluding prompts and rulings)
