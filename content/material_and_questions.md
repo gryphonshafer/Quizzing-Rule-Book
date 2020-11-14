@@ -54,10 +54,10 @@ In the below table, any minimum or maximum variation between material years are 
 | Situation       |     2/0 |     4/0 | SIT                  |
 
 Question Type Minimums
-: For a given Question Type, the minimum number of questions must be asked in Questions Numbered 1-20. This excludes any questions appended with "A" or "B."
+: For a given Question Type, the minimum number of questions must be asked in Question Numbers 1-20. This excludes any alphanumeric question numbers.
 
 Question Type Maximums
-: For a given Question Type, the maximum number of questions must not be exceeded in all "non-Overtime" questions. This includes any questions appended with "A" or "B."
+: For a given Question Type, the maximum number of questions must not be exceeded in all "non-Overtime" questions. This includes any alphanumeric question numbers.
 
 Overtime Specifics
 Question Type maximums can be exceeded in Overtime.
@@ -66,25 +66,23 @@ Question Type maximums can be exceeded in Overtime.
 
 ### Preparation of Questions
 - All questions must contain verbatim material. 
-    - The only exception to this is Situation question Quotations, which could potentially involve a single Quotation, broken up by non-quotation words. 
+    - The only exception to this is Situation question Quotations, which could potentially involve a single Quotation, broken up by non-quotation words. This would result in the Situation Quotation being written without the non-quotation words in the middle of the two quotations.
 - On some types, the addition of a single, approved, interrogative word at the very beginning or very end is required.
 
 ### Question Types
 
-#### Interrogative
+#### Interrogative (INT)
 Must have exactly one inserted interrogative word at the very beginning of the question or at the very end of the question.
 Must have a single answer.
 Must include a unique word, or 2-3 word unique phrase within the first 5 words of the question. 
-The Question Type abbreviation is "INT"
 
-#### Multiple Answer
+#### Multiple Answer (MA)
 Must meet all the requirements of an INT, except the single answer requirement.
 Must have more than one answer.
 - The clarification of a single answer does not meet the above requirement.
 - The identification of a singular pronoun does not meet the above requirement.
 - The identification of a plural pronoun does meet the above requirement.
 If one of the listed answers to a the multiple answers questions is a "negative" answer, this is deemed invalid as a Multiple Answer question.
-The Question Type abbreviation is "MA"
 
 #### Reference
 Used to distinguish exact same words or phrases from the material.
@@ -102,40 +100,34 @@ If a quizzer needs to provide the reference question, the provided reference que
     - If two identical phrases exist in the same chapter, but one occurrence grammatically calls for use of the "who" inserted interrogative word, and the other occurrence grammatically calls for the use of the "what" inserted interrogative word, that difference in grammatically dictated interrogative word does not change the fact that phrase from the material (that excludes the inserted interrogative word) occurs more than twice in the same chapter, necessitating a CVR question.
     - The above example does not mean that if the quizzer needs to provide a reference question that is a CVR, and their choice of interrogative word changes the question type to MACVR, that the quizzer has given a valid CVR. In this case, the validity changes based on the interrogative word, because of how the required answer changes.
 
-##### Chapter-Verse
+##### Chapter-Verse (CVR)
 Must have a single answer.
 The question must contain a word or phrase that exists in more than one verse in the same chapter.
 Context is the single verse.
-The Question Type abbreviation is "CVR"
 
-##### Multiple-Answer, Chapter-Verse
+##### Multiple-Answer, Chapter-Verse (MACVR)
 Must meet all the requirements of a CVR except the single answer requirement.
 Must also meet all the requirements of a MA except the unique word/phrase requirement.
-The Question Type abbreviation is "MACVR"
 
-##### Chapter (only)
+##### Chapter (only) (CR)
 The question must contain a word or phrase that exists more than once in the material and only once in the chapter.
-The Question Type abbreviation is "CR"
 
-##### Multiple-Answer, Chapter (only)
+##### Multiple-Answer, Chapter (only) (MACR)
 Must meet all the requirements of a CR except the single answer requirement.
 Must also meet all the requirements of a MA except the unique word/phrase requirement.
-The Question Type abbreviation is "MACR"
 
 #### Quote/Finish
 Must be quoted word-perfect.
 
-##### Quote
+##### Quote (QT)
 A single verse
 The entire reference is part of the required question + answer.
 Quizzers may go back and correct their answers if done in the 30-second time limit.  The quizzer will be required to make one full correct rotation. However, the quizzer can be called correct if they have made a mistake only in one area of the verse AND correct the mistake making it abundantly clear to the quiz master and answer judge that they know where their mistake was, and what the corrected words are.
 Context is defined as the verse or verses that are required.
 The quizzer may not continue any non-required verse or verses.
-The Question Type abbreviation is "QT"
 
-##### Quote-these-Two-Verses
+##### Quote-these-Two-Verses (Q2V)
 Two consecutive verses
-The Question Type abbreviation is "Q2V"
 
 ##### Finish
 The first five words must be unique to all Finish questions of the exact same type (e.g. FTV compared to all FTVs, FT to all FTs, F2V to all F2Vs, FTN to all FTNs).
@@ -144,23 +136,19 @@ Quizzers may go back and correct their answers if done in the 30-second time lim
 Context is defined as the verse or verses that are required.
 The quizzer may not continue any non-required verse or verses.
 
-##### Finish-the-Verse
+##### Finish-the-Verse (FTV)
 Begins at the beginning of a single verse and finishes at the end of that verse.
-The Question Type abbreviation is "FTV"
 
-##### Finish-This
+##### Finish-This (FT)
 Begins in the middle of a verse and finishes at the end of the verse.  A FT must start at the beginning of a sentence or the beginning of a quotation.
-The Question Type abbreviation is "FT"
 
-##### Finish-these-Two-Verses
+##### Finish-these-Two-Verses (F2V)
 Begins at the beginning of a verse and continues to the end of the next verse. Used when a verse is not strong enough on its own and needs another verse to explain it or can be used when two verses combined form an even stronger thought. 
-The Question Type abbreviation is "F2V"
 
-##### Finish-This-and-the-Next
+##### Finish-This-and-the-Next (FTN)
 Begins in the middle of a verse and finishes at the end of the next verse.  A FTN must start at the beginning of a sentence or the beginning of a quotation. Used when part of a verse is not strong enough on its own and needs another verse (or part of a verse) to explain it or can be used when two verses combined form an even stronger thought.
-The Question Type abbreviation is "FTN"
 
-#### Situation
+#### Situation (SIT)
 Used only in the year where the Material Type is Narrative
 Contains two parts to the question:
 - Quotation
