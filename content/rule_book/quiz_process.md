@@ -28,7 +28,7 @@ If chair #2 erred on the toss-up, chair #2 of the team that did not err on the t
 ### 3-Team Quiz
 - There will be 20 numbered questions in a quiz.
 - In the event the quiz ends in a tie, overtime will ensue.
-- A toss-up question is the result of an error by one team.  The two remaining teams will have the opportunity to jump, but the team making the error is ineligible for that question.
+- A toss-up question is the result of an error by one team. The two remaining teams will have the opportunity to jump, but the team making the error is ineligible for that question.
     - If question 1 to 15 is erred, the next question number will be a toss-up question.
     - If question 16-20 is erred, and if three teams were participating on 16, the toss-up question will be question 16A.
 - Bonus Questions
@@ -77,17 +77,17 @@ If chair #2 erred on the toss-up, chair #2 of the team that did not err on the t
 - If a quizzer's light comes on after a question has been called and before the question has discernibly begun, a foul will be called.
 - If a quizzer's light comes on after the quizmaster has discernibly begun reading the question, this will be considered a valid jump, and the quizzer will be given an opportunity to answer.
 - The first quizzer to rise and trigger their light, provided there has been no foul, will be awarded the jump.
-- If, in the judgment of the officials, a deliberate attempt is made to forfeit a question, an error will be charged, and 10 points deducted from the team score.  The next question will be the same question number.
+- If, in the judgment of the officials, a deliberate attempt is made to forfeit a question, an error will be charged, and 10 points deducted from the team score. The next question will be the same question number.
 
 ### Tie Jumping
 - When members of the same team tie, the captain will select one quizzer to answer without any type of verbal or non-verbal communication.
-- When quizzers of two or three teams tie, the question will be replaced with a question of the same type on which all eligible members of the tied teams may jump.  The question number remains the same.
+- When quizzers of two or three teams tie, the question will be replaced with a question of the same type on which all eligible members of the tied teams may jump. The question number remains the same.
 - When a quizzer errs on the tie-jump question, it will be treated as a regular question and the quiz will continue as normal.
 
 ## Time Limits
-- Quizzes will start at the scheduled or announced time.  Any team that is late does not receive the starting 20 points awarded for being on time.
+- Quizzes will start at the scheduled or announced time. Any team that is late does not receive the starting 20 points awarded for being on time.
     - If the late team is currently quizzing in another location which is running over the time limit, they are not required to forfeit the quiz, or lose 20 points.
     - Any team more than 10 minutes late (after the scheduled or announced time for the quiz) forfeits the quiz.
-- If an individual quizzer is late, the quiz will start on time.  The coach has the option to put the late quizzer in during a time-out, but the team will forfeit the 20 points the team starts with. The coach also has the option to keep the quizzer out of the quiz and keep the 20 points but must notify the quizmaster at the beginning of the quiz, of their decision.
+- If an individual quizzer is late, the quiz will start on time. The coach has the option to put the late quizzer in during a time-out, but the team will forfeit the 20 points the team starts with. The coach also has the option to keep the quizzer out of the quiz and keep the 20 points but must notify the quizmaster at the beginning of the quiz, of their decision.
 - Quizzers have five seconds in which to jump after the question is completed.
 A quizzer has 30 seconds to complete their answer after being recognized.

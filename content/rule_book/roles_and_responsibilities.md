@@ -8,7 +8,7 @@ Teams can have up to 5 quizzers on it. Teams can have up to 4 quizzers in the qu
 ### Captains
 - Scorekeepers must be notified which quizzer is captain and which is co-captain before the quizzers take their seats to begin the quiz.
 - The captain and co-captain may change during a given competition but not during a quiz.
-- Only the captain or co-captain may challenge a decision or respond to a challenge.  If both the captain and co-captain have erred out, another quizzer can be designated by the coach to respond to or initiate challenges.
+- Only the captain or co-captain may challenge a decision or respond to a challenge. If both the captain and co-captain have erred out, another quizzer can be designated by the coach to respond to or initiate challenges.
 
 ### Coaches
 
@@ -24,10 +24,10 @@ The Quizmaster must:
 - Rule immediately upon an obviously correct or incorrect answer if there is no indication from the answer judge to the contrary.
     - When an answer is in question (different than what is on the card), the quizmaster will discuss with the answer judge.
 - During the 30-second answering period use the following prompts:
-    - If a quizzer has provided all the information in the answer, except the identification of a pronoun present which is part of the answer text, the quizmaster will ask the quizzer to identify the specific pronoun, (example: "Can you identify 'He'?" or "Can you identify 'They'?") The quizmaster is not allowed to say anything other than what the quizzer has already said when asking for the identification.   A pronoun may need to be identified only if the identification (antecedent) is in context.
+    - If a quizzer has provided all the information in the answer, except the identification of a pronoun present which is part of the answer text, the quizmaster will ask the quizzer to identify the specific pronoun, (example: "Can you identify 'He'?" or "Can you identify 'They'?") The quizmaster is not allowed to say anything other than what the quizzer has already said when asking for the identification. A pronoun may need to be identified only if the identification (antecedent) is in context.
         - Once the quizzer has completed all information in the answer, the QM will prompt for the quizzer to identify the specific pronoun, even if the quizzer has not yet completed all information in the question.
     - On a Chapter-Verse Reference Question or Chapter-Only Reference Question, if the quizzer has given all the information in both the question and the answer and the complete question was not read, the quizmaster will ask, "What is your question?"
-    - On a Quote/Finish type question, once the quizzer has quoted to the end of the required verse or verses, if the quote is not yet word-perfect, the quizmaster will say, "Again."  This will occur as often as needed until the quizzer quotes the verse perfectly or the 30-second time limit expires.
+    - On a Quote/Finish type question, once the quizzer has quoted to the end of the required verse or verses, if the quote is not yet word-perfect, the quizmaster will say, "Again." This will occur as often as needed until the quizzer quotes the verse perfectly or the 30-second time limit expires.
         - The quizmaster is not allowed to say "again" until the quizzer has come to the end of the verse, each time through, as this would give the quizzer information about where their mistake was made.
     - Once all of the information in both the question and answer have been given, but something needs to be fixed, the quizmaster will say "Again".
     - On a Situation type question, when the quizzer has completed the Quotation the quizmaster will say, "Quote is complete."

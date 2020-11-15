@@ -4,10 +4,10 @@ These rules apply to the Internationals quiz meet conducted once yearly, adminis
 ## Eligibility Requirements
 - All quizzers for International competition must be 12 to 18 years of age at any point during the quiz year.
 - The quiz year begins on August 1 and ends on July 31.
-- In order to quiz at Internationals for a specific district, the quizzer must reside in that district or in a bordering community.  Their home church must be from the district in which they quiz.  Any exceptions to this must be brought to the C&MA Quizzing Leadership Team (CQLT).
+- In order to quiz at Internationals for a specific district, the quizzer must reside in that district or in a bordering community. Their home church must be from the district in which they quiz. Any exceptions to this must be brought to the C&MA Quizzing Leadership Team (CQLT).
 
 ## Team Structure
-- Each district will be allowed to send as many teams as the district feels will be competitive and that they are financially able to send.  These will be the district International Teams.
+- Each district will be allowed to send as many teams as the district feels will be competitive and that they are financially able to send. These will be the district International Teams.
 - Each team must have a coach and may also have an assistant coach.
 
 ## Event Registration
@@ -49,6 +49,6 @@ These rules apply to the Internationals quiz meet conducted once yearly, adminis
 - Elimination round bracket C will be used.
 
 ## Equipment
-- Electronic jump-seat equipment must be used for all competitions.  A back-up set must be on hand at all times.
+- Electronic jump-seat equipment must be used for all competitions. A back-up set must be on hand at all times.
 - An unofficial scoreboard must be maintained in full view of the audience at all times, or the score read at the beginning of each time out.
 - An audio recording system must be used in all rooms.

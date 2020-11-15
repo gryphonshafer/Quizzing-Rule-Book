@@ -88,13 +88,13 @@ If one of the listed answers to a the multiple answers questions is a "negative"
 Used to distinguish exact same words or phrases from the material.
 The entire reference question is part of the required question + answer.
 If a quizzer needs to provide the reference question, the provided reference question must:
-- Be of the exact same type as the one on the card (CR, CVR, MACR, MACVR).  The quizmaster and/or answer judge must check to confirm this.
+- Be of the exact same type as the one on the card (CR, CVR, MACR, MACVR). The quizmaster and/or answer judge must check to confirm this.
 - Have content AND wording is similar to the content and wording of the written question.
 - Have the determining word or phrase of the written question.
 - The interrogative word used is not a factor when deciding the valid type of a reference question.
 
 ##### Example
-- Similar content and wording: CVR According to Luke chapter 23: 37 King of what?  A. The Jews The quizzer can give the question "King of what?" or "King of whom?", as Jews could be referring to either nation (what) or people (whom).  In this case the quizzer could also give "King of the what?"
+- Similar content and wording: CVR According to Luke chapter 23: 37 King of what? A. The Jews The quizzer can give the question "King of what?" or "King of whom?", as Jews could be referring to either nation (what) or people (whom). In this case the quizzer could also give "King of the what?"
 - Referencing the determining word or phrase, in the 50/50 example, "What men?", and "Lawless what?, the questions are not similar.
 - Further explanation on the interrogative word used in a reference question.
     - If two identical phrases exist in the same chapter, but one occurrence grammatically calls for use of the "who" inserted interrogative word, and the other occurrence grammatically calls for the use of the "what" inserted interrogative word, that difference in grammatically dictated interrogative word does not change the fact that phrase from the material (that excludes the inserted interrogative word) occurs more than twice in the same chapter, necessitating a CVR question.
@@ -122,7 +122,7 @@ Must be quoted word-perfect.
 ##### Quote (QT)
 A single verse
 The entire reference is part of the required question + answer.
-Quizzers may go back and correct their answers if done in the 30-second time limit.  The quizzer will be required to make one full correct rotation. However, the quizzer can be called correct if they have made a mistake only in one area of the verse AND correct the mistake making it abundantly clear to the quiz master and answer judge that they know where their mistake was, and what the corrected words are.
+Quizzers may go back and correct their answers if done in the 30-second time limit. The quizzer will be required to make one full correct rotation. However, the quizzer can be called correct if they have made a mistake only in one area of the verse AND correct the mistake making it abundantly clear to the quiz master and answer judge that they know where their mistake was, and what the corrected words are.
 Context is defined as the verse or verses that are required.
 The quizzer may not continue any non-required verse or verses.
 
@@ -132,7 +132,7 @@ Two consecutive verses
 ##### Finish
 The first five words must be unique to all Finish questions of the exact same type (e.g. FTV compared to all FTVs, FT to all FTs, F2V to all F2Vs, FTN to all FTNs).
 The quizmaster will read the first five words of the question (less if a quizzer jumps)
-Quizzers may go back and correct their answers if done in the 30-second time limit.  The quizzer will be required to make one full correct rotation. However, the quizzer can be called correct if they have made a mistake only in one area of the verse AND correct the mistake making it abundantly clear to the quiz master and answer judge that they know where their mistake was, and what the corrected words are.
+Quizzers may go back and correct their answers if done in the 30-second time limit. The quizzer will be required to make one full correct rotation. However, the quizzer can be called correct if they have made a mistake only in one area of the verse AND correct the mistake making it abundantly clear to the quiz master and answer judge that they know where their mistake was, and what the corrected words are.
 Context is defined as the verse or verses that are required.
 The quizzer may not continue any non-required verse or verses.
 
@@ -140,13 +140,13 @@ The quizzer may not continue any non-required verse or verses.
 Begins at the beginning of a single verse and finishes at the end of that verse.
 
 ##### Finish-This (FT)
-Begins in the middle of a verse and finishes at the end of the verse.  A FT must start at the beginning of a sentence or the beginning of a quotation.
+Begins in the middle of a verse and finishes at the end of the verse. A FT must start at the beginning of a sentence or the beginning of a quotation.
 
 ##### Finish-these-Two-Verses (F2V)
 Begins at the beginning of a verse and continues to the end of the next verse. Used when a verse is not strong enough on its own and needs another verse to explain it or can be used when two verses combined form an even stronger thought.
 
 ##### Finish-This-and-the-Next (FTN)
-Begins in the middle of a verse and finishes at the end of the next verse.  A FTN must start at the beginning of a sentence or the beginning of a quotation. Used when part of a verse is not strong enough on its own and needs another verse (or part of a verse) to explain it or can be used when two verses combined form an even stronger thought.
+Begins in the middle of a verse and finishes at the end of the next verse. A FTN must start at the beginning of a sentence or the beginning of a quotation. Used when part of a verse is not strong enough on its own and needs another verse (or part of a verse) to explain it or can be used when two verses combined form an even stronger thought.
 
 #### Situation (SIT)
 Used only in the year where the Material Type is Narrative
@@ -156,7 +156,7 @@ Contains two parts to the question:
     - The quotation must not exceed two consecutive verses.
     - The first five words must be unique to all Quotations.
     - The quizzer is not required to repeat the quotation word-perfect but must be substantially close without leaving out key components of the quotation.
-    - Must start at the beginning of a quotation or the beginning of a sentence within the quotation.  When a Situation question comes from a quotation that runs for more than 2 verses, the beginning of the Situation question must start within the first 2 verses of the quotation.
+    - Must start at the beginning of a quotation or the beginning of a sentence within the quotation. When a Situation question comes from a quotation that runs for more than 2 verses, the beginning of the Situation question must start within the first 2 verses of the quotation.
     - If the Quotation is split-up by non-quotation words, the Quotation will be read without the non-quotation words.
         - A situation question can combine two separate quotations as long as no words are added and the two quotes flow easily from one to another. The quotation must be written excluding any non-quotation words in the middle of the quotations.
 - Questions regarding the Situation of the Quotation
@@ -165,7 +165,7 @@ Contains two parts to the question:
 The answer to the Situation Question must be in context.
 
 ##### Example
-Split quotation: For example, Matthew 4:19 says, "Come, follow me", Jesus said, "and I will send you out to fish for people."  This example could be written, Who said it?  "Come, follow me, and I will send you out to fish for people" Answer:  Jesus.
+Split quotation: For example, Matthew 4:19 says, "Come, follow me", Jesus said, "and I will send you out to fish for people." This example could be written, Who said it? "Come, follow me, and I will send you out to fish for people" Answer: Jesus.
 
 ### Question Structure
 This defines how a Quizmaster must introduce and read each question type.
@@ -190,7 +190,7 @@ Invalid Questions - Questions must be declared invalid by the quizmaster or answ
 - The question is multiple-choice.
 - If the question is not answered.
 
-When a question is deemed invalid and thrown out, it must be replaced with the exact same type of question.  (i.e. Interrogative replaced with Interrogative, MACVR replaced with MACVR, etc.)
+When a question is deemed invalid and thrown out, it must be replaced with the exact same type of question. (i.e. Interrogative replaced with Interrogative, MACVR replaced with MACVR, etc.)
 
 #### Example
 Regarding "if the question is not answered": If the question asks, "What is good" and the answer states what is not good, the question is not answered and is tricky or misleading.
