@@ -45,17 +45,17 @@ Special Name
 ### Deity Rule
 - The correct person of the deity must be given. 
 - The quizzer may not move between persons of the deity when answering. Giving the name of a deity that is not correct is considered giving incorrect information.
-- If a quizzer refers to any person of the deity as either “God” or “Lord”, these must be clarified by the quizzer within 30 seconds when the text requires a more specific answer. 
-- “Jesus” and “Christ” are Interchangeable (but refer to the person of the Son) and the quizzer will be called correct.
+- If a quizzer refers to any person of the deity as either "God" or "Lord", these must be clarified by the quizzer within 30 seconds when the text requires a more specific answer. 
+- "Jesus" and "Christ" are Interchangeable (but refer to the person of the Son) and the quizzer will be called correct.
 - If a pronoun is used in the text to name the deity, any of the names for that person of the deity within context may be considered an acceptable answer when clarifying.
     - If the pronoun naming the deity is identified by the quizzer using a name that correctly identifies the deity, but with an identification that is out of context, the quizzer will be considered to have not stayed in context.
-- When there is a Special Name of the deity given in the text, the Special Name must be given in the quizzer’s answer.
+- When there is a Special Name of the deity given in the text, the Special Name must be given in the quizzer's answer.
     - If the quizzer states any other Special Names which are not in context, the quizzer will be considered to have not stayed in context, even if they refer to the same person of the deity.
 - When a quizzer gives other names for the same person of the deity, used within context, these should be allowed to be clarified within 30 seconds when a more specific answer is needed.
 
 #### Example
-- Special Names of a deity, (i.e.  “The Lord God Almighty”, “The Bread of Life”, “Spirit of the Living God”.)
-- Special Names that aren't in context, Jesus refers to himself as “the bread of life” in John 6 and “the good shepherd” in John 10. 
+- Special Names of a deity, (i.e.  "The Lord God Almighty", "The Bread of Life", "Spirit of the Living God".)
+- Special Names that aren't in context, Jesus refers to himself as "the bread of life" in John 6 and "the good shepherd" in John 10. 
 
 ### Correct
 The quizzer's response is correct when:
@@ -64,14 +64,14 @@ The quizzer's response is correct when:
 - It contains the information requested.
     - If the quizmaster did not complete the reading of the question, the quizzer's answer must include the information in the remainder of the question as well as the answer.
     - It is not required to be in question and answer form, except in the case of a reference question.
-    - The quizzer’s answer must include all unique words included in both the question and the answer.
+    - The quizzer's answer must include all unique words included in both the question and the answer.
 
 Mispronounced names are still recognizable as the answer.
 
 Only the first response of the quizzer will be considered, however, if the response by the quizzer is in context and is not incorrect, the quizzer will be allowed their full 30 seconds to give the additional information necessary to satisfy the question and the answer.  
 
 #### Example
-INT Who has been making it grow? A. God.  If the quizzer said “Apollos” they have given incorrect information (even though the name “Apollos” is in context) and would be called incorrect.  If they had said “I planted the seed”, “Apollos watered it”, they have not given any incorrect information, are in context and will be given the 30 seconds to supply the correct answer required. 
+INT Who has been making it grow? A. God.  If the quizzer said "Apollos" they have given incorrect information (even though the name "Apollos" is in context) and would be called incorrect.  If they had said "I planted the seed", "Apollos watered it", they have not given any incorrect information, are in context and will be given the 30 seconds to supply the correct answer required. 
 
 ### Incorrect
 The quizzer's response is incorrect when:
@@ -105,7 +105,7 @@ If the challenge is accepted:
     - Points or error points which reflect the new ruling of the judge will be recorded.  
     - A new question of the same number will be given if the question is ruled illegal.
 
-When a challenge is made, the quizmaster must give each team’s captain or co-captain an opportunity to speak to the challenge before making a ruling on the challenge.  Whichever team is being challenged against will have the right to speak last.
+When a challenge is made, the quizmaster must give each team's captain or co-captain an opportunity to speak to the challenge before making a ruling on the challenge.  Whichever team is being challenged against will have the right to speak last.
 
 ## Protests
 Coaches, including assistant coaches, of the teams participating in a quiz may place the quiz under protest under the following conditions:
@@ -134,7 +134,7 @@ The following are fouls:
 - The use of the hands to assist in jumping.  Hands may not touch any part of the chair or the floor from the time "Question" is called until the quizmaster recognizes the first one up.
 - When electronic equipment is used, if any light goes on after the quizmaster calls "Question" and before they begin to discernibly read the question.
     - Discernibly includes the quizmaster's mouth forming a word shape.
-- During a Reference question or Quote question, when electronic equipment is used, if any light goes on after the quizmaster calls “Question” and before they begin to discernibly read the chapter number.
+- During a Reference question or Quote question, when electronic equipment is used, if any light goes on after the quizmaster calls "Question" and before they begin to discernibly read the chapter number.
 - Starting to answer before being recognized by the Quizmaster.
 - Having more than the designated team members, one coach, and an assistant coach on the quiz platform during a time-out.
 - Challenging after conferring with anyone
@@ -276,7 +276,7 @@ _**Points Earned**_
 
 
 **Team Points**
-All points earned or deducted by an individual are to be counted towards the team’s points.
+All points earned or deducted by an individual are to be counted towards the team's points.
 
 _**Points Earned**_
 - +20 Points for each team present at the scheduled start time of the quiz.

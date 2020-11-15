@@ -74,7 +74,7 @@ Quiz I:    If winner of Quiz G does not win Quiz H, Quiz I will have the winners
 
 
 
-Tournament Bracket “B”
+Tournament Bracket "B"
 Each team in the final nine must lose twice.   A team may make the finals by actually winning only one quiz in this tournament bracket.
 
 BRACKET B
@@ -99,7 +99,7 @@ If the same team took third place in Quiz I and J, then Quiz K will be a two-tea
 Quiz L:        Third Quiz K, First Quiz K, Second Quiz K (if needed)
 
 
-Tournament Bracket “C”
+Tournament Bracket "C"
 This bracket is a combination of brackets A and B.  A team must win at least two quizzes to obtain a position in the finals.
 BRACKET C
 Quiz A:    Teams 1, 4, 9

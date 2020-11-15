@@ -31,7 +31,7 @@ Should be verses that make more sense when quoted together.
 Example: Gal 5:22-23 
 
 ### Finish-This / Finish-This-and-the-Next
-FTV questions should not start out with an insignificant introduction such as “He replied” or “He said to them”.  These verses, if spiritually significant, should be used as FT or FTN type questions.  For example, Luke 11:28 says, He replied, “Blessed rather are those who hear the word of God and obey it.”  This verse could be used as an excellent FT question starting with “Blessed rather are those who …”. 
+FTV questions should not start out with an insignificant introduction such as "He replied" or "He said to them".  These verses, if spiritually significant, should be used as FT or FTN type questions.  For example, Luke 11:28 says, He replied, "Blessed rather are those who hear the word of God and obey it."  This verse could be used as an excellent FT question starting with "Blessed rather are those who ...". 
 
 ## Situation
 Situation Quotations must be reasonable in length.

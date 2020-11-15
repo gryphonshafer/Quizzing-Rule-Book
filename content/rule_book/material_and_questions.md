@@ -94,8 +94,8 @@ If a quizzer needs to provide the reference question, the provided reference que
 - The interrogative word used is not a factor when deciding the valid type of a reference question. 
 
 ##### Example
-- Similar content and wording: CVR According to Luke chapter 23: 37 King of what?  A. The Jews The quizzer can give the question “King of what?” or “King of whom?”, as Jews could be referring to either nation (what) or people (whom).  In this case the quizzer could also give “King of the what?”
-- Referencing the determining word or phrase, in the 50/50 example, “What men?”, and “Lawless what?, the questions are not similar.
+- Similar content and wording: CVR According to Luke chapter 23: 37 King of what?  A. The Jews The quizzer can give the question "King of what?" or "King of whom?", as Jews could be referring to either nation (what) or people (whom).  In this case the quizzer could also give "King of the what?"
+- Referencing the determining word or phrase, in the 50/50 example, "What men?", and "Lawless what?, the questions are not similar.
 - Further explanation on the interrogative word used in a reference question. 
     - If two identical phrases exist in the same chapter, but one occurrence grammatically calls for use of the "who" inserted interrogative word, and the other occurrence grammatically calls for the use of the "what" inserted interrogative word, that difference in grammatically dictated interrogative word does not change the fact that phrase from the material (that excludes the inserted interrogative word) occurs more than twice in the same chapter, necessitating a CVR question.
     - The above example does not mean that if the quizzer needs to provide a reference question that is a CVR, and their choice of interrogative word changes the question type to MACVR, that the quizzer has given a valid CVR. In this case, the validity changes based on the interrogative word, because of how the required answer changes.
@@ -165,7 +165,7 @@ Contains two parts to the question:
 The answer to the Situation Question must be in context.
 
 ##### Example
-Split quotation: For example, Matthew 4:19 says, “Come, follow me”, Jesus said, “and I will send you out to fish for people.”  This example could be written, Who said it?  “Come, follow me, and I will send you out to fish for people” Answer:  Jesus.
+Split quotation: For example, Matthew 4:19 says, "Come, follow me", Jesus said, "and I will send you out to fish for people."  This example could be written, Who said it?  "Come, follow me, and I will send you out to fish for people" Answer:  Jesus.
 
 ### Question Structure
 This defines how a Quizmaster must introduce and read each question type.
@@ -184,7 +184,7 @@ This defines how a Quizmaster must introduce and read each question type.
 - For Situation Questions, begin reading at the Quotation.
 
 ### Invalid Questions
-Invalid Questions – Questions must be declared invalid by the quizmaster or answer judge(s) if:
+Invalid Questions - Questions must be declared invalid by the quizmaster or answer judge(s) if:
 - The answer requires interpretation by the quizzer.
 - The question is ambiguous, tricky, or misleading.
 - The question is multiple-choice.
@@ -193,5 +193,5 @@ Invalid Questions – Questions must be declared invalid by the quizmaster or an
 When a question is deemed invalid and thrown out, it must be replaced with the exact same type of question.  (i.e. Interrogative replaced with Interrogative, MACVR replaced with MACVR, etc.)
 
 #### Example
-Regarding "if the question is not answered": If the question asks, “What is good” and the answer states what is not good, the question is not answered and is tricky or misleading.
+Regarding "if the question is not answered": If the question asks, "What is good" and the answer states what is not good, the question is not answered and is tricky or misleading.
 

@@ -32,7 +32,7 @@ These rules apply to the Internationals quiz meet conducted once yearly, adminis
 - Points will be accurately tallied on individual quizzers for each team by the statistician appointed by the CQLT.
 
 ### Statistician
-- A statistician will be responsible for keeping individual quizzers’ scores. 
+- A statistician will be responsible for keeping individual quizzers' scores. 
 - This individual shall not be a regular scorekeeper.
 
 ## Quiz Question Selection
