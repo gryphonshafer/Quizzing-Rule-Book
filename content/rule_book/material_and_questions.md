@@ -26,7 +26,7 @@ Question Sub-Types
 : A different / more-specific question type that falls under the main type. For the purposes of the rule book, any use of the term "Type" will assume to include all sub-types of that type.
 
 Quiz Question
-: A quiz question consists of a Question Type, Question, and Answer. 
+: A quiz question consists of a Question Type, Question, and Answer.
 
 Interrogative Words
 : The single, interrogative words that must be inserted at either the beginning or the end of every [ Interrogative, Multiple Answer, Chapter Reference, Chapter Verse Reference ] question. The exhaustive list of these words is: who, whom, whose, what, why, where, when, which, how.
@@ -38,7 +38,7 @@ Unique Phrases
 : 2 or 3 consecutive words, the sequence of which is only found in only one verse in the material.
 
 First 5 Words of the Question
-: Defined as "the first 5 spoken words after Question, whether the words are from the material or not." This concept applies to the beginning of Interrogative, Multiple Answer, Finish, Situation questions. 
+: Defined as "the first 5 spoken words after Question, whether the words are from the material or not." This concept applies to the beginning of Interrogative, Multiple Answer, Finish, Situation questions.
 
 ### Question Type Distribution
 
@@ -65,7 +65,7 @@ Question Type maximums can be exceeded in Overtime.
 ## Question Writing
 
 ### Preparation of Questions
-- All questions must contain verbatim material. 
+- All questions must contain verbatim material.
     - The only exception to this is Situation question Quotations, which could potentially involve a single Quotation, broken up by non-quotation words. This would result in the Situation Quotation being written without the non-quotation words in the middle of the two quotations.
 - On some types, the addition of a single, approved, interrogative word at the very beginning or very end is required.
 
@@ -74,7 +74,7 @@ Question Type maximums can be exceeded in Overtime.
 #### Interrogative (INT)
 Must have exactly one inserted interrogative word at the very beginning of the question or at the very end of the question.
 Must have a single answer.
-Must include a unique word, or 2-3 word unique phrase within the first 5 words of the question. 
+Must include a unique word, or 2-3 word unique phrase within the first 5 words of the question.
 
 #### Multiple Answer (MA)
 Must meet all the requirements of an INT, except the single answer requirement.
@@ -87,16 +87,16 @@ If one of the listed answers to a the multiple answers questions is a "negative"
 #### Reference
 Used to distinguish exact same words or phrases from the material.
 The entire reference question is part of the required question + answer.
-If a quizzer needs to provide the reference question, the provided reference question must: 
+If a quizzer needs to provide the reference question, the provided reference question must:
 - Be of the exact same type as the one on the card (CR, CVR, MACR, MACVR).  The quizmaster and/or answer judge must check to confirm this.
 - Have content AND wording is similar to the content and wording of the written question.
-- Have the determining word or phrase of the written question. 
-- The interrogative word used is not a factor when deciding the valid type of a reference question. 
+- Have the determining word or phrase of the written question.
+- The interrogative word used is not a factor when deciding the valid type of a reference question.
 
 ##### Example
 - Similar content and wording: CVR According to Luke chapter 23: 37 King of what?  A. The Jews The quizzer can give the question "King of what?" or "King of whom?", as Jews could be referring to either nation (what) or people (whom).  In this case the quizzer could also give "King of the what?"
 - Referencing the determining word or phrase, in the 50/50 example, "What men?", and "Lawless what?, the questions are not similar.
-- Further explanation on the interrogative word used in a reference question. 
+- Further explanation on the interrogative word used in a reference question.
     - If two identical phrases exist in the same chapter, but one occurrence grammatically calls for use of the "who" inserted interrogative word, and the other occurrence grammatically calls for the use of the "what" inserted interrogative word, that difference in grammatically dictated interrogative word does not change the fact that phrase from the material (that excludes the inserted interrogative word) occurs more than twice in the same chapter, necessitating a CVR question.
     - The above example does not mean that if the quizzer needs to provide a reference question that is a CVR, and their choice of interrogative word changes the question type to MACVR, that the quizzer has given a valid CVR. In this case, the validity changes based on the interrogative word, because of how the required answer changes.
 
@@ -143,7 +143,7 @@ Begins at the beginning of a single verse and finishes at the end of that verse.
 Begins in the middle of a verse and finishes at the end of the verse.  A FT must start at the beginning of a sentence or the beginning of a quotation.
 
 ##### Finish-these-Two-Verses (F2V)
-Begins at the beginning of a verse and continues to the end of the next verse. Used when a verse is not strong enough on its own and needs another verse to explain it or can be used when two verses combined form an even stronger thought. 
+Begins at the beginning of a verse and continues to the end of the next verse. Used when a verse is not strong enough on its own and needs another verse to explain it or can be used when two verses combined form an even stronger thought.
 
 ##### Finish-This-and-the-Next (FTN)
 Begins in the middle of a verse and finishes at the end of the next verse.  A FTN must start at the beginning of a sentence or the beginning of a quotation. Used when part of a verse is not strong enough on its own and needs another verse (or part of a verse) to explain it or can be used when two verses combined form an even stronger thought.
@@ -152,8 +152,8 @@ Begins in the middle of a verse and finishes at the end of the next verse.  A FT
 Used only in the year where the Material Type is Narrative
 Contains two parts to the question:
 - Quotation
-    - Must be a direct quotation from the material by a person or an entity. 
-    - The quotation must not exceed two consecutive verses. 
+    - Must be a direct quotation from the material by a person or an entity.
+    - The quotation must not exceed two consecutive verses.
     - The first five words must be unique to all Quotations.
     - The quizzer is not required to repeat the quotation word-perfect but must be substantially close without leaving out key components of the quotation.
     - Must start at the beginning of a quotation or the beginning of a sentence within the quotation.  When a Situation question comes from a quotation that runs for more than 2 verses, the beginning of the Situation question must start within the first 2 verses of the quotation.
@@ -171,10 +171,10 @@ Split quotation: For example, Matthew 4:19 says, "Come, follow me", Jesus said, 
 This defines how a Quizmaster must introduce and read each question type.
 
 4 parts: (1) Introduction part 1, (2) Introduction part 2, (3) Final Statement, (4) Actual Question
-(1) "Question Number [ 1, 2, 3, 4, 5, etc ] is a [ TYPE ] question." 
+(1) "Question Number [ 1, 2, 3, 4, 5, etc ] is a [ TYPE ] question."
 (2) For Situation questions only: "I need to know [ who said it, how was it said, where was it said, etc ]"
 (3) "Question Number [ 1, 2, 3, 4, 5, etc ] question"
-(4) 
+(4)
 - For INT and MA, begin reading the question
 - For Chapter Reference (and MACR), "According to [ Book Name ], Chapter [Chapter Number], ...."
 - For Chapter Verse Reference (and MACVR, "According to [ Book Name ], Chapter [Chapter Number], Verse [ Verse Number], ......"

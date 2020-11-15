@@ -43,9 +43,9 @@ Special Name
 : A name which imparts specific character qualities or attributes to that person of the deity.
 
 ### Deity Rule
-- The correct person of the deity must be given. 
+- The correct person of the deity must be given.
 - The quizzer may not move between persons of the deity when answering. Giving the name of a deity that is not correct is considered giving incorrect information.
-- If a quizzer refers to any person of the deity as either "God" or "Lord", these must be clarified by the quizzer within 30 seconds when the text requires a more specific answer. 
+- If a quizzer refers to any person of the deity as either "God" or "Lord", these must be clarified by the quizzer within 30 seconds when the text requires a more specific answer.
 - "Jesus" and "Christ" are Interchangeable (but refer to the person of the Son) and the quizzer will be called correct.
 - If a pronoun is used in the text to name the deity, any of the names for that person of the deity within context may be considered an acceptable answer when clarifying.
     - If the pronoun naming the deity is identified by the quizzer using a name that correctly identifies the deity, but with an identification that is out of context, the quizzer will be considered to have not stayed in context.
@@ -55,7 +55,7 @@ Special Name
 
 #### Example
 - Special Names of a deity, (i.e.  "The Lord God Almighty", "The Bread of Life", "Spirit of the Living God".)
-- Special Names that aren't in context, Jesus refers to himself as "the bread of life" in John 6 and "the good shepherd" in John 10. 
+- Special Names that aren't in context, Jesus refers to himself as "the bread of life" in John 6 and "the good shepherd" in John 10.
 
 ### Correct
 The quizzer's response is correct when:
@@ -68,10 +68,10 @@ The quizzer's response is correct when:
 
 Mispronounced names are still recognizable as the answer.
 
-Only the first response of the quizzer will be considered, however, if the response by the quizzer is in context and is not incorrect, the quizzer will be allowed their full 30 seconds to give the additional information necessary to satisfy the question and the answer.  
+Only the first response of the quizzer will be considered, however, if the response by the quizzer is in context and is not incorrect, the quizzer will be allowed their full 30 seconds to give the additional information necessary to satisfy the question and the answer.
 
 #### Example
-INT Who has been making it grow? A. God.  If the quizzer said "Apollos" they have given incorrect information (even though the name "Apollos" is in context) and would be called incorrect.  If they had said "I planted the seed", "Apollos watered it", they have not given any incorrect information, are in context and will be given the 30 seconds to supply the correct answer required. 
+INT Who has been making it grow? A. God.  If the quizzer said "Apollos" they have given incorrect information (even though the name "Apollos" is in context) and would be called incorrect.  If they had said "I planted the seed", "Apollos watered it", they have not given any incorrect information, are in context and will be given the 30 seconds to supply the correct answer required.
 
 ### Incorrect
 The quizzer's response is incorrect when:
@@ -97,20 +97,20 @@ The team captain or co-captain may challenge if:
     - A foul being awarded to the quizzer.
 
 Once a team has requested an explanation of a ruling, and that explanation has been given, all teams lose the right to challenge.
-- If an explanation of a ruling is requested, the quizmaster will ask if any team wants to challenge. 
+- If an explanation of a ruling is requested, the quizmaster will ask if any team wants to challenge.
 
 The result of a challenge may not be challenged.
 
 If the challenge is accepted:
-    - Points or error points which reflect the new ruling of the judge will be recorded.  
+    - Points or error points which reflect the new ruling of the judge will be recorded.
     - A new question of the same number will be given if the question is ruled illegal.
 
 When a challenge is made, the quizmaster must give each team's captain or co-captain an opportunity to speak to the challenge before making a ruling on the challenge.  Whichever team is being challenged against will have the right to speak last.
 
 ## Protests
 Coaches, including assistant coaches, of the teams participating in a quiz may place the quiz under protest under the following conditions:
-- When the coach feels a logistical rule has been broken by the quiz officials. 
-    - Any rules regarding judgment calls on questions must be challenged by a captain/co-captain before they may be protested. 
+- When the coach feels a logistical rule has been broken by the quiz officials.
+    - Any rules regarding judgment calls on questions must be challenged by a captain/co-captain before they may be protested.
 - The protest must be placed before the next question is called.
     - This means the protest must apply to the question and ruling that just happened.
 - The coach may only confer with their assistant coach and substitute quizzer, before protesting.
@@ -125,11 +125,11 @@ Logistical Rule: when the quizmaster did not allow the full 30 seconds for the q
 - A foul must be called before the quizmaster calls for the next question.
 - If the officials fail to call a foul, a coach or captain may call it to the attention of the quizmaster.  If in the quizmaster's (and/or the other officials') opinion a foul might have been committed, the quizmaster will give due warning to the violating team.  A foul cannot be charged, and points cannot be deducted when the quizmaster receives such help from a coach or captain.
 - The quizzer upon whom a foul is called becomes ineligible to jump on that question number, including any alphanumeric question numbers.
-    - The chair remains ineligible to jump on that question number, including any alphanumeric question numbers, even if the quizzer who committed the foul is substituted for. 
+    - The chair remains ineligible to jump on that question number, including any alphanumeric question numbers, even if the quizzer who committed the foul is substituted for.
 - Three fouls by a quizzer eliminate that quizzer from the quiz.  The quizzer must leave the platform immediately.  His/her seat will continue to be ineligible to jump for the entire question number, including any alphanumeric question numbers.
 
 The following are fouls:
-- Team members (quizzers, coaches) communicating with each other, other teams, or with the audience between the time the question type is introduced, and points are awarded. 
+- Team members (quizzers, coaches) communicating with each other, other teams, or with the audience between the time the question type is introduced, and points are awarded.
      - Communication can include non-verbal communication.
 - The use of the hands to assist in jumping.  Hands may not touch any part of the chair or the floor from the time "Question" is called until the quizmaster recognizes the first one up.
 - When electronic equipment is used, if any light goes on after the quizmaster calls "Question" and before they begin to discernibly read the question.
@@ -169,9 +169,9 @@ Foul Out
     Set the timeout duration to 60.
 
 - Each team is allowed two, one-minute time-outs.  Only one of those time-outs may be taken after question number 17, including any alphanumeric question numbers.
-- Captains, co-captains or coaches may call for a time-out. 
+- Captains, co-captains or coaches may call for a time-out.
 - Only the coach, assistant coach, and substitute may converse with the team during a time-out.
-- Time-outs may be called prior to bonus questions. 
+- Time-outs may be called prior to bonus questions.
 
 ## Substitutions
 - Substitutions may be made only during the time-outs.
@@ -280,10 +280,10 @@ All points earned or deducted by an individual are to be counted towards the tea
 
 _**Points Earned**_
 - +20 Points for each team present at the scheduled start time of the quiz.
-     - Teams that arrive late due to quizzing in another room are excused from the forfeiture of these points. If a single quizzer is late, the coach can decide to keep the +20 points by keeping the late quizzer out the whole quiz, or forfeit the points by subbing the quizzer in after question number 1. This decision must occur before the quiz has been started. 
+     - Teams that arrive late due to quizzing in another room are excused from the forfeiture of these points. If a single quizzer is late, the coach can decide to keep the +20 points by keeping the late quizzer out the whole quiz, or forfeit the points by subbing the quizzer in after question number 1. This decision must occur before the quiz has been started.
 - +10 Points for the 1st correct answer given by the 3rd and subsequent quizzer on the team.
 - +20 Points for every correct bonus question before question number 17
-     - In 2 Team Quizzes, this scoring rule does not apply 
+     - In 2 Team Quizzes, this scoring rule does not apply
 - +10 Points for every correct bonus question after and including question number 17
      - In 2 Team Quizzes, all correct bonus questions are worth 10 points
 
@@ -293,7 +293,7 @@ Team errors are the sum of all individual, non-bonus errors
 - -10 Points for every error on a question or toss-up question starting at question number 17
 - -10 Points for 4th and subsequent team fouls
 - -10 Points for 2nd and subsequent overruled challenges & protests
-- -10 Points at the determination of the room officials that a deliberate attempt was made to forfeit a question. 
+- -10 Points at the determination of the room officials that a deliberate attempt was made to forfeit a question.
 - No more than -10 points can be deducted per question asked due to an error.
      - Non-error related deducted points are cumulative.
 

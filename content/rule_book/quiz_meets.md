@@ -5,7 +5,7 @@ The tournament brackets are based on three things:   A preliminary round, an eli
 - Team Points are calculated using a team's score at the end of question 20, together with their place, which could be determined at the end of question 20, or after the end of overtime.
     - Teams start with a base number of points based on their place, and receive additional points based on their team score. The specifics are detailed in the section below.
 - In case of a tie, points are awarded according to the team score at the end of question 20.
-    - Overtime is used solely to determine placements. 
+    - Overtime is used solely to determine placements.
 - If ties are not being broken in prelims, more than one team can receive First place, Second place, or Third place points.
 
 ### Team Points Calculation
@@ -32,13 +32,13 @@ The tournament brackets are based on three things:   A preliminary round, an eli
 
 ## Elimination Rounds
 When more than nine teams are involved, at the determination of the meet director and announced before the meet begins, there may be XYZ quizzes, following these guidelines:
-- If there are 10 to 14 teams, the top 9 should be placed into a final nine championship bracket after the opening round, for the elimination round, and the remaining teams dropped.   
-- If there are 15 to 20 teams, the top 6 teams should be placed in the championship bracket, the next 9 places (7 through 15) should quiz in the intermediate quizzes given below (XYZ) and the remaining teams should be dropped. 
-- If there are more than 24 teams, the top 6 should be placed in the championship bracket, teams 7-15 should quiz in the XYZ quizzes to determine places 7-15. Teams 16-24 will quiz in XXYYZZ intermediate quizzes given below to determine their placement. 
+- If there are 10 to 14 teams, the top 9 should be placed into a final nine championship bracket after the opening round, for the elimination round, and the remaining teams dropped.
+- If there are 15 to 20 teams, the top 6 teams should be placed in the championship bracket, the next 9 places (7 through 15) should quiz in the intermediate quizzes given below (XYZ) and the remaining teams should be dropped.
+- If there are more than 24 teams, the top 6 should be placed in the championship bracket, teams 7-15 should quiz in the XYZ quizzes to determine places 7-15. Teams 16-24 will quiz in XXYYZZ intermediate quizzes given below to determine their placement.
 
 A Consolation final 9 bracket will be used for positions 10-15 (determined by XYZ quizzes) and places 16-18 determined by XXYYZZ quizzes. The teams in the XYZ quizzes cannot move below position 15, regardless of how low their XYZ quiz score was. Likewise, the teams in the XXYYZZ quizzes cannot move above position 16, regardless of how high their intermediate quiz scores were.
 
-XYZ Quizzes 
+XYZ Quizzes
 Quiz X:    Teams 7, 12, 15
 Quiz Y:    Teams 8, 11, 14
 Quiz Z:    Teams 9, 10, 13
