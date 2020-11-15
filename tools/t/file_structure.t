@@ -4,7 +4,7 @@ use Mojo::File 'path';
 use Test::Most;
 use Text::MultiMarkdown 'markdown';
 
-my $content = "$Bin/../../content";
+my $content = "$Bin/../../content/rule_book";
 
 ok( -r "$content/index.md", 'index.md exists and is readable' );
 
