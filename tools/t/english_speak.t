@@ -5,7 +5,7 @@ use Mojo::File 'path';
 use Test::Most;
 use Text::MultiMarkdown 'markdown';
 
-my $content = "$Bin/../../content";
+my $content = "$Bin/../../content/rule_book";
 my $speak;
 
 lives_ok(
