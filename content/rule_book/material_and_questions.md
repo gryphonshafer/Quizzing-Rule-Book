@@ -201,8 +201,8 @@ This defines how a Quizmaster must introduce and read each question type.
 4. Actual Question
 
 - For INT and MA, begin reading the question
-- For Chapter Reference (and MACR), "According to [ Book Name ], Chapter [Chapter Number], ...."
-- For Chapter Verse Reference (and MACVR, "According to [ Book Name ], Chapter [Chapter Number], Verse [ Verse Number], ......"
+- For Chapter Reference (and MACR), "According to [ Book Name ], Chapter [Chapter Number]..."
+- For Chapter Verse Reference (and MACVR, "According to [ Book Name ], Chapter [Chapter Number], Verse [ Verse Number]..."
 - For Quote Questions, "Quote [ Book Name ], Chapter [Chapter Number], Verse [ Verse Number]"
 - For Quote these Two Verses Questions. "Quote [ Book Name ], Chapter [Chapter Number], Verses [ Verse Number 1] and [Verse Number 2]"
 - For all Finish Questions (and sub-types), begin reading the verse(s)
