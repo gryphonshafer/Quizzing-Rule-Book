@@ -1,11 +1,13 @@
 # Roles and Responsibilities
 
 ## Team Organization
+
 Teams can have up to 5 quizzers on it. Teams can have up to 4 quizzers in the quiz at any given time.
 
 ### Quizzers
 
 ### Captains
+
 - Scorekeepers must be notified which quizzer is captain and which is co-captain before the quizzers take their seats to begin the quiz.
 - The captain and co-captain may change during a given competition but not during a quiz.
 - Only the captain or co-captain may challenge a decision or respond to a challenge. If both the captain and co-captain have erred out, another quizzer can be designated by the coach to respond to or initiate challenges.
@@ -13,13 +15,16 @@ Teams can have up to 5 quizzers on it. Teams can have up to 4 quizzers in the qu
 ### Coaches
 
 ## Quiz Officials
+
 - No comment other than "correct" or "incorrect" need be announced by the quiz officials in making a decision.
     - However, at the discretion of the answer judge and quizmaster, or at the request of the captain, additional information may be given:
         - If the additional information regarding the ruling is provided at the discretion of the AJ/QM, and not at the request of the captain, this is not considered an explanation of a ruling (which would invalidate a Challenge or Protest).
         - If the captain requests additional information regarding the ruling, this is considered an explanation of a ruling, and invalidates a Challenge or Protest. Before replying to a request for explanation, the QM must ask all teams if they wish to Challenge.
 
 ### Quizmasters (QM)
+
 The Quizmaster must:
+
 - Identify the question type of each question and begin every question with, "question number_____, question".
 - Rule immediately upon an obviously correct or incorrect answer if there is no indication from the answer judge to the contrary.
     - When an answer is in question (different than what is on the card), the quizmaster will discuss with the answer judge.
@@ -40,12 +45,14 @@ The Quizmaster must:
     - If an explanation of a ruling is requested by a captain, the quizmaster will ask if any team wants to challenge before the explanation is given.
 
 ### Answer Judges (AJ)
+
 - All conferring among quizmaster and answer judge(s) shall be done privately.
     - It is the answer judge who will determine the accuracy of its content and make a ruling accordingly.
 - Will watch the quizmaster's questions for accuracy of reading.
 - Ensures the quizzer is recognized by the quizmaster when his/her light comes on.
 
 ### Scorekeepers (SK)
+
 - The scorekeeper will tally and immediately announce when a quizzer has erred out, quizzed out, or fouled out.
 - The scorekeeper will keep record of all time-outs.
 - To determine eligibility for re-substitution, the scorekeeper will keep record of the number of questions a substitute quizzer has remained out.
