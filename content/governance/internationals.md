@@ -40,6 +40,7 @@ These rules apply to the Internationals quiz meet conducted once yearly, adminis
 ### Statistician
 
 - A statistician will be responsible for keeping individual quizzers' scores.
+- The statistician will be responsible for keeping individual teams' scores and provide updates to the teams of their current standings.
 - This individual shall not be a regular scorekeeper.
 
 ## Quiz Question Selection
