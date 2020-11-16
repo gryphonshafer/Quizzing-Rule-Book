@@ -10,19 +10,19 @@
 
 There will be no duplicate questions in a single quiz.
 
-**Participating on a Question**
-: A team that is eligible to jump on the question. A team that has no quizzers eligible to jump because of either foul out, err out, or quiz out, is still considered a team that is eligible to jump.
+**Participating in a Question**
+: A team that is eligible to jump in the question. A team that has no quizzers eligible to jump because of either foul out, err out, or quiz out, is still considered a team that is eligible to jump.
 
 ## Toss-Up Questions
 
-- When 3 teams are participating on a question, and one team errs, the next question will be a toss-up question for the two teams that did not err on the previous question.
+- When 3 teams are participating in a question, and one team errs, the next question will be a toss-up question for the two teams that did not err on the previous question.
     - The team that erred is ineligible to jump on the toss-up question.
-    - If only two teams were participating on a question and one team errs, the next question will be a bonus question, not a toss-up question.
-    - If only one team was participating on a question, it must have been a bonus question. As such any outcome of the bonus question results in all three teams participating on the next question.
+    - If only two teams were participating in a question and one team errs, the next question will be a bonus question, not a toss-up question.
+    - If only one team was participating in a question, it must have been a bonus question. As such any outcome of the bonus question results in all three teams participating in the next question.
 
 ## Bonus Questions
 
-- If only two teams are participating on a question, and one team errs, the next question will be an assigned bonus question for the team that did not err.
+- If only two teams are participating in a question, and one team errs, the next question will be an assigned bonus question for the team that did not err.
     - An assigned bonus question is awarded to the corresponding chair of the chair that erred on the toss-up.
 
 ### Example
@@ -73,20 +73,20 @@ If chair #2 erred on the toss-up, chair #2 of the team that did not err on the t
     Set the readiness bonus to 20.
 
 - Quizzers will be seated facing the audience and quizmaster.
-- Feet of the quizzers are to be on the floor while jumping.
+- The feet of the quizzers are to be on the floor while jumping.
 - A line-up card showing the seating order of each quizzer should be given to the quizmaster or scorekeeper before the start of each quiz.
 - No verbal or non-verbal communication is permitted between quizzers, coaches, or the audience from the time the quizmaster introduces the question type until points have been awarded.
 - Only a coach from a team presently participating in the quiz, or the meet director may confer with the officials.
 - Coaches may have quiz material(s) on the platform during a time-out or prior to a quiz.
-- Quizzers will not touch the officials table.
-- Push-button quizzing can be provided, if needed by physically disabled quizzers.
+- Quizzers will not touch the officials' table.
+- Push-button quizzing can be provided if needed by physically disabled quizzers.
 
 ## Jumping
 
 - If a quizzer's light comes on after a question has been called and before the question has discernibly begun, a foul will be called.
 - If a quizzer's light comes on after the quizmaster has discernibly begun reading the question, this will be considered a valid jump, and the quizzer will be given an opportunity to answer.
 - The first quizzer to rise and trigger their light, provided there has been no foul, will be awarded the jump.
-- If, in the judgment of the officials, a deliberate attempt is made to forfeit a question, an error will be charged, and 10 points deducted from the team score. The next question will be the same question number.
+- If in the judgment of the officials, a deliberate attempt is made to forfeit a question, an error will be charged, and 10 points deducted from the team score. The next question will be the same question number.
 
 ### Tie Jumping
 
@@ -97,7 +97,7 @@ If chair #2 erred on the toss-up, chair #2 of the team that did not err on the t
 ## Time Limits
 
 - Quizzes will start at the scheduled or announced time. Any team that is late does not receive the starting 20 points awarded for being on time.
-    - If the late team is currently quizzing in another location which is running over the time limit, they are not required to forfeit the quiz, or lose 20 points.
+    - If the late team is currently quizzing in another location which is running over the time limit, they are not required to forfeit the quiz or lose 20 points.
     - Any team more than 10 minutes late (after the scheduled or announced time for the quiz) forfeits the quiz.
 - If an individual quizzer is late, the quiz will start on time. The coach has the option to put the late quizzer in during a time-out, but the team will forfeit the 20 points the team starts with. The coach also has the option to keep the quizzer out of the quiz and keep the 20 points but must notify the quizmaster at the beginning of the quiz, of their decision.
 - Quizzers have five seconds in which to jump after the question is completed.
