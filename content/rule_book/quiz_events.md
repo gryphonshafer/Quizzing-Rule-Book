@@ -37,7 +37,7 @@ The word "question" is significantly overloaded in the current rule book. We're 
 Limited to five verses before or after the verse. On all question types, a quizzer cannot automatically be ruled out of context by a single word, even if it is a unique word. Rather, the quizzer must say a complete thought or phrase that conclusively puts them out of context.
 
 **Interchangeable**
-: Means not only not incorrect; means either may be accepted as correct.
+: Means not only not incorrect; means either are correct.
 
 **Special Name**
 : A name that imparts specific character qualities or attributes to that person of the deity.
