@@ -48,7 +48,7 @@ The Quizmaster must:
 
 - All conferring among quizmaster and answer judge(s) shall be done privately.
     - It is the answer judge who will determine the accuracy of its content and make a ruling accordingly.
-- Will watch the quizmaster's questions for accuracy of reading the question.
+- Will watch the quizmaster's reading for accuracy.
 - Ensures the quizzer is recognized by the quizmaster when his/her light comes on.
 
 ### Scorekeepers (SK)
