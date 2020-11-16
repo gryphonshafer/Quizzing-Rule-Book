@@ -63,7 +63,7 @@ Limited to five verses before or after the verse. On all question types, a quizz
 
 The quizzer's response is correct when:
 
-- It fulfills all requirements specific to the question type.
+- It fulfills all requirements specific to the Question Type.
 - The quizzer stays in Context.
 - It contains the information requested.
     - If the quizmaster did not complete the reading of the question, the quizzer's answer must include the information in the remainder of the question as well as the answer.
