@@ -74,7 +74,7 @@ Question Type maximums can be exceeded in Overtime.
 
 #### Interrogative (INT)
 
-- Must have exactly one inserted interrogative word at the very beginning of the question or at the very end of the question.
+- Must have exactly one inserted interrogative word at the very beginning of the question or the very end of the question.
 - Must have a single answer.
 - Must include a unique word, or 2-3 word unique phrase within the first 5 words of the question.
 
