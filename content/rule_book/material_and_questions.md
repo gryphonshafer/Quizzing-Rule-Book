@@ -4,7 +4,7 @@
 : The material version is the New International Version (NIV 2011) of the Bible.
 
 **Material**
-: The biblical content that is the basis for competition for the quiz year. This includes Book Name, Chapter Number, and Verse Number. This does not include any specifically excluded material. Of the eight years of material, 4 are defined as Narrative and 4 are defined as Epistle.
+: The biblical content that is the basis for competition for the quiz year. This includes Book Name, Chapter Number, and Verse Number. This does not include any specifically excluded material. Of the eight years of material, four are defined as Narrative, and four are defined as Epistle.
 
 ## Material Rotation Schedule
 
@@ -42,7 +42,7 @@
 
 ### Question Type Distribution
 
-In the below table, any minimum or maximum variation between material years are indicated in a Narrative/Epistle format.
+In the below table, any minimum or maximum variation between material years is indicated in a Narrative/Epistle format.
 
 | Type Group      | Minimum | Maximum | Question Types       |
 |-----------------|--------:|--------:|----------------------|
@@ -74,7 +74,7 @@ Question Type maximums can be exceeded in Overtime.
 
 #### Interrogative (INT)
 
-- Must have exactly one inserted interrogative word at the very beginning of the question or at the very end of the question.
+- Must have exactly one inserted interrogative word at the very beginning of the question or the very end of the question.
 - Must have a single answer.
 - Must include a unique word, or 2-3 word unique phrase within the first 5 words of the question.
 
@@ -85,7 +85,7 @@ Question Type maximums can be exceeded in Overtime.
     - The clarification of a single answer does not meet the above requirement.
     - The identification of a singular pronoun does not meet the above requirement.
     - The identification of a plural pronoun does meet the above requirement.
-- If one of the listed answers to a the multiple answers questions is a "negative" answer, this is deemed invalid as a Multiple Answer question.
+- If one of the listed answers to the multiple answer's questions is a "negative" answer, this is deemed invalid as a Multiple Answer question.
 
 #### Reference
 
@@ -99,10 +99,10 @@ Question Type maximums can be exceeded in Overtime.
 
 ##### Example
 
-- Similar content and wording: CVR According to Luke chapter 23: 37 King of what? A. The Jews The quizzer can give the question "King of what?" or "King of whom?", as Jews could be referring to either nation (what) or people (whom). In this case the quizzer could also give "King of the what?"
+- Similar content and wording: CVR According to Luke chapter 23: 37 King of what? A. The Jews The quizzer can give the question "King of what?" or "King of whom?", as Jews could be referring to either nation (what) or people (whom). In this case, the quizzer could also give "King of the what?"
 - Referencing the determining word or phrase, in the 50/50 example, "What men?", and "Lawless what?, the questions are not similar.
-- Further explanation on the interrogative word used in a reference question.
-    - If two identical phrases exist in the same chapter, but one occurrence grammatically calls for use of the "who" inserted interrogative word, and the other occurrence grammatically calls for the use of the "what" inserted interrogative word, that difference in grammatically dictated interrogative word does not change the fact that phrase from the material (that excludes the inserted interrogative word) occurs more than twice in the same chapter, necessitating a CVR question.
+- Further explanation of the interrogative word used in a reference question.
+    - If two identical phrases exist in the same chapter, but one occurrence grammatically calls for use of the "who" inserted interrogative word, and the other occurrence grammatically calls for the use of the "what" inserted interrogative word, that difference in the grammatically dictated interrogative word does not change the fact that phrase from the material (that excludes the inserted interrogative word) occurs more than twice in the same chapter, necessitating a CVR question.
     - The above example does not mean that if the quizzer needs to provide a reference question that is a CVR, and their choice of interrogative word changes the question type to MACVR, that the quizzer has given a valid CVR. In this case, the validity changes based on the interrogative word, because of how the required answer changes.
 
 ##### Chapter-Verse (CVR)
@@ -133,7 +133,7 @@ The question must contain a word or phrase that exists more than once in the mat
 
 - A single verse
 - The entire reference is part of the required question + answer.
-- Quizzers may go back and correct their answers if done in the 30-second time limit. The quizzer will be required to make one full correct rotation. However, the quizzer can be called correct if they have made a mistake only in one area of the verse AND correct the mistake making it abundantly clear to the quiz master and answer judge that they know where their mistake was, and what the corrected words are.
+- Quizzers may go back and correct their answers if done in the 30-second time limit. The quizzer will be required to make one full correct rotation. However, the quizzer can be called correct if they have made a mistake only in one area of the verse AND correct the mistake making it abundantly clear to the quizmaster and answer judge that they know where their mistake was, and what the corrected words are.
 - Context is defined as the verse or verses that are required.
 - The quizzer may not continue any non-required verse or verses.
 
@@ -145,7 +145,7 @@ The question must contain a word or phrase that exists more than once in the mat
 
 - The first five words must be unique to all Finish questions of the exact same type (e.g. FTV compared to all FTVs, FT to all FTs, F2V to all F2Vs, FTN to all FTNs).
 - The quizmaster will read the first five words of the question (less if a quizzer jumps)
-- Quizzers may go back and correct their answers if done in the 30-second time limit. The quizzer will be required to make one full correct rotation. However, the quizzer can be called correct if they have made a mistake only in one area of the verse AND correct the mistake making it abundantly clear to the quiz master and answer judge that they know where their mistake was, and what the corrected words are.
+- Quizzers may go back and correct their answers if done in the 30-second time limit. The quizzer will be required to make one full correct rotation. However, the quizzer can be called correct if they have made a mistake only in one area of the verse AND correct the mistake making it abundantly clear to the quizmaster and answer judge that they know where their mistake was, and what the corrected words are.
 - Context is defined as the verse or verses that are required.
 - The quizzer may not continue any non-required verse or verses.
 
@@ -159,11 +159,11 @@ The question must contain a word or phrase that exists more than once in the mat
 
 ##### Finish-these-Two-Verses (F2V)
 
-- Begins at the beginning of a verse and continues to the end of the next verse. Used when a verse is not strong enough on its own and needs another verse to explain it or can be used when two verses combined form an even stronger thought.
+- Begins at the beginning of a verse and continues to the end of the next verse. Used when a verse is not strong enough on its own and needs another verse to explain it or can be used when two verses combined, form an even stronger thought.
 
 ##### Finish-This-and-the-Next (FTN)
 
-- Begins in the middle of a verse and finishes at the end of the next verse. A FTN must start at the beginning of a sentence or the beginning of a quotation. Used when part of a verse is not strong enough on its own and needs another verse (or part of a verse) to explain it or can be used when two verses combined form an even stronger thought.
+- Begins in the middle of a verse and finishes at the end of the next verse. A FTN must start at the beginning of a sentence or the beginning of a quotation. Used when part of a verse is not strong enough on its own and needs another verse (or part of a verse) to explain it or can be used when two verses combined, form an even stronger thought.
 
 #### Situation (SIT)
 

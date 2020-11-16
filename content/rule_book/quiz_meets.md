@@ -5,7 +5,7 @@ The tournament brackets are based on three things: A preliminary round, an elimi
 ## Preliminary Rounds
 
 - Team Points are calculated using a team's score at the end of question 20, together with their place, which could be determined at the end of question 20, or after the end of overtime.
-    - Teams start with a base number of points based on their place, and receive additional points based on their team score. The specifics are detailed in the section below.
+    - Teams start with a base number of points based on their place and receive additional points based on their team score. The specifics are detailed in the section below.
 - In case of a tie, points are awarded according to the team score at the end of question 20.
     - Overtime is used solely to determine placements.
 - If ties are not being broken in prelims, more than one team can receive First place, Second place, or Third place points.
@@ -40,7 +40,7 @@ When more than nine teams are involved, at the determination of the meet directo
 - If there are 15 to 20 teams, the top 6 teams should be placed in the championship bracket, the next 9 places (7 through 15) should quiz in the intermediate quizzes given below (XYZ) and the remaining teams should be dropped.
 - If there are more than 24 teams, the top 6 should be placed in the championship bracket, teams 7-15 should quiz in the XYZ quizzes to determine places 7-15. Teams 16-24 will quiz in XXYYZZ intermediate quizzes given below to determine their placement.
 
-A Consolation final 9 bracket will be used for positions 10-15 (determined by XYZ quizzes) and places 16-18 determined by XXYYZZ quizzes. The teams in the XYZ quizzes cannot move below position 15, regardless of how low their XYZ quiz score was. Likewise, the teams in the XXYYZZ quizzes cannot move above position 16, regardless of how high their intermediate quiz scores were.
+A Consolation Final Nine bracket will be used for positions 10-15 (determined by XYZ quizzes) and places 16-18 determined by XXYYZZ quizzes. The teams in the XYZ quizzes cannot move below position 15, regardless of how low their XYZ quiz score was. Likewise, the teams in the XXYYZZ quizzes cannot move above position 16, regardless of how high their intermediate quiz scores were.
 
 ### XYZ Quizzes
 
@@ -68,7 +68,7 @@ Points earned in these quizzes should be added to the points earned in the openi
 
 This bracket is based on the "winner-move-up" philosophy and is designed to select the best team out of a possible nine teams through winning rather than losing. The teams are then arranged in order (from first to ninth place) by points. The winners of quizzes A, D, and F meet in quiz G for the championship.
 
-In this bracket the top three teams are involved in a triple elimination, the middle three teams in a double elimination and the last three teams in a single elimination. This way only those teams that have earned the right through winning will advance to the final quiz.
+In this bracket, the top three teams are involved in a triple-elimination, the middle three teams in a double-elimination, and the last three teams in a single-elimination. This way only those teams that have earned the right through winning will advance to the final quiz.
 
 ##### Bracket A - This bracket does not require each team to lose to be eliminated.
 
@@ -80,7 +80,7 @@ In this bracket the top three teams are involved in a triple elimination, the mi
 - Quiz F: Second Quiz D, Third Quiz D, First Quiz E
 - Quiz G: Winner Quiz A, Winner Quiz D, Winner Quiz F
 - Quiz H: Same Three Teams in Quiz G
-- Quiz I: If winner of Quiz G does not win Quiz H, Quiz I will have the winners of Quiz G and H (only). The other team will be eliminated
+- Quiz I: If the winner of Quiz G does not win Quiz H, Quiz I will have the winners of Quiz G and H (only). The other team will be eliminated
 
 #### Tournament Bracket "B"
 
