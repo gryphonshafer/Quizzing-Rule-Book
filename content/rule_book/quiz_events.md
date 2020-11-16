@@ -37,10 +37,10 @@ The word "question" is significantly overloaded in the current rule book. We're 
 Limited to five verses before or after the verse. On all question types, a quizzer cannot automatically be ruled out of context by a single word, even if it is a unique word. Rather, the quizzer must say a complete thought or phrase that conclusively puts them out of context.
 
 **Interchangeable**
-: Means not only not incorrect; means either are acceptable as correct.
+: Means not only not incorrect; means either may be accepted as correct.
 
 **Special Name**
-: A name which imparts specific character qualities or attributes to that person of the deity.
+: A name that imparts specific character qualities or attributes to that person of the deity.
 
 ### Deity Rule
 
@@ -63,7 +63,7 @@ Limited to five verses before or after the verse. On all question types, a quizz
 
 The quizzer's response is correct when:
 
-- It fulfills all requirements specific to the Question Type.
+- It fulfills all requirements specific to the question type.
 - The quizzer stays in Context.
 - It contains the information requested.
     - If the quizmaster did not complete the reading of the question, the quizzer's answer must include the information in the remainder of the question as well as the answer.
@@ -76,7 +76,7 @@ Only the first response of the quizzer will be considered, however, if the respo
 
 #### Example
 
-INT Who has been making it grow? A. God. If the quizzer said "Apollos" they have given incorrect information (even though the name "Apollos" is in context) and would be called incorrect. If they had said "I planted the seed", "Apollos watered it", they have not given any incorrect information, are in context and will be given the 30 seconds to supply the correct answer required.
+INT Who has been making it grow? A. God. If the quizzer said "Apollos" they have given incorrect information (even though the name "Apollos" is in context) and would be called incorrect. If they had said "I planted the seed", "Apollos watered it", they have not given any incorrect information, are in context, and will be given the 30 seconds to supply the correct answer required.
 
 ### Incorrect
 
@@ -88,9 +88,9 @@ The quizzer's response is incorrect when:
 
 #### Example
 
-Incorrect Information, e.g If the wrong person (i.e. Father, Son, Holy Spirit) in the deity (God) is given.
+Incorrect Information, e.g. If the wrong person (i.e. Father, Son, Holy Spirit) in the deity (God) is given.
 
-All requirements not fulfilled, Any word is omitted or added in a Finish-The-Verse, Finish-This, or Quote Question or the wrong verse is begun.
+All requirements are not fulfilled, Any word is omitted or added in a Finish-The-Verse, Finish-This, or Quote Question or the wrong verse is begun.
 
 ## Challenges
 
@@ -115,14 +115,14 @@ The result of a challenge may not be challenged.
 
 If the challenge is accepted:
 
-- Points or error points which reflect the new ruling of the judge will be recorded.
+- Points or error points that reflect the new ruling of the judge will be recorded.
 - A new question of the same number will be given if the question is ruled illegal.
 
 When a challenge is made, the quizmaster must give each team's captain or co-captain an opportunity to speak to the challenge before making a ruling on the challenge. Whichever team is being challenged against will have the right to speak last.
 
 ## Protests
 
-Coaches, including assistant coaches, of the teams participating in a quiz may place the quiz under protest under the following conditions:
+Coaches, including assistant coaches, of the teams participating in a quiz, may place the quiz under protest under the following conditions:
 
 - When the coach feels a logistical rule has been broken by the quiz officials.
     - Any rules regarding judgment calls on questions must be challenged by a captain/co-captain before they may be protested.
@@ -157,7 +157,7 @@ The following are fouls:
 - Having more than the designated team members, one coach, and an assistant coach on the quiz platform during a time-out.
 - Challenging after conferring with anyone
 - If a captain or co-captain confers with his/her coach or other quizzers prior to issuing a challenge. In addition, the challenge will not be allowed.
-- Infraction of the rules, in spirit as well as letter, as discerned by the quiz officials.
+- Infraction of the rules, in spirit as well as in the letter, as discerned by the quiz officials.
 
 **Individual Fouls**
 : A foul awarded to one or more individual quizzers.
@@ -188,7 +188,7 @@ The following are fouls:
     Set the timeout duration to 60.
 
 - Each team is allowed two, one-minute time-outs. Only one of those time-outs may be taken after question number 17, including any alphanumeric question numbers.
-- Captains, co-captains or coaches may call for a time-out.
+- Captains, co-captains, or coaches may call for a time-out.
 - Only the coach, assistant coach, and substitute may converse with the team during a time-out.
 - Time-outs may be called prior to bonus questions.
 
@@ -209,7 +209,7 @@ The following are fouls:
 
 ## Scoring
 
-Below are the the scoring calculation rules and the logic for them. This procedure is executed after every "quiz event" (defined below).
+Below are the scoring calculation rules and the logic for them. This procedure is executed after every "quiz event" (defined below).
 
 ### Scoring Terms and Definitions
 
