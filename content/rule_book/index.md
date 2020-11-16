@@ -7,4 +7,3 @@
 - [Quiz Events](quiz_events.md)
 - [Quiz Meets](quiz_meets.md)
 - [District Seasons](district_seasons.md)
-- [International Bible Quizzing](international_bible_quizzing.md)
