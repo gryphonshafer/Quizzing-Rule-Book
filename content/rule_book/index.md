@@ -9,3 +9,4 @@ This is the official rule book for Bible Quizzing, which represents what will be
 - [Quiz Meets](quiz_meets.md)
 - [District Seasons](district_seasons.md)
 - [International Bible Quizzing](internationals.md)
+- [Change Management Process](change_management.md)
