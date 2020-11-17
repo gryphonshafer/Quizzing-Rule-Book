@@ -36,9 +36,9 @@ The tournament brackets are based on three things: A preliminary round, an elimi
 
 When more than nine teams are involved, at the determination of the meet director and announced before the meet begins, there may be XYZ quizzes, following these guidelines:
 
-- If there are 10 to 14 teams, the top 9 should be placed into a final nine championship bracket after the opening round, for the elimination round, and the remaining teams dropped.
-- If there are 15 to 20 teams, the top 6 teams should be placed in the championship bracket, the next 9 places (7 through 15) should quiz in the intermediate quizzes given below (XYZ) and the remaining teams should be dropped.
-- If there are more than 24 teams, the top 6 should be placed in the championship bracket, teams 7-15 should quiz in the XYZ quizzes to determine places 7-15. Teams 16-24 will quiz in XXYYZZ intermediate quizzes given below to determine their placement.
+- If there are 10 to 14 teams, the top nine should be placed into a final nine championship bracket after the opening round, for the elimination round, and the remaining teams dropped.
+- If there are 15 to 20 teams, the top six teams should be placed in the championship bracket, the next nine places (7 through 15) should quiz in the intermediate quizzes given below (XYZ) and the remaining teams should be dropped.
+- If there are more than 24 teams, the top six should be placed in the championship bracket, teams 7-15 should quiz in the XYZ quizzes to determine places 7-15. Teams 16-24 will quiz in XXYYZZ intermediate quizzes given below to determine their placement.
 
 A Consolation Final Nine bracket will be used for positions 10-15 (determined by XYZ quizzes) and places 16-18 determined by XXYYZZ quizzes. The teams in the XYZ quizzes cannot move below position 15, regardless of how low their XYZ quiz score was. Likewise, the teams in the XXYYZZ quizzes cannot move above position 16, regardless of how high their intermediate quiz scores were.
 
@@ -139,9 +139,9 @@ A team must win twice to become the champion team. All three teams will continue
 
 - If the same team wins the first two championship quizzes,
     - Second place is determined by the most second places. If that is a tie, second place will be determined by Clarification (below).
-- If the Champion team is determined in 3 quizzes
+- If the Champion team is determined in three quizzes
     - Second and third places will be determined by Clarification (below).
-- If the Champion team is determined in 4 quizzes
+- If the Champion team is determined in four quizzes
     - Second place is determined by the most second places. If that is a tie, second place will be determined by Clarification (below).
 
 ### Clarification for second and third place:
