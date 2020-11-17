@@ -53,11 +53,6 @@ These rules apply to the Internationals quiz meet conducted once yearly, adminis
 - Elimination round will come from full International question file.
 - Finals will come from full International question file.
 
-## Tournament Structure
-
-- The preliminary round will consist of a minimum of 9 preliminary quizzes.
-- Elimination round bracket C will be used.
-
 ## Equipment
 
 - Electronic jump-seat equipment must be used for all competitions. A back-up set must be on hand at all times.

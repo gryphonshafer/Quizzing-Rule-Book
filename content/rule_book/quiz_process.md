@@ -79,6 +79,7 @@ If chair #2 erred on the toss-up, chair #2 of the team that did not err on the t
 - Only a coach from a team presently participating in the quiz, or the meet director may confer with the officials.
 - Coaches may have quiz material(s) on the platform during a time-out or prior to a quiz.
 - Quizzers will not touch the officials' table.
+- Quiz rooms will use jump measuring equipment to prevent ties.
 - Push-button quizzing can be provided if needed by physically disabled quizzers.
 
 ## Jumping

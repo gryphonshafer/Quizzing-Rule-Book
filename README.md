@@ -15,7 +15,6 @@ This project is the content, meta-documents, and tooling for the creation and on
     - [Rule Book Index](content/index.md)
     - [Best Practices](content/best_practices.md)
     - Governance
-        - [International Bible Quizzing](content/governance/internationals.md)
         - [Mission Statement](content/governance/mission.md)
         - [CMA Quizzing Leadership Team](content/governance/not_bylaws.md)
         - [Scholarships](content/governance/scholarships.md)
