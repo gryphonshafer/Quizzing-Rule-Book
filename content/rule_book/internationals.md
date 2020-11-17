@@ -10,19 +10,20 @@ These rules apply to the Internationals quiz meet conducted once yearly, adminis
 
 ## Team Structure
 
-- Each district will be allowed to send as many teams as the district feels will be competitive and that they are financially able to send. These will be the district International Teams.
+- Each district will be allowed to send as many teams as the district feels will be competitive and that they are financially able to send. These will be the district's International Teams.
 - Each team must have a coach and may also have an assistant coach.
 
 ## Event Registration
 
-- All arrangements, promotion, and administration will be by the LIFE Office.
+- All arrangements, promotion, and administration will be handled by the CQLT and LIFE Office.
 - Notification by each district of its intention to enter a team must be received by the CQLT, on a form supplied by the CQLT, no later than the date posted on the C&MA Quizzing website.
 - The names of the International Team, coaching staff, and all registration fees must be sent, when specified, to the LIFE Office for that quiz year.
+- District participation fees the current quiz year must be paid in order to register for the International competition. Any exceptions to this must be brought to the C&MA Quizzing Leadership Team (CQLT).
 
 ## Selection of Officials
 
 - Officials for a sanctioned quiz may include a quizmaster, answer judge(s), and a scorekeeper(s).
-- The international quizmaster and officials will be appointed by the CQLT. To be considered for the CQLT appointment, all quizmasters and officials must:
+- The international quizmasters and officials will be appointed by the CQLT. To be considered for the CQLT appointment, all quizmasters and officials must:
     - Be a regular church attender.
     - Have three years of district quizmastering experience and be recommended by their district office or quiz committee.
     - Go through an evaluation process established by the CQLT, to determine that each official is qualified to perform their specific role.
@@ -39,14 +40,15 @@ These rules apply to the Internationals quiz meet conducted once yearly, adminis
 
 ### Statistician
 
-- A statistician will be responsible for keeping individual quizzers' scores.
-- The statistician will be responsible for keeping individual teams' scores and provide updates to the teams of their current standings.
+- The International statistician will be appointed by the CQLT.
 - This individual shall not be a regular scorekeeper.
+- The statistician will be responsible for keeping individual quizzers' scores.
+- The statistician will be responsible for keeping individual teams' scores and provide updates to the teams of their current standings.
 
 ## Quiz Question Selection
 
-- For the International Finals, questions must be written covering the entire material for the quiz year.
-- Questions for the International Finals will be the responsibility of the CQLT.
+- For the International competition, questions must be written covering the entire material for the quiz year.
+- Questions for the International competition will be the responsibility of the CQLT.
 - Questions must be word-for-word as it appears in the material version.
 - A question can be used multiple times in any part of the International Finals.
 - Preliminary rounds will come from full International question file.
