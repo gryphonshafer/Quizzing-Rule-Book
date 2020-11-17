@@ -124,8 +124,8 @@ When a challenge is made, the quizmaster must give each team's captain or co-cap
 
 Coaches, including assistant coaches, of the teams participating in a quiz, may place the quiz under protest under the following conditions:
 
-- When the coach feels a logistical rule has been broken by the quiz officials.
-    - Any rules regarding judgment calls on questions must be challenged by a captain/co-captain before they may be protested.
+- When a coach feels a logistical rule has been broken by the quiz officials.
+- When a coach feels a judgment call has been made incorrectly, the call must be challenged by a captain/co-captain before the coach may protest.
 - The protest must be placed before the next question is called.
     - This means the protest must apply to the question and ruling that just happened.
 - The coach may only confer with their assistant coach and substitute quizzer, before protesting.
