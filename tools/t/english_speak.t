@@ -1,20 +1,22 @@
+use Test::Most;
+use exact -me;
 use English::Script;
-use FindBin '$Bin';
 use Mojo::DOM;
 use Mojo::File 'path';
-use Test::Most;
 use Text::MultiMarkdown 'markdown';
 
-my $content = "$Bin/../../content/rule_book";
+my $content_dir = me('../../content');
 my $speak;
 
 lives_ok(
     sub {
         $speak = Mojo::DOM
-            ->new( markdown( path("$content/index.md")->slurp ) )
+            ->new( markdown( path("$content_dir/rule_book/index.md")->slurp ) )
             ->find('a')->map( attr => 'href' )->grep( sub { not m|//| } )->map( sub {
                 my $file = $_;
-                Mojo::DOM->new( markdown( path("$content/$file")->slurp ) )->find('pre code')->map( sub {
+                Mojo::DOM->new(
+                    markdown( path("$content_dir/rule_book/$file")->slurp )
+                )->find('pre code')->map( sub {
                     my $node    = $_->parent;
                     $node       = $node->previous while ( $node and $node->tag and $node->tag !~ /^h\d$/ );
 

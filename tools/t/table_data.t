@@ -1,19 +1,21 @@
+use Test::Most;
+use exact -me;
 use Bible::Reference;
-use FindBin '$Bin';
 use Mojo::DOM;
 use Mojo::File 'path';
-use Test::Most;
 use Text::MultiMarkdown 'markdown';
 
-my $content = "$Bin/../../content/rule_book";
+my $content_dir = me('../../content');
 my $tables;
 
 lives_ok(
     sub {
         $tables = Mojo::DOM
-            ->new( markdown( path("$content/index.md")->slurp ) )
+            ->new( markdown( path("$content_dir/rule_book/index.md")->slurp ) )
             ->find('a')->map( attr => 'href' )->grep( sub { not m|//| } )->map( sub {
-                Mojo::DOM->new( markdown( path("$content/$_")->slurp ) )->find('table')->map( sub {
+                Mojo::DOM->new(
+                    markdown( path("$content_dir/rule_book/$_")->slurp
+                ) )->find('table')->map( sub {
                     my $headers = $_->find('thead tr th')->map('text')->to_array;
                     my $node    = $_;
                     $node       = $node->previous while ( $node and $node->tag and $node->tag !~ /^h\d$/ );

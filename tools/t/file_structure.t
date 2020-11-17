@@ -1,18 +1,18 @@
-use FindBin '$Bin';
+use Test::Most;
+use exact -me;
 use Mojo::DOM;
 use Mojo::File 'path';
-use Test::Most;
 use Text::MultiMarkdown 'markdown';
 
-my $content = "$Bin/../../content/rule_book";
+my $content_dir = me('../../content');
 
-ok( -r "$content/index.md", 'index.md exists and is readable' );
+ok( -r "$content_dir/rule_book/index.md", 'index.md exists and is readable' );
 
 my $a;
 lives_ok(
     sub {
         $a = Mojo::DOM
-            ->new( markdown( path("$content/index.md")->slurp ) )
+            ->new( markdown( path("$content_dir/rule_book/index.md")->slurp ) )
             ->find('a')->map( attr => 'href' )->grep( sub { not m|//| } )->to_array
     },
     'for index.md: render MultiMarkdown, parse HTML, find local links',
@@ -29,7 +29,7 @@ is_deeply( $a, [ qw(
 )], 'links are correct' );
 
 lives_ok(
-    sub { Mojo::DOM->new( markdown( path("$content/$_")->slurp ) ) },
+    sub { Mojo::DOM->new( markdown( path("$content_dir/rule_book/$_")->slurp ) ) },
     "render MultiMarkdown, parse HTML for: $_",
 ) for (@$a);
 
