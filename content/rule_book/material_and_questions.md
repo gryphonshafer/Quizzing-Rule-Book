@@ -68,7 +68,7 @@ Question Type maximums can be exceeded in Overtime.
 
 - All questions must contain verbatim material.
     - The only exception to this is Situation question Quotations, which could potentially involve a single Quotation, broken up by non-quotation words. This would result in the Situation Quotation being written without the non-quotation words in the middle of the two quotations.
-- On some types, the addition of a single, approved, interrogative word at the very beginning or very end is required.
+- On some Question Types, the addition of a single, approved, interrogative word at the very beginning or very end is required.
 
 ### Question Types
 
@@ -86,6 +86,12 @@ Question Type maximums can be exceeded in Overtime.
     - The identification of a singular pronoun does not meet the above requirement.
     - The identification of a plural pronoun does meet the above requirement.
 - If one of the listed answers to the multiple answer's questions is a "negative" answer, this is deemed invalid as a Multiple Answer question.
+    - A "negative" answer is an answer that begins with the words or words similar to "not", "no", or "neither" or are used to contrast another answer.
+
+##### Example
+
+- Negative word: For example, 1 Corinthians 3:7 says, "So neither the one who plants nor the one who waters is anything, but only God, who makes things grow." The question, "Who is anything?" Answer: neither the one who plants nor the one who waters, is not a valid MA
+- Contrasting: For example, 1 Corinthians 5:25 says, "Everyone who competes in the games goes into strict training. They do it to get a crown that will not last, but we do it to get a crown that will last forever." The question, "A crown that will what?" Answer: Not last; last forever, is not a valid MA.
 
 #### Reference
 
@@ -99,7 +105,7 @@ Question Type maximums can be exceeded in Overtime.
 
 ##### Example
 
-- Similar content and wording: CVR According to Luke chapter 23: 37 King of what? A. The Jews The quizzer can give the question "King of what?" or "King of whom?", as Jews could be referring to either nation (what) or people (whom). In this case, the quizzer could also give "King of the what?"
+- Similar content and wording: CVR According to Luke chapter 23:37 King of what? A. The Jews The quizzer can give the question "King of what?" or "King of whom?", as Jews could be referring to either nation (what) or people (whom). In this case, the quizzer could also give "King of the what?"
 - Referencing the determining word or phrase, in the 50/50 example, "What men?", and "Lawless what?, the questions are not similar.
 - Further explanation of the interrogative word used in a reference question.
     - If two identical phrases exist in the same chapter, but one occurrence grammatically calls for use of the "who" inserted interrogative word, and the other occurrence grammatically calls for the use of the "what" inserted interrogative word, that difference in the grammatically dictated interrogative word does not change the fact that phrase from the material (that excludes the inserted interrogative word) occurs more than twice in the same chapter, necessitating a CVR question.
