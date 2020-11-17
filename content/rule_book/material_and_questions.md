@@ -35,10 +35,10 @@
 : A word appearing only once in the material or a word that occurs multiple times, but only in one verse in the material.
 
 **Unique Phrases**
-: 2 or 3 consecutive words, the sequence of which is only found in only one verse in the material.
+: Two or three consecutive words, the sequence of which is only found in only one verse in the material.
 
-**First 5 Words of the Question**
-: Defined as "the first 5 spoken words after Question, whether the words are from the material or not." This concept applies to the beginning of Interrogative, Multiple Answer, Finish, Situation questions.
+**First Five Words of the Question**
+: Defined as "the first five spoken words after Question, whether the words are from the material or not." This concept applies to the beginning of Interrogative, Multiple Answer, Finish, Situation questions.
 
 ### Question Type Distribution
 
@@ -76,7 +76,7 @@ Question Type maximums can be exceeded in Overtime.
 
 - Must have exactly one inserted interrogative word at the very beginning of the question or the very end of the question.
 - Must have a single answer.
-- Must include a unique word, or 2-3 word unique phrase within the first 5 words of the question.
+- Must include a unique word, or a two or three word unique phrase within the first five words of the question.
 
 #### Multiple Answer (MA)
 
@@ -180,12 +180,12 @@ The question must contain a word or phrase that exists more than once in the mat
         - The quotation must not exceed two consecutive verses.
         - The first five words must be unique to all Quotations.
         - The quizzer is not required to repeat the quotation word-perfect but must be substantially close without leaving out key components of the quotation.
-        - Must start at the beginning of a quotation or the beginning of a sentence within the quotation. When a Situation question comes from a quotation that runs for more than 2 verses, the beginning of the Situation question must start within the first 2 verses of the quotation.
+        - Must start at the beginning of a quotation or the beginning of a sentence within the quotation. When a Situation question comes from a quotation that runs for more than two verses, the beginning of the Situation question must start within the first two verses of the quotation.
         - If the Quotation is split-up by non-quotation words, the Quotation will be read without the non-quotation words.
             - A situation question can combine two separate quotations as long as no words are added and the two quotes flow easily from one to another. The quotation must be written excluding any non-quotation words in the middle of the quotations.
     - Questions regarding the Situation of the Quotation
         - Ask for who said it, to whom, how, why, when, where, or about whom. No other interrogatives are permissible.
-        - Can only ask for a maximum of 3 Questions
+        - Can only ask for a maximum of three Questions
 - The answer to the Situation Question must be in context.
 
 ##### Example
@@ -196,7 +196,7 @@ Split quotation: For example, Matthew 4:19 says, "Come, follow me", Jesus said, 
 
 This defines how a Quizmaster must introduce and read each question type.
 
-4 parts:
+Four parts:
 
 1. Introduction part 1
     - "Question Number [ 1, 2, 3, 4, 5, etc ] is a [ TYPE ] question."
