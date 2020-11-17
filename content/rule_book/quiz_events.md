@@ -82,10 +82,11 @@ INT Who has been making it grow? A. God. If the quizzer said "Apollos" they have
 
 The quizzer's response is incorrect when:
 
+- An Incorrect answer is also known as an error.
 - Incorrect information has been given.
 - The information given within the time limit is incomplete.
 - It does not fulfill all requirements specific to the Question Type.
-- Three Incorrect answers (errors) by a quizzer eliminate that quizzer from the quiz. The quizzer must leave the platform immediately.
+- Three Incorrect answers by a quizzer eliminate that quizzer from the quiz. The quizzer must leave the platform immediately.
     - Incorrect answers on bonus questions do not count towards this total. 
 
 #### Example
