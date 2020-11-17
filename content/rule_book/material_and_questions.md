@@ -198,9 +198,9 @@ This defines how a Quizmaster must introduce and read each question type.
 
 Four parts:
 
-1. Introduction part 1
+1. Introduction part one
     - "Question Number [ 1, 2, 3, 4, 5, etc ] is a [ TYPE ] question."
-2. Introduction part 2
+2. Introduction part two
     - For Situation questions only: "I need to know [ who said it, how was it said, where was it said, etc ]"
 3. Final Statement
     - "Question Number [ 1, 2, 3, 4, 5, etc ] question"
