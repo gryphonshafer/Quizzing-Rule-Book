@@ -21,11 +21,12 @@ lives_ok(
 is_deeply( $a, [ qw(
     material_and_questions.md
     roles_and_responsibilities.md
-    equipment.md
     quiz_process.md
     quiz_events.md
     quiz_meets.md
     district_seasons.md
+    internationals.md
+    change_management.md
 )], 'links are correct' );
 
 lives_ok(

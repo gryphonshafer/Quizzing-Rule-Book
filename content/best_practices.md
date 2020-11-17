@@ -49,12 +49,6 @@ Situation Quotations must be reasonable in length.
 
 If the score in overtime is such that the final placements are decided, the current set of three overtime questions does not have to be completed.
 
-## Districts
-
-- Each district retains the right to set and enforce their own rules
-    - Eligibility requirements for their district
-    - Eligibility rules for International team membership and the degree of involvement quizzers must have within a local church
-
 ### Example
 
 Some common cases of districts setting their own rules:

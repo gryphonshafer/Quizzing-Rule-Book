@@ -25,6 +25,8 @@ Teams can have up to 5 quizzers on it. Teams can have up to 4 quizzers in the qu
 
 The Quizmaster must:
 
+- Maintain a position such that all currently seated quizzers are able to view the quizmaster's face
+- Speak in such as a way as to be understood by all quizzers
 - Identify the question type of each question and begin every question with, "question number_____, question".
 - Rule immediately upon an obviously correct or incorrect answer if there is no indication from the answer judge to the contrary.
     - When an answer is in question (different than what is on the card), the quizmaster will discuss it with the answer judge.
