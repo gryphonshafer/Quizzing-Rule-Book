@@ -2,7 +2,7 @@
 
 ## Team Organization
 
-Teams can have up to 5 quizzers on it. Teams can have up to 4 quizzers in the quiz at any given time.
+Teams can have up to five quizzers on it. Teams can have up to four quizzers in the quiz at any given time.
 
 ### Quizzers
 
