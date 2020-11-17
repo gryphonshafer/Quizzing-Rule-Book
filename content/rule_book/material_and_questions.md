@@ -85,8 +85,8 @@ Question Type maximums can be exceeded in Overtime.
     - The clarification of a single answer does not meet the above requirement.
     - The identification of a singular pronoun does not meet the above requirement.
     - The identification of a plural pronoun does meet the above requirement.
-- If one of the listed answers to the multiple answer's questions is a "negative" answer, this is deemed invalid as a Multiple Answer question.
-    - A "negative" answer is an answer that begins with the words or words similar to "not", "no", or "neither" or are used to contrast another answer.
+    - If one of the listed answers to the multiple answer's questions is a "negative" answer, this is deemed invalid as a Multiple Answer question.
+        - A "negative" answer is an answer used to contrast another answer, or does not answer the question (e.g. An answer that begins with the words or words similar to "not" or "neither".)
 
 ##### Example
 
