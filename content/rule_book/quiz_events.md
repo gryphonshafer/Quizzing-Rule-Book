@@ -311,9 +311,9 @@ All points earned or deducted by an individual are to be counted towards the tea
      - Teams that arrive late due to quizzing in another room are excused from the forfeiture of these points. If a single quizzer is late, the coach can decide to keep the +20 points by keeping the late quizzer out the whole quiz, or forfeit the points by subbing the quizzer in after question number one. This decision must occur before the quiz has been started.
 - +10 Points for the first correct answer given by the third and subsequent quizzer on the team.
 - +20 Points for every correct bonus question before question number 17
-     - In two Team Quizzes, this scoring rule does not apply
+     - In two-team Quizzes, this scoring rule does not apply
 - +10 Points for every correct bonus question after and including question number 17
-     - In two Team Quizzes, all correct bonus questions are worth 10 points
+     - In two-team Quizzes, all correct bonus questions are worth 10 points
 
 #### Points Deducted
 
