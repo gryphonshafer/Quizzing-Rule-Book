@@ -67,12 +67,11 @@ The quizzer's response is correct when:
 - The quizzer stays in Context.
 - It contains the information requested.
     - If the quizmaster did not complete the reading of the question, the quizzer's answer must include the information in the remainder of the question as well as the answer.
-    - It is not required to be in question and answer form, except in the case of a reference question.
-    - The quizzer's answer must include all unique words included in both the question and the answer.
+    - The quizzer's answer must include all unique words in both the question and the answer.
 
 Mispronounced names are still recognizable as the answer.
 
-Only the first response of the quizzer will be considered, however, if the response by the quizzer is in context and is not incorrect, the quizzer will be allowed their full 30 seconds to give the additional information necessary to satisfy the question and the answer.
+Only the first response of the quizzer will be considered, however, if the response by the quizzer is in context and is not incorrect, the quizzer will be allowed their full 30 seconds to satisfy all requirements of a Correct response.
 
 #### Example
 

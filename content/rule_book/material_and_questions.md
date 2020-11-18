@@ -92,7 +92,7 @@ Question Type maximums can be exceeded in Overtime.
 - Used to distinguish exact same words or phrases from the material.
 - The entire reference question is part of the required question + answer.
 - If a quizzer needs to provide the reference question, the provided reference question must:
-    - Be of the exact same type as the one on the card (CR, CVR, MACR, MACVR). The quizmaster and/or answer judge must check to confirm this.
+    - Be of the exact same type (CR, CVR, MACR, MACVR) as the written question.
     - Have content AND wording is similar to the content and wording of the written question.
     - Have the determining word or phrase of the written question.
     - The interrogative word used is not a factor when deciding the valid type of a reference question.
@@ -140,6 +140,7 @@ The question must contain a word or phrase that exists more than once in the mat
 ##### Quote-these-Two-Verses (Q2V)
 
 - Two consecutive verses
+- Used when a verse is not strong enough on its own and needs another verse to explain it or can be used when two verses combined, form an even stronger thought.
 
 ##### Finish
 
