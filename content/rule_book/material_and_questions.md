@@ -60,7 +60,7 @@ In the below table, any minimum or maximum variation between material years is i
 : For a given Question Type, the maximum number of questions must not be exceeded in all "non-Overtime" questions. This includes any alphanumeric question numbers.
 
 **Overtime Specifics**
-Question Type maximums can be exceeded in Overtime.
+: Question Type maximums can be exceeded in Overtime.
 
 ## Question Writing
 
@@ -206,6 +206,8 @@ Four parts:
 3. Final Statement
     - "Question Number [ 1, 2, 3, 4, 5, etc ] question"
 4. Actual Question
+
+Additional rules:
 
 - For INT and MA, begin reading the question
 - For Chapter Reference (and MACR), "According to [ Book Name ], Chapter [Chapter Number]..."

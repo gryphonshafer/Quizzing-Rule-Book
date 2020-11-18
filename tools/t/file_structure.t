@@ -4,7 +4,11 @@ use Mojo::DOM;
 use Mojo::File 'path';
 use Text::MultiMarkdown 'markdown';
 
-my $rule_book_dir = conf->get( qw( config_app root_dir ) ) . '/' . conf->get( qw( rule_book dir ) );
+my $rule_book_dir = join( '/', map { conf->get(@$_) } (
+    [ qw( config_app root_dir ) ],
+    ['content_dir'],
+    [ qw( rule_book dir ) ],
+) );
 
 ok( -r "$rule_book_dir/index.md", 'index.md exists and is readable' );
 

@@ -1,4 +1,3 @@
-requires 'Alien::Tidyp', '>= 1.4.7';
 requires 'Bible::Reference', '>= 1.05';
 requires 'English::Script', '>= 1.02';
 requires 'exact', '>= 1.13';
@@ -6,6 +5,6 @@ requires 'exact::cli', '>= 1.03';
 requires 'exact::conf', '>= 1.03';
 requires 'File::Basename';
 requires 'Mojolicious', '>= 8.59';
-requires 'PDF::FromHTML', '>= 0.33';
+requires 'PDF::WebKit', '>= 1.2';
 requires 'Test::Most', '>= 0.37';
 requires 'Text::MultiMarkdown', '>= 1.000035';
