@@ -35,10 +35,10 @@
 : A word appearing only once in the material or a word that occurs multiple times, but only in one verse in the material.
 
 **Unique Phrases**
-: 2 or 3 consecutive words, the sequence of which is only found in only one verse in the material.
+: Two or three consecutive words, the sequence of which is only found in only one verse in the material.
 
-**First 5 Words of the Question**
-: Defined as "the first 5 spoken words after Question, whether the words are from the material or not." This concept applies to the beginning of Interrogative, Multiple Answer, Finish, Situation questions.
+**First Five Words of the Question**
+: Defined as "the first five spoken words after Question, whether the words are from the material or not." This concept applies to the beginning of Interrogative, Multiple Answer, Finish, Situation questions.
 
 ### Question Type Distribution
 
@@ -68,7 +68,7 @@ Question Type maximums can be exceeded in Overtime.
 
 - All questions must contain verbatim material.
     - The only exception to this is Situation question Quotations, which could potentially involve a single Quotation, broken up by non-quotation words. This would result in the Situation Quotation being written without the non-quotation words in the middle of the two quotations.
-- On some types, the addition of a single, approved, interrogative word at the very beginning or very end is required.
+- On some Question Types, the addition of a single, approved, interrogative word at the very beginning or very end is required.
 
 ### Question Types
 
@@ -76,7 +76,7 @@ Question Type maximums can be exceeded in Overtime.
 
 - Must have exactly one inserted interrogative word at the very beginning of the question or the very end of the question.
 - Must have a single answer.
-- Must include a unique word, or 2-3 word unique phrase within the first 5 words of the question.
+- Must include a unique word, or a two or three word unique phrase within the first five words of the question.
 
 #### Multiple Answer (MA)
 
@@ -84,22 +84,28 @@ Question Type maximums can be exceeded in Overtime.
 - Must have more than one answer.
     - The clarification of a single answer does not meet the above requirement.
     - The identification of a singular pronoun does not meet the above requirement.
-    - The identification of a plural pronoun, with more than one clarification to the pronoun, does meet the above requirement.
-- If one of the listed answers to the multiple answer's questions is a "negative" answer, this is deemed invalid as a Multiple Answer question.
+    - The identification of a plural pronoun does meet the above requirement.
+    - If one of the listed answers to the multiple answer's questions is a "negative" answer, this is deemed invalid as a Multiple Answer question.
+        - A "negative" answer is an answer used to contrast another answer, or does not answer the question (e.g. An answer that begins with the words or words similar to "not" or "neither".)
+
+##### Example
+
+- Negative word: For example, 1 Corinthians 3:7 says, "So neither the one who plants nor the one who waters is anything, but only God, who makes things grow." The question, "Who is anything?" Answer: neither the one who plants nor the one who waters, is not a valid MA
+- Contrasting: For example, 1 Corinthians 5:25 says, "Everyone who competes in the games goes into strict training. They do it to get a crown that will not last, but we do it to get a crown that will last forever." The question, "A crown that will what?" Answer: Not last; last forever, is not a valid MA.
 
 #### Reference
 
 - Used to distinguish exact same words or phrases from the material.
 - The entire reference question is part of the required question + answer.
 - If a quizzer needs to provide the reference question, the provided reference question must:
-    - Be of the exact same type as the one on the card (CR, CVR, MACR, MACVR). The quizmaster and/or answer judge must check to confirm this.
+    - Be of the exact same type (CR, CVR, MACR, MACVR) as the written question.
     - Have content AND wording is similar to the content and wording of the written question.
     - Have the determining word or phrase of the written question.
     - The interrogative word used is not a factor when deciding the valid type of a reference question.
 
 ##### Example
 
-- Similar content and wording: CVR According to Luke chapter 23: 37 King of what? A. The Jews The quizzer can give the question "King of what?" or "King of whom?", as Jews could be referring to either nation (what) or people (whom). In this case, the quizzer could also give "King of the what?"
+- Similar content and wording: CVR According to Luke chapter 23:37 King of what? A. The Jews The quizzer can give the question "King of what?" or "King of whom?", as Jews could be referring to either nation (what) or people (whom). In this case, the quizzer could also give "King of the what?"
 - Referencing the determining word or phrase, in the 50/50 example, "What men?", and "Lawless what?, the questions are not similar.
 - Further explanation of the interrogative word used in a reference question.
     - If two identical phrases exist in the same chapter, but one occurrence grammatically calls for use of the "who" inserted interrogative word, and the other occurrence grammatically calls for the use of the "what" inserted interrogative word, that difference in the grammatically dictated interrogative word does not change the fact that phrase from the material (that excludes the inserted interrogative word) occurs more than twice in the same chapter, necessitating a CVR question.
@@ -140,6 +146,7 @@ The question must contain a word or phrase that exists more than once in the mat
 ##### Quote-these-Two-Verses (Q2V)
 
 - Two consecutive verses
+- Used when a verse is not strong enough on its own and needs another verse to explain it or can be used when two verses combined, form an even stronger thought.
 
 ##### Finish
 
@@ -174,12 +181,12 @@ The question must contain a word or phrase that exists more than once in the mat
         - The quotation must not exceed two consecutive verses.
         - The first five words must be unique to all Quotations.
         - The quizzer is not required to repeat the quotation word-perfect but must be substantially close without leaving out key components of the quotation.
-        - Must start at the beginning of a quotation or the beginning of a sentence within the quotation. When a Situation question comes from a quotation that runs for more than 2 verses, the beginning of the Situation question must start within the first 2 verses of the quotation.
+        - Must start at the beginning of a quotation or the beginning of a sentence within the quotation. When a Situation question comes from a quotation that runs for more than two verses, the beginning of the Situation question must start within the first two verses of the quotation.
         - If the Quotation is split-up by non-quotation words, the Quotation will be read without the non-quotation words.
             - A situation question can combine two separate quotations as long as no words are added and the two quotes flow easily from one to another. The quotation must be written excluding any non-quotation words in the middle of the quotations.
     - Questions regarding the Situation of the Quotation
         - Ask for who said it, to whom, how, why, when, where, or about whom. No other interrogatives are permissible.
-        - Can only ask for a maximum of 3 Questions
+        - Can only ask for a maximum of three Questions
 - The answer to the Situation Question must be in context.
 
 ##### Example
@@ -190,11 +197,11 @@ Split quotation: For example, Matthew 4:19 says, "Come, follow me", Jesus said, 
 
 This defines how a Quizmaster must introduce and read each question type.
 
-4 parts:
+Four parts:
 
-1. Introduction part 1
+1. Introduction part one
     - "Question Number [ 1, 2, 3, 4, 5, etc ] is a [ TYPE ] question."
-2. Introduction part 2
+2. Introduction part two
     - For Situation questions only: "I need to know [ who said it, how was it said, where was it said, etc ]"
 3. Final Statement
     - "Question Number [ 1, 2, 3, 4, 5, etc ] question"

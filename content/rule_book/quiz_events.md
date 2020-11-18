@@ -67,12 +67,11 @@ The quizzer's response is correct when:
 - The quizzer stays in Context.
 - It contains the information requested.
     - If the quizmaster did not complete the reading of the question, the quizzer's answer must include the information in the remainder of the question as well as the answer.
-    - It is not required to be in question and answer form, except in the case of a reference question.
-    - The quizzer's answer must include all unique words included in both the question and the answer.
+    - The quizzer's answer must include all unique words in both the question and the answer.
 
 Mispronounced names are still recognizable as the answer.
 
-Only the first response of the quizzer will be considered, however, if the response by the quizzer is in context and is not incorrect, the quizzer will be allowed their full 30 seconds to give the additional information necessary to satisfy the question and the answer.
+Only the first response of the quizzer will be considered, however, if the response by the quizzer is in context and is not incorrect, the quizzer will be allowed their full 30 seconds to satisfy all requirements of a correct response.
 
 #### Example
 
@@ -82,9 +81,12 @@ INT Who has been making it grow? A. God. If the quizzer said "Apollos" they have
 
 The quizzer's response is incorrect when:
 
+- An Incorrect answer is also known as an error.
 - Incorrect information has been given.
 - The information given within the time limit is incomplete.
 - It does not fulfill all requirements specific to the Question Type.
+- Three Incorrect answers by a quizzer eliminate that quizzer from the quiz. The quizzer must leave the platform immediately.
+    - Incorrect answers on bonus questions do not count towards this total. 
 
 #### Example
 
@@ -102,7 +104,7 @@ The team captain or co-captain may challenge if:
 - There has been a mispronunciation by the quizmaster
 - There has been an invalid question
 - The next question has not been called
-    - A challenge must be made at the time of the quizmaster's decision and before the next question is called. If a time-out is called immediately after a ruling, and a quizzer stands to challenge, the challenge may be done prior to the time-out.
+    - A challenge must be made at the time of the quizmaster's decision and before the next question is called. If a timeout is called immediately after a ruling, and a quizzer stands to challenge, the challenge may be done prior to the timeout.
 - No conferring has occurred between the quizzer challenging and anyone else. Conferring with anyone else prior to a challenge will result in:
     - The challenge being disallowed
     - A foul being awarded to the quizzer.
@@ -124,8 +126,8 @@ When a challenge is made, the quizmaster must give each team's captain or co-cap
 
 Coaches, including assistant coaches, of the teams participating in a quiz, may place the quiz under protest under the following conditions:
 
-- When the coach feels a logistical rule has been broken by the quiz officials.
-    - Any rules regarding judgment calls on questions must be challenged by a captain/co-captain before they may be protested.
+- When a coach feels a logistical rule has been broken by the quiz officials.
+- When a coach feels a judgment call has been made incorrectly, the call must be challenged by a captain/co-captain before the coach may protest.
 - The protest must be placed before the next question is called.
     - This means the protest must apply to the question and ruling that just happened.
 - The coach may only confer with their assistant coach and substitute quizzer, before protesting.
@@ -143,7 +145,7 @@ Logistical Rule: when the quizmaster did not allow the full 30 seconds for the q
 - If the officials fail to call a foul, a coach or captain may call it to the attention of the quizmaster. If in the quizmaster's (and/or the other officials') opinion a foul might have been committed, the quizmaster will give due warning to the violating team. A foul cannot be charged, and points cannot be deducted when the quizmaster receives such help from a coach or captain.
 - The quizzer upon whom a foul is called becomes ineligible to jump on that question number, including any alphanumeric question numbers.
     - The chair remains ineligible to jump on that question number, including any alphanumeric question numbers, even if the quizzer who committed the foul is substituted for.
-- Three fouls by a quizzer eliminate that quizzer from the quiz. The quizzer must leave the platform immediately. His/her seat will continue to be ineligible to jump for the entire question number, including any alphanumeric question numbers.
+- Three fouls by a quizzer eliminate that quizzer from the quiz. The quizzer must leave the platform immediately. That seat will continue to be ineligible to jump for the entire question number, including any alphanumeric question numbers.
 
 The following are fouls:
 
@@ -154,9 +156,9 @@ The following are fouls:
     - Discernibly includes the quizmaster's mouth forming a word shape.
 - During a Reference question or Quote question, when electronic equipment is used, if any light goes on after the quizmaster calls "Question" and before they begin to discernibly read the chapter number.
 - Starting to answer before being recognized by the Quizmaster.
-- Having more than the designated team members, one coach, and an assistant coach on the quiz platform during a time-out.
+- Having more than the designated team members, one coach, and an assistant coach on the quiz platform during a timeout.
 - Challenging after conferring with anyone
-- If a captain or co-captain confers with his/her coach or other quizzers prior to issuing a challenge. In addition, the challenge will not be allowed.
+- If a captain or co-captain confers with their coach or other quizzers prior to issuing a challenge. In addition, the challenge will not be allowed.
 - Infraction of the rules, in spirit as well as in the letter, as discerned by the quiz officials.
 
 **Individual Fouls**
@@ -183,28 +185,28 @@ The following are fouls:
 - The quizzer must not have Fouled Out.
 - The quizzer must not have committed a foul on this numerical question.
 
-## Time-Outs
+## timeouts
 
     Set the timeout duration to 60.
 
-- Each team is allowed two, one-minute time-outs. Only one of those time-outs may be taken after question number 17, including any alphanumeric question numbers.
-- Captains, co-captains, or coaches may call for a time-out.
-- Only the coach, assistant coach, and substitute may converse with the team during a time-out.
-- Time-outs may be called prior to bonus questions.
+- Each team is allowed two, one-minute timeouts. Only one of those timeouts may be taken after question number 17, including any alphanumeric question numbers.
+- Captains, co-captains, or coaches may call for a timeout.
+- Only the coach, assistant coach, and substitute may converse with the team during a timeout.
+- timeouts may be called prior to bonus questions.
 
 ## Substitutions
 
-- Substitutions may be made only during the time-outs.
-- A team can only make one substitution per time-out.
+- Substitutions may be made only during the timeouts.
+- A team can only make one substitution per timeout.
 - A quizzer being removed from a quiz must stay out for a minimum of three question numbers, including alphanumeric question numbers, before re-entering the quiz.
 - Quizzers can be substituted for any chair.
 - Quizzed-Out Quizzers:
     - May remain in the quiz to answer bonus questions.
-        - Substituting for them later will require a time-out.
+        - Substituting for them later will require a timeout.
     - If subbed out, may not return, for any reason.
 - When a quizzer quizzes-out, err-out, or fouls-out, and leaves the platform as required, a substitute may take their place:
     - Immediately
-    - Without a time-out
+    - Without a timeout
     - Even if the quizzer has been subbed-out less than three questions ago
 
 ## Scoring
@@ -295,8 +297,8 @@ All points that occur during a bonus question or during overtime do not contribu
 
 #### Points Deducted
 
-- -10 Points for 2nd and subsequent personal errors
-- -10 Points for 3rd personal foul
+- -10 Points for second and subsequent personal errors
+- -10 Points for third personal foul
 
 #### Team Points
 
@@ -305,21 +307,21 @@ All points earned or deducted by an individual are to be counted towards the tea
 #### Points Earned
 
 - +20 Points for each team present at the scheduled start time of the quiz.
-     - Teams that arrive late due to quizzing in another room are excused from the forfeiture of these points. If a single quizzer is late, the coach can decide to keep the +20 points by keeping the late quizzer out the whole quiz, or forfeit the points by subbing the quizzer in after question number 1. This decision must occur before the quiz has been started.
-- +10 Points for the 1st correct answer given by the 3rd and subsequent quizzer on the team.
+     - Teams that arrive late due to quizzing in another room are excused from the forfeiture of these points. If a single quizzer is late, the coach can decide to keep the +20 points by keeping the late quizzer out the whole quiz, or forfeit the points by subbing the quizzer in after question number one. This decision must occur before the quiz has been started.
+- +10 Points for the first correct answer given by the third and subsequent quizzer on the team.
 - +20 Points for every correct bonus question before question number 17
-     - In 2 Team Quizzes, this scoring rule does not apply
+     - In two-team Quizzes, this scoring rule does not apply
 - +10 Points for every correct bonus question after and including question number 17
-     - In 2 Team Quizzes, all correct bonus questions are worth 10 points
+     - In two-team Quizzes, all correct bonus questions are worth 10 points
 
 #### Points Deducted
 
 Team errors are the sum of all individual, non-bonus errors
 
-- -10 Points for every team error starting at team error number 3
+- -10 Points for every team error starting at team error number three
 - -10 Points for every error on a question or toss-up question starting at question number 17
-- -10 Points for 4th and subsequent team fouls
-- -10 Points for 2nd and subsequent overruled challenges & protests
+- -10 Points for fourth and subsequent team fouls
+- -10 Points for second and subsequent overruled challenges & protests
 - -10 Points at the determination of the room officials that a deliberate attempt was made to forfeit a question.
 - No more than -10 points can be deducted per question asked due to an error.
      - Non-error related deducted points are cumulative.

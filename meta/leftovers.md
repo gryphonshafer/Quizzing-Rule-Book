@@ -4,7 +4,7 @@ Content that exists in the current rule book that does not fit anywhere in the m
 
 ## International Head Coach
 
-The international coach must be approved by his/her district office/committee or by the District Bible Quizzing Coordinator.
+The international coach must be approved by their district office/committee or by the District Bible Quizzing Coordinator.
 
 ## District Coordinator
 

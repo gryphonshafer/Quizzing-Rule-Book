@@ -29,7 +29,7 @@ There will be no duplicate questions in a single quiz.
 
 If chair #2 erred on the toss-up, chair #2 of the team that did not err on the toss-up will be awarded the bonus question.
 
-### 3-Team Quiz
+### Three-Team Quiz
 
 - There will be 20 numbered questions in a quiz.
 - In the event the quiz ends in a tie, overtime will ensue.
@@ -52,9 +52,9 @@ If chair #2 erred on the toss-up, chair #2 of the team that did not err on the t
     - All bonus questions up to and including 12B are worth 20 points.
     - All bonus questions from 13 to the end of the quiz are worth 10 points.
     - Error points begin at question 13.
-    - A quiz-out is 3 correct questions.
+    - A quiz-out is three correct questions.
 
-### 2-Team 20-Question Quiz
+### Two-Team 20-Question Quiz
 
 - There will be 20 questions in a quiz.
 - All questions have a value of 20 points when two teams are eligible.
@@ -77,7 +77,7 @@ If chair #2 erred on the toss-up, chair #2 of the team that did not err on the t
 - A line-up card showing the seating order of each quizzer should be given to the quizmaster or scorekeeper before the start of each quiz.
 - No verbal or non-verbal communication is permitted between quizzers, coaches, or the audience from the time the quizmaster introduces the question type until points have been awarded.
 - Only a coach from a team presently participating in the quiz, or the meet director may confer with the officials.
-- Coaches may have quiz material(s) on the platform during a time-out or prior to a quiz.
+- Coaches may have quiz material(s) on the platform during a timeout or prior to a quiz.
 - Quizzers will not touch the officials' table.
 - Quiz rooms will use jump measuring equipment to prevent ties.
 - Push-button quizzing can be provided if needed by physically disabled quizzers.
@@ -100,7 +100,7 @@ If chair #2 erred on the toss-up, chair #2 of the team that did not err on the t
 - Quizzes will start at the scheduled or announced time. Any team that is late does not receive the starting 20 points awarded for being on time.
     - If the late team is currently quizzing in another location which is running over the time limit, they are not required to forfeit the quiz or lose 20 points.
     - Any team more than 10 minutes late (after the scheduled or announced time for the quiz) forfeits the quiz.
-- If an individual quizzer is late, the quiz will start on time. The coach has the option to put the late quizzer in during a time-out, but the team will forfeit the 20 points the team starts with. The coach also has the option to keep the quizzer out of the quiz and keep the 20 points but must notify the quizmaster at the beginning of the quiz, of their decision.
+- If an individual quizzer is late, the quiz will start on time. The coach has the option to put the late quizzer in during a timeout, but the team will forfeit the 20 points the team starts with. The coach also has the option to keep the quizzer out of the quiz and keep the 20 points but must notify the quizmaster at the beginning of the quiz, of their decision.
 - Quizzers have five seconds in which to jump after the question is completed.
 
 A quizzer has 30 seconds to complete their answer after being recognized.
