@@ -84,7 +84,7 @@ Question Type maximums can be exceeded in Overtime.
 - Must have more than one answer.
     - The clarification of a single answer does not meet the above requirement.
     - The identification of a singular pronoun does not meet the above requirement.
-    - The identification of a plural pronoun does meet the above requirement.
+    - The identification of a plural pronoun, with more than one clarification to the pronoun, does meet the above requirement.
 - If one of the listed answers to the multiple answer's questions is a "negative" answer, this is deemed invalid as a Multiple Answer question.
 
 #### Reference
