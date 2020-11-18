@@ -29,7 +29,7 @@ There will be no duplicate questions in a single quiz.
 
 If chair #2 erred on the toss-up, chair #2 of the team that did not err on the toss-up will be awarded the bonus question.
 
-### 3-Team Quiz
+### Three-Team Quiz
 
 - There will be 20 numbered questions in a quiz.
 - In the event the quiz ends in a tie, overtime will ensue.
@@ -52,9 +52,9 @@ If chair #2 erred on the toss-up, chair #2 of the team that did not err on the t
     - All bonus questions up to and including 12B are worth 20 points.
     - All bonus questions from 13 to the end of the quiz are worth 10 points.
     - Error points begin at question 13.
-    - A quiz-out is 3 correct questions.
+    - A quiz-out is three correct questions.
 
-### 2-Team 20-Question Quiz
+### Two-Team 20-Question Quiz
 
 - There will be 20 questions in a quiz.
 - All questions have a value of 20 points when two teams are eligible.

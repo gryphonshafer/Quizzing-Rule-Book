@@ -2,7 +2,7 @@
 
 ## Team Organization
 
-Teams can have up to 5 quizzers on it. Teams can have up to 4 quizzers in the quiz at any given time.
+Teams can have up to five quizzers on it. Teams can have up to four quizzers in the quiz at any given time.
 
 ### Quizzers
 
@@ -61,4 +61,7 @@ The Quizmaster must:
 - Either read the score or have the score ready to be read at the beginning of time-outs, when there is no scoreboard.
 - The scorekeeper shall have the score sheets signed by the coaches at the conclusion of each quiz, and report to the statistician.
 
-### Statisticians
+### Statisticians (ST)
+
+- The statistician will be responsible for keeping individual quizzers' scores.
+- The statistician will be responsible for keeping individual teams' scores.
