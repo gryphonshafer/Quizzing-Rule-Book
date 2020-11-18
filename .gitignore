@@ -18,3 +18,4 @@ nytprof.out
 *.o
 /pm_to_blib
 .prove
+/local

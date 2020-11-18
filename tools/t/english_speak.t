@@ -1,21 +1,21 @@
 use Test::Most;
-use exact -me;
+use exact -conf;
 use English::Script;
 use Mojo::DOM;
 use Mojo::File 'path';
 use Text::MultiMarkdown 'markdown';
 
-my $content_dir = me('../../content');
+my $rule_book_dir = conf->get( qw( config_app root_dir ) ) . '/' . conf->get( qw( rule_book dir ) );
 my $speak;
 
 lives_ok(
     sub {
         $speak = Mojo::DOM
-            ->new( markdown( path("$content_dir/rule_book/index.md")->slurp ) )
+            ->new( markdown( path("$rule_book_dir/index.md")->slurp ) )
             ->find('a')->map( attr => 'href' )->grep( sub { not m|//| } )->map( sub {
                 my $file = $_;
                 Mojo::DOM->new(
-                    markdown( path("$content_dir/rule_book/$file")->slurp )
+                    markdown( path("$rule_book_dir/$file")->slurp )
                 )->find('pre code')->map( sub {
                     my $node    = $_->parent;
                     $node       = $node->previous while ( $node and $node->tag and $node->tag !~ /^h\d$/ );

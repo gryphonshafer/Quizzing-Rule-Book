@@ -1,20 +1,20 @@
 use Test::Most;
-use exact -me;
+use exact -conf;
 use Bible::Reference;
 use Mojo::DOM;
 use Mojo::File 'path';
 use Text::MultiMarkdown 'markdown';
 
-my $content_dir = me('../../content');
+my $rule_book_dir = conf->get( qw( config_app root_dir ) ) . '/' . conf->get( qw( rule_book dir ) );
 my $tables;
 
 lives_ok(
     sub {
         $tables = Mojo::DOM
-            ->new( markdown( path("$content_dir/rule_book/index.md")->slurp ) )
+            ->new( markdown( path("$rule_book_dir/index.md")->slurp ) )
             ->find('a')->map( attr => 'href' )->grep( sub { not m|//| } )->map( sub {
                 Mojo::DOM->new(
-                    markdown( path("$content_dir/rule_book/$_")->slurp
+                    markdown( path("$rule_book_dir/$_")->slurp
                 ) )->find('table')->map( sub {
                     my $headers = $_->find('thead tr th')->map('text')->to_array;
                     my $node    = $_;
@@ -39,10 +39,7 @@ lives_ok( sub {
     $material_years = ( grep { $_->{header} eq 'Material Rotation Schedule' } @$tables )[0]->{rows};
 }, 'find material years data' );
 
-for my $year (
-    [ Romans => 'Epistle'   ],
-    [ John   => 'Narrative' ],
-) {
+for my $year ( @{ conf->get( qw( table_data_tests material_style ) ) } ) {
     is(
         ( grep { $_->{'Material Scope References'} =~ /\b$year->[0]\b/ } @$material_years )[0]->{Style},
         $year->[1],
@@ -58,16 +55,7 @@ lives_ok( sub {
 
 is_deeply(
     \@r,
-    [
-        'Matthew 1:18-25; 2-12; 14-22; 26-28',
-        'Romans, James',
-        'Acts 1-20',
-        'Galatians, Ephesians, Philippians, Colossians',
-        'Luke 1-2; 3:1-23; 9-11; 13-19; 21-24',
-        '1 Corinthians, 2 Corinthians',
-        'John',
-        'Hebrews, 1 Peter, 2 Peter',
-    ],
+    conf->get( qw( table_data_tests material_scope ) ),
     'Bible::Reference as_text check',
 );
 

@@ -1,0 +1,33 @@
+---
+default:
+    content_dir: content
+    rule_book:
+        dir: rule_book
+        docs:
+            - material_and_questions.md
+            - roles_and_responsibilities.md
+            - quiz_process.md
+            - quiz_events.md
+            - quiz_meets.md
+            - internationals.md
+            - change_management.md
+        levels:
+            - application
+            - commentary
+            - example
+            - examples
+            - scoring
+    table_data_tests:
+        material_style:
+            - [ 'Romans', 'Epistle'   ]
+            - [ 'John',   'Narrative' ]
+        material_scope:
+            - Matthew 1:18-25; 2-12; 14-22; 26-28
+            - Romans, James
+            - Acts 1-20
+            - Galatians, Ephesians, Philippians, Colossians
+            - Luke 1-2; 3:1-23; 9-11; 13-19; 21-24
+            - 1 Corinthians, 2 Corinthians
+            - John
+            - Hebrews, 1 Peter, 2 Peter
+optional_include: local/config.yaml
