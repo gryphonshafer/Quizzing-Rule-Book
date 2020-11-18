@@ -1,5 +1,6 @@
 # Bible Quizzing Rule Book
 
+[![test](https://github.com/gryphonshafer/Quizzing-Rule-Book/workflows/test/badge.svg)](https://github.com/gryphonshafer/Quizzing-Rule-Book/actions?query=workflow%3Atest)
 [![build](https://github.com/gryphonshafer/Quizzing-Rule-Book/workflows/build/badge.svg)](https://github.com/gryphonshafer/Quizzing-Rule-Book/actions?query=workflow%3Abuild)
 [![codecov](https://codecov.io/gh/gryphonshafer/Quizzing-Rule-Book/graph/badge.svg)](https://codecov.io/gh/gryphonshafer/Quizzing-Rule-Book)
 

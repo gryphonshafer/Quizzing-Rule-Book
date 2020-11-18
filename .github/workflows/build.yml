@@ -1,12 +1,17 @@
 name: build
-on: [ push, pull_request, workflow_dispatch ]
+on:
+  push:
+    branches: [ master, integration ]
+  pull_request:
+    branches: [ master, integration ]
+  workflow_dispatch:
 jobs:
   build:
     runs-on: ubuntu-latest
     strategy:
       fail-fast: false
       matrix:
-        perl-version: [ 32, 30, 28, 26, 24, 22, 20 ]
+        perl-version: 32
     container:
       image: perldocker/perl-tester:5.${{ matrix.perl-version }}
     steps:
@@ -19,6 +24,13 @@ jobs:
           cd tools
           cpanm --from https://cpan.metacpan.org/ --notest --force --skip-satisfied \
             --with-develop --with-all-features --installdeps . Devel::Cover::Report::Codecov
-      - run: HARNESS_PERL_SWITCHES=-MDevel::Cover prove --recurse --lib --failures --jobs 4 --timer tools/t
-      - run: CODECOV_TOKEN=${{ secrets.CODECOV_TOKEN }} cover -report codecov
-        if: ${{ matrix.perl-version >= 26 }}
+      - run: mkdir -p build
+      - run: ./tools/build.pl -d rule_book -t pdf -o ./build/rule_book.pdf
+      - run: ./tools/build.pl -d governance -t pdf -o ./build/governance.pdf
+      - run: ./tools/build.pl -d best_practices -t pdf -o ./build/best_practices.pdf
+      - run: |-
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add .
+          git commit -m "Auto-built PDFs for distribution"
+          git push
