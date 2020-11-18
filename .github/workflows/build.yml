@@ -8,12 +8,8 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
-    strategy:
-      fail-fast: false
-      matrix:
-        perl-version: 32
     container:
-      image: perldocker/perl-tester:5.${{ matrix.perl-version }}
+      image: perldocker/perl-tester:5.32
     steps:
       - uses: actions/checkout@v2
       - uses: perl-actions/install-with-cpanm@v1
