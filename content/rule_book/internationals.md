@@ -27,14 +27,14 @@ These rules apply to the Internationals quiz meet conducted once yearly, adminis
     - Be a regular church attender.
     - Have three years of district quizmastering experience and be recommended by their district office or quiz committee.
     - Go through an evaluation process established by the CQLT, to determine that each official is qualified to perform their specific role.
-- When deemed necessary, the quizmaster or any official may be replaced from his/her position during a meet by the C&MA Quizzing Leadership Team.
+- When deemed necessary, the quizmaster or any official may be replaced from their position during a meet by the C&MA Quizzing Leadership Team.
 - Team coaches whose teams are not involved in the quiz shall serve as answer judges and scorekeepers if needed.
 
 ### Answer Judge
 
 ### Scorekeeper
 
-- At least one scorekeeper will tabulate the results of each question on official score sheets in every International Final. They shall keep a running score of each quiz.
+- At least one scorekeeper will tabulate the results of each question on official scoresheets in every International Final. They shall keep a running score of each quiz.
 - The official scorekeeper for the International Finals will be appointed by the CQLT.
 - Points will be accurately tallied on individual quizzers for each team by the statistician appointed by the CQLT.
 
@@ -58,5 +58,5 @@ These rules apply to the Internationals quiz meet conducted once yearly, adminis
 ## Equipment
 
 - Electronic jump-seat equipment must be used for all competitions. A back-up set must be on hand at all times.
-- An unofficial scoreboard must be maintained in full view of the audience at all times, or the score read at the beginning of each time out.
+- An unofficial scoreboard must be maintained in full view of the audience at all times, or the score read at the beginning of each timeout.
 - An audio recording system must be used in all rooms.
