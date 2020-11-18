@@ -71,7 +71,7 @@ The quizzer's response is correct when:
 
 Mispronounced names are still recognizable as the answer.
 
-Only the first response of the quizzer will be considered, however, if the response by the quizzer is in context and is not incorrect, the quizzer will be allowed their full 30 seconds to satisfy all requirements of a Correct response.
+Only the first response of the quizzer will be considered, however, if the response by the quizzer is in context and is not incorrect, the quizzer will be allowed their full 30 seconds to satisfy all requirements of a correct response.
 
 #### Example
 
@@ -101,7 +101,7 @@ The team captain or co-captain may challenge if:
 - There has been a mispronunciation by the quizmaster
 - There has been an invalid question
 - The next question has not been called
-    - A challenge must be made at the time of the quizmaster's decision and before the next question is called. If a time-out is called immediately after a ruling, and a quizzer stands to challenge, the challenge may be done prior to the time-out.
+    - A challenge must be made at the time of the quizmaster's decision and before the next question is called. If a timeout is called immediately after a ruling, and a quizzer stands to challenge, the challenge may be done prior to the timeout.
 - No conferring has occurred between the quizzer challenging and anyone else. Conferring with anyone else prior to a challenge will result in:
     - The challenge being disallowed
     - A foul being awarded to the quizzer.
@@ -142,7 +142,7 @@ Logistical Rule: when the quizmaster did not allow the full 30 seconds for the q
 - If the officials fail to call a foul, a coach or captain may call it to the attention of the quizmaster. If in the quizmaster's (and/or the other officials') opinion a foul might have been committed, the quizmaster will give due warning to the violating team. A foul cannot be charged, and points cannot be deducted when the quizmaster receives such help from a coach or captain.
 - The quizzer upon whom a foul is called becomes ineligible to jump on that question number, including any alphanumeric question numbers.
     - The chair remains ineligible to jump on that question number, including any alphanumeric question numbers, even if the quizzer who committed the foul is substituted for.
-- Three fouls by a quizzer eliminate that quizzer from the quiz. The quizzer must leave the platform immediately. His/her seat will continue to be ineligible to jump for the entire question number, including any alphanumeric question numbers.
+- Three fouls by a quizzer eliminate that quizzer from the quiz. The quizzer must leave the platform immediately. That seat will continue to be ineligible to jump for the entire question number, including any alphanumeric question numbers.
 
 The following are fouls:
 
@@ -153,9 +153,9 @@ The following are fouls:
     - Discernibly includes the quizmaster's mouth forming a word shape.
 - During a Reference question or Quote question, when electronic equipment is used, if any light goes on after the quizmaster calls "Question" and before they begin to discernibly read the chapter number.
 - Starting to answer before being recognized by the Quizmaster.
-- Having more than the designated team members, one coach, and an assistant coach on the quiz platform during a time-out.
+- Having more than the designated team members, one coach, and an assistant coach on the quiz platform during a timeout.
 - Challenging after conferring with anyone
-- If a captain or co-captain confers with his/her coach or other quizzers prior to issuing a challenge. In addition, the challenge will not be allowed.
+- If a captain or co-captain confers with their coach or other quizzers prior to issuing a challenge. In addition, the challenge will not be allowed.
 - Infraction of the rules, in spirit as well as in the letter, as discerned by the quiz officials.
 
 **Individual Fouls**
@@ -182,28 +182,28 @@ The following are fouls:
 - The quizzer must not have Fouled Out.
 - The quizzer must not have committed a foul on this numerical question.
 
-## Time-Outs
+## timeouts
 
     Set the timeout duration to 60.
 
-- Each team is allowed two, one-minute time-outs. Only one of those time-outs may be taken after question number 17, including any alphanumeric question numbers.
-- Captains, co-captains, or coaches may call for a time-out.
-- Only the coach, assistant coach, and substitute may converse with the team during a time-out.
-- Time-outs may be called prior to bonus questions.
+- Each team is allowed two, one-minute timeouts. Only one of those timeouts may be taken after question number 17, including any alphanumeric question numbers.
+- Captains, co-captains, or coaches may call for a timeout.
+- Only the coach, assistant coach, and substitute may converse with the team during a timeout.
+- timeouts may be called prior to bonus questions.
 
 ## Substitutions
 
-- Substitutions may be made only during the time-outs.
-- A team can only make one substitution per time-out.
+- Substitutions may be made only during the timeouts.
+- A team can only make one substitution per timeout.
 - A quizzer being removed from a quiz must stay out for a minimum of three question numbers, including alphanumeric question numbers, before re-entering the quiz.
 - Quizzers can be substituted for any chair.
 - Quizzed-Out Quizzers:
     - May remain in the quiz to answer bonus questions.
-        - Substituting for them later will require a time-out.
+        - Substituting for them later will require a timeout.
     - If subbed out, may not return, for any reason.
 - When a quizzer quizzes-out, err-out, or fouls-out, and leaves the platform as required, a substitute may take their place:
     - Immediately
-    - Without a time-out
+    - Without a timeout
     - Even if the quizzer has been subbed-out less than three questions ago
 
 ## Scoring
