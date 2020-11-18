@@ -37,7 +37,7 @@ my $output      = join( "\n",
             $_ . '/index.md';
         }
         elsif ( -f $content_dir . '/' . $_ . '.md' ) {
-            $content_dir . '/' . $_ . '/.md';
+            $content_dir . '/' . $_ . '.md';
         }
         elsif ( -f $_ . '.md' ) {
             $_ . '/.md';
