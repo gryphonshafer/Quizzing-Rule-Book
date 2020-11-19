@@ -57,12 +57,4 @@ At this point, the PDF will be ratified but not implemented. It will be at the C
 
 ## Phase 5: Ongoing Change Management
 
-This phase is the ongoing change management mechanism for this project indefinitely. This phase beings immediately after Zachary receives 11 or more district ratifications.
-
-For any changes in this phase, changes should be submitted as PRs in GitHub. These submissions can be from anyone. If someone has a change proposal but is daunted by GitHub PR management, they can contact any of the 4 original developers who can offer assistance as they are able.
-
-Submitted PRs will be in an open review period of 3 months, during which time they can be discussed and debated by anyone. At the conclusion of the 3 months, a simple majority of the 6 quizzing members of the CQLT shall ratify or dismiss the PR. The CQLT may appoint a standing rules committee to whom ratification responsibility can be delegated. In that case, a simple majority of the standing rules committee is sufficient for PR ratification.
-
-Submitted PRs that are ratified will be merged to an `integration` branch, not `master`.
-
-During or immediately following each IBQ, the `integration` branch will be merged to `master`. Whatever is in `master` will be considered the rule book and supporting documentation for the upcoming IBQ. No changes to `master` are allowed except for this single annual merge from `integration`.
+This phase is the ongoing change management mechanism for this project indefinitely. This phase beings immediately after Zachary receives 11 or more district ratifications. See the [change management document in the rule book](../content/rule_book/change_management.md) for details.
