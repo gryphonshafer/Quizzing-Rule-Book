@@ -29,9 +29,9 @@ The CQLT will promote, coordinate, and provide general oversight for Alliance Bi
 
 ### Composition
 
-The CQLT shall consist of six persons; with no more than one representative from any one district, if possible, chosen from among the district team leaders and/or adult coaches of district quizzing teams. 
+The CQLT shall consist of six persons; with no more than one representative from any one district, if possible, chosen from among the district team leaders and/or adult coaches of district quizzing teams.
 
-At least two members of the CQLT shall be chosen from Canadian team coaches and at least two members shall be chosen from among U.S. team coaches to ensure the interests of Alliance churches and districts in each country are represented. 
+At least two members of the CQLT shall be chosen from Canadian team coaches and at least two members shall be chosen from among U.S. team coaches to ensure the interests of Alliance churches and districts in each country are represented.
 
 A maximum of two non-Alliance members can be voted onto the CQLT with a maximum of one per election. Nominations follow the same approval process as listed in the election section below.
 
@@ -45,7 +45,7 @@ Members serve for a three-year term with the possibility of 2 consecutive terms.
 
 An election for team members shall be held annually. Normally two new members will be elected each year.
 
-Each district may nominate a person for the CQLT and the CQLT will create a short list of 2 names per vacancy for elections unless fewer names are nominated. Nominees must have the approval of the District quizzing point person, the District Superintendent or his appointee and the nominee’s pastor. Ballots will be sent to every district quiz program. Each participating district shall be entitled to one vote for each vacancy. If a representative is needed from one country, then the person from that country with the highest vote will be elected followed by the person with the highest number of votes.
+Each district may nominate a person for the CQLT and the CQLT will create a short list of 2 names per vacancy for elections unless fewer names are nominated. Nominees must have the approval of the District quizzing point person, the District Superintendent or his appointee and the nomineeaEURtms pastor. Ballots will be sent to every district quiz program. Each participating district shall be entitled to one vote for each vacancy. If a representative is needed from one country, then the person from that country with the highest vote will be elected followed by the person with the highest number of votes.
 
 ### Meetings
 
@@ -87,8 +87,9 @@ The CQLT and LIFE office is amenable to the Vice President for Church Ministries
 - Quizzing Merchandise
 
 ### Possible Expenses
+
 - Accommodations/Meals
-- Officials’ expenses
+- OfficialsaEURtm expenses
 - Speaker/event programming
 - Awards
 - Quizzing Merchandise
@@ -112,7 +113,7 @@ The CQLT and LIFE office is amenable to the Vice President for Church Ministries
 
 ## Budget Guidelines
 
-- International quiz meet registration fees are intended to cover the costs of the meet including venue development and administrative support. If the international quiz meet is held in a “low cost” location, registration fees may generate a modest surplus which is to be used to offset “high cost” venues in future years.
+- International quiz meet registration fees are intended to cover the costs of the meet including venue development and administrative support. If the international quiz meet is held in a "low cost" location, registration fees may generate a modest surplus which is to be used to offset "high cost" venues in future years.
 
 - Additional funds are necessary for the CQLT to fulfill its proposed responsibilities. In addition to C&MA start up grants, additional annual sources of income must be identified. Any yearly surplus in CQLT funds will be carried forward to use for quizzing development in future years.
 
