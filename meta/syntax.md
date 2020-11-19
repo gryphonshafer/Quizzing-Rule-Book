@@ -1,8 +1,8 @@
-# Rule Book Syntax
+# Document Syntax
 
-The following document describes and demonstrates how to use rule book syntax. Rule book syntax is a subset of MultiMarkdown. Unless explicitly stated, all syntax within this document is supported. Only what is specified in this document is supported. Generally speaking, paragraphs should be written without line breaks and separated by two line breaks (resulting in a single empty line).
+The following document describes and demonstrates how to use document syntax. Document syntax is a subset of MultiMarkdown. Unless explicitly stated, all syntax within this document is supported. Only what is specified in this document is supported. Generally speaking, paragraphs should be written without line breaks and separated by two line breaks (resulting in a single empty line).
 
-A back-tick is a `. Back-ticks are used in the source of this document to render code for a given markup. Do not use back-ticks in the rule book.
+A back-tick is a `. Back-ticks are used in the source of this document to render code for a given markup. Do not use back-ticks in the document.
 
 ## Text Emphasis
 
@@ -79,15 +79,15 @@ English-Script (or English::Script) is a strict subset of simple English that ca
 
 `# Header 1 Example`
 
-Header 1 are used for section titles. Section titles in the current rule book are large, blue, and bold with a red horizontal rule underneath. There should only ever be 1 "Header 1" per document, and it should always be the document's first line and represent it's title. Note that filenames should always be the header in full lower-case with spaces replaced with underscores and an `.md` extension.
+Header 1 are used for section titles. Section titles in the current document are large, blue, and bold with a red horizontal rule underneath. There should only ever be 1 "Header 1" per document, and it should always be the document's first line and represent it's title. Note that filenames should always be the header in full lower-case with spaces replaced with underscores and an `.md` extension.
 
 `## Header 2 Example`
 
-Header 2 are used for sub-section titles. Sub-section titles in the current rule book are red and bold.
+Header 2 are used for sub-section titles. Sub-section titles in the current document are red and bold.
 
 `### Header 3 Example`
 
-Header 3 are used for part titles. Part titles in the current rule book are black, bold, and underlined.
+Header 3 are used for part titles. Part titles in the current document are black, bold, and underlined.
 
 `#### Header 4 Example`
 

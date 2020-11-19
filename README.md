@@ -13,15 +13,16 @@ This project is the content, meta-documents, and tooling for the creation and on
 ## Links to Things
 
 - Content
-    - [Rule Book Index](content/index.md)
+    - [Rule Book Index](content/rule_book/index.md)
     - [Best Practices](content/best_practices.md)
     - Governance
         - [Mission Statement](content/governance/mission.md)
         - [CMA Quizzing Leadership Team](content/governance/not_bylaws.md)
         - [Scholarships](content/governance/scholarships.md)
 - Meta Documents
-    - [Rule Book Syntax](meta/syntax.md)
+    - [Document Syntax](meta/syntax.md)
     - [Style Guide](meta/style_guide.md)
     - [Initial-Version Scope](meta/v1_scope.md)
+    - [Largest Departures from Functional Equivalence for Initial-Version](meta/largest_fe_departures.md)
     - [Change Management Process](meta/change_management.md)
     - [Leftovers](meta/leftovers.md)
