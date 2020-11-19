@@ -4,15 +4,11 @@
 
 Teams can have up to five quizzers on it. Teams can have up to four quizzers in the quiz at any given time.
 
-### Quizzers
-
 ### Captains
 
 - Scorekeepers must be notified which quizzer is the captain and which is co-captain before the quizzers take their seats to begin the quiz.
 - The captain and co-captain may change during a given competition but not during a quiz.
 - Only the captain or co-captain may challenge a decision or respond to a challenge. If both the captain and co-captain have erred out, another quizzer can be designated by the coach to respond to or initiate challenges.
-
-### Coaches
 
 ## Quiz Officials
 
@@ -46,6 +42,7 @@ The Quizmaster must:
     - If an explanation of a ruling is requested by a captain, the quizmaster will ask if any team wants to challenge before the explanation is given.
 
 #### Commentary
+
 On a CVR/MACVR, in the scenario where the entire Reference (which is part of the "Question") was not read by the quizmaster, the quizmaster has two prompts to give, and must give them in appropriate order and with appropriate timing. If the quizzer provides all information in the question "text" and the answer "text", because the quizzer has not yet finished saying the complete Reference (part of the "question"), the quizmaster must prompt with "More." The quizmaster cannot prompt with "What is your question?" yet, because the quizzer has not provided all information in the "question" (which includes the Reference) and the answer.
 
 ### Answer Judges (AJ)

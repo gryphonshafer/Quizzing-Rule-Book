@@ -30,8 +30,6 @@ These rules apply to the Internationals quiz meet conducted once yearly, adminis
 - When deemed necessary, the quizmaster or any official may be replaced from their position during a meet by the C&MA Quizzing Leadership Team.
 - Team coaches whose teams are not involved in the quiz shall serve as answer judges and scorekeepers if needed.
 
-### Answer Judge
-
 ### Scorekeeper
 
 - At least one scorekeeper will tabulate the results of each question on official scoresheets in every International Final. They shall keep a running score of each quiz.
