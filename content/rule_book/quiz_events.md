@@ -1,7 +1,5 @@
 # Quiz Events
 
-    Set the question answer duration to 30.
-
 ## Quiz Question Terms
 
 **Question**
@@ -27,6 +25,12 @@
 
 **Alphanumeric**
 : A question number with numbers and letters.
+
+## Answer Duration
+
+Priot to a quizzer's answer being correct or incorrect, quizzers may have up to 30 seconds to provide their answer.
+
+    Set the question answer duration to 30.
 
 ## Rulings
 
@@ -185,12 +189,13 @@ The following are fouls:
 
 ## Timeouts
 
+Each team is allowed two, one-minute timeouts. Only one of those timeouts may be taken after question number 17, including any alphanumeric question numbers.
+
     Set the timeout duration to 60.
 
-- Each team is allowed two, one-minute timeouts. Only one of those timeouts may be taken after question number 17, including any alphanumeric question numbers.
 - Captains, co-captains, or coaches may call for a timeout.
 - Only the coach, assistant coach, and substitute may converse with the team during a timeout.
-- timeouts may be called prior to bonus questions.
+- Timeouts may be called prior to bonus questions.
 
 ## Substitutions
 

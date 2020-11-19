@@ -23,11 +23,13 @@ If chair #2 erred on the toss-up, chair #2 of the team that did not err on the t
 
 ## Types of Quizzes
 
+There are 3 primary types of quizzes and 2 related overtime components of quizzes.
+
     Set quiz types to
         "3-Team 20-Question", "2-Team 15-Question Tie-Breaker",
         "2-Team 20-Question", "2-Team Overtime", and "3-Team Overtime".
 
-### Three-Team Quiz
+### 3-Team 20-Question Quiz
 
 - There will be 20 numbered questions in a quiz.
 - In the event the quiz ends in a tie, overtime will ensue.
@@ -40,7 +42,7 @@ If chair #2 erred on the toss-up, chair #2 of the team that did not err on the t
     - If 16A-20A is a toss-up and is erred, then 16B-20B is a bonus question.
 - Error points begin at question 17.
 
-### Tie-Breaker Quiz
+### 2-Team 15-Question Tie-Breaker Quiz
 
 - In the event three teams are involved, a 20-question tie-breaker quiz will be used.
     - The above rules for a three-team, 20-question quiz applies.
@@ -52,7 +54,7 @@ If chair #2 erred on the toss-up, chair #2 of the team that did not err on the t
     - Error points begin at question 13.
     - A quiz-out is three correct questions.
 
-### Two-Team 20-Question Quiz
+### 2-Team 20-Question Quiz
 
 - There will be 20 questions in a quiz.
 - All questions have a value of 20 points when two teams are eligible.
@@ -67,8 +69,6 @@ If chair #2 erred on the toss-up, chair #2 of the team that did not err on the t
 - All the question numbers will be of a different question type.
 
 ## Platform Protocol
-
-    Set the readiness bonus to 20.
 
 - Quizzers will be seated facing the audience and quizmaster.
 - The feet of the quizzers are to be on the floor while jumping.
