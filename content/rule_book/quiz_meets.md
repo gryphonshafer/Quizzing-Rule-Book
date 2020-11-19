@@ -62,7 +62,7 @@ There will be a tie-breaker quiz for positions 6, 15, and 24. Ties for positions
 
 Points earned in these quizzes should be added to the points earned in the opening round by each team. The highest three teams, based on the point system above, are then placed in the above bracket. The next six teams are placed in the lower bracket.
 
-### Elimination Round Brackets:
+### Elimination Round Brackets
 
 #### Tournament Bracket "A"
 
@@ -70,7 +70,9 @@ This bracket is based on the "winner-move-up" philosophy and is designed to sele
 
 In this bracket, the top three teams are involved in a triple-elimination, the middle three teams in a double-elimination, and the last three teams in a single-elimination. This way only those teams that have earned the right through winning will advance to the final quiz.
 
-##### Bracket A - This bracket does not require each team to lose to be eliminated.
+##### Bracket Design
+
+This bracket does not require each team to lose to be eliminated.
 
 - Quiz A: Teams 1, 2, 3
 - Quiz B: Teams 4, 5, 6
@@ -80,13 +82,16 @@ In this bracket, the top three teams are involved in a triple-elimination, the m
 - Quiz F: Second Quiz D, Third Quiz D, First Quiz E
 - Quiz G: Winner Quiz A, Winner Quiz D, Winner Quiz F
 - Quiz H: Same Three Teams in Quiz G
+
+##### Championship Quiz
+
 - Quiz I: If the winner of Quiz G does not win Quiz H, Quiz I will have the winners of Quiz G and H (only). The other team will be eliminated
 
 #### Tournament Bracket "B"
 
 Each team in the final nine must lose twice. A team may make the finals by actually winning only one quiz in this tournament bracket.
 
-##### Bracket B
+##### Bracket Design
 
 - Quiz A: Teams 1, 6, 7
 - Quiz B: Teams 2, 5, 8
@@ -111,7 +116,7 @@ If the same team took third place in Quiz I and J, then Quiz K will be a two-tea
 
 This bracket is a combination of brackets A and B. A team must win at least two quizzes to obtain a position in the finals.
 
-##### Bracket C
+##### Bracket Design
 
 - Quiz A: Teams 1, 4, 9
 - Quiz B: Teams 2, 5, 7
@@ -144,7 +149,7 @@ A team must win twice to become the champion team. All three teams will continue
 - If the Champion team is determined in four quizzes
     - Second place is determined by the most second places. If that is a tie, second place will be determined by Clarification (below).
 
-### Clarification for second and third place:
+### Clarification for 2nd and 3rd Place
 
 Second place will be determined as follows:
 

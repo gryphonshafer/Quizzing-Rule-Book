@@ -75,18 +75,18 @@ The CQLT shall prepare a balanced annual programming budget including the Intern
 
 The CQLT and LIFE office is amenable to the Vice President for Church Ministries in the U.S.
 
-# C&MA International Quizzing Budget Guidelines
+## C&MA International Quizzing Budget Guidelines
 
-## International Quiz Meet
+### International Quiz Meet
 
-### Possible Income Sources
+#### Possible Income Sources
 
 - Registration Fees
      - Quizzers, coaches, and guests
 - Spectator Fees
 - Quizzing Merchandise
 
-### Possible Expenses
+#### Possible Expenses
 
 - Accommodations/Meals
 - OfficialsaEURtm expenses
@@ -96,22 +96,23 @@ The CQLT and LIFE office is amenable to the Vice President for Church Ministries
 - Venue selection and development
 - Administrative support (LIFE Office)
 
-## C&MA Quizzing Leadership Team (CQLT)
+### C&MA Quizzing Leadership Team (CQLT)
 
-### Possible Income Sources
+#### Possible Income Sources
 
 - Annual quizzing fee ($5-10/quizzer)
 - One-time start up grants from C&MA U.S./Canada
 - Donations
 - Licensing fees for questions, profits from quizzing resources
 
-### Possible Expenses
+#### Possible Expenses
+
 - Leadership team meetings
 - Quiz promotion (website, video, etc.)
 - Resource development
 - Administrative support (LIFE Office)
 
-## Budget Guidelines
+### Budget Guidelines
 
 - International quiz meet registration fees are intended to cover the costs of the meet including venue development and administrative support. If the international quiz meet is held in a "low cost" location, registration fees may generate a modest surplus which is to be used to offset "high cost" venues in future years.
 

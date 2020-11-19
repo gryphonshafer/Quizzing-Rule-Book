@@ -2,11 +2,7 @@
 
     Set the question answer duration to 30.
 
-## Rulings
-
-## "Question" De-Overloading
-
-The word "question" is significantly overloaded in the current rule book. We're going to try to de-overload it by splitting its usage among the following terms:
+## Quiz Question Terms
 
 **Question**
 : Everything (type, ref, question text, answer text, question number, etc.)
@@ -31,6 +27,8 @@ The word "question" is significantly overloaded in the current rule book. We're 
 
 **Alphanumeric**
 : A question number with numbers and letters.
+
+## Rulings
 
 ### Context
 
@@ -185,7 +183,7 @@ The following are fouls:
 - The quizzer must not have Fouled Out.
 - The quizzer must not have committed a foul on this numerical question.
 
-## timeouts
+## Timeouts
 
     Set the timeout duration to 60.
 

@@ -1,13 +1,5 @@
 # Quiz Process
 
-## Types of Quizzes
-
-    Set quiz types to
-        "3-Team 20-Question", "2-Team 15-Question Tie-Breaker",
-        "2-Team 20-Question", "2-Team Overtime", and "3-Team Overtime".
-
-## Quizzes
-
 There will be no duplicate questions in a single quiz.
 
 **Participating in a Question**
@@ -28,6 +20,12 @@ There will be no duplicate questions in a single quiz.
 ### Example
 
 If chair #2 erred on the toss-up, chair #2 of the team that did not err on the toss-up will be awarded the bonus question.
+
+## Types of Quizzes
+
+    Set quiz types to
+        "3-Team 20-Question", "2-Team 15-Question Tie-Breaker",
+        "2-Team 20-Question", "2-Team Overtime", and "3-Team Overtime".
 
 ### Three-Team Quiz
 
@@ -62,7 +60,7 @@ If chair #2 erred on the toss-up, chair #2 of the team that did not err on the t
 - If questions 16-20 are erred, 16A-20A will be a bonus question.
 - All bonus questions throughout the whole quiz are 10 points.
 
-### Overtime
+## Overtime
 
 - Additional units of three overtime questions each will be used until the tie is broken.
 - Two-team rules will apply in overtime if only two teams are involved.

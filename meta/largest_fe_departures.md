@@ -1,4 +1,4 @@
-## Largest Departures from Functional Equivalence
+# Largest Departures from Functional Equivalence
 
 To rewrite the current rule book:
 
@@ -8,7 +8,7 @@ To rewrite the current rule book:
 
 It was necessary to make changes that were not Functionally Equivalent. The largest of these changes are listed here, to aid those reviewing the rewritten rule book.
 
-### Changes
+## Changes
 
 - All items moved to the Best-Practices document.
 - All items moved under Examples headers. Previously, examples could be scrutinized for what they implied about how the wording used should be interpreted and applied. Moving them to a separate section makes it clear that they are examples only, and no ruling interpretations should be inferred from the specific examples.

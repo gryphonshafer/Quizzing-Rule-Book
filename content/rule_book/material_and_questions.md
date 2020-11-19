@@ -40,7 +40,7 @@
 **First Five Words of the Question**
 : Defined as "the first five spoken words after Question, whether the words are from the material or not." This concept applies to the beginning of Interrogative, Multiple Answer, Finish, Situation questions.
 
-### Question Type Distribution
+## Question Type Distribution
 
 In the below table, any minimum or maximum variation between material years is indicated in a Narrative/Epistle format.
 
