@@ -6,6 +6,7 @@ This is the official rule book for Bible Quizzing, which represents what will be
 - [Roles and Responsibilities](roles_and_responsibilities.md)
 - [Quiz Process](quiz_process.md)
 - [Quiz Events](quiz_events.md)
+- [Scoring](scoring.md)
 - [Quiz Meets](quiz_meets.md)
 - [International Bible Quizzing](internationals.md)
 - [Change Management Process](change_management.md)
