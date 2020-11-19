@@ -16,7 +16,7 @@ default:
             - commentary
             - example
             - examples
-            - scoring
+            - logic
     table_data_tests:
         material_style:
             - [ 'Romans', 'Epistle'   ]

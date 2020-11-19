@@ -25,6 +25,8 @@ If chair #2 erred on the toss-up, chair #2 of the team that did not err on the t
 
 There are 3 primary types of quizzes and 2 related overtime components of quizzes.
 
+### Logic
+
     Set quiz types to
         "3-Team 20-Question", "2-Team 15-Question Tie-Breaker",
         "2-Team 20-Question", "2-Team Overtime", and "3-Team Overtime".

@@ -182,6 +182,13 @@ if ( $opt->{type} eq 'html' or $opt->{type} eq 'pdf' ) {
                     font-size   : 10pt;
                 }
 
+                blockquote {
+                    color        : gray;
+                    border-left  : 4px solid lightgray;
+                    padding-left : 1em;
+                    margin-left  : 0;
+                }
+
             </style>
         </head>
         <body>

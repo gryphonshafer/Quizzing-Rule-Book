@@ -12,6 +12,20 @@ The tournament brackets are based on three things: A preliminary round, an elimi
 
 ### Team Points Calculation
 
+Team points are calculated by dividing the team score immediately after question 20 by 10 and then applying placement adjustment:
+
+- +1 points for 1st
+- No change for 2nd
+- -1 points for 3rd
+
+A team will be awarded a minimum of team points based on their placement:
+
+- 10 for 1st
+- 5 for 2nd
+- 1 for 3rd
+
+#### Logic
+
     Set place to 1.
     For each team in the teams list, apply the following block.
         If place is 1, then apply the following block.
