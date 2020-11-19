@@ -80,7 +80,7 @@ sub sub_file ( $pre, $file, $post, $dir, $level = 0 ) {
     }
 }
 
-$output =~ s/^\s*#+\s*$_\s*$//img for ( @{ $opt->{filter} } );
+$output =~ s/^\s*#+\s*$_\s.*?(?=\n#)//imsg for ( @{ $opt->{filter} } );
 
 if ( $opt->{type} eq 'html' or $opt->{type} eq 'pdf' ) {
     $output =~ s/(\n\|[^\n]*\|[ \t]*\n\n)/$1\n/g;
