@@ -10,7 +10,7 @@ The following are best practices.
 
 The Quizmaster should:
 
-- Be thoroughly acquainted with all rules, procedures, and material of that quiz year.
+- Be thoroughly acquainted with all rules, procedures, and material of that quiz season.
 - Be impartial and render decisions consistently.
 - See that all officials are briefed regarding rules and procedures.
 - Read at a normal conversation rate. Hesitating or reading too quickly must be avoided since either may cause inaccurate quizzing.

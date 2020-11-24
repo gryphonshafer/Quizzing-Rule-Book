@@ -124,7 +124,7 @@ Overtime occurs if a quiz ends in a tie and the team placements (1st, 2nd, 3rd) 
 
 ## Question Type Distribution
 
-In the below table, any minimum or maximum variation between material years is indicated in a `Narrative/Epistle` format.
+In the below table, any minimum or maximum variation between material seasons is indicated in a `Narrative/Epistle` format.
 
 | Type Group      | Minimum | Maximum | Question Types       |
 |-----------------|--------:|--------:|----------------------|

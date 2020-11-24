@@ -1,6 +1,6 @@
 # Material and Questions
 
-Bible Quizzing meets consist of a series of quizzes, which themselves consist of a series of questions. Questions are written based on a quiz season's material. Material refers to the Scriptural scope of content set for each season. The Bible edition used is the New International Version (NIV 2011) of the Bible. There is an 8-year rotation of material scope by season. 4 are defined as "Narrative" and 4 are defined as "Epistle" in terms of a material's style.
+Bible Quizzing meets consist of a series of quizzes, which themselves consist of a series of questions. Questions are written based on a quiz season's material. Material refers to the Scriptural scope of content set for each season. The Bible edition used is the New International Version (NIV 2011) of the Bible. There is an 8-season rotation of material scope by season. 4 are defined as "Narrative" and 4 are defined as "Epistle" in terms of a material's style.
 
 ## Material Rotation Schedule
 
@@ -224,7 +224,7 @@ Finish questions have question text consisting of the first five words of materi
 
 #### Situation (SIT)
 
-- Used only in the year where the Material Type is Narrative
+- Used only in the quiz season where the Material Type is Narrative
 - The question text contains two parts:
     - Up to 3 questions regarding the Situation of the Quotation from the following interrogatives:
         - Who said it

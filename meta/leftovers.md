@@ -32,8 +32,8 @@ There are four levels of Bible quiz competition: local or interchurch, zone, dis
 
 - Rules may be modified by each district to suit the needs of their district. Any changes in the rules need to be approved by the District Coordinator or District Committee. The district office may grant exemptions for unusual circumstances in regard to district quizzing only.
 - The quizmaster and officials will be approved by the District Committee or District Coordinator.
-- The name and address of the district coordinator must be sent to the Life Impact Office by October 1st of that quiz year.
-- For district finals, each quiz must cover the year's material in its entirety.
+- The name and address of the district coordinator must be sent to the Life Impact Office by October 1st of that quiz season.
+- For district finals, each quiz must cover the season's material in its entirety.
 
 ### Tournament Brackets
 
