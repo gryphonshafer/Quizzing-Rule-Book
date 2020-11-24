@@ -62,10 +62,10 @@ Below are the scoring calculation rules and the logic for them. This procedure i
 : Name of the given quizzer (first and last)
 
 **Scoresheet Label**
-: String (which should be irreducably short) that will be filled in the appropriate scoresheet cell for the given quizzer (and given team provided "Scoresheet Team Label" is not also defined)
+: String (which should be irreducibly short) that will be filled in the appropriate scoresheet cell for the given quizzer (and given team provided "Scoresheet Team Label" is not also defined)
 
 **Scoresheet Team Label**
-: String (which should be irreducably short) that will be filled in the appropriate scoresheet cell for the given team; normally, this is left undefined and thus "Scoresheet Label" is used
+: String (which should be irreducibly short) that will be filled in the appropriate scoresheet cell for the given team; normally, this is left undefined and thus "Scoresheet Label" is used
 
 **Message**
 : An optional string for a message text to display; for example: "Quiz Out"

@@ -21,7 +21,7 @@
 : Everything the quizzer says while answering a question after being recognized by the quizmaster until their answer duration has elapsed or being called correct or incorrect
 
 **Response**
-: A synonyum for *Answer*
+: A synonym for *Answer*
 
 ## Questions
 
@@ -95,7 +95,7 @@ Error points begin at question 17.
 
 ### 2-Team 15-Question Tie-Breaker Quiz
 
-A 2-team 15-question tie-breaker quiz opperates much like a 3-team 20-question quiz except:
+A 2-team 15-question tie-breaker quiz operates much like a 3-team 20-question quiz except:
 
 - There will be 15 numeric questions in a quiz
 - If an error occurs on questions 1 through 11, the next question number is a 20-point bonus question
@@ -107,7 +107,7 @@ A 2-team 15-question tie-breaker quiz opperates much like a 3-team 20-question q
 
 ### 2-Team 20-Question Quiz
 
-A 2-team 20-question quiz opperates much like a 3-team 20-question quiz except:
+A 2-team 20-question quiz operates much like a 3-team 20-question quiz except:
 
 - All questions have a value of 20 points when two teams are eligible
 - If questions 1-15 are erred, the next question will be a bonus question

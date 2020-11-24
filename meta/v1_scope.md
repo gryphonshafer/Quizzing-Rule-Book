@@ -5,7 +5,7 @@ The goal and scope of this initial version is to produce a usable rule book for 
 Given the buggy and inconsistent of the current rule book, this is actually impossible because there are instances where the rule book itself contradicts itself and other instances where IBQ does not follow the rule book. Here's how we'll resolve these situations:
 
 - Where the rule book contradicts itself, we will write language in the new rule book such that the resulting quizzes and meets will match IBQ
-- Where IBQ does not follow the rule book, we will retain the intended defintions from the current rule book (which may be reworded or rewritten for clarity)
+- Where IBQ does not follow the rule book, we will retain the intended definitions from the current rule book (which may be reworded or rewritten for clarity)
 
 ## Rule Book Versus Best Practices
 

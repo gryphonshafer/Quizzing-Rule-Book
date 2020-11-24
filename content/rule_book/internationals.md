@@ -1,6 +1,6 @@
 # International Bible Quizzing
 
-These rules apply to the *International Bible Quizzing* (IBQ) championship meet conducted annually, administered under the oversight of the *Christian and Missioanry Alliance* (CMA) *Quizzing Leadership Team* (CQLT).
+These rules apply to the *International Bible Quizzing* (IBQ) championship meet conducted annually, administered under the oversight of the *Christian and Missionary Alliance* (CMA) *Quizzing Leadership Team* (CQLT).
 
 ## Eligibility Requirements
 

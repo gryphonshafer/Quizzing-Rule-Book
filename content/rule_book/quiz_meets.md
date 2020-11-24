@@ -1,6 +1,6 @@
 # Quiz Meets
 
-The tournament brackets are based on three things: A preliminary round, an elimination round (at the discretion of the meet director), and championship quizzes.
+The tournament brackets are based on three things: A preliminary round (or "prelims"), an elimination round (or "brackets") at the discretion of the meet director, and championship quizzes.
 
 ## Preliminary Rounds
 

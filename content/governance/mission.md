@@ -4,7 +4,7 @@ The mission statement of Bible Quizzing:
 
 > The mission of quizzing is to see visible evidence of the application of God's Word in the lifestyle of each participant.
 
-Bible Quizzing is a ministry of the *Christian and Missioanry Alliance* (CMA) to assist teens to connect with God in a deeper way by Experiencing Him and Expanding His Kingdom.
+Bible Quizzing is a ministry of the *Christian and Missionary Alliance* (CMA) to assist teens to connect with God in a deeper way by Experiencing Him and Expanding His Kingdom.
 
 It accomplishes this by:
 

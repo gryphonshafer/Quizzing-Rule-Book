@@ -16,7 +16,7 @@ That said, each example is just one representation. It does not aim to exemplify
 
 ### Commentary
 
-Commentary sections include a series of comments, explanations, or annotations about the preceding portion of the rule book. These sections contain notes about the reasoning of rule book sections or their philosphical and practical implications. They are not to be considered rules. Rather, they are mini-essays about the rules. Nothing within commentary sections should be considered influential for disambiguating any confusion of the rule book itself.
+Commentary sections include a series of comments, explanations, or annotations about the preceding portion of the rule book. These sections contain notes about the reasoning of rule book sections or their philosophical and practical implications. They are not to be considered rules. Rather, they are mini-essays about the rules. Nothing within commentary sections should be considered influential for disambiguating any confusion of the rule book itself.
 
 ### Logic
 
