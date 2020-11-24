@@ -7,7 +7,7 @@
 
 ## Scope
 
-This policy provides a collaborative framework for the development and governance of *Christian and Missionary Alliance* (CMA) *Bible Quizzing* (BQ). It is intended to suggest a means by which quizzing and quizzing events can be promoted and coordinated. The policy assigns matters of program, policy and procedure to a leadership team. Responsibilities for logistical support remain with the LIFE office for the CMA.
+This policy provides a collaborative framework for the development and governance of *Christian and Missionary Alliance* (CMA) *Bible Quizzing* (BQ). It is intended to suggest a means by which quizzing and quizzing events can be promoted and coordinated. The policy assigns matters of program, policy, and procedure to a leadership team. Responsibilities for logistical support remain with the LIFE office for the CMA.
 
 ## CMA Quizzing Leadership Team (CQLT)
 
@@ -17,7 +17,7 @@ A CMA leadership team will give oversight to quizzing and coordinate policies an
 
 The CQLT will promote, coordinate, and provide general oversight for Alliance Bible Quizzing including but not limited to:
 
-- Finding ways that quizzing can support and integrate into local church, district and national ministries
+- Finding ways that quizzing can support and integrate into local church, district, and national ministries
 - Promoting and growing quizzing in districts in Canada and the United States
 - Developing and maintaining uniform policies, including choice of translation
 - Facilitating the provision of resources to strengthen quizzing (including coordinating question writing, editing, distributing the same)

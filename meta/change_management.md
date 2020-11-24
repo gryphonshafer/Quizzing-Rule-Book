@@ -20,7 +20,7 @@ During the initial version development of this project, all changes will be made
 3. Discussion, debate, and revisions to the PR happen all within GitHub's PR system
 4. PR authors will resolve comment threads after:
     - When at least 1 other developer agrees with the PR author or 2 developers agree with each other, which will overrule the PR author
-    - The PR author has writen changes to the PR such that the comment thread's end-state vector is addressed
+    - The PR author has written changes to the PR such that the comment thread's end-state vector is addressed
 5. The PR is merged to `master` when any of the following is true:
     - 1 developer other than the author agrees with the change and there are no disagreements from the other developers after 1 week from PR submission
     - 2 developers other than the author agree with the change

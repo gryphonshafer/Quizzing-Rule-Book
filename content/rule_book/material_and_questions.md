@@ -86,7 +86,7 @@ On some question types, the addition of a single, approved, interrogative word a
 
 - Must have exactly 1 inserted interrogative word at the very beginning of the question or the very end of the question
 - Must have a single answer
-- Must include a unique word or a 2 or 3 word unique phrase within the 1st 5 words of the question
+- Must include a unique word or a 2 or 3-word unique phrase within the 1st 5 words of the question
 
 #### Multiple Answer (MA)
 
