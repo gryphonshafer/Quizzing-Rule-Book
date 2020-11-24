@@ -156,17 +156,17 @@ If the same team took 3rd place in Quiz J and K, then Quiz L will be a 2-team qu
 
 A team must win twice to become the champion team. All 3 teams will continue to quiz until 1 team wins twice.
 
-If the same team wins the 1st 2 championship quizzes, 2nd place is determined by the most 2nd places. If that is a tie, 2nd place will be determined by the Clarification section (below).
+If the same team wins the 1st 2 championship quizzes, 2nd place is determined by the most 2nd places. If that is a tie, 2nd place will be determined by the clarification section (below).
 
-If the Champion team is determined in 3 quizzes, 2nd and 3rd places will be determined by the Clarification section (below).
+If the Champion team is determined in 3 quizzes, 2nd and 3rd places will be determined by the clarification section (below).
 
-If the Champion team is determined in 4 quizzes, 2nd place is determined by the most 2nd places. If that is a tie, 2nd place will be determined by the Clarification section (below).
+If the Champion team is determined in 4 quizzes, 2nd place is determined by the most 2nd places. If that is a tie, 2nd place will be determined by the clarification section (below).
 
 ### Clarification for 2nd and 3rd Place
 
-If necessitated from the above Championship Quizzes, 2nd place will be determined as follows:
+If necessitated from the above championship quizzes, 2nd place will be determined as follows:
 
-1. The team that scored the most points in the Championship Quizzes; or if there is a tie,
+1. The team that scored the most points in the championship quizzes; or if there is a tie,
 2. The winner if the 2 teams quizzed earlier; or
 3. The team with the highest average points in the final 9; or if there is a tie,
 4. The highest standing in the preliminary round

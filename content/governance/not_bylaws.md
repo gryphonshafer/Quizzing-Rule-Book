@@ -11,7 +11,7 @@ This policy provides a collaborative framework for the development and governanc
 
 ## CMA Quizzing Leadership Team (CQLT)
 
-A CMA leadership team will give oversight to quizzing and coordinate policies and procedures in both Canada and the U.S. as follows:
+A CMA leadership team will give oversight to quizzing and coordinate policies and procedures in both Canada and the United States as follows:
 
 ### Responsibilities
 
@@ -45,7 +45,7 @@ Members serve for a 3-year term with the possibility of 2 consecutive terms. Mem
 
 An election for team members shall be held annually. Normally 2 new members will be elected each year.
 
-Each district may nominate a person for the CQLT and the CQLT will create a short list of 2 names per vacancy for elections unless fewer names are nominated. Nominees must have the approval of the District quizzing point person, the District Superintendent or his appointee and the nomineeaEURtms pastor. Ballots will be sent to every district quiz program. Each participating district shall be entitled to 1 vote for each vacancy. If a representative is needed from 1 country, then the person from that country with the highest vote will be elected followed by the person with the highest number of votes.
+Each district may nominate a person for the CQLT and the CQLT will create a short list of 2 names per vacancy for elections unless fewer names are nominated. Nominees must have the approval of the District quizzing point person, the District Superintendent or his appointee and the nominee's pastor. Ballots will be sent to every district quiz program. Each participating district shall be entitled to 1 vote for each vacancy. If a representative is needed from 1 country, then the person from that country with the highest vote will be elected followed by the person with the highest number of votes.
 
 ### Meetings
 
@@ -75,7 +75,7 @@ The CQLT shall prepare a balanced annual programming budget including the Intern
 
 ## Amenability
 
-The CQLT and LIFE office is amenable to the Vice President for Church Ministries in the U.S.
+The CQLT and LIFE office is amenable to the Vice President for Church Ministries in the United States.
 
 ## CMA International Quizzing Budget Guidelines
 

@@ -8,7 +8,7 @@ Below are the scoring calculation rules and the logic for them. This procedure i
 : Label for whatever quiz event triggered the run of the procedure; possible values are: "question", "foul", "timeout", "sub-in", "sub-out", "challenge", "unreadiness", and "unsportsmanlike"
 
 **Quiz Type**
-: Current quiz type, defined under the *Quiz Process/Types of Quizzes* section
+: Current quiz type, defined under the *Quiz Process, Types of Quizzes* section
 
 **Current/Next Question Form**
 : Current or next question "form" such as: "Standard", "Toss-Up", and "Bonus"
@@ -97,9 +97,9 @@ All points earned or deducted by an individual are to be counted towards the tea
 
 - +10 points for the 1st correct answer given by the 3rd and subsequent quizzer on the team
 - +20 points for every correct bonus question before question number 17
-     - In 2-team Quizzes, this scoring rule does not apply
+     - In 2-team quizzes, this scoring rule does not apply
 - +10 points for every correct bonus question after and including question number 17
-     - In 2-team Quizzes, all correct bonus questions are worth 10 points
+     - In 2-team quizzes, all correct bonus questions are worth 10 points
 
 #### Readiness Bonus
 

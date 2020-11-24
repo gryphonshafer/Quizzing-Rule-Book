@@ -3,10 +3,10 @@
 ## Quiz Question Terms
 
 **Quiz Question**
-: Every component of a question within the context of a quiz including all components of a *Written Question* along with quiz context such as *Question Number*
+: Every component of a question within the context of a quiz including all components of a *written question* along with quiz context such as *question number*
 
 **Number**
-: The full identification of which question a given question is within a quiz, which can be purely a *Numeric* or an *Alphanumeric*
+: The full identification of which question a given question is within a quiz, which can be purely a *numeric* or an *alphanumeric*
 
 **Numeric**
 : A question number with only numbers such as 17
@@ -15,13 +15,13 @@
 : A question number with numbers and letters such as 17A
 
 **Read Question**
-: Everything the quizmaster reads from the *Quiz Question*
+: everything the quizmaster reads from the *quiz question*
 
 **Answer**
 : Everything the quizzer says while answering a question after being recognized by the quizmaster until their answer duration has elapsed or being called correct or incorrect
 
 **Response**
-: A synonym for *Answer*
+: a synonym for *answer*
 
 ## Questions
 
@@ -51,7 +51,7 @@ A Quizmaster must introduce and read each question type in a specific, multipart
 1. Question Introduction
     - State the full question number and type
 
-        > "Question Number [Question Number] is a [Type] question."
+        > "Question number [question number] is a [type] question."
 
     - Include whether it's a toss-up or bonus question
 
@@ -63,11 +63,11 @@ A Quizmaster must introduce and read each question type in a specific, multipart
 
 2. Call the Question
 
-    > "Question Number [Question Number], question:"
+    > "Question number [question number], question:"
 
-3. Question Text or Remainder of Question Text
+3. Question text or remainder of question text
 
-A Quizmaster may repeat or repeat as a paraphrase of any component of the question introduction for additional clarity.
+A quizmaster may repeat or repeat as a paraphrase of any component of the question introduction for additional clarity.
 
 ## Types of Quizzes
 
@@ -137,8 +137,8 @@ In the below table, any minimum or maximum variation between material seasons is
 
 For a given Question Type:
 
-- The minimum number of questions must be asked in Question Numerics 1-20, thus excluding any alphanumeric question numbers
-- The maximum number of questions must not be exceeded in all "non-Overtime" questions. This includes both numeric-only and alphanumeric question numbers
+- The minimum number of questions must be asked in question numerics 1-20, thus excluding any alphanumeric question numbers
+- The maximum number of questions must not be exceeded in all "non-overtime" questions. this includes both numeric-only and alphanumeric question numbers
 
 For 15-question quizzes, prepare quizzes as normal for 20-question quizzes, but the quizmaster should conclude the quiz when appropriate for the rule of a 15-question quiz.
 

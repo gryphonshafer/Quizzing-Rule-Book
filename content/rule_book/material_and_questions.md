@@ -30,10 +30,10 @@ Bible Quizzing meets consist of a series of quizzes, which themselves consist of
 : Every word in addition to the question text required to answer a question perfectly
 
 **Reference**
-: Technically, the Scriptural reference for the verse or verses that contain the whole of the *Question Text* and *Answer Text*, excluding any pronoun clarifications or answers to Situation questions; practically, the Scriptural reference for the 1st verse with content from the *Question Text*, except in the case of questions of type Q2V, where both verses are the reference
+: Technically, the Scriptural reference for the verse or verses that contain the whole of the *question text* and *answer text*, excluding any pronoun clarifications or answers to Situation questions; practically, the Scriptural reference for the 1st verse with content from the *question text*, except in the case of questions of type Q2V, where both verses are the reference
 
 **Written Question**
-: All parts of a pre-prepared, written question including *Question Type*, *Reference*, *Question Text*, and *Answer Text*
+: All parts of a pre-prepared, written question including *question type*, *reference*, *question text*, and *answer text*
 
 **Unique Word**
 : A word appearing in only 1 verse in the material
@@ -66,7 +66,7 @@ The exhaustive list of *interrogative words* is:
 
 ### Context
 
-Context is a range of verses from the question's *Reference*. Context is a concept primarily related to the answering of questions, but it needs to be considered when writing questions from the material. By default, context is limited to 5 verses before or after the *Reference*; however, some *question types* have a different context, which is defined in the question type.
+Context is a range of verses from the question's *reference*. Context is a concept primarily related to the answering of questions, but it needs to be considered when writing questions from the material. By default, context is limited to 5 verses before or after the *Reference*; however, some *question types* have a different context, which is defined in the question type.
 
 ## Question Writing
 
@@ -151,16 +151,16 @@ The above does not mean that if the quizzer needs to provide a reference questio
 
 The Question Text should be in the form:
 
-> According to [Book Name], Chapter [Chapter Number], Verse [Verse Number], [Remainder of Question Text]
+> According to [book name], chapter [chapter number], verse [verse number], [remainder of question text]
 
 ##### Chapter (CR)
 
 - Must have a single answer
 - Must contain a word or phrase that exists more than once in the material and only once in the chapter
 
-The Question Text should be in the form:
+The question text should be in the form:
 
-> According to [Book Name], Chapter [Chapter Number], [Remainder of Question Text]
+> According to [book name], chapter [chapter number], [remainder of question text]
 
 ##### Multiple-Answer Chapter-Verse (MACVR)
 
@@ -183,9 +183,9 @@ Context is defined as the required verse, which is defined as the 1 or 2 verse r
 - Must be 1 verse
 - The entire reference is part of the question and therefore required in the response if not fully spoken by the quizmaster
 
-The Question Text should be in the form:
+The question text should be in the form:
 
-> Quote [Book Name], Chapter [Chapter Number], Verse [Verse Number].
+> Quote [book name], chapter [chapter number], verse [verse number].
 
 ##### Quote 2 Verses (Q2V)
 
@@ -196,7 +196,7 @@ Q2V is used when a verse is not strong enough on its own and needs another verse
 
 The Question Text should be in the form:
 
-> Quote [Book Name], Chapter [Chapter Number], Verses [Verse Numbers].
+> Quote [book name], chapter [chapter number], verses [verse numbers].
 
 ##### Finish
 
@@ -224,9 +224,9 @@ Finish questions have question text consisting of the 1st 5 words of material st
 
 #### Situation (SIT)
 
-- Used only in the quiz season where the Material Type is Narrative
+- Used only in the quiz season where the material type is narrative
 - The question text contains 2 parts:
-    - Up to 3 questions regarding the Situation of the Quotation from the following interrogatives:
+    - Up to 3 questions regarding the Situation of the quotation from the following interrogatives:
         - Who said it
         - To whom
         - How
@@ -237,21 +237,21 @@ Finish questions have question text consisting of the 1st 5 words of material st
     - Quotation
         - Must be a direct quotation from the material by a person or an entity
         - The quotation must not exceed 2 consecutive verses
-        - The 1st 5 words must be unique to all Quotations
+        - The 1st 5 words must be unique to all quotations
         - The quizzer is not required to repeat the quotation word-perfect but must be substantially close without leaving out key components of the quotation
         - Must start at the beginning of a quotation or the beginning of a sentence within the quotation; when a Situation question comes from a quotation that runs for more than 2 verses, the beginning of the Situation question must start within the 1st 2 verses of the quotation
 
-If the Quotation is split-up by non-quotation words, the Quotation will be read without the non-quotation words. A situation question can combine 2 separate quotations as long as no words are added and the 2 quotes flow easily from 1 to another. The quotation must be written excluding any non-quotation words in the middle of the quotations.
+If the quotation is split-up by non-quotation words, the quotation will be read without the non-quotation words. A Situation question can combine 2 separate quotations as long as no words are added and the 2 quotes flow easily from 1 to another. The quotation must be written excluding any non-quotation words in the middle of the quotations.
 
-The answer to the Situation Question must be in context.
+The answer to the Situation question must be in context.
 
 ##### Example
 
-As an example split quotation situation question, consider Matthew 4:19:
+As an example split-quotation Situation question, consider Matthew 4:19:
 
 > "Come, follow me," Jesus said, "and I will send you out to fish for people."
 
-A situation question could be written:
+A Situation question could be written:
 
 > Who said it? "Come, follow me, and I will send you out to fish for people."
 

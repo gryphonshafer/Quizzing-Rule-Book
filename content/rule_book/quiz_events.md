@@ -26,11 +26,11 @@ The correct person of the deity must be given. The quizzer may not move between 
 
 If a quizzer refers to any person of the deity as either "God" or "Lord", these must be clarified by the quizzer within the question answer duration period when the text requires a more specific answer.
 
-"Jesus" and "Christ" are Interchangeable (but refer to the person of the Son) and the quizzer will be called correct.
+"Jesus" and "Christ" are interchangeable (but refer to the person of the Son) and the quizzer will be called correct.
 
 If a pronoun is used in the text to name the deity, any of the names for that person of the deity within context may be considered an acceptable answer when clarifying. If the pronoun naming the deity is identified by the quizzer using a name that correctly identifies the deity, but with an identification that is out of context, the quizzer will be considered to have not stayed in context.
 
-When there is a Special Name of the deity given in the text, the Special Name must be given in the quizzer's answer. If the quizzer states any other Special Names which are not in context, the quizzer will be considered to have not stayed in context, even if they refer to the same person of the deity.
+When there is a special name of the deity given in the text, the special name must be given in the quizzer's answer. If the quizzer states any other special names which are not in context, the quizzer will be considered to have not stayed in context, even if they refer to the same person of the deity.
 
 When a quizzer gives other names for the same person of the deity, used within context, these should be allowed to be clarified within the question answer duration period when a more specific answer is needed.
 
@@ -48,9 +48,9 @@ An example of special names that aren't in context, consider that Jesus refers t
 
 The quizzer's response is correct when:
 
-- It fulfills all requirements specific to the Question Type
+- It fulfills all requirements specific to the question type
 - It contains the information requested
-- The quizzer stays in Context
+- The quizzer stays in context
 - Mispronounced names are still recognizable as the answer
 
 If the quizmaster did not complete the reading of the question, the quizzer's answer must include the information in the remainder of the question as well as the answer. The quizzer's answer must include all unique words in both the question and the answer.
@@ -60,7 +60,7 @@ Only the 1st response of the quizzer will be considered; however, if the respons
 **Quiz Out**
 : 4 correct questions by the same quizzer in the same quiz
 
-A Quizzed-Out Quizzer may only jump on Bonus questions.
+A quizzed-out quizzer may only jump on Bonus questions.
 
 #### Example
 
@@ -82,10 +82,10 @@ The quizzer's response is incorrect when:
 
 - Incorrect information has been given
 - The information given within the time limit is incomplete
-- The response does not fulfill all requirements specific to the Question Type
+- The response does not fulfill all requirements specific to the question type
 
 **Error**
-: An Incorrect answer is also known as an error
+: An incorrect answer is also known as an error
 
 **Err Out**
 : 3 errors by the same quizzer in the same quiz
@@ -154,7 +154,7 @@ The following are fouls:
 - The use of the hands to assist in jumping; hands may not touch any part of the chair or the floor from the time "Question" is called until the quizmaster recognizes the 1st 1 up
 - If any light goes on after the quizmaster calls "Question" and before they begin to discernibly read the question; discernibly includes the quizmaster's mouth forming a word shape
 - During a Reference or Quote question, if any light goes on after the quizmaster calls "Question" and before they begin to discernibly read the chapter number
-- Starting to answer before being recognized by the Quizmaster
+- Starting to answer before being recognized by the quizmaster
 - Having more than the designated team members, 1 coach, and 1 assistant coach on the quiz platform during a timeout
 - If a captain or co-captain confers with their coach or other quizzers prior to issuing a challenge; in addition, the challenge will not be allowed
 - Infraction of the rules, in spirit as well as in the letter, as discerned by the quiz officials

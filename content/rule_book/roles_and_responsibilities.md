@@ -12,17 +12,17 @@ Only the captain or co-captain may challenge a decision or respond to a challeng
 
 ## Quiz Officials
 
-No comment other than "correct" or "incorrect" need be announced by the quiz officials when announcing making a ruling; however, at the discretion of the quizmaster and answer judge, or at the request of the captain, additional information may be given.
+No comment other than "correct" or "incorrect" need be announced by the quiz officials when announcing making a ruling; however, at the discretion of the *quizmaster* (QM) and *answer judge* (AJ), or at the request of the captain, additional information may be given.
 
-If the additional information regarding the ruling is provided at the discretion of the QM/AJ and not at the request of the captain, this is not considered an explanation of a ruling, which would invalidate a Challenge or Protest.
+If the additional information regarding the ruling is provided at the discretion of the QM/AJ and not at the request of the captain, this is not considered an explanation of a ruling, which would invalidate a challenge or protest.
 
-If the captain requests additional information regarding the ruling, this is considered an explanation of a ruling and invalidates a Challenge or Protest. Before replying to a request for an explanation, the QM must ask all teams if they wish to Challenge.
+If the captain requests additional information regarding the ruling, this is considered an explanation of a ruling and invalidates a challenge or protest. Before replying to a request for an explanation, the QM must ask all teams if they wish to challenge.
 
 All conferring between quizmaster and answer judge(s) shall be done privately.
 
 ### Quizmasters (QM)
 
-The Quizmaster must:
+The quizmaster must:
 
 - Maintain a position such that all currently seated quizzers are able to view the quizmaster's face
 - Speak in such as a way as to be understood by all quizzers
@@ -56,7 +56,7 @@ For all other question types, once all of the information in both the question a
 
 ##### Quote is Complete
 
-On a Situation type question, when the quizzer has completed the Quotation, the quizmaster will say, "Quote is complete."
+On a Situation type question, when the quizzer has completed the quotation, the quizmaster will say, "Quote is complete."
 
 ##### Appending an Answer
 
@@ -68,7 +68,7 @@ On a Quote or Reference question, if either the chapter or verse number were not
 
 #### Commentary
 
-On a CVR/MACVR, in the scenario where the entire Reference (which is part of the "Question") was not read by the quizmaster, the quizmaster has 2 prompts to give, and must give them in appropriate order and with appropriate timing. If the quizzer provides all information in the question "text" and the answer "text", because the quizzer has not yet finished saying the complete Reference, which is part of the "question", the quizmaster must prompt with "More." The quizmaster cannot prompt with "What is your question?" yet, because the quizzer has not provided all information in the "question" (which includes the Reference) and the answer.
+On a CVR/MACVR, in the scenario where the entire Reference (which is part of the question text) was not read by the quizmaster, the quizmaster has 2 prompts to give, and must give them in appropriate order and with appropriate timing. If the quizzer provides all information in the question "text" and the answer "text", because the quizzer has not yet finished saying the complete Reference, which is part of the "question", the quizmaster must prompt with "More." The quizmaster cannot prompt with "What is your question?" yet, because the quizzer has not provided all information in the "question" (which includes the Reference) and the answer.
 
 ### Answer Judges (AJ)
 
