@@ -2,7 +2,7 @@
 
 ## Team Organization
 
-A team can consist of up to five quizzers. Teams can have up to four quizzers seated in a quiz at any given time.
+A team can consist of up to 5 quizzers. Teams can have up to 4 quizzers seated in a quiz at any given time.
 
 ### Captains
 
@@ -68,7 +68,7 @@ On a Quote or Reference question, if either the chapter or verse number were not
 
 #### Commentary
 
-On a CVR/MACVR, in the scenario where the entire Reference (which is part of the "Question") was not read by the quizmaster, the quizmaster has two prompts to give, and must give them in appropriate order and with appropriate timing. If the quizzer provides all information in the question "text" and the answer "text", because the quizzer has not yet finished saying the complete Reference, which is part of the "question", the quizmaster must prompt with "More." The quizmaster cannot prompt with "What is your question?" yet, because the quizzer has not provided all information in the "question" (which includes the Reference) and the answer.
+On a CVR/MACVR, in the scenario where the entire Reference (which is part of the "Question") was not read by the quizmaster, the quizmaster has 2 prompts to give, and must give them in appropriate order and with appropriate timing. If the quizzer provides all information in the question "text" and the answer "text", because the quizzer has not yet finished saying the complete Reference, which is part of the "question", the quizmaster must prompt with "More." The quizmaster cannot prompt with "What is your question?" yet, because the quizzer has not provided all information in the "question" (which includes the Reference) and the answer.
 
 ### Answer Judges (AJ)
 

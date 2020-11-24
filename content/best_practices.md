@@ -29,7 +29,7 @@ The Quizmaster should:
 - Must be strong enough to stand on its own without requiring additional verses to explain it.
 - Must be spiritually significant and significant to the chapter.
 
-### Finish-these-Two-Verses/Quote-these-Two-Verses
+### Finish-these-2-Verses/Quote-these-2-Verses
 
 - Should be verses that make more sense when quoted together.
 
@@ -47,7 +47,7 @@ Situation Quotations must be reasonable in length.
 
 ## Overtime
 
-If the score in overtime is such that the final placements are decided, the current set of three overtime questions does not have to be completed.
+If the score in overtime is such that the final placements are decided, the current set of 3 overtime questions does not have to be completed.
 
 ### Example
 

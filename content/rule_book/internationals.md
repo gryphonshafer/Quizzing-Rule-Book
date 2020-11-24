@@ -37,7 +37,7 @@ When deemed necessary, any official may be replaced from their position during a
 
 ### Scorekeeper
 
-At least one scorekeeper will tabulate the results of each question on official scoresheets in every IBQ quiz. They shall keep a running score of each quiz. Points will be accurately tallied on individual quizzers for each team by statisticians appointed by the CQLT.
+At least 1 scorekeeper will tabulate the results of each question on official scoresheets in every IBQ quiz. They shall keep a running score of each quiz. Points will be accurately tallied on individual quizzers for each team by statisticians appointed by the CQLT.
 
 ### Statistician
 

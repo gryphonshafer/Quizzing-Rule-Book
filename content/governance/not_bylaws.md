@@ -29,27 +29,27 @@ The CQLT will promote, coordinate, and provide general oversight for Alliance Bi
 
 ### Composition
 
-The CQLT shall consist of six persons; with no more than one representative from any one district, if possible, chosen from among the district team leaders and/or adult coaches of district quizzing teams.
+The CQLT shall consist of 6 persons; with no more than 1 representative from any 1 district, if possible, chosen from among the district team leaders and/or adult coaches of district quizzing teams.
 
-At least two members of the CQLT shall be chosen from Canadian team coaches and at least two members shall be chosen from among U.S. team coaches to ensure the interests of Alliance churches and districts in each country are represented.
+At least 2 members of the CQLT shall be chosen from Canadian team coaches and at least 2 members shall be chosen from among U.S. team coaches to ensure the interests of Alliance churches and districts in each country are represented.
 
-A maximum of two non-Alliance members can be voted onto the CQLT with a maximum of one per election. Nominations follow the same approval process as listed in the election section below.
+A maximum of 2 non-Alliance members can be voted onto the CQLT with a maximum of 1 per election. Nominations follow the same approval process as listed in the election section below.
 
 The director of the LIFE office shall serve ex officio as a resource to the leadership team to coordinate programming and appropriate support for the International Quizzing Competition. The national youth director of each country or an equivalent representative may participate in any meeting of the CQLT.
 
 ### Term
 
-Members serve for a three-year term with the possibility of 2 consecutive terms. Members serving consecutive terms will experience a gap of at least one year before being eligible for re-election. The LIFE office director and national youth directors, who serve ex officio as a non-voting member are exempt from a gap year.
+Members serve for a 3-year term with the possibility of 2 consecutive terms. Members serving consecutive terms will experience a gap of at least 1 year before being eligible for re-election. The LIFE office director and national youth directors, who serve ex officio as a non-voting member are exempt from a gap year.
 
 ### Election
 
-An election for team members shall be held annually. Normally two new members will be elected each year.
+An election for team members shall be held annually. Normally 2 new members will be elected each year.
 
-Each district may nominate a person for the CQLT and the CQLT will create a short list of 2 names per vacancy for elections unless fewer names are nominated. Nominees must have the approval of the District quizzing point person, the District Superintendent or his appointee and the nomineeaEURtms pastor. Ballots will be sent to every district quiz program. Each participating district shall be entitled to one vote for each vacancy. If a representative is needed from one country, then the person from that country with the highest vote will be elected followed by the person with the highest number of votes.
+Each district may nominate a person for the CQLT and the CQLT will create a short list of 2 names per vacancy for elections unless fewer names are nominated. Nominees must have the approval of the District quizzing point person, the District Superintendent or his appointee and the nomineeaEURtms pastor. Ballots will be sent to every district quiz program. Each participating district shall be entitled to 1 vote for each vacancy. If a representative is needed from 1 country, then the person from that country with the highest vote will be elected followed by the person with the highest number of votes.
 
 ### Meetings
 
-Normally the CQLT will meet three times annually, with at least one face to face meeting.
+Normally the CQLT will meet 3 times annually, with at least 1 face to face meeting.
 
 ### Chair
 
@@ -103,7 +103,7 @@ The CQLT and LIFE office is amenable to the Vice President for Church Ministries
 #### Possible Income Sources
 
 - Annual quizzing fee (US$5-US$10/quizzer)
-- One-time start up grants from CMA U.S./Canada
+- 1-time start up grants from CMA U.S./Canada
 - Donations
 - Licensing fees for questions, profits from quizzing resources
 

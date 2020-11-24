@@ -12,11 +12,11 @@ The district quizmaster and officials will be approved by the District Bible Qui
 
 ## Competitive Levels
 
-There are four levels of Bible quiz competition: local or interchurch, zone, district, and International Finals. Each district shall determine eligibility guidelines for all local, zone, and district competitions subject to approval by the district office.
+There are 4 levels of Bible quiz competition: local or interchurch, zone, district, and International Finals. Each district shall determine eligibility guidelines for all local, zone, and district competitions subject to approval by the district office.
 
 ### Local or Interchurch Quizzing
 
-- (Within a church or between several churches on an unofficial basis) Any number from one to five may constitute a team.
+- (Within a church or between several churches on an unofficial basis) Any number from 1 to 5 may constitute a team.
 - Any number of teams may participate.
 - The person/people responsible for preparation of the quizzes used for competition will be assigned by the person in charge of sponsoring the competition.
 - If a church is unable to secure enough teens for study and competition within its own group, it may work with a neighboring church for competition on this level.
@@ -39,16 +39,16 @@ There are four levels of Bible quiz competition: local or interchurch, zone, dis
 
 #### Preliminary Round Brackets
 
-The following are pairings for preliminary round quizzing with three quizzes per team. (In quizzes with four to six teams, some teams compete with each other twice.)
+The following are pairings for preliminary round quizzing with 3 quizzes per team. (In quizzes with 4 to 6 teams, some teams compete with each other twice.)
 
-Four teams
+4 teams
 
 1. ABC
 2. DAB
 3. CDA
 4. BCD
 
-Five teams
+5 teams
 
 1. ABC
 2. DEA
@@ -56,7 +56,7 @@ Five teams
 4. EAB
 5. CDE
 
-Six teams
+6 teams
 
 1. ACF
 2. BDA
@@ -65,7 +65,7 @@ Six teams
 5. EAD
 6. FBE
 
-Seven teams
+7 teams
 
 1. ACG
 2. BDA
@@ -75,7 +75,7 @@ Seven teams
 6. FAE
 7. GBF
 
-Eight teams
+8 teams
 
 1. ABC
 2. DEF
@@ -86,7 +86,7 @@ Eight teams
 7. FHC
 8. GBD
 
-Nine Teams
+9 Teams
 
 1. ABC
 2. DEF
@@ -98,7 +98,7 @@ Nine Teams
 8. BFG
 9. CFI
 
-Ten Teams
+10 Teams
 
 1. ABC
 2. DEF
@@ -111,7 +111,7 @@ Ten Teams
 9. CDH
 10. IJA
 
-Eleven Teams
+11 Teams
 
 1. ABJ
 2. BCK
@@ -125,7 +125,7 @@ Eleven Teams
 10. JKH
 11. KAI
 
-Twelve Teams
+12 Teams
 
 1. ABK
 2. CFE
@@ -140,7 +140,7 @@ Twelve Teams
 11. DFG
 12. ILK
 
-Thirteen Teams
+13 Teams
 
 1. CFG
 2. IHE
@@ -156,7 +156,7 @@ Thirteen Teams
 12. CBL
 13. DAE
 
-Fourteen Teams
+14 Teams
 
 1. ADE
 2. CFG
@@ -173,7 +173,7 @@ Fourteen Teams
 13. ABL
 14. NCD
 
-Fifteen Teams
+15 Teams
 
 1. BEF
 2. GJK
@@ -191,7 +191,7 @@ Fifteen Teams
 14. IHE
 15. ONK
 
-Sixteen Teams
+16 Teams
 
 1. CFG
 2. ADE
@@ -210,7 +210,7 @@ Sixteen Teams
 15. JMN
 16. MPA
 
-Seventeen Teams
+17 Teams
 
 1. CDL
 2. EGO
@@ -230,7 +230,7 @@ Seventeen Teams
 16. JLK
 17. PQA
 
-Eighteen Teams
+18 Teams
 
 1. AJR
 2. BPK
@@ -251,7 +251,7 @@ Eighteen Teams
 17. MNO
 18. PQR
 
-Nineteen Teams
+19 Teams
 
 1. IOS
 2. HFN
@@ -273,7 +273,7 @@ Nineteen Teams
 18. PQR
 19. SAG
 
-Twenty Teams
+20 Teams
 
 1. HSO
 2. TGP
@@ -296,7 +296,7 @@ Twenty Teams
 19. PRQ
 20. STA
 
-Twenty-one Teams
+20-1 Teams
 
 1. DAG
 2. JMP

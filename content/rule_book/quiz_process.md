@@ -32,17 +32,17 @@ There will be no duplicate questions in a single quiz.
 
 ### Toss-Up Questions
 
-When 3 teams are participating in a question, and one team errs, the next question will be a toss-up question for the two teams that did not err on the previous question. The team that erred is ineligible to jump on the toss-up question.
+When 3 teams are participating in a question, and 1 team errs, the next question will be a toss-up question for the 2 teams that did not err on the previous question. The team that erred is ineligible to jump on the toss-up question.
 
-If only two teams were participating in a question and one team errs, the next question will be a bonus question, not a toss-up question. If only one team was participating in a question, it must have been a bonus question. As such any outcome of the bonus question results in all three teams participating in the next question.
+If only 2 teams were participating in a question and 1 team errs, the next question will be a bonus question, not a toss-up question. If only 1 team was participating in a question, it must have been a bonus question. As such any outcome of the bonus question results in all 3 teams participating in the next question.
 
 ### Bonus Questions
 
-If only two teams are participating in a question, and one team errs, the next question will be an assigned bonus question for the team that did not err. An assigned bonus question is awarded to the corresponding chair of the chair that erred on the toss-up.
+If only 2 teams are participating in a question, and 1 team errs, the next question will be an assigned bonus question for the team that did not err. An assigned bonus question is awarded to the corresponding chair of the chair that erred on the toss-up.
 
 #### Example
 
-There are 4 chairs per team, any one of which may be filled or empty. If the quizzer seated on chair 2 erred on the toss-up, the quizzer seated on chair 2 of the team that did not err on the toss-up will be awarded the bonus question. If no quizzer of the team that did not err on the toss-up is seated in chair 2, then the bonus is "for an empty seat" and considered a no jump.
+There are 4 chairs per team, any 1 of which may be filled or empty. If the quizzer seated on chair 2 erred on the toss-up, the quizzer seated on chair 2 of the team that did not err on the toss-up will be awarded the bonus question. If no quizzer of the team that did not err on the toss-up is seated in chair 2, then the bonus is "for an empty seat" and considered a no jump.
 
 ### Question Reading Structure
 
@@ -83,7 +83,7 @@ There are 3 primary types of quizzes and 2 related overtime components of quizze
 
 There will be 20 numeric questions in a quiz.
 
-A toss-up question is the result of an error by one team. The two remaining teams will have the opportunity to jump, but the team making the error is ineligible for that question. If question 1 to 15 is erred, the next question number will be a toss-up question. If question 16-20 is erred, and if three teams were participating on 16, the toss-up question will be question 16A.
+A toss-up question is the result of an error by 1 team. The 2 remaining teams will have the opportunity to jump, but the team making the error is ineligible for that question. If question 1 to 15 is erred, the next question number will be a toss-up question. If question 16-20 is erred, and if 3 teams were participating on 16, the toss-up question will be question 16A.
 
 Regarding bonus Questions:
 
@@ -103,13 +103,13 @@ A 2-team 15-question tie-breaker quiz operates much like a 3-team 20-question qu
 - All bonus questions up to and including 12B are worth 20 points
 - All bonus questions from 13 to the end of the quiz are worth 10 points
 - Error points begin at question 13
-- A quiz-out is three correct questions
+- A quiz-out is 3 correct questions
 
 ### 2-Team 20-Question Quiz
 
 A 2-team 20-question quiz operates much like a 3-team 20-question quiz except:
 
-- All questions have a value of 20 points when two teams are eligible
+- All questions have a value of 20 points when 2 teams are eligible
 - If questions 1-15 are erred, the next question will be a bonus question
 - If questions 16-20 are erred, 16A-20A will be a bonus question
 - All bonus questions throughout the whole quiz are 10 points
@@ -118,8 +118,8 @@ A 2-team 20-question quiz operates much like a 3-team 20-question quiz except:
 
 Overtime occurs if a quiz ends in a tie and the team placements (1st, 2nd, 3rd) matter.
 
-- Additional units of three overtime questions each will be used until the tie is broken
-- Two-team rules will apply in overtime if only two teams are involved
+- Additional units of 3 overtime questions each will be used until the tie is broken
+- 2-team rules will apply in overtime if only 2 teams are involved
 - All the numeric question will be of a different question type
 
 ## Question Type Distribution
@@ -156,10 +156,10 @@ For 15-question quizzes, prepare quizzes as normal for 20-question quizzes, but 
 
 ## Jumping
 
-- Quizzers have five seconds in which to jump after the question is completed.
+- Quizzers have 5 seconds in which to jump after the question is completed.
 - If a quizzer's light comes on after a question has been called and before the question has discernibly begun, a foul will be called.
 - If a quizzer's light comes on after the quizmaster has discernibly begun reading the question, this will be considered a valid jump, and the quizzer will be given an opportunity to answer.
-- The first quizzer to rise and trigger their light, provided there has been no foul, will be awarded the jump.
+- The 1st quizzer to rise and trigger their light, provided there has been no foul, will be awarded the jump.
 - If in the judgment of the officials, a deliberate attempt is made to forfeit a question, an error will be charged, and 10 points deducted from the team score. The next question will be the same question number.
 
 ## Timeliness

@@ -12,7 +12,7 @@ The top 15 quizzers at *International Bible Quizzing* (IBQ) championship meets w
 
 ## Guidelines
 
-A quizzer may accept only one scholarship award each season if he or she is a winner in more than one category. The scholarship of highest value will be awarded. This restriction does not apply to the Floyd Meier Scholarship.
+A quizzer may accept only 1 scholarship award each season if he or she is a winner in more than 1 category. The scholarship of highest value will be awarded. This restriction does not apply to the Floyd Meier Scholarship.
 
 A quizzer may earn a new scholarship at each season's IBQ, thereby accumulating scholarships.
 
