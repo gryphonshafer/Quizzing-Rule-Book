@@ -4,11 +4,11 @@ The tournament brackets are based on three things: A preliminary round, an elimi
 
 ## Preliminary Rounds
 
-- Team Points are calculated using a team's score at the end of question 20, together with their place, which could be determined at the end of question 20, or after the end of overtime.
-    - Teams start with a base number of points based on their place and receive additional points based on their team score. The specifics are detailed in the section below.
-- In case of a tie, points are awarded according to the team score at the end of question 20.
-    - Overtime is used solely to determine placements.
-- If ties are not being broken in prelims, more than one team can receive First place, Second place, or Third place points.
+Team Points are calculated using a team's score at the end of question 20, together with their place, which could be determined at the end of question 20 or after the end of overtime. Teams start with a base number of points based on their place and receive additional points based on their team score. The specifics are detailed in the section below.
+
+In case of a tie, points are awarded according to the team score at the end of question 20. Overtime is used solely to determine placements.
+
+If ties are not being broken in prelims, more than one team can receive First place, Second place, or Third place points.
 
 ### Team Points Calculation
 
@@ -56,13 +56,13 @@ When more than nine teams are involved, at the determination of the meet directo
 
 A Consolation Final Nine bracket will be used for positions 10-15 (determined by XYZ quizzes) and places 16-18 determined by XXYYZZ quizzes. The teams in the XYZ quizzes cannot move below position 15, regardless of how low their XYZ quiz score was. Likewise, the teams in the XXYYZZ quizzes cannot move above position 16, regardless of how high their intermediate quiz scores were.
 
-### XYZ Quizzes
+**XYZ Quizzes**
 
 - Quiz X: Teams 7, 12, 15
 - Quiz Y: Teams 8, 11, 14
 - Quiz Z: Teams 9, 10, 13
 
-### XXYYZZ Quizzes
+**XXYYZZ Quizzes**
 
 - Quiz XX: Teams 16, 21, 24
 - Quiz YY: Teams 17, 20, 23
@@ -70,9 +70,9 @@ A Consolation Final Nine bracket will be used for positions 10-15 (determined by
 
 There will be a tie-breaker quiz for positions 6, 15, and 24. Ties for positions 7 through 14 will be broken in accordance with the following priorities:
 
-- Head-to-head competition in previous quizzes.
-- Total points scored in preliminaries.
-- Least number of errors.
+- Head-to-head competition in previous quizzes
+- Total points scored in preliminaries
+- Least number of errors
 
 Points earned in these quizzes should be added to the points earned in the opening round by each team. The highest three teams, based on the point system above, are then placed in the above bracket. The next six teams are placed in the lower bracket.
 
@@ -84,7 +84,7 @@ This bracket is based on the "winner-move-up" philosophy and is designed to sele
 
 In this bracket, the top three teams are involved in a triple-elimination, the middle three teams in a double-elimination, and the last three teams in a single-elimination. This way only those teams that have earned the right through winning will advance to the final quiz.
 
-##### Bracket Design
+**Bracket Design**
 
 This bracket does not require each team to lose to be eliminated.
 
@@ -97,15 +97,15 @@ This bracket does not require each team to lose to be eliminated.
 - Quiz G: Winner Quiz A, Winner Quiz D, Winner Quiz F
 - Quiz H: Same Three Teams in Quiz G
 
-##### Championship Quiz
+**Championship Quiz**
 
-- Quiz I: If the winner of Quiz G does not win Quiz H, Quiz I will have the winners of Quiz G and H (only). The other team will be eliminated
+- Quiz I: If the winner of Quiz G does not win Quiz H, Quiz I will have the winners of Quiz G and H (only). The other team will be eliminated.
 
 #### Tournament Bracket "B"
 
 Each team in the final nine must lose twice. A team may make the finals by actually winning only one quiz in this tournament bracket.
 
-##### Bracket Design
+**Bracket Design**
 
 - Quiz A: Teams 1, 6, 7
 - Quiz B: Teams 2, 5, 8
@@ -116,7 +116,7 @@ Each team in the final nine must lose twice. A team may make the finals by actua
 - Quiz G: Third Quiz D, Third Quiz E, First Quiz F
 - Quiz H: Second Quiz D, Second Quiz E, First Quiz G
 
-##### Championship Quizzes
+**Championship Quizzes**
 
 - Quiz I: First Quiz D, First Quiz E, First Quiz H
 - Quiz J: Second Quiz I, First Quiz I, Third Quiz I
@@ -130,7 +130,7 @@ If the same team took third place in Quiz I and J, then Quiz K will be a two-tea
 
 This bracket is a combination of brackets A and B. A team must win at least two quizzes to obtain a position in the finals.
 
-##### Bracket Design
+**Bracket Design**
 
 - Quiz A: Teams 1, 4, 9
 - Quiz B: Teams 2, 5, 7
@@ -142,7 +142,7 @@ This bracket is a combination of brackets A and B. A team must win at least two 
 - Quiz H: Second Quiz E, Third Quiz E, First Quiz F
 - Quiz I: Second Quiz G, Third Quiz G, First Quiz H
 
-##### Championship Quizzes
+**Championship Quizzes**
 
 - Quiz J: First Quiz D, First Quiz G, First Quiz I
 - Quiz K: Second Quiz J, First Quiz J, Third Quiz J
@@ -156,18 +156,17 @@ If the same team took third place in Quiz J and K, then Quiz L will be a two-tea
 
 A team must win twice to become the champion team. All three teams will continue to quiz until one team wins twice.
 
-- If the same team wins the first two championship quizzes,
-    - Second place is determined by the most second places. If that is a tie, second place will be determined by Clarification (below).
-- If the Champion team is determined in three quizzes
-    - Second and third places will be determined by Clarification (below).
-- If the Champion team is determined in four quizzes
-    - Second place is determined by the most second places. If that is a tie, second place will be determined by Clarification (below).
+If the same team wins the first two championship quizzes, Second place is determined by the most second places. If that is a tie, second place will be determined by the Clarification section (below).
+
+If the Champion team is determined in three quizzes, Second and third places will be determined by the Clarification section (below).
+
+If the Champion team is determined in four quizzes, Second place is determined by the most second places. If that is a tie, second place will be determined by the Clarification section (below).
 
 ### Clarification for 2nd and 3rd Place
 
-Second place will be determined as follows:
+If necessitated from the above Championship Quizzes, Second place will be determined as follows:
 
-- The team that scored the most points in the Championship Quizzes; or if there is a tie,
-    - The winner if the two teams quizzed earlier; or
-    - The team with the highest average points in the final nine; or if there is a tie,
-    - The highest standing in the preliminary round.
+1. The team that scored the most points in the Championship Quizzes; or if there is a tie,
+2. The winner if the two teams quizzed earlier; or
+3. The team with the highest average points in the final nine; or if there is a tie,
+4. The highest standing in the preliminary round

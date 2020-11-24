@@ -8,6 +8,7 @@ default:
             - roles_and_responsibilities.md
             - quiz_process.md
             - quiz_events.md
+            - scoring.md
             - quiz_meets.md
             - internationals.md
             - change_management.md

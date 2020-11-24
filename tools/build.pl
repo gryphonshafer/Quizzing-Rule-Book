@@ -62,6 +62,7 @@ sub build ( $file, $level = 0 ) {
     my $md  = path($file)->slurp;
     my $dir = dirname($file);
 
+    $md =~ s/^(\s*)(#+)/$1-$2/mg unless ($level);
     $md =~ s/^([ \t]*\-\s*\[[^\]]*\]\()([^\)]+)(\)[ \t]*)$/ sub_file( $1, $2, $3, $dir, $level ) /mge;
     return $md;
 }
@@ -82,6 +83,15 @@ sub sub_file ( $pre, $file, $post, $dir, $level = 0 ) {
 
 $output =~ s/^\s*#+\s*$_\s.*?(?=\n#)//imsg for ( @{ $opt->{filter} } );
 
+my %header_level;
+sub headers ($level) {
+    delete $header_level{$_} for ( grep { $_ > $level } keys %header_level );
+    $header_level{$level}++;
+    return join( '', map { $header_level{$_} . '.' } 2 .. $level );
+}
+$output =~ s/^(\s*)(#{2,})/ $1 . $2 . ' ' . headers( length($2) ) /mge;
+$output =~ s/^(\s*)\-(#+)/$1$2/mg;
+
 if ( $opt->{type} eq 'html' or $opt->{type} eq 'pdf' ) {
     $output =~ s/(\n\|[^\n]*\|[ \t]*\n\n)/$1\n/g;
 
@@ -89,6 +99,7 @@ if ( $opt->{type} eq 'html' or $opt->{type} eq 'pdf' ) {
         <html lang="en">
         <head>
             <title>Bible Quizzing Rule Book Project</title>
+            <meta charset="utf-8">
 
             <link rel="preconnect" href="https://fonts.gstatic.com">
             <link rel="stylesheet"
@@ -172,14 +183,24 @@ if ( $opt->{type} eq 'html' or $opt->{type} eq 'pdf' ) {
                 }
 
                 pre {
-                    background-color: whitesmoke;
-                    padding: 1em;
-                    border-radius: 0.5em;
+                    padding       : 1.0em 1.5em;
+                    border-radius : 0.5em;
+                }
+
+                code {
+                    border-radius : 0.25em;
+                    padding       : 0.02em 0.25em;
+                }
+
+                pre > code {
+                    border-radius : 0;
+                    padding       : 0;
                 }
 
                 pre, code {
-                    font-family : monospace;
-                    font-size   : 10pt;
+                    background-color : whitesmoke;
+                    font-family      : monospace;
+                    font-size        : 10pt;
                 }
 
                 blockquote {
