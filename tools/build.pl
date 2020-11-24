@@ -254,9 +254,9 @@ build.pl - Build various documents from Markdown source files
 =head1 SYNOPSIS
 
     build.pl OPTIONS
-        -d, --docs   DOCS_LIST        (i.e. "rule_book best_practices"; default: all)
-        -f, --filter BLOCKS_TO_FILTER (i.e. "commentary examples example" or "all"; default: none)
-        -t, --type   OUTPUT_TYPE      (i.e. "md" or "html" or "pdf"; default: "pdf")
+        -d, --docs   DOCS_LIST        ("rule_book best_practices"; default: all)
+        -f, --filter BLOCKS_TO_FILTER ("commentary examples example" or "all"; default: none)
+        -t, --type   OUTPUT_TYPE      ("md" or "html" or "pdf"; default: "pdf")
         -o, --output OUTPUT_FILE      (if not defined, output send to STDOUT)
         -h, --help
         -m, --man

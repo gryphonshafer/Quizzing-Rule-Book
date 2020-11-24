@@ -62,7 +62,7 @@ The syntax for which is (with `\n` representing a line break):
 
 ## English-Script
 
-English-Script (or English::Script) is a strict subset of simple English that can be used to stipulate rules in human-readable English that can be converted into software code. All English-Script lines should be indented a factor of 4 spaces (i.e. 4, 8, 12, etc.). For example:
+English-Script (or English::Script) is a strict subset of simple English that can be used to stipulate rules in human-readable English that can be converted into software code. All English-Script lines should be indented using intent spacing of 4 spaces per indent. For example:
 
     Set prime to 3.
     Set the special prime value to 3.

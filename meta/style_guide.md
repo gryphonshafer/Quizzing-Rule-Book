@@ -12,7 +12,7 @@ However, this style guide is overridden by (at least) the following:
 
     - Use integer numbers for all numbers
     - Titles should never contain periods and should be visually styled like level 2 headers
-    - Use "UK punctuation" standards (i.e. sentence punctuation exists outside quotations)
+    - Use "UK punctuation" standards (sentence punctuation exists outside quotations)
 
 ## Technical Text Requirements
 
