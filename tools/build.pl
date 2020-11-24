@@ -9,8 +9,11 @@ my $opt = options( 'docs|d=s{,}', 'filter|f=s{,}', 'type|t=s', 'output|o=s' );
 
 $opt->{docs}   = [ conf->get( qw( rule_book dir ) ) ] unless ( $opt->{docs} and @{ $opt->{docs} } );
 $opt->{type} //= 'pdf';
-$opt->{filter} = conf->get( qw( rule_book levels ) )
-    if ( $opt->{filter} and grep { lc($_) eq 'all' } @{ $opt->{filter} } );
+
+if ( $opt->{filter} and grep { lc($_) eq 'all' } @{ $opt->{filter} } ) {
+    $opt->{filter} = conf->get( qw( rule_book special_sections ) );
+    $opt->{all}    = 1;
+}
 
 my $content_dir = conf->get( qw( config_app root_dir ) ) . '/' . conf->get('content_dir');
 my $output      = join( "\n",
@@ -81,8 +84,6 @@ sub sub_file ( $pre, $file, $post, $dir, $level = 0 ) {
     }
 }
 
-$output =~ s/^\s*#+\s*$_\s.*?(?=\n#)//imsg for ( @{ $opt->{filter} } );
-
 my %header_level;
 sub headers ($level) {
     delete $header_level{$_} for ( grep { $_ > $level } keys %header_level );
@@ -91,6 +92,13 @@ sub headers ($level) {
 }
 $output =~ s/^(\s*)(#{2,})/ $1 . $2 . ' ' . headers( length($2) ) /mge;
 $output =~ s/^(\s*)\-(#+)/$1$2/mg;
+
+$output =~ s/^\s*#+\s*$_\s.*?(?=\n#)//imsg for ( @{ $opt->{filter} } );
+
+if ( $opt->{all} ) {
+    my $special_sections_block = conf->get( qw( rule_book special_sections_block ) );
+    $output =~ s/^\s*#+\s*$special_sections_block\s.*?(?=\n#)//imsg;
+}
 
 if ( $opt->{type} eq 'html' or $opt->{type} eq 'pdf' ) {
     $output =~ s/(\n\|[^\n]*\|[ \t]*\n\n)/$1\n/g;
@@ -284,7 +292,7 @@ their associated sections are filtered. )Note that "examples" will match
 "Examples" headers but not "Example" headers.)
 
 You can alternatively pass "all" to filter all "filterable" sections, which are
-defined in the application configuration file under rule book "levels".
+defined in the application configuration file under rule book "special_sections".
 
 =head2 -t, --type
 

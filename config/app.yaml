@@ -12,8 +12,8 @@ default:
             - quiz_meets.md
             - internationals.md
             - change_management.md
-        levels:
-            - application
+        special_sections_block: Special Sections
+        special_sections:
             - commentary
             - example
             - examples
