@@ -13,8 +13,20 @@ my $words = join( '|', qw(
 ) );
 
 path( "$root_dir/" . conf->get('content_dir') )->list_tree->each( sub {
-    my $count = () = $_->slurp =~ /\b(?:$words)\b/img;
-    ok( $count == 0, 'No word numbers in: ' . $_->to_rel($root_dir) );
+    my $file = $_;
+    my ( $line, @lines );
+    for ( split( /\n/, $file->slurp ) ) {
+        $line++;
+        next if (/^>/);
+        push( @lines, [ $file->to_rel($root_dir), $line ] ) if ( /\b(?:$words)\b/i );
+    }
+
+    ok( @lines == 0, 'No word numbers in: ' . $_->to_rel($root_dir) ) or diag(
+        "Word numbers found in:\n",
+        join( "\n",
+            map { ' ' x 4 . $_->[0] . ', line ' . $_->[1] } @lines
+        )
+    );
 } );
 
 done_testing;

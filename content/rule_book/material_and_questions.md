@@ -1,6 +1,6 @@
 # Material and Questions
 
-Bible Quizzing meets consist of a series of quizzes, which themselves consist of a series of questions. Questions are written based on a quiz season's material. Material refers to the Scriptural scope of content set for each season. The Bible edition used is the New International Version (NIV 2011) of the Bible. There is an 8-season rotation of material scope by season. 4 are defined as "Narrative" and 4 are defined as "Epistle" in terms of a material's style.
+Bible Quizzing meets consist of a series of quizzes, which themselves consist of a series of questions. Questions are written based on a quiz season's material. Material refers to the Scriptural scope of content set for each season. The Bible edition used is the *New International Version* (NIV) 2011 edition of the Bible. There is an 8-season rotation of material scope by season. 4 are defined as "Narrative" and 4 are defined as "Epistle" in terms of a material's style.
 
 ## Material Rotation Schedule
 
@@ -18,7 +18,7 @@ Bible Quizzing meets consist of a series of quizzes, which themselves consist of
 ## Material and Question-Writing Terms
 
 **Question Type**
-: Every quiz question is 1 of a particular set of question types, such as *Chapter-Verse Reference* (CVR) and *Finish-The-Verse* (FTV).
+: Every quiz question is 1 of a particular set of question types, such as *Chapter Verse Reference* (CVR) and *Finish the Verse* (FTV).
 
 **Question Type Group**
 : Question types are part of 1 or more question type groups, such as Reference and Finish.
@@ -102,9 +102,13 @@ In addition, an MA question is invalid if 1 of the listed answers to the multipl
 
 For an example of a negative word, consider 1 Corinthians 3:7:
 
-> So neither the 1 who plants nor the 1 who waters is anything, but only God, who makes things grow.
+> So neither the one who plants nor the one who waters is anything, but only God, who makes things grow.
 
-The question "Who is anything?" would require the answer "Neither the 1 who plants nor the 1 who waters", which is an invalid MA.
+The question "Who is anything?" would require the answer:
+
+> Neither the one who plants nor the one who waters.
+
+This is an invalid MA.
 
 Consider 1 Corinthians 9:25:
 
@@ -143,7 +147,7 @@ If 2 identical phrases exist in the same chapter, but 1 occurrence grammatically
 
 The above does not mean that if the quizzer needs to provide a reference question that is a CVR, and their choice of interrogative word changes the question type to MACVR, that the quizzer has given a valid CVR. In this case, the validity changes based on the interrogative word, because of how the required answer changes.
 
-##### Chapter-Verse (CVR)
+##### Chapter Verse Reference (CVR)
 
 - Must have a single answer
 - The question must contain a word or phrase that exists in more than 1 verse in the same chapter
@@ -153,7 +157,7 @@ The Question Text should be in the form:
 
 > According to [book name], chapter [chapter number], verse [verse number], [remainder of question text]
 
-##### Chapter (CR)
+##### Chapter Reference (CR)
 
 - Must have a single answer
 - Must contain a word or phrase that exists more than once in the material and only once in the chapter
@@ -162,12 +166,12 @@ The question text should be in the form:
 
 > According to [book name], chapter [chapter number], [remainder of question text]
 
-##### Multiple-Answer Chapter-Verse (MACVR)
+##### Multiple Answer Chapter Verse Reference (MACVR)
 
 - Must meet all the requirements of a CVR except the single answer requirement
 - Must also meet all the requirements of a MA except the unique word or phrase requirement
 
-##### Multiple-Answer Chapter (MACR)
+##### Multiple Answer Chapter Reference (MACR)
 
 - Must meet all the requirements of a CR except the single answer requirement
 - Must also meet all the requirements of a MA except the unique word or phrase requirement

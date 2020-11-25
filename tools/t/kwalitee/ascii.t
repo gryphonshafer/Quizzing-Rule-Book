@@ -17,7 +17,15 @@ path('.')
     ->map( sub { './' . $_->to_rel } )
     ->grep( sub { -f $_ and -T $_ and not $matcher->($_) } )
     ->each( sub {
-        ok( path($_)->slurp !~ /[^[:ascii:]]/, "ASCII check on $_" );
+        my $md = path($_)->slurp;
+        ok( $md !~ /[^[:ascii:]]/, "ASCII check on $_" ) or do {
+            my ( $line, @lines );
+            for ( split( /\n/, $md ) ) {
+                $line++;
+                push( @lines, $line ) if ( /[^[:ascii:]]/ );
+            }
+            diag( 'Non-ASCII character(s) found on line(s): ' . join( ', ', @lines) );
+        };
     } );
 
 chdir($cwd);

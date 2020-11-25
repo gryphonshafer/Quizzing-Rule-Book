@@ -9,7 +9,7 @@ my $cwd = getcwd();
 chdir($root_dir);
 
 my $matcher = build_gitignore_matcher( [
-    '.git', 'build', map { s|^/|./|; $_ } split( "\n", path('.gitignore')->slurp )
+    '.git', 'build', 't', map { s|^/|./|; $_ } split( "\n", path('.gitignore')->slurp )
 ] );
 
 path('.')
@@ -17,8 +17,18 @@ path('.')
     ->map( sub { './' . $_->to_rel } )
     ->grep( sub { -f $_ and -T $_ and not $matcher->($_) } )
     ->each( sub {
-        ok( path($_)->slurp !~ /^[^\|\[]+\S[ ]{2,}/, "Multispace check on $_" );
-        ok( path($_)->slurp !~ /(?:[ ]*\r?\n[ ]*){3,}/, "Multiline check on $_" );
+        my $md = path($_)->slurp;
+
+        ok( $md !~ /^[^\|\[]+\S[ ]{2,}/, "Multispace check on $_" ) or do {
+            my ( $line, @lines );
+            for ( split( /\n/, $md ) ) {
+                $line++;
+                push( @lines, $line ) if ( /^[^\|\[]+\S[ ]{2,}/ );
+            }
+            diag( 'Multispace check failed on line(s): ' . join( ', ', @lines) );
+        };
+
+        ok( $md !~ /(?:[ ]*\r?\n[ ]*){3,}/, "Multiline check on $_" );
     } );
 
 chdir($cwd);
