@@ -9,7 +9,7 @@ my $cwd = getcwd();
 chdir($root_dir);
 
 my $matcher = build_gitignore_matcher( [
-    '.git', 'build', 't', map { s|^/|./|; $_ } split( "\n", path('.gitignore')->slurp )
+    '.git', 'bin', 'build', 't', map { s|^/|./|; $_ } split( "\n", path('.gitignore')->slurp )
 ] );
 
 path('.')

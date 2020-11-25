@@ -31,4 +31,20 @@ default:
             - 1 Corinthians, 2 Corinthians
             - John
             - Hebrews, 1 Peter, 2 Peter
+    build:
+        dir: build
+        builds:
+            - output: rule_book_full
+              docs: rule_book
+              type: [ pdf, html, md ]
+            - output: rule_book_min
+              docs: rule_book
+              filter: all
+              type: [ pdf, html, md ]
+            - output: best_practices
+              docs: best_practices
+              type: [ pdf, html ]
+            - output: governance
+              docs: governance
+              type: pdf
 optional_include: local/config.yaml
