@@ -8,7 +8,7 @@ A team can consist of up to 5 quizzers. Teams can have up to 4 quizzers seated i
 
 Scorekeepers must be notified which quizzer is the captain and which is co-captain before the quizzers take their seats to begin the quiz. The captain and co-captain may change during a given competition but not during a quiz.
 
-Only the captain or co-captain may challenge a decision or respond to a challenge. If both the captain and co-captain have erred out, another quizzer can be designated by the coach to respond to or initiate challenges.
+Only the captain or co-captain may challenge a decision or respond to a challenge. If both the captain and co-captain have erred-out, another quizzer can be designated by the coach to respond to or initiate challenges.
 
 ## Quiz Officials
 
@@ -34,7 +34,7 @@ The quizmaster should consult with the answer judge(s) at any time they feel is 
 
 #### Quizmaster Prompts
 
-During the question answer duration period, the quizmaster will use the following prompts.
+During the question answer duration period, the quizmaster will use only the following prompts.
 
 ##### Pronoun Clarification
 
@@ -60,7 +60,7 @@ On a Situation type question, when the quizzer has completed the quotation, the 
 
 ##### Appending an Answer
 
-On an INT or MA Question, if all of the information in the answer text has been given, but the quizzer is missing information in the question text, the quizmaster will say "More".
+On an INT or MA Question, if all the information in the answer text has been given but the quizzer is missing information in the question text, the quizmaster will say "More".
 
 On a Situation question, because the quotation is part of the question, the quizmaster will say "More" when required information from the quotation is missing.
 
@@ -68,11 +68,11 @@ On a Quote or Reference question, if either the chapter or verse number were not
 
 #### Commentary
 
-On a CVR/MACVR, in the scenario where the entire Reference (which is part of the question text) was not read by the quizmaster, the quizmaster has 2 prompts to give, and must give them in appropriate order and with appropriate timing. If the quizzer provides all information in the question "text" and the answer "text", because the quizzer has not yet finished saying the complete Reference, which is part of the "question", the quizmaster must prompt with "More." The quizmaster cannot prompt with "What is your question?" yet, because the quizzer has not provided all information in the "question" (which includes the Reference) and the answer.
+On a CVR/MACVR, in the scenario where the entire reference (which is part of the question text) was not read by the quizmaster, the quizmaster has 2 prompts to give, and must give them in appropriate order and with appropriate timing. If the quizzer provides all information in the question text and the answer text, because the quizzer has not yet finished saying the complete Reference, which is part of the question, the quizmaster must prompt with "More." The quizmaster cannot prompt with "What is your question?" yet, because the quizzer has not provided all information in the question (which includes the reference) and the answer.
 
 ### Answer Judges (AJ)
 
-When an answer given is in question, it is the answer judge who will determine the accuracy of its content and make a ruling accordingly.
+When an answer given is in question, the answer judge will determine the accuracy of its content and make a ruling recommendation to the quizmaster.
 
 Answer judges will also:
 
@@ -83,7 +83,7 @@ Answer judges will also:
 
 The scorekeeper will:
 
-- Tally and immediately announce when a quizzer has erred out, quizzed out, or fouled out
+- Tally and immediately announce when a quizzer has erred-out, quizzed-out, or fouled-out
 - Keep a record of all timeouts
 - Keep a record of the number of questions a substitute quizzer has remained out to determine eligibility for re-substitution
 - Either read the score or have the score ready to be read at the beginning of timeouts when there is no scoreboard

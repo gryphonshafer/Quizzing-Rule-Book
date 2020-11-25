@@ -69,8 +69,8 @@ English-Script (or English::Script) is a strict subset of simple English that ca
     Set the answer to 123,456.78.
 
     If the question type is "INT" then apply the following block.
-        If the jumped quizzer correct sum is 4, then set the jumped quizzer quiz out to true.
-        Set the alert message to "Quiz out!"
+        If the jumped quizzer correct sum is 4, then set the jumped quizzer quiz-out to true.
+        Set the alert message to "Quiz Out!"
     This is the end of the block.
 
 **Use indented code *only* for English-Script.** For a complete set of English-Script grammar: <https://metacpan.org/pod/English::Script#DEFAULT-GRAMMAR>

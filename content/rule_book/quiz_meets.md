@@ -4,7 +4,7 @@ The tournament brackets are based on 3 things: A preliminary round (or "prelims"
 
 ## Preliminary Rounds
 
-Team Points are calculated using a team's score at the end of question 20, together with their place, which could be determined at the end of question 20 or after the end of overtime. Teams start with a base number of points based on their place and receive additional points based on their team score. The specifics are detailed in the section below.
+Team points are calculated using a team's score at the end of question 20, together with their place, which could be determined at the end of question 20 or after the end of overtime. Teams start with a base number of points based on their place and receive additional points based on their team score. The specifics are detailed in the section below.
 
 In case of a tie, points are awarded according to the team score at the end of question 20. Overtime is used solely to determine placements.
 
@@ -48,7 +48,7 @@ A team will be awarded a minimum of team points based on their placement:
 
 ## Elimination Rounds
 
-When more than 9 teams are involved, at the determination of the meet director and announced before the meet begins, there may be XYZ quizzes, following these guidelines:
+When more than 9 teams are involved, at the determination of the meet director and announced before the meet begins, there may be XYZ quizzes following these guidelines:
 
 - If there are 10 to 14 teams, the top 9 should be placed into a final 9 championship bracket after the opening round, for the elimination round, and the remaining teams dropped.
 - If there are 15 to 20 teams, the top 6 teams should be placed in the championship bracket, the next 9 places (7 through 15) should quiz in the intermediate quizzes given below (XYZ) and the remaining teams should be dropped.
@@ -158,9 +158,9 @@ A team must win twice to become the champion team. All 3 teams will continue to 
 
 If the same team wins the 1st 2 championship quizzes, 2nd place is determined by the most 2nd places. If that is a tie, 2nd place will be determined by the clarification section (below).
 
-If the Champion team is determined in 3 quizzes, 2nd and 3rd places will be determined by the clarification section (below).
+If the champion team is determined in 3 quizzes, 2nd and 3rd places will be determined by the clarification section (below).
 
-If the Champion team is determined in 4 quizzes, 2nd place is determined by the most 2nd places. If that is a tie, 2nd place will be determined by the clarification section (below).
+If the champion team is determined in 4 quizzes, 2nd place is determined by the most 2nd places. If that is a tie, 2nd place will be determined by the clarification section (below).
 
 ### Clarification for 2nd and 3rd Place
 

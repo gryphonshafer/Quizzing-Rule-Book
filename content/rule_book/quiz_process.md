@@ -15,30 +15,30 @@
 : A question number with numbers and letters such as 17A
 
 **Read Question**
-: everything the quizmaster reads from the quiz question
+: Everything the quizmaster reads from the quiz question
 
 **Answer**
 : Everything the quizzer says while answering a question after being recognized by the quizmaster until their answer duration has elapsed or being called correct or incorrect
 
 **Response**
-: a synonym for answer
+: A synonym for answer
 
 ## Questions
 
 There will be no duplicate questions in a single quiz.
 
 **Participating in a Question**
-: A team that is eligible to jump on a given question is said to be participating in a question. A team that has no quizzers eligible to jump because of either foul out, err out, or quiz out, is still considered a team that is eligible to jump.
+: A team that is eligible to jump on a given question is said to be participating in a question. A team that has no quizzers eligible to jump because of either foul-out, err-out, or quiz-out is still considered a team that is eligible to jump.
 
 ### Toss-Up Questions
 
-When 3 teams are participating in a question, and 1 team errs, the next question will be a toss-up question for the 2 teams that did not err on the previous question. The team that erred is ineligible to jump on the toss-up question.
+When 3 teams are participating in a question and 1 team errs, the next question will be a toss-up question for the 2 teams that did not err on the previous question. The team that erred is ineligible to jump on the toss-up question.
 
-If only 2 teams were participating in a question and 1 team errs, the next question will be a bonus question, not a toss-up question. If only 1 team was participating in a question, it must have been a bonus question. As such any outcome of the bonus question results in all 3 teams participating in the next question.
+If only 2 teams were participating in a question and 1 team errs, the next question will be a bonus question, not a toss-up question. If only 1 team was participating in a question, it must have been a bonus question. As such, any outcome of the bonus question results in all 3 teams participating in the next question.
 
 ### Bonus Questions
 
-If only 2 teams are participating in a question, and 1 team errs, the next question will be an assigned bonus question for the team that did not err. An assigned bonus question is awarded to the corresponding chair of the chair that erred on the toss-up.
+If only 2 teams are participating in a question and 1 team errs, the next question will be an assigned bonus question for the team that did not err. An assigned bonus question is awarded to the corresponding chair of the chair that erred on the toss-up.
 
 #### Example
 
@@ -67,7 +67,7 @@ A Quizmaster must introduce and read each question type in a specific, multipart
 
 3. Question text or remainder of question text
 
-A quizmaster may repeat or repeat as a paraphrase of any component of the question introduction for additional clarity.
+A quizmaster may repeat or repeat as a paraphrase any component of the question introduction for additional clarity.
 
 ## Types of Quizzes
 
@@ -81,11 +81,11 @@ There are 3 primary types of quizzes and 2 related overtime components of quizze
 
 ### 3-Team 20-Question Quiz
 
-There will be 20 numeric questions in a quiz.
+There will be 20 numeric questions in a quiz, excluding any overtime questions.
 
 A toss-up question is the result of an error by 1 team. The 2 remaining teams will have the opportunity to jump, but the team making the error is ineligible for that question. If question 1 to 15 is erred, the next question number will be a toss-up question. If question 16-20 is erred, and if 3 teams were participating on 16, the toss-up question will be question 16A.
 
-Regarding bonus Questions:
+Regarding bonus questions:
 
 - If toss-up question 2 through 15 is erred, then the next question number is a bonus question
 - If question 16 is a toss-up question and is erred, 16A is a bonus question
@@ -148,7 +148,7 @@ For 15-question quizzes, prepare quizzes as normal for 20-question quizzes, but 
 - The feet of the quizzers are to be on the floor while jumping.
 - A line-up card showing the seating order of each quizzer should be given to the quizmaster or scorekeeper before the start of each quiz.
 - No verbal or non-verbal communication is permitted between quizzers, coaches, or the audience from the time the quizmaster introduces the question type until points have been awarded.
-- Only a coach from a team presently participating in the quiz, or the meet director may confer with the officials.
+- Only a coach from a team presently participating in the quiz or the meet director may confer with the officials.
 - Coaches may have quiz material(s) on the platform during a timeout or prior to a quiz.
 - Quizzers will not touch the officials' table.
 - Quiz rooms will use jump measuring equipment to prevent ties.

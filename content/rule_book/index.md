@@ -10,13 +10,13 @@ There are some special section blocks within this rule book that contain content
 
 ### Examples
 
-Examples are a representation of a rule, a tangible illustration of a rule. Since rules are often stated using abstract wording and concepts, and often in generalized forms, it can be hard to visualize the rule's application without an example.
+Examples are a representation and tangible illustration of a rule. Since rules are often stated using abstract wording and concepts in generalized forms, it can be hard to visualize the rule's application without an example.
 
-That said, each example is just 1 representation. It does not aim to exemplify every possible application of the rule. The fact that the lone example covers only part of the rule should not be interpreted as implying that the rule is actually different than stated. The correct interpretation should be that the examples do not fully cover every application of the rule.
+That said, each example is just 1 representation. Examples do not aim to exemplify every possible application of the rule. The fact that a lone example covers only part of the rule should not be interpreted as implying that the rule is actually different than stated. The correct interpretation should be that examples do not fully cover every application of the rule.
 
 ### Commentary
 
-Commentary sections include a series of comments, explanations, or annotations about the preceding portion of the rule book. These sections contain notes about the reasoning of rule book sections or their philosophical and practical implications. They are not to be considered rules. Rather, they are mini-essays about the rules. Nothing within commentary sections should be considered influential for disambiguating any confusion of the rule book itself.
+Commentary sections include a series of comments, explanations, or annotations about the preceding portion of the rule book. These sections contain notes about the reasoning of rule book sections or their philosophical and practical implications. They are not to be considered rules. Rather, they are mini-essays about the rules.
 
 ### Logic
 

@@ -15,13 +15,13 @@ Any exceptions to this must be brought to the CQLT.
 
 ## Team Structure
 
-Each district will be allowed to send as many teams as the district feels will be competitive and that they are financially able to send. These will be the district's International Teams.
+Each district will be allowed to send as many teams as the district feels will be competitive and that they are financially able to send. These will be the district's international teams.
 
 Each team must have a coach and may also have an assistant coach.
 
 ## Event Registration
 
-All arrangements, promotion, and administration will be handled by the CQLT and Life Office.
+All arrangements, promotion, and administration will be handled by the CQLT and the Life Office.
 
 Notification by each district of its intention to enter a team must be received by the CQLT, on a form supplied by the CQLT, no later than the date posted on the CMA Bible Quizzing website. The names of the IBQ team, its quizzers, and its coaching staff, and all registration fees must be sent, when specified, to the Life Office for that quiz season. District participation fees the current quiz season must be paid in order to register for the IBQ competition. Any exceptions to this must be brought to the CQLT.
 

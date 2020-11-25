@@ -1,6 +1,6 @@
 # Material and Questions
 
-Bible Quizzing meets consist of a series of quizzes, which themselves consist of a series of questions. Questions are written based on a quiz season's material. Material refers to the Scriptural scope of content set for each season. The Bible edition used is the *New International Version* (NIV) 2011 edition of the Bible. There is an 8-season rotation of material scope by season. 4 are defined as "Narrative" and 4 are defined as "Epistle" in terms of a material's style.
+Bible Quizzing meets consist of a series of quizzes, which themselves consist of a series of questions. Questions are written based on a quiz season's material. Material refers to the Scriptural scope of content set for each season. The Bible edition used is the *New International Version* (NIV) 2011 edition of the Bible. There is an 8-season rotation of material. 4 are defined as "Narrative" and 4 are defined as "Epistle" in terms of a material's style.
 
 ## Material Rotation Schedule
 
@@ -66,7 +66,7 @@ The exhaustive list of interrogative words is:
 
 ### Context
 
-Context is a range of verses from the question's reference. Context is a concept primarily related to the answering of questions, but it needs to be considered when writing questions from the material. By default, context is limited to 5 verses before or after the Reference; however, some question types have a different context, which is defined in the question type.
+Context is a range of verses from the question's reference. Context is a concept primarily related to the answering of questions, but it needs to be considered when writing questions from the material. By default, context is limited to 5 verses before or after the reference; however, some question types have a different context, which is defined in the question type.
 
 ## Question Writing
 
@@ -96,7 +96,7 @@ Interrogative questions, also called "standard" questions or "regular" questions
     - The identification of a single pronoun does not meet the above requirement
     - The identification of a plural pronoun does meet the above requirement
 
-In addition, an MA question is invalid if 1 of the listed answers to the multiple answer's questions is a "negative" answer. A "negative" answer is an answer used to contrast another answer or an answer that does not answer the question, such as answer that begins with the words or similar words to "not" or "neither".
+In addition, an MA question is invalid if 1 of the listed answers to the multiple answer's questions is a "negative" answer. A "negative" answer is an answer used to contrast another answer or an answer that does not answer the question, such as an answer that begins with the words or similar words to "not" or "neither".
 
 ##### Examples
 
@@ -122,7 +122,7 @@ Reference question type group questions are used to distinguish between exact du
 
 If a quizzer needs to provide the reference question, the provided reference question must:
 
-- Be of the exact same question type (CR, CVR, MACR, MACVR) as the written question
+- Be of the exact same question type (CR, CVR, MACR, MACVR, Q, Q2V, etc.) as the written question
 - Have content and wording similar to the content and wording of the written question
 - Have the determining word or phrase of the written question
 - Have the interrogative word used not be a factor when deciding the valid type of a reference question
@@ -143,9 +143,9 @@ A CR question could be written: "What deeds?" The answer would be: "Lawless." If
 
 ##### Commentary
 
-If 2 identical phrases exist in the same chapter, but 1 occurrence grammatically calls for use of the "who" inserted interrogative word, and the other occurrence grammatically calls for the use of the "what" inserted interrogative word, that difference in the grammatically dictated interrogative word does not change the fact that phrase from the material (that excludes the inserted interrogative word) occurs more than twice in the same chapter, necessitating a CVR question.
+If 2 identical phrases exist in the same chapter, but 1 occurrence grammatically calls for use of the "who" inserted interrogative word, and the other occurrence grammatically calls for the use of the "what" inserted interrogative word, that difference in the grammatically dictated interrogative word does not change the fact that the phrase from the material (that excludes the inserted interrogative word) occurs more than twice in the same chapter, necessitating a CVR question.
 
-The above does not mean that if the quizzer needs to provide a reference question that is a CVR, and their choice of interrogative word changes the question type to MACVR, that the quizzer has given a valid CVR. In this case, the validity changes based on the interrogative word, because of how the required answer changes.
+The above does not mean that if the quizzer needs to provide a reference question that is a CVR, and their choice of interrogative word changes the question type to MACVR, that the quizzer has given a valid CVR. In this case, the validity changes based on the interrogative word because of how the required answer changes.
 
 ##### Chapter Verse Reference (CVR)
 
@@ -198,7 +198,7 @@ Q2V is used when a verse is not strong enough on its own and needs another verse
 - Most be 2 consecutive verses
 - The entire 2-verse reference range is part of the question and therefore required in the response if not fully spoken by the quizmaster
 
-The Question Text should be in the form:
+The question text should be in the form:
 
 > Quote [book name], chapter [chapter number], verses [verse numbers].
 

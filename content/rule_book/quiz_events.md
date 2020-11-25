@@ -57,7 +57,7 @@ If the quizmaster did not complete the reading of the question, the quizzer's an
 
 Only the 1st response of the quizzer will be considered; however, if the response by the quizzer is in context and is not incorrect, the quizzer will be allowed their full question answer duration period to satisfy all requirements of a correct response.
 
-**Quiz Out**
+**Quiz-Out**
 : 4 correct questions by the same quizzer in the same quiz
 
 A quizzed-out quizzer may only jump on Bonus questions.
@@ -87,10 +87,10 @@ The quizzer's response is incorrect when:
 **Error**
 : An incorrect answer is also known as an error
 
-**Err Out**
+**Err-Out**
 : 3 errors by the same quizzer in the same quiz
 
-An error-out eliminates that quizzer from the quiz. The quizzer must leave the platform immediately.
+An err-out eliminates that quizzer from the quiz. The quizzer must leave the platform immediately.
 
 ## Challenges
 
@@ -150,14 +150,14 @@ If the officials fail to call a foul, a coach or captain may call it to the atte
 
 The following are fouls:
 
-- Team members (quizzers, coaches) communicating with each other, other teams, or with the audience between the time the question type is introduced, and points are awarded; communication can include non-verbal communication
-- The use of the hands to assist in jumping; hands may not touch any part of the chair or the floor from the time "Question" is called until the quizmaster recognizes the 1st 1 up
+- Team members, whether quizzers or coaches, communicating with each other, other teams, or with the audience between the time the question type is introduced and points are awarded; communication can include non-verbal communication
+- The use of the hands to assist in jumping; hands may not touch any part of the chair or the floor from the time "Question" is called until the quizmaster recognizes the 1st quizzer to jump
 - If any light goes on after the quizmaster calls "Question" and before they begin to discernibly read the question; discernibly includes the quizmaster's mouth forming a word shape
 - During a Reference or Quote question, if any light goes on after the quizmaster calls "Question" and before they begin to discernibly read the chapter number
 - Starting to answer before being recognized by the quizmaster
 - Having more than the designated team members, 1 coach, and 1 assistant coach on the quiz platform during a timeout
 - If a captain or co-captain confers with their coach or other quizzers prior to issuing a challenge; in addition, the challenge will not be allowed
-- Infraction of the rules, in spirit as well as in the letter, as discerned by the quiz officials
+- Infraction of the rules, in letter or spirit, as discerned by the quiz officials
 
 **Individual Fouls**
 : A foul awarded to 1 or more individual quizzers
@@ -165,12 +165,12 @@ The following are fouls:
 **Team Fouls**
 : The sum of individual fouls by members of the same team
 
-**Foul Out**
+**Foul-Out**
 : 3 fouls by the same quizzer in the same quiz
 
 ## Timeouts
 
-Each team is allowed 2 60-2nd timeouts. Only 1 of those timeouts may be taken after question number 17, including any alphanumeric question numbers.
+Each team is allowed 2 1-minute timeouts. Only 1 of those timeouts may be taken after question number 17, including any alphanumeric question numbers.
 
 - Captains, co-captains, or coaches may call for a timeout.
 - Only the coach, assistant coach, and substitute may converse with the team during a timeout.
