@@ -6,12 +6,12 @@ This is the official rule book for Bible Quizzing, which represents what will be
 
 ## Version Information
 
-- This document was built on: 2020-11-25 15:18:05 PST
-- This document's version is: 87cef107705603dcce9a97f32bf6d7abf4cbae9b
+- This document was built on: 2020-11-25 15:32:27 PST
+- This document's version is: e37b27304002931238e8b4b5fd5e4776886e3cde
 
 You can download this document from:
 
-[https://github.com/gryphonshafer/Quizzing-Rule-Book/raw/87cef10/build/rule_book_full.md](https://github.com/gryphonshafer/Quizzing-Rule-Book/raw/87cef10/build/rule_book_full.md)
+[https://github.com/gryphonshafer/Quizzing-Rule-Book/raw/e37b273/build/rule_book_full.md](https://github.com/gryphonshafer/Quizzing-Rule-Book/raw/e37b273/build/rule_book_full.md)
 
 ## Special Sections
 
