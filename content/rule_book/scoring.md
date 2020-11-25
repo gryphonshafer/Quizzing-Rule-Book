@@ -1,14 +1,14 @@
 # Scoring
 
-Below are the scoring calculation rules and the logic for them. This procedure is executed after every "quiz event" (defined below).
+Below are the scoring calculation rules and the logic for them. This procedure is executed after every "*quiz event*" (defined below).
 
 ## Scoring Terms and Definitions
 
 **Quiz Event**
-: Label for whatever quiz event triggered the run of the procedure; possible values are: "question", "foul", "timeout", "sub-in", "sub-out", "challenge", "unreadiness", and "unsportsmanlike"
+: Label for whatever *quiz event* triggered the run of the procedure; possible values are: "question", "foul", "timeout", "sub-in", "sub-out", "challenge", "unreadiness", and "unsportsmanlike"
 
 **Quiz Type**
-: Current quiz type, defined under the *Quiz Process, Types of Quizzes* section
+: Current *quiz type*, defined under the *Quiz Process, Types of Quizzes* section
 
 **Current/Next Question Form**
 : Current or next question "form" such as: "Standard", "Toss-Up", and "Bonus"
@@ -20,16 +20,16 @@ Below are the scoring calculation rules and the logic for them. This procedure i
 : Current or next question label, the possible suffix; for example, if on question 17A, the value is A
 
 **Current/Next Question Number**
-: Current or next question number, which is a combination of integer and label
+: Current or next question *number*, which is a combination of integer and label
 
 **Ruling**
-: Ruling on a question; possible values are: "correct", "incorrect", and "none" (meaning no jump)
+: *Ruling* on a question; possible values are: "correct", "incorrect", and "none" (meaning no jump)
 
 **Challenge**
-: Ruling on a challenge; possible values are: "accepted" and "overruled"
+: *Ruling* on a challenge; possible values are: "accepted" and "overruled"
 
 **Overruled Challenges**
-: Integer representing total overruled challenges for the given team
+: Integer representing total *overruled challenges* for the given team
 
 **Quizzer Score Increment**
 : Amount the given quizzer's score should be incremented
@@ -38,40 +38,40 @@ Below are the scoring calculation rules and the logic for them. This procedure i
 : Amount the given team's score should be incremented
 
 **Quizzer Correct Answers**
-: Integer representing total correct answers for the given quizzer
+: Integer representing total correct *answers* for the given quizzer
 
 **Quizzer Incorrect Answers**
-: Integer representing total incorrect answers for the given quizzer
+: Integer representing total incorrect *answers* for the given quizzer
 
 **Team Correct Answers**
-: Integer representing total correct answers for the given team
+: Integer representing total correct *answers* for the given team
 
 **Team Incorrect Answers**
-: Integer representing total incorrect answers for the given team
+: Integer representing total incorrect *answers* for the given team
 
 **Team Quizzers with Correct Answers**
-: Integer representing total number of quizzers for the given team with correct answers
+: Integer representing total *number* of quizzers for the given team with correct answers
 
 **Quizzer Fouls**
-: Integer representing total number of fouls for the given quizzer
+: Integer representing total *number* of fouls for the given quizzer
 
 **Team Fouls**
-: Integer representing total number of fouls for the given team
+: Integer representing total *number* of fouls for the given team
 
 **Quizzer Name**
 : Name of the given quizzer (1st and last)
 
 **Scoresheet Label**
-: String (which should be irreducibly short) that will be filled in the appropriate scoresheet cell for the given quizzer (and given team provided "Scoresheet Team Label" is not also defined)
+: String (which should be irreducibly short) that will be filled in the appropriate scoresheet cell for the given quizzer (and given team provided "*Scoresheet Team Label*" is not also defined)
 
 **Scoresheet Team Label**
-: String (which should be irreducibly short) that will be filled in the appropriate scoresheet cell for the given team; normally, this is left undefined and thus "Scoresheet Label" is used
+: String (which should be irreducibly short) that will be filled in the appropriate scoresheet cell for the given team; normally, this is left undefined and thus "*Scoresheet Label*" is used
 
 **Message**
-: An optional string for a message text to display; for example: "Quiz Out"
+: An optional string for a *message* text to display; for example: "Quiz Out"
 
 **Team Roster**
-: This is an array of quizzer objects, each of which contains a "correct answers" value
+: This is an array of quizzer objects, each of which contains a "correct *answers*" value
 
 ## Scoring Individual and Team Points
 
@@ -82,11 +82,11 @@ All points that occur during a bonus question or during overtime do not contribu
 ### Points Earned
 
 - +20 points for every correct question and toss-up question
-- +10 points for every quiz out without error
+- +10 points for every *quiz out* without error
 
 ### Points Deducted
 
-- -10 points for 2nd and subsequent personal errors
+- -10 points for 2nd and subsequent personal *errors*
 - -10 points for 3rd personal foul
 
 ### Team Points
@@ -95,17 +95,17 @@ All points earned or deducted by an individual are to be counted towards the tea
 
 ### Points Earned
 
-- +10 points for the 1st correct answer given by the 3rd and subsequent quizzer on the team
-- +20 points for every correct bonus question before question number 17
+- +10 points for the 1st correct *answer* given by the 3rd and subsequent quizzer on the team
+- +20 points for every correct bonus question before question *number* 17
      - In 2-team quizzes, this scoring rule does not apply
-- +10 points for every correct bonus question after and including question number 17
+- +10 points for every correct bonus question after and including question *number* 17
      - In 2-team quizzes, all correct bonus questions are worth 10 points
 
 #### Readiness Bonus
 
 +20 points will be awarded to each team present at the scheduled start time of the quiz.
 
-Teams that arrive late due to quizzing in another room are excused from the forfeiture of these points. If a single quizzer is late, the coach can decide to keep the +20 points by keeping the late quizzer out the whole quiz, or forfeit the points by subbing the quizzer in after question number 1. This decision must occur before the quiz has been started.
+Teams that arrive late due to quizzing in another room are excused from the forfeiture of these points. If a single quizzer is late, the coach can decide to keep the +20 points by keeping the late quizzer out the whole quiz, or forfeit the points by subbing the quizzer in after question *number* 1. This decision must occur before the quiz has been started.
 
 ##### Logic
 
@@ -113,15 +113,15 @@ Teams that arrive late due to quizzing in another room are excused from the forf
 
 ### Points Deducted
 
-Team errors are the sum of all individual, non-bonus errors.
+Team *errors* are the sum of all individual, non-bonus *errors*.
 
-- -10 points for every team error starting at team error number 3
-- -10 points for every error on a question or toss-up question starting at question number 17
-- -10 points for 4th and subsequent team fouls
-- -10 points for 2nd and subsequent overruled challenges and protests
+- -10 points for every team *error* starting at team *error* number 3
+- -10 points for every *error* on a question or toss-up question starting at question number 17
+- -10 points for 4th and subsequent *team fouls*
+- -10 points for 2nd and subsequent *overruled challenges* and protests
 - -10 points at the determination of the room officials that a deliberate attempt was made to forfeit a question
-- No more than -10 points can be deducted per question asked due to an error
-- Non-error-related deducted points are cumulative
+- No more than -10 points can be deducted per question asked due to an *error*
+- Non-*error*-related deducted points are cumulative
 
 ## Logic
 

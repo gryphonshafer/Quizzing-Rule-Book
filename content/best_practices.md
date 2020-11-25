@@ -29,7 +29,7 @@ The Quizmaster should:
 - Must be strong enough to stand on its own without requiring additional verses to explain it.
 - Must be spiritually significant and significant to the chapter.
 
-### Finish-these-2-Verses/Quote-these-2-Verses
+### Finish 2 Verses/Quote 2 Verses
 
 - Should be verses that make more sense when quoted together.
 
@@ -37,13 +37,13 @@ The Quizmaster should:
 
 Example: Gal 5:22-23
 
-### Finish-This / Finish-This-and-the-Next
+### Finish This/Finish This and the Next
 
 FTV questions should not start with an insignificant introduction such as "He replied" or "He said to them". These verses, if spiritually significant, should be used as FT or FTN type questions. For example, Luke 11:28 says, He replied, "Blessed rather are those who hear the word of God and obey it." This verse could be used as an excellent FT question starting with "Blessed rather are those who...".
 
 ## Situation
 
-Situation Quotations must be reasonable in length.
+Situation quotations must be reasonable in length.
 
 ## Overtime
 

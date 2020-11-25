@@ -61,20 +61,27 @@ my %terms = map { s/s$//; lc($_) => 1 } (
     map { keys %{ $acronymic_terms->{$_} } } keys %$acronymic_terms,
 );
 
-my $terms_re = '(.?)(' . join( '|',
+my $terms_re = '(\W?)\b(' . join( '|',
     map { $_ . 's?' }
     map { $_->[0] }
     sort { $b->[1] <=> $a->[1] }
     map { [ $_, length $_ ] }
     keys %terms
-) . ')(.?)';
+) . ')\b(\W?)';
 
 path($rule_book_dir)->list_tree->each( sub {
     my $file = $_;
     my ( $line, @unmarked_terms );
     for ( split( /\n/, $file->slurp ) ) {
         $line++;
-        next if ( /^\s{4,}/ or /^\[[^\]]*\]\([^\)]*\)$/ );
+        next if (
+            /^\s{4,}/ or
+            /^(?:\s*\-\s*)?\[[^\]]*\]\([^\)]*\)$/ or
+            /^\s*$/ or
+            /^\s*\|/ or
+            /^\s*#/ or
+            /^>/
+        );
         push( @unmarked_terms, [ $2, $line ] )
             if ( /$terms_re/i and $1 ne '*' and $3 ne '*' );
     }
