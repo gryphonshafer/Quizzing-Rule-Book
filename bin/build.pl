@@ -153,7 +153,36 @@ sub generate ( $output, $opt, $header ) {
     if ( $opt->{type} eq 'html' or $opt->{type} eq 'pdf' ) {
         $output =~ s/(\n\|[^\n]*\|[ \t]*\n\n)/$1\n/g;
 
-        $output = $header . markdown($output) . '</body></html>';
+        my $this_header = $header;
+
+        my $media_print = {
+            html => q{
+                @media only print {
+                    body {
+                        font-size     : 10pt;
+                        margin-left   : 1.3em;
+                        margin-right  : 0.2em;
+                        margin-top    : 0.2em;
+                        margin-bottom : 0.2em;
+                    }
+                }
+            },
+            pdf => q{
+                @media only print {
+                    body {
+                        font-size     : 13pt;
+                        margin-left   : 1.3em;
+                        margin-right  : 0em;
+                        margin-top    : 0em;
+                        margin-bottom : 0em;
+                    }
+                }
+            },
+        };
+
+        $this_header =~ s|(?=</style>)| $media_print->{ $opt->{type} } |e;
+
+        $output = $this_header . markdown($output) . '</body></html>';
 
         $output =~ s|(<h\d[^\n]+)|</section><section>$1|g;
         $output =~ s|(</body></html>)|</section>$1|g;
@@ -164,10 +193,10 @@ sub generate ( $output, $opt, $header ) {
     if ( $opt->{type} eq 'pdf' ) {
         my $kit = PDF::WebKit->new(
             \$output,
-            'margin_left'   => '0.25in',
-            'margin_right'  => '0.25in',
+            'margin_left'   => '0.5in',
+            'margin_right'  => '0.5in',
             'margin_top'    => '0.5in',
-            'margin_bottom' => '0.25in',
+            'margin_bottom' => '0.5in',
         );
         $output = $kit->to_pdf;
     }
@@ -262,10 +291,10 @@ __DATA__
         <style type="text/css">
 
             body {
-                margin-left    : 0.5in;
-                margin-right   : 0.5in;
-                margin-top     : 0in;
-                margin-bottom  : 0.5in;
+                margin-left    : 3em;
+                margin-right   : 3em;
+                margin-top     : 2em;
+                margin-bottom  : 3em;
                 font-family    : 'Open Sans', sans-serif;
                 font-size      : 11pt;
                 line-height    : 1.5em;
@@ -277,49 +306,49 @@ __DATA__
             }
 
             h1 {
-                margin: 24pt 0 12pt -12pt;
-                font-size : 24pt;
-                padding-bottom: 12pt;
-                border-bottom : 1px solid gainsboro;
+                margin         : 0em 0 0.7em -0.7em;
+                font-size      : 200%;
+                padding-bottom : 12pt;
+                border-bottom  : 1px solid gainsboro;
             }
 
             h2 {
-                margin: 18pt 0 18pt -10pt;
-                font-size : 18pt;
-                padding-bottom: 6pt;
-                border-bottom : 1px solid gainsboro;
+                margin         : 1.4em 0 0.7em -0.7em;
+                font-size      : 150%;
+                padding-bottom : 6pt;
+                border-bottom  : 1px solid gainsboro;
             }
 
             h3 {
-                margin: 16pt 0 16pt -8pt;
-                font-size : 16pt;
+                margin    : 1.4em 0 0.7em -0.7em;
+                font-size : 133%;
             }
 
             h4 {
-                margin: 13pt 0 13pt -6pt;
-                font-size : 13pt;
+                margin    : 1.4em 0 0.7em -0.7em;
+                font-size : 110%;
             }
 
             h5 {
-                margin: 12pt 0 12pt -4pt;
-                font-size : 12pt;
+                margin    : 1.4em 0 0.7em -0.7em;
+                font-size : 105%;
             }
 
             h6 {
-                margin: 11pt 0 11pt -2pt;
-                font-size : 11pt;
+                margin    : 1.4em 0 0.7em -0.7em;
+                font-size : 95%;
             }
 
             dt {
-                margin-left: 1em;
+                margin-left : 1em;
             }
 
             dd {
-                margin-bottom: 1em;
+                margin-bottom : 1em;
             }
 
             table {
-                border-collapse: collapse;
+                border-collapse : collapse;
             }
 
             table,
@@ -329,41 +358,42 @@ __DATA__
             }
 
             th, td {
-                padding : 5px 10px;
+                padding : 0.35em 0.7em;
             }
 
             tr:nth-child(even) td {
-                background-color: whitesmoke;
-            }
-
-            pre {
-                padding       : 1.0em 1.5em;
-                border-radius : 0.5em;
-            }
-
-            code {
-                border-radius : 0.25em;
-                padding       : 0.02em 0.25em;
-            }
-
-            pre > code {
-                border-radius : 0;
-                padding       : 0;
+                background-color : whitesmoke;
             }
 
             pre, code {
                 background-color : whitesmoke;
                 font-family      : monospace;
-                font-size        : 10pt;
+            }
+
+            pre {
+                padding       : 1.0em 1.25em;
+                border-radius : 0.5em;
+                line-height   : 1.05em;
+            }
+
+            code {
+                border-radius  : 0.25em;
+                padding        : 0.02em 0.25em;
+                letter-spacing : -0.05em;
+            }
+
+            pre > code {
+                border-radius : 0;
+                padding       : 0;
+                white-space   : pre-wrap;
             }
 
             blockquote {
                 color        : gray;
-                border-left  : 4px solid lightgray;
+                border-left  : 0.3em solid lightgray;
                 padding-left : 1em;
                 margin-left  : 0;
             }
-
         </style>
     </head>
     <body>
