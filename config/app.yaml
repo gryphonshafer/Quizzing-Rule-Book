@@ -14,9 +14,9 @@ default:
             - change_management.md
         special_sections_block: Special Sections
         special_sections:
-            - commentary
-            - example
+            - terms
             - examples
+            - commentary
             - logic
     table_data_tests:
         material_style:

@@ -6,16 +6,25 @@ This is the official rule book for Bible Quizzing, which represents what will be
 
 ## Version Information
 
-- This document was built on: 2020-11-25 14:37:47 PST
-- This document's version is: 036f6bed3e9b274c7eba9036919c18415c4f97a6
+- This document was built on: 2020-11-25 15:14:33 PST
+- This document's version is: 18ca7addef8a6e412507c6b23954e68747dde642
 
 You can download this document from:
 
-[https://github.com/gryphonshafer/Quizzing-Rule-Book/raw/036f6be/build/rule_book_full.md](https://github.com/gryphonshafer/Quizzing-Rule-Book/raw/036f6be/build/rule_book_full.md)
+[https://github.com/gryphonshafer/Quizzing-Rule-Book/raw/18ca7ad/build/rule_book_full.md](https://github.com/gryphonshafer/Quizzing-Rule-Book/raw/18ca7ad/build/rule_book_full.md)
 
 ## Special Sections
 
 There are some special section blocks within this rule book that contain content that are not rules. These special sections are included for a variety of reasons to aid in using the rule book. Some or all of the special sections can be and often are omitted when this rule book is published in simplified form. This specific publication of the rule book contains the following sections.
+
+### Terms
+
+There are several terms used throughout the rule book that are explicitly defined by a term/definition entry. They appear like this:
+
+**Term**
+: Definition
+
+The definitions help clarify specific concepts related to the rules.
 
 ### Examples
 
@@ -36,21 +45,6 @@ There are components within this document that contain logic in the form of *Eng
 ## 1. Material and Questions
 
 Bible Quizzing meets consist of a series of quizzes, which themselves consist of a series of questions. Questions are written based on a quiz season's material. Material refers to the Scriptural scope of content set for each season. The Bible edition used is the *New International Version* (NIV) 2011 edition of the Bible. There is an 8-season rotation of material. 4 are defined as "Narrative" and 4 are defined as "Epistle" in terms of a material's style.
-
-### 1.1. Material Rotation Schedule
-
-| Season    | Material Scope References                     | Style     |
-|-----------|-----------------------------------------------|-----------|
-| 2020-2021 | Matthew 1:18-25, 2-12, 14-22, 26-28           | Narrative |
-| 2021-2022 | Romans, James                                 | Epistle   |
-| 2022-2023 | Acts 1-20                                     | Narrative |
-| 2023-2024 | Galatians, Ephesians, Philippians, Colossians | Epistle   |
-| 2024-2025 | Luke 1-3:23, 9-11, 13-19, 21-24               | Narrative |
-| 2025-2026 | 1 Corinthians, 2 Corinthians                  | Epistle   |
-| 2026-2027 | John                                          | Narrative |
-| 2027-2028 | Hebrews, 1 Peter, 2 Peter                     | Epistle   |
-
-### 1.2. Material and Question-Writing Terms
 
 **Question Type**
 : Every quiz question is 1 of a particular set of question types, such as *Chapter Verse Reference* (CVR) and *Finish the Verse* (FTV).
@@ -79,7 +73,20 @@ Bible Quizzing meets consist of a series of quizzes, which themselves consist of
 **1st 5 Words of the Question**
 : The 1st 5 spoken words of the question text that are from the material and the interrogative word
 
-#### 1.2.1. Interrogative Words
+### 1.1. Material Rotation Schedule
+
+| Season    | Material Scope References                     | Style     |
+|-----------|-----------------------------------------------|-----------|
+| 2020-2021 | Matthew 1:18-25, 2-12, 14-22, 26-28           | Narrative |
+| 2021-2022 | Romans, James                                 | Epistle   |
+| 2022-2023 | Acts 1-20                                     | Narrative |
+| 2023-2024 | Galatians, Ephesians, Philippians, Colossians | Epistle   |
+| 2024-2025 | Luke 1-3:23, 9-11, 13-19, 21-24               | Narrative |
+| 2025-2026 | 1 Corinthians, 2 Corinthians                  | Epistle   |
+| 2026-2027 | John                                          | Narrative |
+| 2027-2028 | Hebrews, 1 Peter, 2 Peter                     | Epistle   |
+
+#### 1.1.1. Interrogative Words
 
 Interrogative words are the single interrogative word that must be inserted at either the beginning or the end of every question text requiring such. Question type groups that require interrogative words are:
 
@@ -99,13 +106,13 @@ The exhaustive list of interrogative words is:
 - Which
 - How
 
-#### 1.2.2. Context
+#### 1.1.2. Context
 
 Context is a range of verses from the question's reference. Context is a concept primarily related to the answering of questions, but it needs to be considered when writing questions from the material. By default, context is limited to 5 verses before or after the reference; however, some question types have a different context, which is defined in the question type.
 
-### 1.3. Question Writing
+### 1.2. Question Writing
 
-#### 1.3.1. Preparation of Questions
+#### 1.2.1. Preparation of Questions
 
 All questions must contain verbatim material.
 
@@ -113,9 +120,9 @@ The only exception to this is Situation type question quotations, which could po
 
 On some question types, the addition of a single, approved, interrogative word at the very beginning or very end is required.
 
-#### 1.3.2. Question Types
+#### 1.2.2. Question Types
 
-##### 1.3.2.1. Interrogative (INT)
+##### 1.2.2.1. Interrogative (INT)
 
 Interrogative questions, also called "standard" questions or "regular" questions or "normal" questions:
 
@@ -123,7 +130,7 @@ Interrogative questions, also called "standard" questions or "regular" questions
 - Must have a single answer
 - Must include a unique word or a 2 or 3-word unique phrase within the 1st 5 words of the question
 
-##### 1.3.2.2. Multiple Answer (MA)
+##### 1.2.2.2. Multiple Answer (MA)
 
 - Must meet all the requirements of an INT except for the single answer requirement
 - Must have more than 1 answer
@@ -133,7 +140,7 @@ Interrogative questions, also called "standard" questions or "regular" questions
 
 In addition, an MA question is invalid if 1 of the listed answers to the multiple answer's questions is a "negative" answer. A "negative" answer is an answer used to contrast another answer or an answer that does not answer the question, such as an answer that begins with the words or similar words to "not" or "neither".
 
-###### 1.3.2.2.1. Examples
+###### 1.2.2.2.1. Examples
 
 For an example of a negative word, consider 1 Corinthians 3:7:
 
@@ -151,7 +158,7 @@ Consider 1 Corinthians 9:25:
 
 The question "A crown that will what?" with an answer "Not last; last forever" is an invalid MA.
 
-##### 1.3.2.3. Reference
+##### 1.2.2.3. Reference
 
 Reference question type group questions are used to distinguish between exact duplicate words or phrases from the material. The entire reference question is part of the required question and answer.
 
@@ -162,7 +169,7 @@ If a quizzer needs to provide the reference question, the provided reference que
 - Have the determining word or phrase of the written question
 - Have the interrogative word used not be a factor when deciding the valid type of a reference question
 
-###### 1.3.2.3.1. Examples
+###### 1.2.2.3.1. Examples
 
 As an example of similar content and wording, consider Luke 23:37:
 
@@ -176,13 +183,13 @@ As an example of referencing the determining word or phrase, consider 2 Peter 2:
 
 A CR question could be written: "What deeds?" The answer would be: "Lawless." If the quizzer provided the question, "Lawless what?" the quizzer would be incorrect because the quizzer's question and the written question are not similar.
 
-###### 1.3.2.3.2. Commentary
+###### 1.2.2.3.2. Commentary
 
 If 2 identical phrases exist in the same chapter, but 1 occurrence grammatically calls for use of the "who" inserted interrogative word, and the other occurrence grammatically calls for the use of the "what" inserted interrogative word, that difference in the grammatically dictated interrogative word does not change the fact that the phrase from the material (that excludes the inserted interrogative word) occurs more than twice in the same chapter, necessitating a CVR question.
 
 The above does not mean that if the quizzer needs to provide a reference question that is a CVR, and their choice of interrogative word changes the question type to MACVR, that the quizzer has given a valid CVR. In this case, the validity changes based on the interrogative word because of how the required answer changes.
 
-###### 1.3.2.3.3. Chapter Verse Reference (CVR)
+###### 1.2.2.3.3. Chapter Verse Reference (CVR)
 
 - Must have a single answer
 - The question must contain a word or phrase that exists in more than 1 verse in the same chapter
@@ -192,7 +199,7 @@ The question text should be in the form:
 
 > According to [book name], chapter [chapter number], verse [verse number], [remainder of question text]
 
-###### 1.3.2.3.4. Chapter Reference (CR)
+###### 1.2.2.3.4. Chapter Reference (CR)
 
 - Must have a single answer
 - Must contain a word or phrase that exists more than once in the material and only once in the chapter
@@ -201,23 +208,23 @@ The question text should be in the form:
 
 > According to [book name], chapter [chapter number], [remainder of question text]
 
-###### 1.3.2.3.5. Multiple Answer Chapter Verse Reference (MACVR)
+###### 1.2.2.3.5. Multiple Answer Chapter Verse Reference (MACVR)
 
 - Must meet all the requirements of a CVR except the single answer requirement
 - Must also meet all the requirements of a MA except the unique word or phrase requirement
 
-###### 1.3.2.3.6. Multiple Answer Chapter Reference (MACR)
+###### 1.2.2.3.6. Multiple Answer Chapter Reference (MACR)
 
 - Must meet all the requirements of a CR except the single answer requirement
 - Must also meet all the requirements of a MA except the unique word or phrase requirement
 
-##### 1.3.2.4. Quote/Finish
+##### 1.2.2.4. Quote/Finish
 
 Quote and Finish questions must be quoted word-perfect. Quizzers may go back and correct their answers if done in the question answer duration time period. The quizzer will be required to make 1 full correct rotation; however, the quizzer can be called correct if they have made a mistake only in 1 area of the verse and correct the mistake, making it abundantly clear to the quizmaster and answer judge that they know where their mistake was and what the corrected words are.
 
 Context is defined as the required verse, which is defined as the 1 or 2 verse range of the question, based on the question type.
 
-###### 1.3.2.4.1. Quote (Q)
+###### 1.2.2.4.1. Quote (Q)
 
 - Must be 1 verse
 - The entire reference is part of the question and therefore required in the response if not fully spoken by the quizmaster
@@ -226,7 +233,7 @@ The question text should be in the form:
 
 > Quote [book name], chapter [chapter number], verse [verse number].
 
-###### 1.3.2.4.2. Quote 2 Verses (Q2V)
+###### 1.2.2.4.2. Quote 2 Verses (Q2V)
 
 Q2V is used when a verse is not strong enough on its own and needs another verse to explain it or can be used when 2 verses combined to form an even stronger thought.
 
@@ -237,31 +244,31 @@ The question text should be in the form:
 
 > Quote [book name], chapter [chapter number], verses [verse numbers].
 
-###### 1.3.2.4.3. Finish
+###### 1.2.2.4.3. Finish
 
 Finish questions have question text consisting of the 1st 5 words of material starting based on the question type. These 1st 5 words must be unique to all Finish questions of the exact same type; for example, FTV compared to all FTVs, FT to all FTs, F2V to all F2Vs, FTN to all FTNs.
 
-###### 1.3.2.4.4. Finish the Verse (FTV)
+###### 1.2.2.4.4. Finish the Verse (FTV)
 
 - Begins at the beginning of a single verse and finishes at the end of that verse
 
-###### 1.3.2.4.5. Finish This (FT)
+###### 1.2.2.4.5. Finish This (FT)
 
 - Begins in the middle of a verse and finishes at the end of the verse
 - Must start at the beginning of a sentence or the beginning of a quotation
 
-###### 1.3.2.4.6. Finish 2 Verses (F2V)
+###### 1.2.2.4.6. Finish 2 Verses (F2V)
 
 - Begins at the beginning of a verse and continues to the end of the next verse
 - Used when a verse is not strong enough on its own and needs another verse to explain it or can be used when 2 verses combined, form an even stronger thought
 
-###### 1.3.2.4.7. Finish This and the Next (FTN)
+###### 1.2.2.4.7. Finish This and the Next (FTN)
 
 - Begins in the middle of a verse and finishes at the end of the next verse
 - Must start at the beginning of a sentence or the beginning of a quotation
 - Used when part of a verse is not strong enough on its own and needs another verse (or part of a verse) to explain it or when 2 verses combined form an even stronger thought
 
-##### 1.3.2.5. Situation (SIT)
+##### 1.2.2.5. Situation (SIT)
 
 - Used only in the quiz season where the material type is narrative
 - The question text contains 2 parts:
@@ -284,7 +291,7 @@ If the quotation is split-up by non-quotation words, the quotation will be read 
 
 The answer to the Situation question must be in context.
 
-###### 1.3.2.5.1. Example
+###### 1.2.2.5.1. Example
 
 As an example split-quotation Situation question, consider Matthew 4:19:
 
@@ -296,7 +303,7 @@ A Situation question could be written:
 
 Answer: "Jesus."
 
-#### 1.3.3. Invalid Questions
+#### 1.2.3. Invalid Questions
 
 Questions must be declared invalid by the quizmaster or answer judge(s) if:
 
@@ -307,7 +314,7 @@ Questions must be declared invalid by the quizmaster or answer judge(s) if:
 
 When a question is deemed invalid and thrown out, it must be replaced with the exact same type of question. For example, an MACVR must be replaced with an MACVR, not any multiple-answer reference question.
 
-##### 1.3.3.1. Example
+##### 1.2.3.1. Example
 
 To help illustrate more the idea of "if the question is not answered", consider a scenario where the question asks, "What is good?", and the answer states what is not good. In this case, the question is not answered and is tricky or misleading.
 
@@ -411,8 +418,6 @@ The statistician will be responsible for:
 
 ## 3. Quiz Process
 
-### 3.1. Quiz Question Terms
-
 **Quiz Question**
 : Every component of a question within the context of a quiz including all components of a written question along with quiz context such as question number
 
@@ -434,28 +439,28 @@ The statistician will be responsible for:
 **Response**
 : A synonym for answer
 
-### 3.2. Questions
+### 3.1. Questions
 
 There will be no duplicate questions in a single quiz.
 
 **Participating in a Question**
 : A team that is eligible to jump on a given question is said to be participating in a question. A team that has no quizzers eligible to jump because of either foul-out, err-out, or quiz-out is still considered a team that is eligible to jump.
 
-#### 3.2.1. Toss-Up Questions
+#### 3.1.1. Toss-Up Questions
 
 When 3 teams are participating in a question and 1 team errs, the next question will be a toss-up question for the 2 teams that did not err on the previous question. The team that erred is ineligible to jump on the toss-up question.
 
 If only 2 teams were participating in a question and 1 team errs, the next question will be a bonus question, not a toss-up question. If only 1 team was participating in a question, it must have been a bonus question. As such, any outcome of the bonus question results in all 3 teams participating in the next question.
 
-#### 3.2.2. Bonus Questions
+#### 3.1.2. Bonus Questions
 
 If only 2 teams are participating in a question and 1 team errs, the next question will be an assigned bonus question for the team that did not err. An assigned bonus question is awarded to the corresponding chair of the chair that erred on the toss-up.
 
-##### 3.2.2.1. Example
+##### 3.1.2.1. Example
 
 There are 4 chairs per team, any 1 of which may be filled or empty. If the quizzer seated on chair 2 erred on the toss-up, the quizzer seated on chair 2 of the team that did not err on the toss-up will be awarded the bonus question. If no quizzer of the team that did not err on the toss-up is seated in chair 2, then the bonus is "for an empty seat" and considered a no jump.
 
-#### 3.2.3. Question Reading Structure
+#### 3.1.3. Question Reading Structure
 
 A Quizmaster must introduce and read each question type in a specific, multipart way:
 
@@ -480,17 +485,17 @@ A Quizmaster must introduce and read each question type in a specific, multipart
 
 A quizmaster may repeat or repeat as a paraphrase any component of the question introduction for additional clarity.
 
-### 3.3. Types of Quizzes
+### 3.2. Types of Quizzes
 
 There are 3 primary types of quizzes and 2 related overtime components of quizzes.
 
-#### 3.3.1. Logic
+#### 3.2.1. Logic
 
     Set quiz types to
         "3-Team 20-Question", "2-Team 15-Question Tie-Breaker",
         "2-Team 20-Question", "2-Team Overtime", and "3-Team Overtime".
 
-#### 3.3.2. 3-Team 20-Question Quiz
+#### 3.2.2. 3-Team 20-Question Quiz
 
 There will be 20 numeric questions in a quiz, excluding any overtime questions.
 
@@ -504,7 +509,7 @@ Regarding bonus questions:
 
 Error points begin at question 17.
 
-#### 3.3.3. 2-Team 15-Question Tie-Breaker Quiz
+#### 3.2.3. 2-Team 15-Question Tie-Breaker Quiz
 
 A 2-team 15-question tie-breaker quiz operates much like a 3-team 20-question quiz except:
 
@@ -516,7 +521,7 @@ A 2-team 15-question tie-breaker quiz operates much like a 3-team 20-question qu
 - Error points begin at question 13
 - A quiz-out is 3 correct questions
 
-#### 3.3.4. 2-Team 20-Question Quiz
+#### 3.2.4. 2-Team 20-Question Quiz
 
 A 2-team 20-question quiz operates much like a 3-team 20-question quiz except:
 
@@ -525,7 +530,7 @@ A 2-team 20-question quiz operates much like a 3-team 20-question quiz except:
 - If questions 16-20 are erred, 16A-20A will be a bonus question
 - All bonus questions throughout the whole quiz are 10 points
 
-### 3.4. Overtime
+### 3.3. Overtime
 
 Overtime occurs if a quiz ends in a tie and the team placements (1st, 2nd, 3rd) matter.
 
@@ -533,7 +538,7 @@ Overtime occurs if a quiz ends in a tie and the team placements (1st, 2nd, 3rd) 
 - 2-team rules will apply in overtime if only 2 teams are involved
 - All the numeric question will be of a different question type
 
-### 3.5. Question Type Distribution
+### 3.4. Question Type Distribution
 
 In the below table, any minimum or maximum variation between material seasons is indicated in a `Narrative/Epistle` format.
 
@@ -553,7 +558,7 @@ For a given Question Type:
 
 For 15-question quizzes, prepare quizzes as normal for 20-question quizzes, but the quizmaster should conclude the quiz when appropriate for the rule of a 15-question quiz.
 
-### 3.6. Platform Protocol
+### 3.5. Platform Protocol
 
 - Quizzers will be seated facing the audience and quizmaster.
 - The feet of the quizzers are to be on the floor while jumping.
@@ -565,7 +570,7 @@ For 15-question quizzes, prepare quizzes as normal for 20-question quizzes, but 
 - Quiz rooms will use jump measuring equipment to prevent ties.
 - Push-button quizzing can be provided if needed by physically disabled quizzers.
 
-### 3.7. Jumping
+### 3.6. Jumping
 
 - Quizzers have 5 seconds in which to jump after the question is completed.
 - If a quizzer's light comes on after a question has been called and before the question has discernibly begun, a foul will be called.
@@ -573,7 +578,7 @@ For 15-question quizzes, prepare quizzes as normal for 20-question quizzes, but 
 - The 1st quizzer to rise and trigger their light, provided there has been no foul, will be awarded the jump.
 - If in the judgment of the officials, a deliberate attempt is made to forfeit a question, an error will be charged, and 10 points deducted from the team score. The next question will be the same question number.
 
-### 3.8. Timeliness
+### 3.7. Timeliness
 
 Except for the exception below:
 
@@ -781,8 +786,6 @@ When a quizzer quizzes-out, errs-out, or fouls-out and leaves the platform after
 
 ## 5. Scoring
 
-Below are the scoring calculation rules and the logic for them. This procedure is executed after every "quiz event" (defined below).
-
 ### 5.1. Scoring Individual and Team Points
 
 #### 5.1.1. Individual Points
@@ -833,7 +836,9 @@ Team errors are the sum of all individual, non-bonus errors.
 - No more than -10 points can be deducted per question asked due to an error
 - Non-error-related deducted points are cumulative
 
-### 5.2. Scoring Terms and Definitions
+### 5.2. Logic
+
+Below are the scoring calculation rules and the logic for them. This procedure is executed after every "quiz event" (defined below).
 
 **Quiz Event**
 : Label for whatever quiz event triggered the run of the procedure; possible values are: "question", "foul", "timeout", "sub-in", "sub-out", "challenge", "unreadiness", and "unsportsmanlike"
@@ -903,8 +908,6 @@ Team errors are the sum of all individual, non-bonus errors.
 
 **Team Roster**
 : This is an array of quizzer objects, each of which contains a "correct answers" value
-
-### 5.3. Logic
 
     If the quiz event is a "question", then apply the following block.
         If the ruling is "correct", then apply the following block.

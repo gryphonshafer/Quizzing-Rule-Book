@@ -2,21 +2,6 @@
 
 Bible Quizzing meets consist of a series of quizzes, which themselves consist of a series of questions. Questions are written based on a quiz season's material. Material refers to the Scriptural scope of content set for each season. The Bible edition used is the *New International Version* (NIV) 2011 edition of the Bible. There is an 8-season rotation of material. 4 are defined as "Narrative" and 4 are defined as "Epistle" in terms of a material's style.
 
-## Material Rotation Schedule
-
-| Season    | Material Scope References                     | Style     |
-|-----------|-----------------------------------------------|-----------|
-| 2020-2021 | Matthew 1:18-25, 2-12, 14-22, 26-28           | Narrative |
-| 2021-2022 | Romans, James                                 | Epistle   |
-| 2022-2023 | Acts 1-20                                     | Narrative |
-| 2023-2024 | Galatians, Ephesians, Philippians, Colossians | Epistle   |
-| 2024-2025 | Luke 1-3:23, 9-11, 13-19, 21-24               | Narrative |
-| 2025-2026 | 1 Corinthians, 2 Corinthians                  | Epistle   |
-| 2026-2027 | John                                          | Narrative |
-| 2027-2028 | Hebrews, 1 Peter, 2 Peter                     | Epistle   |
-
-## Material and Question-Writing Terms
-
 **Question Type**
 : Every quiz question is 1 of a particular set of question types, such as *Chapter Verse Reference* (CVR) and *Finish the Verse* (FTV).
 
@@ -43,6 +28,19 @@ Bible Quizzing meets consist of a series of quizzes, which themselves consist of
 
 **1st 5 Words of the Question**
 : The 1st 5 spoken words of the question text that are from the material and the interrogative word
+
+## Material Rotation Schedule
+
+| Season    | Material Scope References                     | Style     |
+|-----------|-----------------------------------------------|-----------|
+| 2020-2021 | Matthew 1:18-25, 2-12, 14-22, 26-28           | Narrative |
+| 2021-2022 | Romans, James                                 | Epistle   |
+| 2022-2023 | Acts 1-20                                     | Narrative |
+| 2023-2024 | Galatians, Ephesians, Philippians, Colossians | Epistle   |
+| 2024-2025 | Luke 1-3:23, 9-11, 13-19, 21-24               | Narrative |
+| 2025-2026 | 1 Corinthians, 2 Corinthians                  | Epistle   |
+| 2026-2027 | John                                          | Narrative |
+| 2027-2028 | Hebrews, 1 Peter, 2 Peter                     | Epistle   |
 
 ### Interrogative Words
 

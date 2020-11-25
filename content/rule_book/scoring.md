@@ -1,7 +1,5 @@
 # Scoring
 
-Below are the scoring calculation rules and the logic for them. This procedure is executed after every "quiz event" (defined below).
-
 ## Scoring Individual and Team Points
 
 ### Individual Points
@@ -52,7 +50,9 @@ Team errors are the sum of all individual, non-bonus errors.
 - No more than -10 points can be deducted per question asked due to an error
 - Non-error-related deducted points are cumulative
 
-## Scoring Terms and Definitions
+## Logic
+
+Below are the scoring calculation rules and the logic for them. This procedure is executed after every "quiz event" (defined below).
 
 **Quiz Event**
 : Label for whatever quiz event triggered the run of the procedure; possible values are: "question", "foul", "timeout", "sub-in", "sub-out", "challenge", "unreadiness", and "unsportsmanlike"
@@ -122,8 +122,6 @@ Team errors are the sum of all individual, non-bonus errors.
 
 **Team Roster**
 : This is an array of quizzer objects, each of which contains a "correct answers" value
-
-## Logic
 
     If the quiz event is a "question", then apply the following block.
         If the ruling is "correct", then apply the following block.

@@ -1,7 +1,5 @@
 # Quiz Process
 
-## Quiz Question Terms
-
 **Quiz Question**
 : Every component of a question within the context of a quiz including all components of a written question along with quiz context such as question number
 

@@ -6,12 +6,12 @@ This is the official rule book for Bible Quizzing, which represents what will be
 
 ## Version Information
 
-- This document was built on: 2020-11-25 14:37:47 PST
-- This document's version is: 036f6bed3e9b274c7eba9036919c18415c4f97a6
+- This document was built on: 2020-11-25 15:14:33 PST
+- This document's version is: 18ca7addef8a6e412507c6b23954e68747dde642
 
 You can download this document from:
 
-[https://github.com/gryphonshafer/Quizzing-Rule-Book/raw/036f6be/build/rule_book_min.md](https://github.com/gryphonshafer/Quizzing-Rule-Book/raw/036f6be/build/rule_book_min.md)
+[https://github.com/gryphonshafer/Quizzing-Rule-Book/raw/18ca7ad/build/rule_book_min.md](https://github.com/gryphonshafer/Quizzing-Rule-Book/raw/18ca7ad/build/rule_book_min.md)
 
 ## 1. Material and Questions
 
@@ -30,36 +30,7 @@ Bible Quizzing meets consist of a series of quizzes, which themselves consist of
 | 2026-2027 | John                                          | Narrative |
 | 2027-2028 | Hebrews, 1 Peter, 2 Peter                     | Epistle   |
 
-### 1.2. Material and Question-Writing Terms
-
-**Question Type**
-: Every quiz question is 1 of a particular set of question types, such as *Chapter Verse Reference* (CVR) and *Finish the Verse* (FTV).
-
-**Question Type Group**
-: Question types are part of 1 or more question type groups, such as Reference and Finish.
-
-**Question Text**
-: Every word required to ask a question
-
-**Answer Text**
-: Every word in addition to the question text required to answer a question perfectly
-
-**Reference**
-: Technically, the Scriptural reference for the verse or verses that contain the whole of the question text and answer text, excluding any pronoun clarifications or answers to Situation questions; practically, the Scriptural reference for the 1st verse with content from the question text, except in the case of questions of type Q2V, where both verses are the reference
-
-**Written Question**
-: All parts of a pre-prepared, written question including question type, reference, question text, and answer text
-
-**Unique Word**
-: A word appearing in only 1 verse in the material
-
-**Unique Phrases**
-: 2 or 3 consecutive words, the sequence of which is in only 1 verse in the material
-
-**1st 5 Words of the Question**
-: The 1st 5 spoken words of the question text that are from the material and the interrogative word
-
-#### 1.2.1. Interrogative Words
+#### 1.1.1. Interrogative Words
 
 Interrogative words are the single interrogative word that must be inserted at either the beginning or the end of every question text requiring such. Question type groups that require interrogative words are:
 
@@ -79,13 +50,13 @@ The exhaustive list of interrogative words is:
 - Which
 - How
 
-#### 1.2.2. Context
+#### 1.1.2. Context
 
 Context is a range of verses from the question's reference. Context is a concept primarily related to the answering of questions, but it needs to be considered when writing questions from the material. By default, context is limited to 5 verses before or after the reference; however, some question types have a different context, which is defined in the question type.
 
-### 1.3. Question Writing
+### 1.2. Question Writing
 
-#### 1.3.1. Preparation of Questions
+#### 1.2.1. Preparation of Questions
 
 All questions must contain verbatim material.
 
@@ -93,9 +64,9 @@ The only exception to this is Situation type question quotations, which could po
 
 On some question types, the addition of a single, approved, interrogative word at the very beginning or very end is required.
 
-#### 1.3.2. Question Types
+#### 1.2.2. Question Types
 
-##### 1.3.2.1. Interrogative (INT)
+##### 1.2.2.1. Interrogative (INT)
 
 Interrogative questions, also called "standard" questions or "regular" questions or "normal" questions:
 
@@ -103,7 +74,7 @@ Interrogative questions, also called "standard" questions or "regular" questions
 - Must have a single answer
 - Must include a unique word or a 2 or 3-word unique phrase within the 1st 5 words of the question
 
-##### 1.3.2.2. Multiple Answer (MA)
+##### 1.2.2.2. Multiple Answer (MA)
 
 - Must meet all the requirements of an INT except for the single answer requirement
 - Must have more than 1 answer
@@ -113,7 +84,7 @@ Interrogative questions, also called "standard" questions or "regular" questions
 
 In addition, an MA question is invalid if 1 of the listed answers to the multiple answer's questions is a "negative" answer. A "negative" answer is an answer used to contrast another answer or an answer that does not answer the question, such as an answer that begins with the words or similar words to "not" or "neither".
 
-##### 1.3.2.3. Reference
+##### 1.2.2.3. Reference
 
 Reference question type group questions are used to distinguish between exact duplicate words or phrases from the material. The entire reference question is part of the required question and answer.
 
@@ -124,7 +95,7 @@ If a quizzer needs to provide the reference question, the provided reference que
 - Have the determining word or phrase of the written question
 - Have the interrogative word used not be a factor when deciding the valid type of a reference question
 
-###### 1.3.2.3.1. Chapter Verse Reference (CVR)
+###### 1.2.2.3.1. Chapter Verse Reference (CVR)
 
 - Must have a single answer
 - The question must contain a word or phrase that exists in more than 1 verse in the same chapter
@@ -134,7 +105,7 @@ The question text should be in the form:
 
 > According to [book name], chapter [chapter number], verse [verse number], [remainder of question text]
 
-###### 1.3.2.3.2. Chapter Reference (CR)
+###### 1.2.2.3.2. Chapter Reference (CR)
 
 - Must have a single answer
 - Must contain a word or phrase that exists more than once in the material and only once in the chapter
@@ -143,23 +114,23 @@ The question text should be in the form:
 
 > According to [book name], chapter [chapter number], [remainder of question text]
 
-###### 1.3.2.3.3. Multiple Answer Chapter Verse Reference (MACVR)
+###### 1.2.2.3.3. Multiple Answer Chapter Verse Reference (MACVR)
 
 - Must meet all the requirements of a CVR except the single answer requirement
 - Must also meet all the requirements of a MA except the unique word or phrase requirement
 
-###### 1.3.2.3.4. Multiple Answer Chapter Reference (MACR)
+###### 1.2.2.3.4. Multiple Answer Chapter Reference (MACR)
 
 - Must meet all the requirements of a CR except the single answer requirement
 - Must also meet all the requirements of a MA except the unique word or phrase requirement
 
-##### 1.3.2.4. Quote/Finish
+##### 1.2.2.4. Quote/Finish
 
 Quote and Finish questions must be quoted word-perfect. Quizzers may go back and correct their answers if done in the question answer duration time period. The quizzer will be required to make 1 full correct rotation; however, the quizzer can be called correct if they have made a mistake only in 1 area of the verse and correct the mistake, making it abundantly clear to the quizmaster and answer judge that they know where their mistake was and what the corrected words are.
 
 Context is defined as the required verse, which is defined as the 1 or 2 verse range of the question, based on the question type.
 
-###### 1.3.2.4.1. Quote (Q)
+###### 1.2.2.4.1. Quote (Q)
 
 - Must be 1 verse
 - The entire reference is part of the question and therefore required in the response if not fully spoken by the quizmaster
@@ -168,7 +139,7 @@ The question text should be in the form:
 
 > Quote [book name], chapter [chapter number], verse [verse number].
 
-###### 1.3.2.4.2. Quote 2 Verses (Q2V)
+###### 1.2.2.4.2. Quote 2 Verses (Q2V)
 
 Q2V is used when a verse is not strong enough on its own and needs another verse to explain it or can be used when 2 verses combined to form an even stronger thought.
 
@@ -179,31 +150,31 @@ The question text should be in the form:
 
 > Quote [book name], chapter [chapter number], verses [verse numbers].
 
-###### 1.3.2.4.3. Finish
+###### 1.2.2.4.3. Finish
 
 Finish questions have question text consisting of the 1st 5 words of material starting based on the question type. These 1st 5 words must be unique to all Finish questions of the exact same type; for example, FTV compared to all FTVs, FT to all FTs, F2V to all F2Vs, FTN to all FTNs.
 
-###### 1.3.2.4.4. Finish the Verse (FTV)
+###### 1.2.2.4.4. Finish the Verse (FTV)
 
 - Begins at the beginning of a single verse and finishes at the end of that verse
 
-###### 1.3.2.4.5. Finish This (FT)
+###### 1.2.2.4.5. Finish This (FT)
 
 - Begins in the middle of a verse and finishes at the end of the verse
 - Must start at the beginning of a sentence or the beginning of a quotation
 
-###### 1.3.2.4.6. Finish 2 Verses (F2V)
+###### 1.2.2.4.6. Finish 2 Verses (F2V)
 
 - Begins at the beginning of a verse and continues to the end of the next verse
 - Used when a verse is not strong enough on its own and needs another verse to explain it or can be used when 2 verses combined, form an even stronger thought
 
-###### 1.3.2.4.7. Finish This and the Next (FTN)
+###### 1.2.2.4.7. Finish This and the Next (FTN)
 
 - Begins in the middle of a verse and finishes at the end of the next verse
 - Must start at the beginning of a sentence or the beginning of a quotation
 - Used when part of a verse is not strong enough on its own and needs another verse (or part of a verse) to explain it or when 2 verses combined form an even stronger thought
 
-##### 1.3.2.5. Situation (SIT)
+##### 1.2.2.5. Situation (SIT)
 
 - Used only in the quiz season where the material type is narrative
 - The question text contains 2 parts:
@@ -226,7 +197,7 @@ If the quotation is split-up by non-quotation words, the quotation will be read 
 
 The answer to the Situation question must be in context.
 
-#### 1.3.3. Invalid Questions
+#### 1.2.3. Invalid Questions
 
 Questions must be declared invalid by the quizmaster or answer judge(s) if:
 
@@ -333,47 +304,21 @@ The statistician will be responsible for:
 
 ## 3. Quiz Process
 
-### 3.1. Quiz Question Terms
-
-**Quiz Question**
-: Every component of a question within the context of a quiz including all components of a written question along with quiz context such as question number
-
-**Number**
-: The full identification of which question a given question is within a quiz, which can be purely a numeric or an alphanumeric
-
-**Numeric**
-: A question number with only numbers such as 17
-
-**Alphanumeric**
-: A question number with numbers and letters such as 17A
-
-**Read Question**
-: Everything the quizmaster reads from the quiz question
-
-**Answer**
-: Everything the quizzer says while answering a question after being recognized by the quizmaster until their answer duration has elapsed or being called correct or incorrect
-
-**Response**
-: A synonym for answer
-
-### 3.2. Questions
+### 3.1. Questions
 
 There will be no duplicate questions in a single quiz.
 
-**Participating in a Question**
-: A team that is eligible to jump on a given question is said to be participating in a question. A team that has no quizzers eligible to jump because of either foul-out, err-out, or quiz-out is still considered a team that is eligible to jump.
-
-#### 3.2.1. Toss-Up Questions
+#### 3.1.1. Toss-Up Questions
 
 When 3 teams are participating in a question and 1 team errs, the next question will be a toss-up question for the 2 teams that did not err on the previous question. The team that erred is ineligible to jump on the toss-up question.
 
 If only 2 teams were participating in a question and 1 team errs, the next question will be a bonus question, not a toss-up question. If only 1 team was participating in a question, it must have been a bonus question. As such, any outcome of the bonus question results in all 3 teams participating in the next question.
 
-#### 3.2.2. Bonus Questions
+#### 3.1.2. Bonus Questions
 
 If only 2 teams are participating in a question and 1 team errs, the next question will be an assigned bonus question for the team that did not err. An assigned bonus question is awarded to the corresponding chair of the chair that erred on the toss-up.
 
-#### 3.2.3. Question Reading Structure
+#### 3.1.3. Question Reading Structure
 
 A Quizmaster must introduce and read each question type in a specific, multipart way:
 
@@ -398,11 +343,11 @@ A Quizmaster must introduce and read each question type in a specific, multipart
 
 A quizmaster may repeat or repeat as a paraphrase any component of the question introduction for additional clarity.
 
-### 3.3. Types of Quizzes
+### 3.2. Types of Quizzes
 
 There are 3 primary types of quizzes and 2 related overtime components of quizzes.
 
-#### 3.3.1. 3-Team 20-Question Quiz
+#### 3.2.1. 3-Team 20-Question Quiz
 
 There will be 20 numeric questions in a quiz, excluding any overtime questions.
 
@@ -416,7 +361,7 @@ Regarding bonus questions:
 
 Error points begin at question 17.
 
-#### 3.3.2. 2-Team 15-Question Tie-Breaker Quiz
+#### 3.2.2. 2-Team 15-Question Tie-Breaker Quiz
 
 A 2-team 15-question tie-breaker quiz operates much like a 3-team 20-question quiz except:
 
@@ -428,7 +373,7 @@ A 2-team 15-question tie-breaker quiz operates much like a 3-team 20-question qu
 - Error points begin at question 13
 - A quiz-out is 3 correct questions
 
-#### 3.3.3. 2-Team 20-Question Quiz
+#### 3.2.3. 2-Team 20-Question Quiz
 
 A 2-team 20-question quiz operates much like a 3-team 20-question quiz except:
 
@@ -437,7 +382,7 @@ A 2-team 20-question quiz operates much like a 3-team 20-question quiz except:
 - If questions 16-20 are erred, 16A-20A will be a bonus question
 - All bonus questions throughout the whole quiz are 10 points
 
-### 3.4. Overtime
+### 3.3. Overtime
 
 Overtime occurs if a quiz ends in a tie and the team placements (1st, 2nd, 3rd) matter.
 
@@ -445,7 +390,7 @@ Overtime occurs if a quiz ends in a tie and the team placements (1st, 2nd, 3rd) 
 - 2-team rules will apply in overtime if only 2 teams are involved
 - All the numeric question will be of a different question type
 
-### 3.5. Question Type Distribution
+### 3.4. Question Type Distribution
 
 In the below table, any minimum or maximum variation between material seasons is indicated in a `Narrative/Epistle` format.
 
@@ -465,7 +410,7 @@ For a given Question Type:
 
 For 15-question quizzes, prepare quizzes as normal for 20-question quizzes, but the quizmaster should conclude the quiz when appropriate for the rule of a 15-question quiz.
 
-### 3.6. Platform Protocol
+### 3.5. Platform Protocol
 
 - Quizzers will be seated facing the audience and quizmaster.
 - The feet of the quizzers are to be on the floor while jumping.
@@ -477,7 +422,7 @@ For 15-question quizzes, prepare quizzes as normal for 20-question quizzes, but 
 - Quiz rooms will use jump measuring equipment to prevent ties.
 - Push-button quizzing can be provided if needed by physically disabled quizzers.
 
-### 3.7. Jumping
+### 3.6. Jumping
 
 - Quizzers have 5 seconds in which to jump after the question is completed.
 - If a quizzer's light comes on after a question has been called and before the question has discernibly begun, a foul will be called.
@@ -485,7 +430,7 @@ For 15-question quizzes, prepare quizzes as normal for 20-question quizzes, but 
 - The 1st quizzer to rise and trigger their light, provided there has been no foul, will be awarded the jump.
 - If in the judgment of the officials, a deliberate attempt is made to forfeit a question, an error will be charged, and 10 points deducted from the team score. The next question will be the same question number.
 
-### 3.8. Timeliness
+### 3.7. Timeliness
 
 Except for the exception below:
 
@@ -504,12 +449,6 @@ If an individual quizzer is late, the quiz will start on time. The coach has the
 Prior to a quizzer's answer being correct or incorrect, quizzers may have up to 30 seconds to provide their answer.
 
 ### 4.2. Rulings
-
-**Interchangeable**
-: Interchangeable words are words that can be substituted for each other in an answer such that a quizzer will still be counted correct.
-
-**Special Name**
-: A name that imparts specific character qualities or attributes to that person of the deity
 
 #### 4.2.1. Context Application
 
@@ -542,9 +481,6 @@ If the quizmaster did not complete the reading of the question, the quizzer's an
 
 Only the 1st response of the quizzer will be considered; however, if the response by the quizzer is in context and is not incorrect, the quizzer will be allowed their full question answer duration period to satisfy all requirements of a correct response.
 
-**Quiz-Out**
-: 4 correct questions by the same quizzer in the same quiz
-
 A quizzed-out quizzer may only jump on Bonus questions.
 
 #### 4.2.4. Incorrect
@@ -554,12 +490,6 @@ The quizzer's response is incorrect when:
 - Incorrect information has been given
 - The information given within the time limit is incomplete
 - The response does not fulfill all requirements specific to the question type
-
-**Error**
-: An incorrect answer is also known as an error
-
-**Err-Out**
-: 3 errors by the same quizzer in the same quiz
 
 An err-out eliminates that quizzer from the quiz. The quizzer must leave the platform immediately.
 
@@ -626,15 +556,6 @@ The following are fouls:
 - If a captain or co-captain confers with their coach or other quizzers prior to issuing a challenge; in addition, the challenge will not be allowed
 - Infraction of the rules, in letter or spirit, as discerned by the quiz officials
 
-**Individual Fouls**
-: A foul awarded to 1 or more individual quizzers
-
-**Team Fouls**
-: The sum of individual fouls by members of the same team
-
-**Foul-Out**
-: 3 fouls by the same quizzer in the same quiz
-
 ### 4.6. Timeouts
 
 Each team is allowed 2 1-minute timeouts. Only 1 of those timeouts may be taken after question number 17, including any alphanumeric question numbers.
@@ -656,8 +577,6 @@ Quizzed-out quizzers may remain in the quiz to answer bonus questions. Substitut
 When a quizzer quizzes-out, errs-out, or fouls-out and leaves the platform after the event, a substitute may take their place immediately and without a timeout, even if the incoming quizzer has been subbed-out less than 3 questions ago.
 
 ## 5. Scoring
-
-Below are the scoring calculation rules and the logic for them. This procedure is executed after every "quiz event" (defined below).
 
 ### 5.1. Scoring Individual and Team Points
 
@@ -704,77 +623,6 @@ Team errors are the sum of all individual, non-bonus errors.
 - -10 points at the determination of the room officials that a deliberate attempt was made to forfeit a question
 - No more than -10 points can be deducted per question asked due to an error
 - Non-error-related deducted points are cumulative
-
-### 5.2. Scoring Terms and Definitions
-
-**Quiz Event**
-: Label for whatever quiz event triggered the run of the procedure; possible values are: "question", "foul", "timeout", "sub-in", "sub-out", "challenge", "unreadiness", and "unsportsmanlike"
-
-**Quiz Type**
-: Current quiz type, defined under the Quiz Process, Types of Quizzes section of this rule book
-
-**Current/Next Question Form**
-: Current or next question "form" such as: "Standard", "Toss-Up", and "Bonus"
-
-**Current/Next Question Integer**
-: Current or next question core integer value; for example, if on question 17A, the value is 17
-
-**Current/Next Question Label**
-: Current or next question label, the possible suffix; for example, if on question 17A, the value is A
-
-**Current/Next Question Number**
-: Current or next question number, which is a combination of integer and label
-
-**Ruling**
-: Ruling on a question; possible values are: "correct", "incorrect", and "none" (meaning no jump)
-
-**Challenge**
-: Ruling on a challenge; possible values are: "accepted" and "overruled"
-
-**Overruled Challenges**
-: Integer representing total overruled challenges for the given team
-
-**Quizzer Score Increment**
-: Amount the given quizzer's score should be incremented
-
-**Team Score Increment**
-: Amount the given team's score should be incremented
-
-**Quizzer Correct Answers**
-: Integer representing total correct answers for the given quizzer
-
-**Quizzer Incorrect Answers**
-: Integer representing total incorrect answers for the given quizzer
-
-**Team Correct Answers**
-: Integer representing total correct answers for the given team
-
-**Team Incorrect Answers**
-: Integer representing total incorrect answers for the given team
-
-**Team Quizzers with Correct Answers**
-: Integer representing total number of quizzers for the given team with correct answers
-
-**Quizzer Fouls**
-: Integer representing total number of fouls for the given quizzer
-
-**Team Fouls**
-: Integer representing total number of fouls for the given team
-
-**Quizzer Name**
-: Name of the given quizzer
-
-**Scoresheet Label**
-: String (which should be irreducibly short) that will be filled in the appropriate scoresheet cell for the given quizzer (and given team provided "Scoresheet Team Label" is not also defined)
-
-**Scoresheet Team Label**
-: String (which should be irreducibly short) that will be filled in the appropriate scoresheet cell for the given team; normally, this is left undefined and thus "Scoresheet Label" is used
-
-**Message**
-: An optional string for a message text to display; for example: "Quiz Out"
-
-**Team Roster**
-: This is an array of quizzer objects, each of which contains a "correct answers" value
 
 ## 6. Quiz Meets
 

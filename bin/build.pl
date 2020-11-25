@@ -53,8 +53,11 @@ sub filter ($filter) {
     return
         ( $filter and grep { lc($_) eq 'all' } @$filter )
             ? [
-                @{ conf->get( qw( rule_book special_sections ) ) },
                 conf->get( qw( rule_book special_sections_block ) ),
+                map {
+                    my $s = $_;
+                    ( s/s$//i ) ? ( $s, $_ ) : $_;
+                } @{ conf->get( qw( rule_book special_sections ) ) },
             ]
             : ( not ref $filter ) ? [$filter] : $filter;
 }
@@ -140,7 +143,8 @@ sub generate ( $output, $opt, $header ) {
         return join( '', map { $header_level{$_} . '.' } 2 .. $level );
     };
 
-    $output =~ s/^\s*\-*\s*#+\s*$_\s.*?(?=\n#)//imsg for ( @{ $opt->{filter} } );
+    $output =~ s/^\s*\-*\s*#+\s*$_\s.*?(?=\n\-*#)//imsg for ( @{ $opt->{filter} } );
+    $output =~ s/\*{2}[^\*]+\*{2}\s*:[^\n]+\n\n//g if ( grep { lc($_) eq 'terms' } @{ $opt->{filter} } );
     $output =~ s/^(\s*)(#{2,})/ $1 . $2 . ' ' . $headers->( length($2) ) /mge;
     $output =~ s/^(\s*)\-(#+)/$1$2/mg;
     $output =~ s/\[\s*\[\s*$_\s*\]\s*\]/$params->{$_}/ig for ( keys %$params );

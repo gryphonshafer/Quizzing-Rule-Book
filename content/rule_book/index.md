@@ -17,6 +17,15 @@ You can download this document from:
 
 There are some special section blocks within this rule book that contain content that are not rules. These special sections are included for a variety of reasons to aid in using the rule book. Some or all of the special sections can be and often are omitted when this rule book is published in simplified form. This specific publication of the rule book contains the following sections.
 
+### Terms
+
+There are several terms used throughout the rule book that are explicitly defined by a term/definition entry. They appear like this:
+
+**Term**
+: Definition
+
+The definitions help clarify specific concepts related to the rules.
+
 ### Examples
 
 Examples are a representation and tangible illustration of a rule. Since rules are often stated using abstract wording and concepts in generalized forms, it can be hard to visualize the rule's application without an example.
