@@ -6,7 +6,7 @@ A back-tick is a `. Back-ticks are used in the source of this document to render
 
 ## Text Emphasis
 
-Emphasis, italics, words are written with *single asterisks*. (`*single asterisks*`).
+Emphasis, italics, words are written with single asterisks. (`single asterisks`).
 
 Strong emphasis, bold, words are written with **double asterisks**. (`**double asterisks**`)
 

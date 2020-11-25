@@ -27,23 +27,23 @@ Notification by each district of its intention to enter a team must be received 
 
 ## Selection of Officials
 
-IBQ officials may include *quizmasters*, answer judges, scorekeepers, statisticians, and a meet director. IBQ officials will be appointed by the CQLT. To be considered for the CQLT appointment, all officials must:
+IBQ officials may include quizmasters, answer judges, scorekeepers, statisticians, and a meet director. IBQ officials will be appointed by the CQLT. To be considered for the CQLT appointment, all officials must:
 
 - Be a regular church attender
 - Have 3 seasons of district quizmastering experience and be recommended by their district office or quiz committee
 - Go through an evaluation process established by the CQLT, to determine that each official is qualified to perform their specific role
 
-When deemed necessary, any official may be replaced from their position during a meet by the CQLT. Team coaches whose teams are not involved in the quiz shall serve as *answer judges* and scorekeepers if needed.
+When deemed necessary, any official may be replaced from their position during a meet by the CQLT. Team coaches whose teams are not involved in the quiz shall serve as answer judges and scorekeepers if needed.
 
 ### Scorekeeper
 
-At least 1 *scorekeeper* will tabulate the results of each question on official scoresheets in every IBQ quiz. They shall keep a running score of each quiz. Points will be accurately tallied on individual quizzers for each team by statisticians appointed by the CQLT.
+At least 1 scorekeeper will tabulate the results of each question on official scoresheets in every IBQ quiz. They shall keep a running score of each quiz. Points will be accurately tallied on individual quizzers for each team by statisticians appointed by the CQLT.
 
 ### Statistician
 
-*Statisticians* shall:
+Statisticians shall:
 
-- Not be a regular *scorekeeper*
+- Not be a regular scorekeeper
 - Be responsible for keeping individual quizzers' scores
 - Be responsible for keeping individual teams' scores and provide updates to the teams of their current standings
 

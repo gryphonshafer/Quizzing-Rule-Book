@@ -9,15 +9,13 @@ my $rule_book_dir = join( '/', map { conf->get(@$_) } (
     [ qw( rule_book dir ) ],
 ) );
 
-my ( $md_terms, $acronymic_terms, $acronyms );
+my ( $acronymic_terms, $acronyms );
 path($rule_book_dir)->list_tree->each( sub {
     my $file = $_;
     my $line;
     for ( split( /\n/, $file->slurp ) ) {
         $line++;
         next if ( /^\s{4,}/ or /^\[[^\]]*\]\([^\)]*\)$/ );
-
-        push( @{ $md_terms->{$1} }, [ $file->to_rel($root_dir), $line ] ) if ( /^\*{2}([^\*]+)\*{2}$/ );
 
         push( @{ $acronymic_terms->{$2}{$1} }, [ $file->to_rel($root_dir), $line ] )
             while ( /\*([^\*]+)\*\s+\(([^\)]+)\)/g );
@@ -55,43 +53,5 @@ ok( exists $acronymic_terms->{$_}, "$_ defined" ) or diag(
         } @{ $acronyms->{$_} }
     ),
 ) for ( sort keys %$acronyms );
-
-my %terms = map { s/s$//; lc($_) => 1 } (
-    keys %$md_terms,
-    map { keys %{ $acronymic_terms->{$_} } } keys %$acronymic_terms,
-);
-
-my $terms_re = '(\W?)\b(' . join( '|',
-    map { $_ . 's?' }
-    map { $_->[0] }
-    sort { $b->[1] <=> $a->[1] }
-    map { [ $_, length $_ ] }
-    keys %terms
-) . ')\b(\W?)';
-
-path($rule_book_dir)->list_tree->each( sub {
-    my $file = $_;
-    my ( $line, @unmarked_terms );
-    for ( split( /\n/, $file->slurp ) ) {
-        $line++;
-        next if (
-            /^\s{4,}/ or
-            /^(?:\s*\-\s*)?\[[^\]]*\]\([^\)]*\)$/ or
-            /^\s*$/ or
-            /^\s*\|/ or
-            /^\s*#/ or
-            /^>/
-        );
-        push( @unmarked_terms, [ $2, $line ] )
-            if ( /$terms_re/i and $1 ne '*' and $3 ne '*' );
-    }
-
-    ok( @unmarked_terms == 0, 'No terms unitalicized in: ' . $file->to_rel($root_dir) ) or diag(
-        'Terms unitalicized in ', $file->to_rel($root_dir), ":\n",
-        join( "\n", map {
-            ' ' x 4 . 'line ' . $_->[1] . ': "' . $_->[0] . '"'
-        } @unmarked_terms )
-    );
-} );
 
 done_testing;
