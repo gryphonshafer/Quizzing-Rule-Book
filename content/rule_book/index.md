@@ -4,6 +4,15 @@ Bible Quizzing is a Christian sport in which teams of participants compete on Bi
 
 This is the official rule book for Bible Quizzing, which represents what will be followed at the annual *International Bible Quizzing* (IBQ) championship meet at the end of a quiz season. It is also a recommendational document for Quizzing districts and any other organizations interested in Bible Quizzing. These districts and other organizations retain the right to set and enforce their own rules using whatever mechanisms they deem most appropriate.
 
+## Version Information
+
+- This document was built on: [[BUILD_DATE]]
+- This document's version is: [[BUILD_VERSION]]
+
+You can download this document from:
+
+[https://github.com/gryphonshafer/Quizzing-Rule-Book/raw/[[BUILD_VERSION_SHORT]]/[[BUILD_FILE]]](https://github.com/gryphonshafer/Quizzing-Rule-Book/raw/[[BUILD_VERSION_SHORT]]/[[BUILD_FILE]])
+
 ## Special Sections
 
 There are some special section blocks within this rule book that contain content that are not rules. These special sections are included for a variety of reasons to aid in using the rule book. Some or all of the special sections can be and often are omitted when this rule book is published in simplified form. This specific publication of the rule book contains the following sections.

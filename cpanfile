@@ -1,5 +1,6 @@
 requires 'Bible::Reference', '>= 1.05';
 requires 'Cwd';
+requires 'Date::Format', '>= 2.33';
 requires 'English::Script', '>= 1.02';
 requires 'exact', '>= 1.13';
 requires 'exact::cli', '>= 1.03';

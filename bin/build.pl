@@ -1,23 +1,33 @@
 #!/usr/bin/env perl
 use exact -cli, -conf;
+use Date::Format 'time2str';
 use File::Basename qw( dirname basename );
 use Mojo::File 'path';
 use PDF::WebKit;
 use Text::MultiMarkdown 'markdown';
 
-my $opt    = options( 'docs|d=s{,}', 'filter|f=s{,}', 'type|t=s', 'output|o=s', 'config|c' );
-my $header = join( '', <DATA> );
+my $opt = options( 'docs|d=s{,}', 'filter|f=s{,}', 'type|t=s', 'output|o=s', 'config|c' );
 
 $opt->{docs}   = ['rule_book'] unless ( $opt->{docs} and @{ $opt->{docs} } );
 $opt->{type} //= 'pdf';
 
+my $root_dir = conf->get( qw( config_app root_dir ) );
+my $header   = join( '', <DATA> );
+my $params   = {
+    build_date    => time2str( '%Y-%m-%d %H:%M:%S %Z', time ),
+    build_version => `git rev-parse HEAD`,
+};
+
+chomp( $params->{build_version} );
+$params->{build_version_short} = substr( $params->{build_version}, 0, 7 );
+
 unless ( $opt->{config} ) {
-    $opt->{filter} = filter( $opt->{filter} );
+    $opt->{filter} = filter( $opt->{filter} ) if ( $opt->{filter} );
     $opt = [$opt];
 }
 else {
     my $build_config = conf->get('build');
-    my $build_dir    = conf->get( qw( config_app root_dir ) ) . '/' . ( $build_config->{dir} || 'build' );
+    my $build_dir    = $root_dir . '/' . ( $build_config->{dir} || 'build' );
 
     $opt = [ map {
         my $run = $_;
@@ -50,7 +60,7 @@ sub filter ($filter) {
 }
 
 sub output ($opt) {
-    my $content_dir = conf->get( qw( config_app root_dir ) ) . '/' . conf->get('content_dir');
+    my $content_dir = $root_dir . '/' . conf->get('content_dir');
     return join( "\n",
         map {
             (ref)
@@ -121,8 +131,9 @@ sub sub_file ( $pre, $file, $post, $dir, $level = 0 ) {
 }
 
 sub generate ( $output, $opt, $header ) {
-    my %header_level;
+    $params->{build_file} = Mojo::File->new( $opt->{output} )->to_rel($root_dir);
 
+    my %header_level;
     my $headers = sub ($level) {
         delete $header_level{$_} for ( grep { $_ > $level } keys %header_level );
         $header_level{$level}++;
@@ -132,6 +143,7 @@ sub generate ( $output, $opt, $header ) {
     $output =~ s/^\s*\-*\s*#+\s*$_\s.*?(?=\n#)//imsg for ( @{ $opt->{filter} } );
     $output =~ s/^(\s*)(#{2,})/ $1 . $2 . ' ' . $headers->( length($2) ) /mge;
     $output =~ s/^(\s*)\-(#+)/$1$2/mg;
+    $output =~ s/\[\s*\[\s*$_\s*\]\s*\]/$params->{$_}/ig for ( keys %$params );
 
     if ( $opt->{all} ) {
         my $special_sections_block = conf->get( qw( rule_book special_sections_block ) );

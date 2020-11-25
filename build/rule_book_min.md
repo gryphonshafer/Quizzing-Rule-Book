@@ -4,6 +4,15 @@ Bible Quizzing is a Christian sport in which teams of participants compete on Bi
 
 This is the official rule book for Bible Quizzing, which represents what will be followed at the annual *International Bible Quizzing* (IBQ) championship meet at the end of a quiz season. It is also a recommendational document for Quizzing districts and any other organizations interested in Bible Quizzing. These districts and other organizations retain the right to set and enforce their own rules using whatever mechanisms they deem most appropriate.
 
+## Version Information
+
+- This document was built on: 2020-11-25 12:33:23 PST
+- This document's version is: 756fe8ec27980d561c9e8b081f5969cfdac0be9a
+
+You can download this document from:
+
+[https://github.com/gryphonshafer/Quizzing-Rule-Book/raw/756fe8e/build/rule_book_min.md](https://github.com/gryphonshafer/Quizzing-Rule-Book/raw/756fe8e/build/rule_book_min.md)
+
 ## 1. Material and Questions
 
 Bible Quizzing meets consist of a series of quizzes, which themselves consist of a series of questions. Questions are written based on a quiz season's material. Material refers to the Scriptural scope of content set for each season. The Bible edition used is the *New International Version* (NIV) 2011 edition of the Bible. There is an 8-season rotation of material. 4 are defined as "Narrative" and 4 are defined as "Epistle" in terms of a material's style.
