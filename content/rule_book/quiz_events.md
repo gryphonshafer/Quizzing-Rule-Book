@@ -96,7 +96,7 @@ An err-out eliminates that quizzer from the quiz. The quizzer must leave the pla
 
 Challenges exist so quizzers can contest rulings made by quiz officials. The team captain or co-captain may challenge if:
 
-- There is reason to believe the quiz officials have applied the rule book incorrectly
+- The quiz officials have applied the rule book incorrectly
 - The quizmaster mispronounced a word
 - The question is invalid
 
