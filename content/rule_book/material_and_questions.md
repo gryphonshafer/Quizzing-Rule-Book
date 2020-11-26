@@ -92,7 +92,7 @@ Interrogative questions, also called standard, regular, normal, general, and str
 - Must have more than 1 answer
     - The clarification of a single answer does not meet the above requirement
     - The identification of a single pronoun does not meet the above requirement
-    - The identification of a plural pronoun, with more than one clarification to the pronoun, does meet the above requirement
+    - The identification of a plural pronoun, with more than 1 clarification to the pronoun, does meet the above requirement
 
 In addition, an MA question is invalid if 1 of the listed answers to the multiple answer's questions is a "negative" answer. A "negative" answer is an answer used to contrast another answer or an answer that does not answer the question, such as an answer that begins with the words or similar words to "not" or "neither".
 
