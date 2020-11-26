@@ -170,4 +170,4 @@ Except for the exception below:
 
 The exception to the above is if the late team was late due to quizzing in another location which is running late, they are not required to forfeit the quiz or lose 20 points.
 
-If an individual quizzer is late, the quiz will start on time. The coach has the option to put the late quizzer in during a timeout, but the team will forfeit the 20 points the team starts with. The coach also has the option to keep the quizzer out of the quiz and keep the 20 points but must notify the quizmaster at the beginning of the quiz of their decision.
+If any number of members of a team is late, the quiz will start on time. The coach has the option to put quizzers in during a timeout, but the team will then forfeit the 20 points the team starts with. The coach also has the option to keep the quizzer out of the quiz and keep the 20 points but must notify the quizmaster at the beginning of the quiz of their decision.
