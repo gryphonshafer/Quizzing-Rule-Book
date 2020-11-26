@@ -114,7 +114,7 @@ The result of a challenge may not be challenged.
 If the challenge is accepted:
 
 - Points or error points that reflect the new ruling of the judge will be recorded.
-- A new question of the same number will be given if the question is ruled illegal.
+- A new question of the same number will be given if the outcome of the challenge dictates the question needs to be redone.
 
 When a challenge is made, the quizmaster must give each team's captain or co-captain an opportunity to speak to the challenge before making a ruling on the challenge. Whichever team is being challenged against will have the right to speak last.
 
