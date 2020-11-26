@@ -42,7 +42,7 @@ If a quizzer has provided all the information in the answer, except the identifi
 
 The quizmaster is not allowed to say anything other than what the quizzer has already said when asking for the identification. A pronoun may need to be identified only if the antecedent is in context.
 
-Once the quizzer has completed all information in the answer, the quizmaster will prompt the quizzer to identify the specific pronoun, even if the quizzer has not yet completed all information in the question.
+Once the quizzer has completed all information in the question and answer, the quizmaster will prompt the quizzer to identify the specific pronoun, even if the quizzer has not yet completed all information in the question.
 
 ##### Reference Questions
 
@@ -68,7 +68,7 @@ On a Quote or Reference question, if either the chapter or verse number were not
 
 #### Commentary
 
-On a CVR/MACVR, in the scenario where the entire reference (which is part of the question text) was not read by the quizmaster, the quizmaster has 2 prompts to give, and must give them in appropriate order and with appropriate timing. If the quizzer provides all information in the question text and the answer text, because the quizzer has not yet finished saying the complete Reference, which is part of the question, the quizmaster must prompt with "More." The quizmaster cannot prompt with "What is your question?" yet, because the quizzer has not provided all information in the question (which includes the reference) and the answer.
+On a CVR/MACVR, in the scenario where the entire reference (which is part of the question text) was not read by the quizmaster, the quizmaster has 2 prompts to give, and must give them in appropriate order and with appropriate timing. If the quizzer provides all information in the question text and the answer text, because the quizzer has not yet finished saying the complete reference, which is part of the question, the quizmaster must prompt with "More." The quizmaster cannot prompt with "What is your question?" yet, because the quizzer has not provided all information in the question (which includes the reference) and the answer.
 
 ### Answer Judges (AJ)
 
