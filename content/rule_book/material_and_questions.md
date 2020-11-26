@@ -80,7 +80,7 @@ On some question types, the addition of a single, approved, interrogative word a
 
 #### Interrogative (INT)
 
-Interrogative questions, also called "standard" questions or "regular" questions or "normal" questions:
+Interrogative questions, also called standard, regular, normal, general, and straightforward questions:
 
 - Must have exactly 1 inserted interrogative word at the very beginning of the question or the very end of the question
 - Must have a single answer
