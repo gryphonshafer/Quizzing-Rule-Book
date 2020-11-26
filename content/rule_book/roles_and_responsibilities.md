@@ -42,7 +42,7 @@ If a quizzer has provided all the information in the answer, except the identifi
 
 The quizmaster is not allowed to say anything other than what the quizzer has already said when asking for the identification. A pronoun may need to be identified only if the antecedent is in context.
 
-Once the quizzer has completed all information in the question and answer, the quizmaster will prompt the quizzer to identify the specific pronoun, even if the quizzer has not yet completed all information in the question.
+Once the quizzer has completed all information in the question and answer, the quizmaster will prompt the quizzer to identify the specific pronoun.
 
 ##### Reference Questions
 
