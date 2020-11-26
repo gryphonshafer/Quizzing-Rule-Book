@@ -24,7 +24,7 @@ Bible Quizzing meets consist of a series of quizzes, which themselves consist of
 : A word appearing in only 1 verse in the material
 
 **Unique Phrases**
-: 2 or 3 consecutive words, the sequence of which is in only 1 verse in the material
+: 2 or 3 consecutive words appearing in only 1 verse in the material
 
 **1st 5 Words of the Question**
 : The 1st 5 spoken words of the question text that are from the material and the interrogative word
