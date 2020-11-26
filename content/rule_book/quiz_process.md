@@ -118,7 +118,7 @@ Overtime occurs if a quiz ends in a tie and the team placements (1st, 2nd, 3rd) 
 
 - Additional units of 3 overtime questions each will be used until the tie is broken
 - 2-team rules will apply in overtime if only 2 teams are involved
-- All the numeric question will be of a different question type
+- All the numeric questions will be of a different question type
 
 ## Question Type Distribution
 
