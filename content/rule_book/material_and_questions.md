@@ -120,10 +120,10 @@ Reference question type group questions are used to distinguish between exact du
 
 If a quizzer needs to provide the reference question, the provided reference question must:
 
-- Be of the exact same question type (CR, CVR, MACR, MACVR, Q, Q2V, etc.) as the written question
+- Be of the exact same question type (CR, CVR, MACR, MACVR) as the written question
 - Have content and wording similar to the content and wording of the written question
-- Have the determining word or phrase of the written question
-- Have the interrogative word used not be a factor when deciding the valid type of a reference question
+
+Only the material is used, not the choice of interrogative word, when deciding whether a question is an INT versus CR versus CVR.
 
 ##### Examples
 
