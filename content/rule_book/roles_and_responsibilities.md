@@ -72,7 +72,7 @@ On a CVR/MACVR, in the scenario where the entire reference (which is part of the
 
 ### Answer Judges (AJ)
 
-When an answer given is in question, the answer judge will determine the accuracy of its content and make a ruling recommendation to the quizmaster.
+When an answer given is in question, the answer judge will determine whether the answer given meets the requirements of a correct answer and make a ruling recommendation to the quizmaster.
 
 Answer judges will also:
 
