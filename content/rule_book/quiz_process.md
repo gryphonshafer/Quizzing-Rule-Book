@@ -46,7 +46,7 @@ There are 4 chairs per team, any 1 of which may be filled or empty. If the quizz
 
 A quizmaster must introduce and read each question type in a specific, multipart way:
 
-1. Question Introduction
+1. Question introduction
     - State the full question number and type
 
         > "Question number [question number] is a [type] question."
@@ -59,7 +59,7 @@ A quizmaster must introduce and read each question type in a specific, multipart
 
         > "I need to know [Situation question interrogatives]."
 
-2. Call the Question
+2. Call the question
 
     > "Question number [question number], question:"
 
