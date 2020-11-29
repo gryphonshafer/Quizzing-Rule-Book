@@ -28,7 +28,7 @@ The quizmaster must:
 - Speak in such as a way as to be understood by all quizzers
 - Rule immediately upon an obviously correct or incorrect answer if there is no indication from the answer judge to the contrary
 
-When a quizzer's response contains a required completion of the question and that completion be different than the written question, the quizmaster will discuss it with the answer judge. If the quizzer gives a reference question that is different than the written question, the quizmaster and answer judge must ensure that the reference question given is the exact same type as the written question.
+When a quizzer's response contains a required completion of the question and that completion is different than the written question, the quizmaster will discuss it with the answer judge. If the quizzer gives a reference question that is different than the written question, the quizmaster and answer judge must ensure that the reference question given is the exact same type as the written question.
 
 The quizmaster should consult with the answer judge(s) at any time they feel is necessary, provided it does not infringe upon the quizzer's question answer duration period.
 
