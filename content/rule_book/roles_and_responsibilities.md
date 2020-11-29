@@ -12,7 +12,7 @@ Only the captain or co-captain may challenge a decision or respond to a challeng
 
 ## Quiz Officials
 
-No comment other than "correct" or "incorrect" need be announced by the quiz officials when announcing making a ruling; however, at the discretion of the *quizmaster* (QM) and *answer judge* (AJ), or at the request of the captain, additional information may be given.
+No comment other than "correct" or "incorrect" need be announced by the quiz officials when announcing a ruling; however, at the discretion of the *quizmaster* (QM) and *answer judge* (AJ), or at the request of the captain, additional information may be given.
 
 If the additional information regarding the ruling is provided at the discretion of the QM/AJ and not at the request of the captain, this is not considered an explanation of a ruling, which would invalidate a challenge or protest.
 
