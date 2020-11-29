@@ -7,7 +7,7 @@
 
 ## Scope
 
-This policy provides a collaborative framework for the development and governance of *Christian and Missionary Alliance* (CMA) *Bible Quizzing* (BQ). It is intended to suggest a means by which quizzing and quizzing events can be promoted and coordinated. The policy assigns matters of program, policy, and procedure to a leadership team. Responsibilities for logistical support remain with the LIFE office for the CMA.
+This policy provides a collaborative framework for the development and governance of *Christian and Missionary Alliance* (CMA) *Bible Quizzing* (BQ). It is intended to suggest a means by which quizzing and quizzing events can be promoted and coordinated. The policy assigns matters of program, policy, and procedure to a leadership team. Responsibilities for logistical support remain with the Life Office for the CMA.
 
 ## CMA Quizzing Leadership Team (CQLT)
 
@@ -35,11 +35,11 @@ At least 2 members of the CQLT shall be chosen from Canadian team coaches and at
 
 A maximum of 2 non-Alliance members can be voted onto the CQLT with a maximum of 1 per election. Nominations follow the same approval process as listed in the election section below.
 
-The director of the LIFE office shall serve ex officio as a resource to the leadership team to coordinate programming and appropriate support for the International Quizzing Competition. The national youth director of each country or an equivalent representative may participate in any meeting of the CQLT.
+The director of the Life Office shall serve ex officio as a resource to the leadership team to coordinate programming and appropriate support for the International Quizzing Competition. The national youth director of each country or an equivalent representative may participate in any meeting of the CQLT.
 
 ### Term
 
-Members serve for a 3-year term with the possibility of 2 consecutive terms. Members serving consecutive terms will experience a gap of at least 1 year before being eligible for re-election. The LIFE office director and national youth directors, who serve ex officio as a non-voting member are exempt from a gap year.
+Members serve for a 3-year term with the possibility of 2 consecutive terms. Members serving consecutive terms will experience a gap of at least 1 year before being eligible for re-election. The Life Office director and national youth directors, who serve ex officio as a non-voting member are exempt from a gap year.
 
 ### Election
 
@@ -59,11 +59,11 @@ The CQLT will annually elect a member to serve as chair.
 
 Any amendment to the Alliance Bible Quizzing rule book must be approved by a majority of the members of the CQLT.
 
-## LIFE Office
+## Life Office
 
-The LIFE office shall provide logistical support for the International Quizzing Competition and the director will provide operational oversight of the event.
+The Life Office shall provide logistical support for the International Quizzing Competition and the director will provide operational oversight of the event.
 
-The LIFE office will:
+The Life Office will:
 
 - Recommend venues for the international competition to the CQLT for approval
 - Coordinate the international quizzing event and act as the sole liaison between the CQLT and the staff of the venue
@@ -71,11 +71,11 @@ The LIFE office will:
 
 ## Budget and Finance
 
-The CQLT shall prepare a balanced annual programming budget including the International Quizzing event, operational expenses and fees for LIFE office services. A copy of the budget shall be forwarded to the Vice President Nurture and Development in Canada and the Vice President for U.S. Church Ministries for their information. The CQLT shall provide annual financial reports to each CMA national office and each district quizzing program.
+The CQLT shall prepare a balanced annual programming budget including the International Quizzing event, operational expenses and fees for Life Office services. A copy of the budget shall be forwarded to the Vice President Nurture and Development in Canada and the Vice President for U.S. Church Ministries for their information. The CQLT shall provide annual financial reports to each CMA national office and each district quizzing program.
 
 ## Amenability
 
-The CQLT and LIFE office is amenable to the Vice President for Church Ministries in the United States.
+The CQLT and Life Office is amenable to the Vice President for Church Ministries in the United States.
 
 ## CMA International Quizzing Budget Guidelines
 
@@ -96,7 +96,7 @@ The CQLT and LIFE office is amenable to the Vice President for Church Ministries
 - Awards
 - Quizzing merchandise
 - Venue selection and development
-- Administrative support (LIFE office)
+- Administrative support (Life Office)
 
 ### CMA Quizzing Leadership Team (CQLT)
 
@@ -112,7 +112,7 @@ The CQLT and LIFE office is amenable to the Vice President for Church Ministries
 - Leadership team meetings
 - Quiz promotion (website, video, etc.)
 - Resource development
-- Administrative support (LIFE office)
+- Administrative support (Life Office)
 
 ### Budget Guidelines
 

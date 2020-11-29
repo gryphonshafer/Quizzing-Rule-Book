@@ -16,5 +16,5 @@ It was necessary to make changes that were not Functionally Equivalent. The larg
 - Chapter-Verse, language made explicit that words/phrases occurring more than once in the same chapter, but only in the same verse, are not valid bases for chapter-verse reference questions.
 - Non-captains can request an explanation of a ruling.
 - The 3rd error by the same quizzer is -10 points for that quizzer. The previous wording could be read as "every 2 errors" was -10, which would mean the 3rd error would not be -10.
-- Moved "Identify the question type of each question and begin every question with..." from Quizmaster Should to Quizmaster Must. This reflects what is generally accepted as a requirement of the Quizmaster.
+- Moved "Identify the question type of each question and begin every question with..." from quizmaster "should" to quizmaster "must". This reflects what is generally accepted as a requirement of the quizmaster.
 - Removed "The quizzer may not continue into or change to another verse" with regard to quotes/finish.

@@ -153,7 +153,7 @@ The following are fouls:
 - Team members, whether quizzers or coaches, communicating with each other, other teams, or with the audience between the time the question type is introduced and points are awarded; communication can include non-verbal communication
 - The use of the hands to assist in jumping; hands may not touch any part of the chair or the floor from the time "Question" is called until the quizmaster recognizes the 1st quizzer to jump
 - If any light goes on after the quizmaster calls "Question" and before they begin to discernibly read the question; discernibly includes the quizmaster's mouth forming a word shape
-- During a Reference or Quote question, if any light goes on after the quizmaster calls "Question" and before they begin to discernibly read the chapter number
+- During a reference or quote question, if any light goes on after the quizmaster calls "Question" and before they begin to discernibly read the chapter number
 - Starting to answer before being recognized by the quizmaster
 - Having more than the designated team members, 1 coach, and 1 assistant coach on the quiz platform during a timeout
 - If a captain or co-captain confers with their coach or other quizzers prior to issuing a challenge; in addition, the challenge will not be allowed

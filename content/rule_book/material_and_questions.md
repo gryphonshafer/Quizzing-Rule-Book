@@ -15,7 +15,7 @@ Bible Quizzing meets consist of a series of quizzes, which themselves consist of
 : Every word in addition to the question text required to answer a question perfectly
 
 **Reference**
-: Technically, the Scriptural reference for the verse or verses that contain the whole of the question text and answer text, excluding any pronoun clarifications or answers to Situation questions; practically, the Scriptural reference for the 1st verse with content from the question text, except in the case of questions of type Q2V, where both verses are the reference
+: Technically, the Scriptural reference for the verse or verses that contain the whole of the question text and answer text, excluding any pronoun clarifications or answers to SIT questions; practically, the Scriptural reference for the 1st verse with content from the question text, except in the case of questions of type Q2V, where both verses are the reference
 
 **Written Question**
 : All parts of a pre-prepared, written question including question type, reference, question text, and answer text
@@ -72,7 +72,7 @@ Context is a range of verses from the question's reference. Context is a concept
 
 All questions must contain verbatim material.
 
-The only exception to this is Situation type question quotations, which could potentially involve a single quotation, broken up by non-quotation words. This would result in the Situation quotation being written without the non-quotation words in the middle of the 2 quotations.
+The only exception to this is SIT type question quotations, which could potentially involve a single quotation, broken up by non-quotation words. This would result in the SIT quotation being written without the non-quotation words in the middle of the 2 quotations.
 
 On some question types, the addition of a single, approved, interrogative word at the very beginning or very end is required.
 
@@ -176,7 +176,7 @@ The question text should be in the form:
 
 #### Quote/Finish
 
-Quote and Finish questions must be quoted word-perfect. Quizzers may go back and correct their answers if done in the question answer duration time period. The quizzer will be required to make 1 full, correct rotation; however, the quizzer can be called correct without 1 full, correct rotation if they have made a mistake only in 1 area of the verse and correct the mistake, making it abundantly clear to the quizmaster and answer judge that they know where their mistake was and what the corrected words are.
+Quote and finish questions must be quoted word-perfect. Quizzers may go back and correct their answers if done in the question answer duration time period. The quizzer will be required to make 1 full, correct rotation; however, the quizzer can be called correct without 1 full, correct rotation if they have made a mistake only in 1 area of the verse and correct the mistake, making it abundantly clear to the quizmaster and answer judge that they know where their mistake was and what the corrected words are.
 
 Context is defined as the required verse, which is defined as the 1 or 2 verse range of the question, based on the question type.
 
@@ -202,7 +202,7 @@ The question text should be in the form:
 
 ##### Finish
 
-Finish questions have question text consisting of the 1st 5 words of material starting based on the question type. These 1st 5 words must be unique to all Finish questions of the exact same type; for example, FTV compared to all FTVs, FT to all FTs, F2V to all F2Vs, FTN to all FTNs.
+Finish questions have question text consisting of the 1st 5 words of material starting based on the question type. These 1st 5 words must be unique to all finish questions of the exact same type; for example, FTV compared to all FTVs, FT to all FTs, F2V to all F2Vs, FTN to all FTNs.
 
 ##### Finish the Verse (FTV)
 
@@ -224,11 +224,11 @@ Finish questions have question text consisting of the 1st 5 words of material st
 - Must start at the beginning of a sentence or the beginning of a quotation
 - Used when part of a verse is not strong enough on its own and needs another verse (or part of a verse) to explain it or when 2 verses combined form an even stronger thought
 
-#### Situation (SIT)
+#### SIT (SIT)
 
 - Used only in the quiz season where the material type is narrative
 - The question text contains 2 parts:
-    - Up to 3 questions regarding the Situation of the quotation from the following interrogatives:
+    - Up to 3 questions regarding the SIT of the quotation from the following interrogatives:
         - Who said it
         - To whom
         - How
@@ -241,19 +241,19 @@ Finish questions have question text consisting of the 1st 5 words of material st
         - The quotation must not exceed 2 consecutive verses
         - The 1st 5 words must be unique to all quotations
         - The quizzer is not required to repeat the quotation word-perfect but must be substantially close without leaving out key components of the quotation
-        - Must start at the beginning of a quotation or the beginning of a sentence within the quotation; when a Situation question comes from a quotation that runs for more than 2 verses, the beginning of the Situation question must start within the 1st 2 verses of the quotation
+        - Must start at the beginning of a quotation or the beginning of a sentence within the quotation; when a SIT question comes from a quotation that runs for more than 2 verses, the beginning of the SIT question must start within the 1st 2 verses of the quotation
 
-If the quotation is split-up by non-quotation words, the quotation will be read without the non-quotation words. A Situation question can combine 2 separate quotations as long as no words are added and the 2 quotes flow easily from 1 to another. The quotation must be written excluding any non-quotation words in the middle of the quotations.
+If the quotation is split-up by non-quotation words, the quotation will be read without the non-quotation words. A SIT question can combine 2 separate quotations as long as no words are added and the 2 quotes flow easily from 1 to another. The quotation must be written excluding any non-quotation words in the middle of the quotations.
 
-The answer to the Situation question must be in context.
+The answer to the SIT question must be in context.
 
 ##### Example
 
-As an example split-quotation Situation question, consider Matthew 4:19:
+As an example split-quotation SIT question, consider Matthew 4:19:
 
 > "Come, follow me," Jesus said, "and I will send you out to fish for people."
 
-A Situation question could be written:
+A SIT question could be written:
 
 > Who said it? "Come, follow me, and I will send you out to fish for people."
 

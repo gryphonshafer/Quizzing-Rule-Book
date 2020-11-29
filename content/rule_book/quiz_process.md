@@ -55,7 +55,7 @@ A quizmaster must introduce and read each question type in a specific, multipart
 
         > "It is a ["toss-up" or "bonus"] for [team(s)]."
 
-    - For Situation questions only, include the question's interrogatives
+    - For situation questions only, include the question's interrogatives
 
         > "I need to know [Situation question interrogatives]."
 

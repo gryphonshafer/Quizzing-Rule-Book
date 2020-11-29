@@ -2,7 +2,7 @@
 
 ## Awards
 
-Members of the 1st-place team at the *International Bible Quizzing* (IBQ) championship meets will receive a $200 scholarship from the LIFE office to the Alliance college of their choice. Alliance colleges will add an additional $650 to the scholarship upon enrollment.
+Members of the 1st-place team at the *International Bible Quizzing* (IBQ) championship meets will receive a $200 scholarship from the Life Office to the Alliance college of their choice. Alliance colleges will add an additional $650 to the scholarship upon enrollment.
 
 Members of the 2nd-place team will receive a $500 scholarship from the Alliance college of their choice upon enrollment.
 
@@ -30,6 +30,6 @@ This is an annual scholarship awarded to a high school junior or senior. It is f
 
 [https://cmabiblequizzing.org](https://cmabiblequizzing.org)
 
-If you would like to contribute to this scholarship, please contact the LIFE Office by emailing:
+If you would like to contribute to this scholarship, please contact the Life Office by emailing:
 
 [wakeleys@cmalliance.org][mailto:wakeleys@cmalliance.org]
