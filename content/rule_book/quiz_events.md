@@ -100,7 +100,7 @@ Challenges exist so quizzers can contest rulings made by quiz officials. The tea
 - The quizmaster mispronounced a word
 - The question is invalid
 
-A challenge must be made at the time of the quizmaster's decision and before the quizmastger makes known the next question's type. If a timeout is called immediately after a ruling, and a quizzer stands to challenge, the challenge may be conducted prior to the timeout.
+A challenge must be made at the time of the quizmaster's decision and before the quizmaster makes known the next question's type. If a timeout is called immediately after a ruling, and a quizzer stands to challenge, the challenge may be conducted prior to the timeout.
 
 No conferring is allowed between the quizzer challenging and anyone else. Conferring with anyone else prior to a challenge will result in:
 
@@ -125,7 +125,7 @@ Coaches, including assistant coaches, of the teams participating in a quiz may p
 - When a coach feels a logistical rule has been broken by the quiz officials
 - When a coach feels a ruling on a challenge is incorrect
 
-The protest must apply to the question or ruling that just occurred. The protest must be placed before the quizmastger makes known the next question's type. If a protest is launched after question number 20 is completed it must be done immediately after the ruling is announced.
+The protest must apply to the question or ruling that just occurred. The protest must be placed before the quizmaster makes known the next question's type. If a protest is launched after question number 20 is completed it must be done immediately after the ruling is announced.
 
 The coach may only confer with their assistant coach and substitute quizzer, before protesting.
 
@@ -140,7 +140,7 @@ As an example of a logistical rule, consider a scenario wherein the quizmaster d
 A foul is a penalty called by a quiz official against a quizzer or team for conduct that breaks the text of spirit of the rules.
 
 - Fouls may be called by any quiz official actively involved in the current quiz.
-- A foul must be called before the quizmastger makes known the next question's type.
+- A foul must be called before the quizmaster makes known the next question's type.
 
 The quizzer upon whom a foul is called becomes ineligible to jump on that question number, including any alphanumeric question numbers. The chair remains ineligible to jump on that question number, including any alphanumeric question numbers, even if the quizzer who committed the foul is substituted for.
 
