@@ -44,7 +44,7 @@ There are 4 chairs per team, any 1 of which may be filled or empty. If the quizz
 
 ### Question Reading Structure
 
-A Quizmaster must introduce and read each question type in a specific, multipart way:
+A quizmaster must introduce and read each question type in a specific, multipart way:
 
 1. Question Introduction
     - State the full question number and type
