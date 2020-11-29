@@ -296,7 +296,7 @@ The following are pairings for preliminary round quizzing with 3 quizzes per tea
 19. PRQ
 20. STA
 
-20-1 Teams
+21 Teams
 
 1. DAG
 2. JMP
