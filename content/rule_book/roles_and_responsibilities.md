@@ -60,7 +60,7 @@ On a Situation type question, when the quizzer has completed the quotation, the 
 
 ##### Appending an Answer
 
-On an INT or MA Question, if all the information in the answer text has been given but the quizzer is missing information in the question text, the quizmaster will say "More".
+On an INT or MA question, if all the information in the answer text has been given but the quizzer is missing information in the question text, the quizmaster will say "More".
 
 On a Situation question, because the quotation is part of the question, the quizmaster will say "More" when required information from the quotation is missing.
 
