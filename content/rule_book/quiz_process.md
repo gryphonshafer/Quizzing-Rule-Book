@@ -16,7 +16,7 @@
 : Everything the quizmaster reads from the quiz question
 
 **Answer**
-: Everything the quizzer says while answering a question after being recognized by the quizmaster until their answer duration has elapsed or being called correct or incorrect
+: Everything the quizzer says while answering a question after being recognized by the quizmaster until their question answer duration period has elapsed or being called correct or incorrect
 
 **Response**
 : A synonym for answer
