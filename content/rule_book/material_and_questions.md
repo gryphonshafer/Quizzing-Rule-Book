@@ -191,7 +191,7 @@ The question text should be in the form:
 
 ##### Quote 2 Verses (Q2V)
 
-Q2V is used when a verse is not strong enough on its own and needs another verse to explain it or can be used when 2 verses combined to form an even stronger thought.
+Q2V is used when a verse is not strong enough on its own and needs another verse to explain it or can be used when 2 verses combine to form an even stronger thought.
 
 - Most be 2 consecutive verses
 - The entire 2-verse reference range is part of the question and therefore required in the response if not fully spoken by the quizmaster
