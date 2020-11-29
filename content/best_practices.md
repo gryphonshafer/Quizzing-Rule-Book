@@ -8,7 +8,7 @@ The following are best practices.
 
 ## Quizmaster
 
-The Quizmaster should:
+The quizmaster should:
 
 - Be thoroughly acquainted with all rules, procedures, and material of that quiz season.
 - Be impartial and render decisions consistently.
