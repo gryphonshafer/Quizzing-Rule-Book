@@ -13,8 +13,8 @@ All points that occur during a bonus question or during overtime do not contribu
 
 #### Points Deducted
 
-- -10 points for 2nd and subsequent personal errors
-- -10 points for 3rd personal foul
+- -10 points for 2nd and subsequent individual errors
+- -10 points for 3rd individual foul
 
 ### Team Points
 
