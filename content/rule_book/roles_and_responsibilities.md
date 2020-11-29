@@ -50,7 +50,7 @@ On a Reference type question, if the quizzer has given all the information in bo
 
 ##### Answer Correction
 
-On a Quote/Finish type question, once the quizzer has quoted to the end of the required verse or verses, if the quote is not yet word-perfect, the quizmaster will say, "Again." This will occur as often as needed until the quizzer quotes the verse perfectly or the question answer duration period expires. The quizmaster is not allowed to say "again" until the quizzer has come to the end of the verse, each time through, as this would give the quizzer information about where their mistake was made.
+On a quote/finish type question, once the quizzer has quoted to the end of the required verse or verses, if the answer is not yet word-perfect, the quizmaster will say, "Again." This will occur as often as needed until the quizzer's answer is word-perfect or the question answer duration period expires. The quizmaster is not allowed to say "again" until the quizzer has come to the end of the verse, each time through, as this would give the quizzer information about where their mistake was made.
 
 For all other question types, once all of the information in both the question and answer has been given, but something needs to be fixed, the quizmaster will say "Again".
 
