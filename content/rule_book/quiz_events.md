@@ -60,7 +60,7 @@ Only the 1st response of the quizzer will be considered; however, if the respons
 **Quiz-Out**
 : 4 correct questions by the same quizzer in the same quiz
 
-A quizzed-out quizzer may only jump on Bonus questions.
+A quizzed-out quizzer may only jump on bonus questions.
 
 #### Example
 
