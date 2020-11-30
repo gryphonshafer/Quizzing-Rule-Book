@@ -6,12 +6,12 @@ This is the official rule book for Bible Quizzing, which represents what will be
 
 ## Version Information
 
-- This document was built on: 2020-11-25 15:32:27 PST
-- This document's version is: e37b27304002931238e8b4b5fd5e4776886e3cde
+- This document was built on: 2020-11-30 17:42:27 GMT
+- This document's version is: dd245eb769dc008b66f7cb372af54ed509b7c05f
 
 You can download this document from:
 
-[https://github.com/gryphonshafer/Quizzing-Rule-Book/raw/e37b273/build/rule_book_min.md](https://github.com/gryphonshafer/Quizzing-Rule-Book/raw/e37b273/build/rule_book_min.md)
+[https://github.com/gryphonshafer/Quizzing-Rule-Book/raw/dd245eb/build/rule_book_min.md](https://github.com/gryphonshafer/Quizzing-Rule-Book/raw/dd245eb/build/rule_book_min.md)
 
 ## 1. Material and Questions
 
@@ -60,7 +60,7 @@ Context is a range of verses from the question's reference. Context is a concept
 
 All questions must contain verbatim material.
 
-The only exception to this is Situation type question quotations, which could potentially involve a single quotation, broken up by non-quotation words. This would result in the Situation quotation being written without the non-quotation words in the middle of the 2 quotations.
+The only exception to this is SIT type question quotations, which could potentially involve a single quotation, broken up by non-quotation words. This would result in the SIT quotation being written without the non-quotation words in the middle of the 2 quotations.
 
 On some question types, the addition of a single, approved, interrogative word at the very beginning or very end is required.
 
@@ -68,7 +68,7 @@ On some question types, the addition of a single, approved, interrogative word a
 
 ##### 1.2.2.1. Interrogative (INT)
 
-Interrogative questions, also called "standard" questions or "regular" questions or "normal" questions:
+Interrogative questions, also called standard, regular, normal, general, and straightforward questions:
 
 - Must have exactly 1 inserted interrogative word at the very beginning of the question or the very end of the question
 - Must have a single answer
@@ -80,7 +80,7 @@ Interrogative questions, also called "standard" questions or "regular" questions
 - Must have more than 1 answer
     - The clarification of a single answer does not meet the above requirement
     - The identification of a single pronoun does not meet the above requirement
-    - The identification of a plural pronoun does meet the above requirement
+    - The identification of a plural pronoun, with more than 1 clarification to the pronoun, does meet the above requirement
 
 In addition, an MA question is invalid if 1 of the listed answers to the multiple answer's questions is a "negative" answer. A "negative" answer is an answer used to contrast another answer or an answer that does not answer the question, such as an answer that begins with the words or similar words to "not" or "neither".
 
@@ -90,10 +90,10 @@ Reference question type group questions are used to distinguish between exact du
 
 If a quizzer needs to provide the reference question, the provided reference question must:
 
-- Be of the exact same question type (CR, CVR, MACR, MACVR, Q, Q2V, etc.) as the written question
+- Be of the exact same question type (CR, CVR, MACR, MACVR) as the written question
 - Have content and wording similar to the content and wording of the written question
-- Have the determining word or phrase of the written question
-- Have the interrogative word used not be a factor when deciding the valid type of a reference question
+
+Only the material is used, not the choice of interrogative word, when deciding whether a question is an INT versus CR versus CVR.
 
 ###### 1.2.2.3.1. Chapter Verse Reference (CVR)
 
@@ -126,7 +126,7 @@ The question text should be in the form:
 
 ##### 1.2.2.4. Quote/Finish
 
-Quote and Finish questions must be quoted word-perfect. Quizzers may go back and correct their answers if done in the question answer duration time period. The quizzer will be required to make 1 full correct rotation; however, the quizzer can be called correct if they have made a mistake only in 1 area of the verse and correct the mistake, making it abundantly clear to the quizmaster and answer judge that they know where their mistake was and what the corrected words are.
+Quote and finish questions must be quoted word-perfect. Quizzers may go back and correct their answers if done in the question answer duration period. The quizzer will be required to make 1 full, correct rotation; however, the quizzer can be called correct without 1 full, correct rotation if they have made a mistake only in 1 area of the verse and correct the mistake, making it abundantly clear to the quizmaster and answer judge that they know where their mistake was and what the corrected words are.
 
 Context is defined as the required verse, which is defined as the 1 or 2 verse range of the question, based on the question type.
 
@@ -141,9 +141,9 @@ The question text should be in the form:
 
 ###### 1.2.2.4.2. Quote 2 Verses (Q2V)
 
-Q2V is used when a verse is not strong enough on its own and needs another verse to explain it or can be used when 2 verses combined to form an even stronger thought.
+Q2V is used when a verse is not strong enough on its own and needs another verse to explain it or can be used when 2 verses combine to form an even stronger thought.
 
-- Most be 2 consecutive verses
+- Must be 2 consecutive verses
 - The entire 2-verse reference range is part of the question and therefore required in the response if not fully spoken by the quizmaster
 
 The question text should be in the form:
@@ -152,7 +152,7 @@ The question text should be in the form:
 
 ###### 1.2.2.4.3. Finish
 
-Finish questions have question text consisting of the 1st 5 words of material starting based on the question type. These 1st 5 words must be unique to all Finish questions of the exact same type; for example, FTV compared to all FTVs, FT to all FTs, F2V to all F2Vs, FTN to all FTNs.
+Finish questions have question text consisting of the 1st 5 words of material starting based on the question type. These 1st 5 words must be unique to all finish questions of the exact same type; for example, FTV compared to all FTVs, FT to all FTs, F2V to all F2Vs, FTN to all FTNs.
 
 ###### 1.2.2.4.4. Finish the Verse (FTV)
 
@@ -174,11 +174,11 @@ Finish questions have question text consisting of the 1st 5 words of material st
 - Must start at the beginning of a sentence or the beginning of a quotation
 - Used when part of a verse is not strong enough on its own and needs another verse (or part of a verse) to explain it or when 2 verses combined form an even stronger thought
 
-##### 1.2.2.5. Situation (SIT)
+##### 1.2.2.5. SIT (SIT)
 
 - Used only in the quiz season where the material type is narrative
 - The question text contains 2 parts:
-    - Up to 3 questions regarding the Situation of the quotation from the following interrogatives:
+    - Up to 3 questions regarding the SIT of the quotation from the following interrogatives:
         - Who said it
         - To whom
         - How
@@ -191,11 +191,11 @@ Finish questions have question text consisting of the 1st 5 words of material st
         - The quotation must not exceed 2 consecutive verses
         - The 1st 5 words must be unique to all quotations
         - The quizzer is not required to repeat the quotation word-perfect but must be substantially close without leaving out key components of the quotation
-        - Must start at the beginning of a quotation or the beginning of a sentence within the quotation; when a Situation question comes from a quotation that runs for more than 2 verses, the beginning of the Situation question must start within the 1st 2 verses of the quotation
+        - Must start at the beginning of a quotation or the beginning of a sentence within the quotation; when a SIT question comes from a quotation that runs for more than 2 verses, the beginning of the SIT question must start within the 1st 2 verses of the quotation
 
-If the quotation is split-up by non-quotation words, the quotation will be read without the non-quotation words. A Situation question can combine 2 separate quotations as long as no words are added and the 2 quotes flow easily from 1 to another. The quotation must be written excluding any non-quotation words in the middle of the quotations.
+If the quotation is split-up by non-quotation words, the quotation will be read without the non-quotation words. A SIT question can combine 2 separate quotations as long as no words are added and the 2 quotes flow easily from 1 to another. The quotation must be written excluding any non-quotation words in the middle of the quotations.
 
-The answer to the Situation question must be in context.
+The answer to the SIT question must be in context.
 
 #### 1.2.3. Invalid Questions
 
@@ -222,7 +222,7 @@ Only the captain or co-captain may challenge a decision or respond to a challeng
 
 ### 2.2. Quiz Officials
 
-No comment other than "correct" or "incorrect" need be announced by the quiz officials when announcing making a ruling; however, at the discretion of the *quizmaster* (QM) and *answer judge* (AJ), or at the request of the captain, additional information may be given.
+No comment other than "correct" or "incorrect" need be announced by the quiz officials when announcing a ruling; however, at the discretion of the *quizmaster* (QM) and *answer judge* (AJ), or at the request of the captain, additional information may be given.
 
 If the additional information regarding the ruling is provided at the discretion of the QM/AJ and not at the request of the captain, this is not considered an explanation of a ruling, which would invalidate a challenge or protest.
 
@@ -238,7 +238,7 @@ The quizmaster must:
 - Speak in such as a way as to be understood by all quizzers
 - Rule immediately upon an obviously correct or incorrect answer if there is no indication from the answer judge to the contrary
 
-When a quizzer's response contains a required completion of the question and that completion be different than the written question, the quizmaster will discuss it with the answer judge. If the quizzer gives a reference question that is different than the written question, the quizmaster and answer judge must ensure that the reference question given is the exact same type as the written question.
+When a quizzer's response contains a required completion of the question and that completion is different than the written question, the quizmaster will discuss it with the answer judge. If the quizzer gives a reference question that is different than the written question, the quizmaster and answer judge must ensure that the reference question given is the exact same type as the written question.
 
 The quizmaster should consult with the answer judge(s) at any time they feel is necessary, provided it does not infringe upon the quizzer's question answer duration period.
 
@@ -252,7 +252,7 @@ If a quizzer has provided all the information in the answer, except the identifi
 
 The quizmaster is not allowed to say anything other than what the quizzer has already said when asking for the identification. A pronoun may need to be identified only if the antecedent is in context.
 
-Once the quizzer has completed all information in the answer, the quizmaster will prompt the quizzer to identify the specific pronoun, even if the quizzer has not yet completed all information in the question.
+Once the quizzer has provided all information in the question and answer, the quizmaster will prompt the quizzer to identify the specific pronoun.
 
 ###### 2.2.1.1.2. Reference Questions
 
@@ -260,7 +260,7 @@ On a Reference type question, if the quizzer has given all the information in bo
 
 ###### 2.2.1.1.3. Answer Correction
 
-On a Quote/Finish type question, once the quizzer has quoted to the end of the required verse or verses, if the quote is not yet word-perfect, the quizmaster will say, "Again." This will occur as often as needed until the quizzer quotes the verse perfectly or the question answer duration period expires. The quizmaster is not allowed to say "again" until the quizzer has come to the end of the verse, each time through, as this would give the quizzer information about where their mistake was made.
+On a quote/finish type question, once the quizzer has quoted to the end of the required verse or verses, if the answer is not yet word-perfect, the quizmaster will say, "Again." This will occur as often as needed until the quizzer's answer is word-perfect or the question answer duration period expires. The quizmaster is not allowed to say "again" until the quizzer has come to the end of the verse, each time through, as this would give the quizzer information about where their mistake was made.
 
 For all other question types, once all of the information in both the question and answer has been given, but something needs to be fixed, the quizmaster will say "Again".
 
@@ -270,7 +270,7 @@ On a Situation type question, when the quizzer has completed the quotation, the 
 
 ###### 2.2.1.1.5. Appending an Answer
 
-On an INT or MA Question, if all the information in the answer text has been given but the quizzer is missing information in the question text, the quizmaster will say "More".
+On an INT or MA question, if all the information in the answer text has been given but the quizzer is missing information in the question text, the quizmaster will say "More".
 
 On a Situation question, because the quotation is part of the question, the quizmaster will say "More" when required information from the quotation is missing.
 
@@ -278,7 +278,7 @@ On a Quote or Reference question, if either the chapter or verse number were not
 
 #### 2.2.2. Answer Judges (AJ)
 
-When an answer given is in question, the answer judge will determine the accuracy of its content and make a ruling recommendation to the quizmaster.
+When an answer given is in question, the answer judge will determine whether the answer given meets the requirements of a correct answer and make a ruling recommendation to the quizmaster.
 
 Answer judges will also:
 
@@ -320,9 +320,9 @@ If only 2 teams are participating in a question and 1 team errs, the next questi
 
 #### 3.1.3. Question Reading Structure
 
-A Quizmaster must introduce and read each question type in a specific, multipart way:
+A quizmaster must introduce and read each question type in a specific, multipart way:
 
-1. Question Introduction
+1. Question introduction
     - State the full question number and type
 
         > "Question number [question number] is a [type] question."
@@ -331,11 +331,11 @@ A Quizmaster must introduce and read each question type in a specific, multipart
 
         > "It is a ["toss-up" or "bonus"] for [team(s)]."
 
-    - For Situation questions only, include the question's interrogatives
+    - For situation questions only, include the question's interrogatives
 
         > "I need to know [Situation question interrogatives]."
 
-2. Call the Question
+2. Call the question
 
     > "Question number [question number], question:"
 
@@ -351,7 +351,7 @@ There are 3 primary types of quizzes and 2 related overtime components of quizze
 
 There will be 20 numeric questions in a quiz, excluding any overtime questions.
 
-A toss-up question is the result of an error by 1 team. The 2 remaining teams will have the opportunity to jump, but the team making the error is ineligible for that question. If question 1 to 15 is erred, the next question number will be a toss-up question. If question 16-20 is erred, and if 3 teams were participating on 16, the toss-up question will be question 16A.
+A toss-up question is the result of an error by 1 team. The 2 remaining teams will have the opportunity to jump, but the team making the error is ineligible for that question. If question 1 to 15 is erred, the next question number will be a toss-up question. If question 16-20 is erred, the next question will be a toss-up appended with A. For example, if 3 teams were participating on 16, the toss-up question will be question 16A.
 
 Regarding bonus questions:
 
@@ -388,7 +388,7 @@ Overtime occurs if a quiz ends in a tie and the team placements (1st, 2nd, 3rd) 
 
 - Additional units of 3 overtime questions each will be used until the tie is broken
 - 2-team rules will apply in overtime if only 2 teams are involved
-- All the numeric question will be of a different question type
+- All the numeric questions will be of a different question type
 
 ### 3.4. Question Type Distribution
 
@@ -424,7 +424,7 @@ For 15-question quizzes, prepare quizzes as normal for 20-question quizzes, but 
 
 ### 3.6. Jumping
 
-- Quizzers have 5 seconds in which to jump after the question is completed.
+- Quizzers have 5 seconds in which to jump after the quizmaster finishes reading the question.
 - If a quizzer's light comes on after a question has been called and before the question has discernibly begun, a foul will be called.
 - If a quizzer's light comes on after the quizmaster has discernibly begun reading the question, this will be considered a valid jump, and the quizzer will be given an opportunity to answer.
 - The 1st quizzer to rise and trigger their light, provided there has been no foul, will be awarded the jump.
@@ -440,7 +440,12 @@ Except for the exception below:
 
 The exception to the above is if the late team was late due to quizzing in another location which is running late, they are not required to forfeit the quiz or lose 20 points.
 
-If an individual quizzer is late, the quiz will start on time. The coach has the option to put the late quizzer in during a timeout, but the team will forfeit the 20 points the team starts with. The coach also has the option to keep the quizzer out of the quiz and keep the 20 points but must notify the quizmaster at the beginning of the quiz of their decision.
+If any number of members of a team is late, the quiz will start on time.
+
+Prior to the start of a quiz, if not all quizzers are in the room, 1 of 2 options exist for the team's coach:
+
+1. Either the coach submits a lineup with the quizzer missing, which means the late-arriving quizzer cannot be subbed-in
+2. Or the coach submits a lineup with the quizzer added, tells all the officials and coaches the quizzer is late, and loses the 20 starting points
 
 ## 4. Quiz Events
 
@@ -481,7 +486,7 @@ If the quizmaster did not complete the reading of the question, the quizzer's an
 
 Only the 1st response of the quizzer will be considered; however, if the response by the quizzer is in context and is not incorrect, the quizzer will be allowed their full question answer duration period to satisfy all requirements of a correct response.
 
-A quizzed-out quizzer may only jump on Bonus questions.
+A quizzed-out quizzer may only jump on bonus questions.
 
 #### 4.2.4. Incorrect
 
@@ -497,11 +502,11 @@ An err-out eliminates that quizzer from the quiz. The quizzer must leave the pla
 
 Challenges exist so quizzers can contest rulings made by quiz officials. The team captain or co-captain may challenge if:
 
-- There is reason to believe the quiz officials have applied the rule book incorrectly
+- The quiz officials have applied the rule book incorrectly
 - The quizmaster mispronounced a word
 - The question is invalid
 
-A challenge must be made at the time of the quizmaster's decision and before the next question's type is made known. If a timeout is called immediately after a ruling, and a quizzer stands to challenge, the challenge may be conducted prior to the timeout.
+A challenge must be made at the time of the quizmaster's decision and before the quizmaster makes known the next question's type. If a timeout is called immediately after a ruling, and a quizzer stands to challenge, the challenge may be conducted prior to the timeout.
 
 No conferring is allowed between the quizzer challenging and anyone else. Conferring with anyone else prior to a challenge will result in:
 
@@ -515,7 +520,7 @@ The result of a challenge may not be challenged.
 If the challenge is accepted:
 
 - Points or error points that reflect the new ruling of the judge will be recorded.
-- A new question of the same number will be given if the question is ruled illegal.
+- A new question of the same number will be given if the outcome of the challenge dictates the question needs to be redone.
 
 When a challenge is made, the quizmaster must give each team's captain or co-captain an opportunity to speak to the challenge before making a ruling on the challenge. Whichever team is being challenged against will have the right to speak last.
 
@@ -526,7 +531,7 @@ Coaches, including assistant coaches, of the teams participating in a quiz may p
 - When a coach feels a logistical rule has been broken by the quiz officials
 - When a coach feels a ruling on a challenge is incorrect
 
-The protest must apply to the question or ruling that just occurred. The protest must be placed before the next question's type is made known. If a protest is launched after question number 20 is completed it must be done immediately after the ruling is announced.
+The protest must apply to the question or ruling that just occurred. The protest must be placed before the quizmaster makes known the next question's type. If a protest is launched after question number 20 is completed it must be done immediately after the ruling is announced.
 
 The coach may only confer with their assistant coach and substitute quizzer, before protesting.
 
@@ -537,7 +542,7 @@ The quiz officials and quiz team coaches will meet privately and attempt to come
 A foul is a penalty called by a quiz official against a quizzer or team for conduct that breaks the text of spirit of the rules.
 
 - Fouls may be called by any quiz official actively involved in the current quiz.
-- A foul must be called before the quizmaster makes known next question's type.
+- A foul must be called before the quizmaster makes known the next question's type.
 
 The quizzer upon whom a foul is called becomes ineligible to jump on that question number, including any alphanumeric question numbers. The chair remains ineligible to jump on that question number, including any alphanumeric question numbers, even if the quizzer who committed the foul is substituted for.
 
@@ -550,7 +555,7 @@ The following are fouls:
 - Team members, whether quizzers or coaches, communicating with each other, other teams, or with the audience between the time the question type is introduced and points are awarded; communication can include non-verbal communication
 - The use of the hands to assist in jumping; hands may not touch any part of the chair or the floor from the time "Question" is called until the quizmaster recognizes the 1st quizzer to jump
 - If any light goes on after the quizmaster calls "Question" and before they begin to discernibly read the question; discernibly includes the quizmaster's mouth forming a word shape
-- During a Reference or Quote question, if any light goes on after the quizmaster calls "Question" and before they begin to discernibly read the chapter number
+- During a reference or quote question, if any light goes on after the quizmaster calls "Question" and before they begin to discernibly read the chapter number
 - Starting to answer before being recognized by the quizmaster
 - Having more than the designated team members, 1 coach, and 1 assistant coach on the quiz platform during a timeout
 - If a captain or co-captain confers with their coach or other quizzers prior to issuing a challenge; in addition, the challenge will not be allowed
@@ -591,8 +596,8 @@ All points that occur during a bonus question or during overtime do not contribu
 
 ##### 5.1.1.2. Points Deducted
 
-- -10 points for 2nd and subsequent personal errors
-- -10 points for 3rd personal foul
+- -10 points for 2nd and subsequent individual errors
+- -10 points for 3rd individual foul
 
 #### 5.1.2. Team Points
 
@@ -804,7 +809,7 @@ Notification by each district of its intention to enter a team must be received 
 
 ### 7.4. Selection of Officials
 
-IBQ officials may include quizmasters, answer judges, scorekeepers, statisticians, and a meet director. IBQ officials will be appointed by the CQLT. To be considered for the CQLT appointment, all officials must:
+IBQ officials may include quizmasters, answer judges, scorekeepers, statisticians, and a meet director. IBQ officials will be appointed by the CQLT. To be considered for the CQLT appointment, all officials should:
 
 - Be a regular church attender
 - Have 3 seasons of district quizmastering experience and be recommended by their district office or quiz committee
