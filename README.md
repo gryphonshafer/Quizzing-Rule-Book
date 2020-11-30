@@ -10,7 +10,23 @@ This project is the content, meta-documents, and tooling for the creation and on
 - Selecting portions of content based on situational applicability
 - Describing software specifications for scoring and other objective algorithms and configuration settings
 
-## Links to Things
+## Links to Auto-Built Documents
+
+- Rule Book
+    - Minimalist Version
+        - [Markdown](build/rule_book_min.md)
+        - [HTML](build/rule_book_min.html)
+        - [PDF](build/rule_book_min.pdf)
+    - Full-Content Version
+        - [Markdown](build/rule_book_full.md)
+        - [HTML](build/rule_book_full.html)
+        - [PDF](build/rule_book_full.pdf)
+- Best Practices
+    - [HTML](build/best_practices.html)
+    - [PDF](build/best_practices.pdf)
+- [Combined Governance Documents as a PDF](build/governance.pdf)
+
+## Links to Source Documents
 
 - Content
     - [Rule Book Index](content/rule_book/index.md)

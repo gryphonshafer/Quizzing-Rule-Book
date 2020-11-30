@@ -8,9 +8,9 @@ The following are best practices.
 
 ## Quizmaster
 
-The Quizmaster should:
+The quizmaster should:
 
-- Be thoroughly acquainted with all rules, procedures, and material of that quiz year.
+- Be thoroughly acquainted with all rules, procedures, and material of that quiz season.
 - Be impartial and render decisions consistently.
 - See that all officials are briefed regarding rules and procedures.
 - Read at a normal conversation rate. Hesitating or reading too quickly must be avoided since either may cause inaccurate quizzing.
@@ -29,7 +29,7 @@ The Quizmaster should:
 - Must be strong enough to stand on its own without requiring additional verses to explain it.
 - Must be spiritually significant and significant to the chapter.
 
-### Finish-these-Two-Verses/Quote-these-Two-Verses
+### Finish 2 Verses/Quote 2 Verses
 
 - Should be verses that make more sense when quoted together.
 
@@ -37,17 +37,17 @@ The Quizmaster should:
 
 Example: Gal 5:22-23
 
-### Finish-This / Finish-This-and-the-Next
+### Finish This/Finish This and the Next
 
-FTV questions should not start out with an insignificant introduction such as "He replied" or "He said to them". These verses, if spiritually significant, should be used as FT or FTN type questions. For example, Luke 11:28 says, He replied, "Blessed rather are those who hear the word of God and obey it." This verse could be used as an excellent FT question starting with "Blessed rather are those who...".
+FTV questions should not start with an insignificant introduction such as "He replied" or "He said to them". These verses, if spiritually significant, should be used as FT or FTN type questions. For example, Luke 11:28 says, He replied, "Blessed rather are those who hear the word of God and obey it." This verse could be used as an excellent FT question starting with "Blessed rather are those who...".
 
 ## Situation
 
-Situation Quotations must be reasonable in length.
+Situation quotations must be reasonable in length.
 
 ## Overtime
 
-If the score in overtime is such that the final placements are decided, the current set of three overtime questions does not have to be completed.
+If the score in overtime is such that the final placements are decided, the current set of 3 overtime questions does not have to be completed.
 
 ### Example
 

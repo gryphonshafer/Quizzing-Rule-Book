@@ -20,7 +20,7 @@ During the initial version development of this project, all changes will be made
 3. Discussion, debate, and revisions to the PR happen all within GitHub's PR system
 4. PR authors will resolve comment threads after:
     - When at least 1 other developer agrees with the PR author or 2 developers agree with each other, which will overrule the PR author
-    - The PR author has writen changes to the PR such that the comment thread's end-state vector is addressed
+    - The PR author has written changes to the PR such that the comment thread's end-state vector is addressed
 5. The PR is merged to `master` when any of the following is true:
     - 1 developer other than the author agrees with the change and there are no disagreements from the other developers after 1 week from PR submission
     - 2 developers other than the author agree with the change
@@ -51,18 +51,10 @@ Following the conclusion of phase 3, Gryphon will make available a ratification 
 
 During phase 4, anyone may provide feedback on the phase 4 PR. All feedback should be made in the form of comments on the PR on GitHub as this assures us of universal public transparency. The 4 developers will respond to this feedback as they did for phase 3 feedback. The deadline for filing comments will be 3 calendar months from the date phase 4 began.
 
-When a *district's coordinator* (DC) confirms to his or her satisfaction that the PDF represents FE to the current rule book, that DC will notify Zachary of his or her district's ratification of the PDF. Once Zachary receives ratification notification from over 66% of the "active" districts, then phase 4 is complete. The deadline for receiving votes from DCs will be 1 month after the deadline for filing comments. Any "active" district not casting a vote by this deadline will be considered "inactive" for the purposes of this vote. Any DC voting against ratification will be required to provide one or more explicit reasons for their vote.
+When a *district's coordinator* (DC) confirms to his or her satisfaction that the PDF represents FE to the current rule book, that DC will notify Zachary of his or her district's ratification of the PDF. Once Zachary receives ratification notification from over 66% of the "active" districts, then phase 4 is complete. The deadline for receiving votes from DCs will be 1 month after the deadline for filing comments. Any "active" district not casting a vote by this deadline will be considered "inactive" for the purposes of this vote. Any DC voting against ratification will be required to provide 1 or more explicit reasons for their vote.
 
 At this point, the PDF will be ratified but not implemented. It will be at the CQLT's sole discretion as to when to implement the PDF as the rule book for *International Bible Quizzing* (IBQ). It will be at each district's sole discretion as to when to implement the PDF as the rule book for their district programs.
 
 ## Phase 5: Ongoing Change Management
 
-This phase is the ongoing change management mechanism for this project indefinitely. This phase beings immediately after Zachary receives 11 or more district ratifications.
-
-For any changes in this phase, changes should be submitted as PRs in GitHub. These submissions can be from anyone. If someone has a change proposal but is daunted by GitHub PR management, they can contact any of the 4 original developers who can offer assistance as they are able.
-
-Submitted PRs will be in an open review period of 3 months, during which time they can be discussed and debated by anyone. At the conclusion of the 3 months, a simple majority of the 6 quizzing members of the CQLT shall ratify or dismiss the PR. The CQLT may appoint a standing rules committee to whom ratification responsibility can be delegated. In that case, a simple majority of the standing rules committee is sufficient for PR ratification.
-
-Submitted PRs that are ratified will be merged to an `integration` branch, not `master`.
-
-During or immediately following each IBQ, the `integration` branch will be merged to `master`. Whatever is in `master` will be considered the rule book and supporting documentation for the upcoming IBQ. No changes to `master` are allowed except for this single annual merge from `integration`.
+This phase is the ongoing change management mechanism for this project indefinitely. This phase beings immediately after Zachary receives 11 or more district ratifications. See the [change management document in the rule book](../content/rule_book/change_management.md) for details.

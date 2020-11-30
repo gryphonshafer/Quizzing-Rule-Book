@@ -8,15 +8,16 @@ default:
             - roles_and_responsibilities.md
             - quiz_process.md
             - quiz_events.md
+            - scoring.md
             - quiz_meets.md
             - internationals.md
             - change_management.md
-        levels:
-            - application
-            - commentary
-            - example
+        special_sections_block: Special Sections
+        special_sections:
+            - terms
             - examples
-            - scoring
+            - commentary
+            - logic
     table_data_tests:
         material_style:
             - [ 'Romans', 'Epistle'   ]
@@ -30,4 +31,20 @@ default:
             - 1 Corinthians, 2 Corinthians
             - John
             - Hebrews, 1 Peter, 2 Peter
+    build:
+        dir: build
+        builds:
+            - output: rule_book_full
+              docs: rule_book
+              type: [ pdf, html, md ]
+            - output: rule_book_min
+              docs: rule_book
+              filter: all
+              type: [ pdf, html, md ]
+            - output: best_practices
+              docs: best_practices
+              type: [ pdf, html ]
+            - output: governance
+              docs: governance
+              type: pdf
 optional_include: local/config.yaml

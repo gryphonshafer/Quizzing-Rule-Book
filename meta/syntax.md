@@ -1,12 +1,12 @@
 # Document Syntax
 
-The following document describes and demonstrates how to use document syntax. Document syntax is a subset of MultiMarkdown. Unless explicitly stated, all syntax within this document is supported. Only what is specified in this document is supported. Generally speaking, paragraphs should be written without line breaks and separated by two line breaks (resulting in a single empty line).
+The following document describes and demonstrates how to use document syntax. Document syntax is a subset of MultiMarkdown. Unless explicitly stated, all syntax within this document is supported. Only what is specified in this document is supported. Generally speaking, paragraphs should be written without line breaks and separated by 2 line breaks (resulting in a single empty line).
 
 A back-tick is a `. Back-ticks are used in the source of this document to render code for a given markup. Do not use back-ticks in the document.
 
 ## Text Emphasis
 
-Emphasis, italics, words are written with *single asterisks*. (`*single asterisks*`).
+Emphasis, italics, words are written with single asterisks. (`single asterisks`).
 
 Strong emphasis, bold, words are written with **double asterisks**. (`**double asterisks**`)
 
@@ -14,7 +14,7 @@ Combined emphasis and strong emphasis can be done with with ***triple asterisks*
 
 ## Lists
 
-Lists should always be simple bullet lists, constructed with dashes, `-` as the first character.
+Lists should always be simple bullet lists, constructed with dashes, `-` as the 1st character.
 
 - All lists should begin with no indentation
 - There should always be multiple items in a list
@@ -62,15 +62,15 @@ The syntax for which is (with `\n` representing a line break):
 
 ## English-Script
 
-English-Script (or English::Script) is a strict subset of simple English that can be used to stipulate rules in human-readable English that can be converted into software code. All English-Script lines should be indented a factor of 4 spaces (i.e. 4, 8, 12, etc.). For example:
+English-Script (or English::Script) is a strict subset of simple English that can be used to stipulate rules in human-readable English that can be converted into software code. All English-Script lines should be indented using intent spacing of 4 spaces per indent. For example:
 
     Set prime to 3.
     Set the special prime value to 3.
     Set the answer to 123,456.78.
 
     If the question type is "INT" then apply the following block.
-        If the jumped quizzer correct sum is 4, then set the jumped quizzer quiz out to true.
-        Set the alert message to "Quiz out!"
+        If the jumped quizzer correct sum is 4, then set the jumped quizzer quiz-out to true.
+        Set the alert message to "Quiz Out!"
     This is the end of the block.
 
 **Use indented code *only* for English-Script.** For a complete set of English-Script grammar: <https://metacpan.org/pod/English::Script#DEFAULT-GRAMMAR>
@@ -79,7 +79,7 @@ English-Script (or English::Script) is a strict subset of simple English that ca
 
 `# Header 1 Example`
 
-Header 1 are used for section titles. Section titles in the current document are large, blue, and bold with a red horizontal rule underneath. There should only ever be 1 "Header 1" per document, and it should always be the document's first line and represent it's title. Note that filenames should always be the header in full lower-case with spaces replaced with underscores and an `.md` extension.
+Header 1 are used for section titles. Section titles in the current document are large, blue, and bold with a red horizontal rule underneath. There should only ever be 1 "Header 1" per document, and it should always be the document's 1st line and represent it's title. Note that filenames should always be the header in full lower-case with spaces replaced with underscores and an `.md` extension.
 
 `## Header 2 Example`
 
