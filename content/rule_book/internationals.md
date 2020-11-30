@@ -27,7 +27,7 @@ Notification by each district of its intention to enter a team must be received 
 
 ## Selection of Officials
 
-IBQ officials may include quizmasters, answer judges, scorekeepers, statisticians, and a meet director. IBQ officials will be appointed by the CQLT. To be considered for the CQLT appointment, all officials must:
+IBQ officials may include quizmasters, answer judges, scorekeepers, statisticians, and a meet director. IBQ officials will be appointed by the CQLT. To be considered for the CQLT appointment, all officials should:
 
 - Be a regular church attender
 - Have 3 seasons of district quizmastering experience and be recommended by their district office or quiz committee
