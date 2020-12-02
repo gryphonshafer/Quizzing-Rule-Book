@@ -136,13 +136,13 @@
 </section><section><h2 id="versioninformation">Version Information</h2>
 
 <ul>
-<li>This document was built on: 2020-12-02 02:22:13 GMT</li>
-<li>This document's version is: 3d8b46ae573347ddbbd70c081348b935c086adc8</li>
+<li>This document was built on: 2020-12-02 22:59:07 GMT</li>
+<li>This document's version is: 05e9d77a29abfc62337e1ffe648d0931055cfc2e</li>
 </ul>
 
 <p>You can download this document from:</p>
 
-<p><a href="https://github.com/gryphonshafer/Quizzing-Rule-Book/raw/3d8b46a/build/rule_book_min.html">https://github.com/gryphonshafer/Quizzing-Rule-Book/raw/3d8b46a/build/rule_book_min.html</a></p>
+<p><a href="https://github.com/gryphonshafer/Quizzing-Rule-Book/raw/05e9d77/build/rule_book_min.html">https://github.com/gryphonshafer/Quizzing-Rule-Book/raw/05e9d77/build/rule_book_min.html</a></p>
 
 </section><section><h2 id="materialandquestions">1. Material and Questions</h2>
 
@@ -1215,17 +1215,56 @@
 
 </section><section><h2 id="changemanagementprocess">8. Change Management Process</h2>
 
-<p>The Bible Quizzing Rule Book and all associated subordinate documentation are open for amendment by anyone. This describes the process for those changes and how the documents will be managed for annual <em>International Bible Quizzing</em> (IBQ) championship meets.</p>
-
-<p>The rule book source material is written as a series of highly-structured Markdown files that can be used to automatically generate consumable content in a desired form. These source files along with supporting documentation and tooling are maintained in a public GitHub project:</p>
+<p>This rule book and all associated subordinate documentation, data files, configuration files, software, and other files contained within a GitHub project are open for amendment by anyone. The GitHub project is:</p>
 
 <p><a href="https://github.com/gryphonshafer/Quizzing-Rule-Book">https://github.com/gryphonshafer/Quizzing-Rule-Book</a></p>
 
-<p>For any proposed changes, the content change should be submitted as a <em>pull request</em> (PR) to this project. These submissions can be from anyone. If someone has a change proposal but is daunted by GitHub PR handling, they can contact the project's owner or anyone else for assistance.</p>
+<p>This is the management process for those changes and how the documents will be managed for annual <em>International Bible Quizzing</em> (IBQ) championship meets.</p>
 
-<p>Submitted PRs will be in an open review period for 3 calendar months from the date they are submitted, during which time they can be discussed and debated by anyone using the comment features on GitHub.</p>
+</section><section><h3 id="issuesubmission">8.1. Issue Submission</h3>
 
-<p>At the conclusion of the 3 months, a simple majority of the 6 quizzing members of the CQLT shall ratify or dismiss the PR. The CQLT may appoint a standing rules committee to whom ratification responsibility can be delegated. In that case, a simple majority of the standing rules committee is sufficient for PR ratification.</p>
+<p>Proposed changes should be submitted as an "Issue" to the GitHub project.</p>
 
-<p>Submitted PRs that are ratified will be merged to an <code>integration</code> branch. Immediately following each IBQ, the <code>integration</code> branch will be merged to <code>master</code>. Whatever is in <code>master</code> will be considered the rule book and supporting documentation for the upcoming IBQ. No changes to <code>master</code> are allowed except for this single annual merge from <code>integration</code>.</p>
+<p><a href="https://github.com/gryphonshafer/Quizzing-Rule-Book/issues/new">https://github.com/gryphonshafer/Quizzing-Rule-Book/issues/new</a></p>
+
+<p>Submitted issues will contain:</p>
+
+<ul>
+<li>A short but fully descriptive title</li>
+<li>A description that includes:
+<ul>
+<li>Reference to the section or sections to be amended</li>
+<li>Proposed amendments to the section or sections</li>
+<li>Rationale for the changes</li>
+</ul></li>
+</ul>
+
+</section><section><h3 id="issuereviewandopendiscussion">8.2. Issue Review and Open Discussion</h3>
+
+<p>Everyone is invited to review and discuss submitted issues, adding comments to them to futher the discussion. An authorized <em>Rules Committee</em> (RC) will review each submitted issue for quality, appropriateness, integrational impact, and other factors. The RC will add comments on the issue as necessary to improve or solicit improvements upon any area the RC feels is needed.</p>
+
+<p>The RC will review all open issues at least every 3 months and will by a simple majority vote decide if each issue is ready for progression, needs to remain in discussion, or should be closed without futher action. If an issue is deemed ready for progression, the RC will see that a <em>pull request</em> (PR) is created and the issue closed. The PR will be constructed against the <code>integration</code> branch of the project.</p>
+
+</section><section><h3 id="integrationpullrequests">8.3. Integration Pull Requests</h3>
+
+<p>PRs to the <code>integration</code> branch will be in an open review period for 3 calendar months from the date they are created, during which time they can be discussed and debated by anyone using the comment features on GitHub. At the conclusion of the 3 months, a simple majority of RC will approve or reject the PR. An approved PR will be immediately merged to the <code>integration</code> branch.</p>
+
+</section><section><h3 id="annualcqltratification">8.4. Annual CQLT Ratification</h3>
+
+<p>Annually, the CQLT will review a PR of the <code>integration</code> branch merged to the <code>master</code> branch. A simple majority of the CQLT will ratify or reject the PR. When ratified, the PR will be merged to <code>master</code> immediately following that season's IBQ. Whatever is in <code>master</code> will be considered the rule book and supporting documentation for the upcoming IBQ.</p>
+
+</section><section><h3 id="changestothemasterbranch">8.5. Changes to the Master Branch</h3>
+
+<p>No changes to <code>master</code> are allowed except for:</p>
+
+<ul>
+<li>The single annual merge from <code>integration</code></li>
+<li>Non-functional changes such as:
+<ul>
+<li>Punctuation</li>
+<li>Formatting</li>
+<li>Grammar</li>
+<li>Fixes any uncaught automated test failures</li>
+</ul></li>
+</ul>
 </section></body></html>
