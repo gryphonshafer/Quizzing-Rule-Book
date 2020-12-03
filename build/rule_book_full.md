@@ -6,12 +6,12 @@ This is the official rule book for Bible Quizzing, which represents what will be
 
 ## Version Information
 
-- This document was built on: 2020-12-02 22:59:07 GMT
-- This document's version is: 05e9d77a29abfc62337e1ffe648d0931055cfc2e
+- This document was built on: 2020-12-03 04:07:10 GMT
+- This document's version is: a8fbf7d8078dbe338fc89453c77187d99342818d
 
 You can download this document from:
 
-[https://github.com/gryphonshafer/Quizzing-Rule-Book/raw/05e9d77/build/rule_book_full.md](https://github.com/gryphonshafer/Quizzing-Rule-Book/raw/05e9d77/build/rule_book_full.md)
+[https://github.com/gryphonshafer/Quizzing-Rule-Book/raw/a8fbf7d/build/rule_book_full.md](https://github.com/gryphonshafer/Quizzing-Rule-Book/raw/a8fbf7d/build/rule_book_full.md)
 
 ## Special Sections
 
@@ -1347,9 +1347,9 @@ Submitted issues will contain:
 
 ### 8.2. Issue Review and Open Discussion
 
-Everyone is invited to review and discuss submitted issues, adding comments to them to futher the discussion. An authorized *Rules Committee* (RC) will review each submitted issue for quality, appropriateness, integrational impact, and other factors. The RC will add comments on the issue as necessary to improve or solicit improvements upon any area the RC feels is needed.
+Everyone is invited to review and discuss submitted issues, adding comments to them to further the discussion. An authorized *Rules Committee* (RC) will review each submitted issue for quality, appropriateness, integrational impact, and other factors. The RC will add comments on the issue as necessary to improve or solicit improvements upon any area the RC feels is needed.
 
-The RC will review all open issues at least every 3 months and will by a simple majority vote decide if each issue is ready for progression, needs to remain in discussion, or should be closed without futher action. If an issue is deemed ready for progression, the RC will see that a *pull request* (PR) is created and the issue closed. The PR will be constructed against the `integration` branch of the project.
+The RC will review all open issues at least every 3 months and will by a simple majority vote decide if each issue is ready for progression, needs to remain in discussion, or should be closed without further action. In all cases, the RC should at minimum provide a summary status explanation comment on every issue it reviews. If an issue is deemed ready for progression, the RC will see that a *pull request* (PR) is created and the issue closed. The PR will be constructed against the `integration` branch of the project.
 
 ### 8.3. Integration Pull Requests
 
@@ -1368,5 +1368,9 @@ No changes to `master` are allowed except for:
     - Punctuation
     - Formatting
     - Grammar
-    - Fixes any uncaught automated test failures
+    - Fixes for automated test failures
+
+### 8.6. Change Notification from GitHub
+
+It's highly recommended anyone interested in following or participating in any rule book discussions or for those who would like to be notified when new rule book versions are published should "Watch" the GitHub project by clicking the "Watch" button near the upper right of the project's home page and selecting the desired watch level.
 
