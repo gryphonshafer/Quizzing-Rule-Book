@@ -22,9 +22,9 @@ Submitted issues will contain:
 
 ## Issue Review and Open Discussion
 
-Everyone is invited to review and discuss submitted issues, adding comments to them to futher the discussion. An authorized *Rules Committee* (RC) will review each submitted issue for quality, appropriateness, integrational impact, and other factors. The RC will add comments on the issue as necessary to improve or solicit improvements upon any area the RC feels is needed.
+Everyone is invited to review and discuss submitted issues, adding comments to them to further the discussion. An authorized *Rules Committee* (RC) will review each submitted issue for quality, appropriateness, integrational impact, and other factors. The RC will add comments on the issue as necessary to improve or solicit improvements upon any area the RC feels is needed.
 
-The RC will review all open issues at least every 3 months and will by a simple majority vote decide if each issue is ready for progression, needs to remain in discussion, or should be closed without futher action. If an issue is deemed ready for progression, the RC will see that a *pull request* (PR) is created and the issue closed. The PR will be constructed against the `integration` branch of the project.
+The RC will review all open issues at least every 3 months and will by a simple majority vote decide if each issue is ready for progression, needs to remain in discussion, or should be closed without further action. In all cases, the RC should at minimum provide a summary status explanation comment on every issue it reviews. If an issue is deemed ready for progression, the RC will see that a *pull request* (PR) is created and the issue closed. The PR will be constructed against the `integration` branch of the project.
 
 ## Integration Pull Requests
 
@@ -43,4 +43,8 @@ No changes to `master` are allowed except for:
     - Punctuation
     - Formatting
     - Grammar
-    - Fixes any uncaught automated test failures
+    - Fixes for automated test failures
+
+## Change Notification from GitHub
+
+It's highly recommended anyone interested in following or participating in any rule book discussions or for those who would like to be notified when new rule book versions are published should "Watch" the GitHub project by clicking the "Watch" button near the upper right of the project's home page and selecting the desired watch level.
