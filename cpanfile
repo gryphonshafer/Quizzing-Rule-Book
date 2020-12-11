@@ -5,7 +5,6 @@ requires 'English::Script', '>= 1.03';
 requires 'exact', '>= 1.13';
 requires 'exact::cli', '>= 1.03';
 requires 'exact::conf', '>= 1.03';
-requires 'File::Basename';
 requires 'Mojolicious', '>= 8.59';
 requires 'PDF::WebKit', '>= 1.2';
 requires 'Test::EOL';

@@ -1,7 +1,6 @@
 #!/usr/bin/env perl
 use exact -cli, -conf;
 use Date::Format 'time2str';
-use File::Basename qw( dirname basename );
 use Mojo::File 'path';
 use PDF::WebKit;
 use Text::MultiMarkdown 'markdown';
@@ -98,7 +97,7 @@ sub output ($opt) {
                 opendir( my $dir, $prefix_dir );
 
                 [
-                    '# ' . join( ' ', map { ucfirst } split( /\s+/, lc basename $_ ) ) . "\n\n",
+                    '# ' . join( ' ', map { ucfirst } split( /\s+/, lc path($_)->basename ) ) . "\n\n",
                     [ map { $prefix_dir . '/' . $_ } sort grep { substr( $_, 0, 1 ) ne '.' } readdir($dir) ],
                 ];
             }
@@ -111,11 +110,14 @@ sub output ($opt) {
 }
 
 sub build ( $file, $level = 0 ) {
-    my $md  = path($file)->slurp;
-    my $dir = dirname($file);
+    my $path = path($file);
+    my $md   = $path->slurp;
 
     $md =~ s/^(\s*)(#+)/$1-$2/mg unless ($level);
-    $md =~ s/^([ \t]*\-\s*\[[^\]]*\]\()([^\)]+)(\)[ \t]*)$/ sub_file( $1, $2, $3, $dir, $level ) /mge;
+    $md =~ s/^([ \t]*\-\s*\[[^\]]*\]\()([^\)]+)(\)[ \t]*)$/
+        sub_file( $1, $2, $3, $path->dirname, $level );
+    /mge;
+
     return $md;
 }
 
@@ -134,7 +136,10 @@ sub sub_file ( $pre, $file, $post, $dir, $level = 0 ) {
 }
 
 sub generate ( $output, $opt, $header ) {
-    $params->{build_file} = Mojo::File->new( $opt->{output} )->to_rel($root_dir);
+    my $out_file = Mojo::File->new( $opt->{output} );
+    $out_file->dirname->make_path;
+
+    $params->{build_file} = $out_file->to_rel($root_dir);
 
     my %header_level;
     my $headers = sub ($level) {
@@ -188,7 +193,7 @@ sub generate ( $output, $opt, $header ) {
 
                     a {
                         text-decoration : none;
-                        color           : black;
+                        color           : blue;
                     }
                 }
             },

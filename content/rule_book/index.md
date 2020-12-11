@@ -11,7 +11,7 @@ This is the official rule book for Bible Quizzing, which represents what will be
 
 You can download this document from:
 
-[https://github.com/gryphonshafer/Quizzing-Rule-Book/raw/[[build_version_short]]/[[build_file]]](https://github.com/gryphonshafer/Quizzing-Rule-Book/raw/[[build_version_short]]/[[build_file]])
+[https://github.com/gryphonshafer/Quizzing-Rule-Book/releases/download/[[build_version_short]]/[[build_file]]](https://github.com/gryphonshafer/Quizzing-Rule-Book/releases/download/[[build_version_short]]/[[build_file]])
 
 ## Special Sections
 
