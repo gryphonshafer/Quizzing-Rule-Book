@@ -139,7 +139,7 @@ sub generate ( $output, $opt, $header ) {
     my $out_file = Mojo::File->new( $opt->{output} );
     $out_file->dirname->make_path;
 
-    $params->{build_file} = $out_file->to_rel($root_dir);
+    $params->{build_file} = $out_file->basename;
 
     my %header_level;
     my $headers = sub ($level) {

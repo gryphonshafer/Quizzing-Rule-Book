@@ -7,7 +7,7 @@ This is the official rule book for Bible Quizzing, which represents what will be
 ## Version Information
 
 - This document was built on: [[build_date]]
-- This document's version is: [[build_version]]
+- This document's version is: [[build_version_short]]
 
 You can download this document from:
 
