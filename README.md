@@ -1,7 +1,7 @@
 # Bible Quizzing Rule Book
 
 [![test](https://github.com/gryphonshafer/Quizzing-Rule-Book/workflows/test/badge.svg)](https://github.com/gryphonshafer/Quizzing-Rule-Book/actions?query=workflow%3Atest)
-[![build](https://github.com/gryphonshafer/Quizzing-Rule-Book/workflows/build/badge.svg)](https://github.com/gryphonshafer/Quizzing-Rule-Book/actions?query=workflow%3Abuild)
+[![release](https://github.com/gryphonshafer/Quizzing-Rule-Book/workflows/release/badge.svg)](https://github.com/gryphonshafer/Quizzing-Rule-Book/actions?query=workflow%3Arelease)
 [![codecov](https://codecov.io/gh/gryphonshafer/Quizzing-Rule-Book/graph/badge.svg)](https://codecov.io/gh/gryphonshafer/Quizzing-Rule-Book)
 
 This project is the content, meta-documents, and tooling for the creation and ongoing rewriting and maintenance of a Bible Quizzing rule book. Content is consumed by software for a variety of purposes:
@@ -14,17 +14,17 @@ This project is the content, meta-documents, and tooling for the creation and on
 
 - Rule Book
     - Minimalist Version
-        - [Markdown](build/rule_book_min.md)
-        - [HTML](build/rule_book_min.html)
-        - [PDF](build/rule_book_min.pdf)
+        - [Markdown](releases/latest/download/rule_book_min.md)
+        - [HTML](releases/latest/download/rule_book_min.html)
+        - [PDF](releases/latest/download/rule_book_min.pdf)
     - Full-Content Version
-        - [Markdown](build/rule_book_full.md)
-        - [HTML](build/rule_book_full.html)
-        - [PDF](build/rule_book_full.pdf)
+        - [Markdown](releases/latest/download/rule_book_full.md)
+        - [HTML](releases/latest/download/rule_book_full.html)
+        - [PDF](releases/latest/download/rule_book_full.pdf)
 - Best Practices
-    - [HTML](build/best_practices.html)
-    - [PDF](build/best_practices.pdf)
-- [Combined Governance Documents as a PDF](build/governance.pdf)
+    - [HTML](releases/latest/download/best_practices.html)
+    - [PDF](releases/latest/download/best_practices.pdf)
+- [Combined Governance Documents as a PDF](releases/latest/download/governance.pdf)
 
 ## Links to Source Documents
 
