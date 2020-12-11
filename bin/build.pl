@@ -169,6 +169,11 @@ sub generate ( $output, $opt, $header ) {
                         margin-top    : 0.2em;
                         margin-bottom : 0.2em;
                     }
+
+                    a {
+                        text-decoration : none;
+                        color           : black;
+                    }
                 }
             },
             pdf => q{
@@ -179,6 +184,11 @@ sub generate ( $output, $opt, $header ) {
                         margin-right  : 0em;
                         margin-top    : 0em;
                         margin-bottom : 0em;
+                    }
+
+                    a {
+                        text-decoration : none;
+                        color           : black;
                     }
                 }
             },
