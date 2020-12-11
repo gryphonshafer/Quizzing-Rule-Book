@@ -43,7 +43,7 @@ No changes to `master` are allowed except for:
     - Punctuation
     - Formatting
     - Grammar
-    - Fixes for automated test failures
+    - Technological
 
 ## Change Notification from GitHub
 
