@@ -14,17 +14,17 @@ This project is the content, meta-documents, and tooling for the creation and on
 
 - Rule Book
     - Minimalist Version
-        - [Markdown](releases/latest/download/rule_book_min.md)
-        - [HTML](releases/latest/download/rule_book_min.html)
-        - [PDF](releases/latest/download/rule_book_min.pdf)
+        - [Markdown](../../releases/latest/download/rule_book_min.md)
+        - [HTML](../../releases/latest/download/rule_book_min.html)
+        - [PDF](../../releases/latest/download/rule_book_min.pdf)
     - Full-Content Version
-        - [Markdown](releases/latest/download/rule_book_full.md)
-        - [HTML](releases/latest/download/rule_book_full.html)
-        - [PDF](releases/latest/download/rule_book_full.pdf)
+        - [Markdown](../../releases/latest/download/rule_book_full.md)
+        - [HTML](../../releases/latest/download/rule_book_full.html)
+        - [PDF](../../releases/latest/download/rule_book_full.pdf)
 - Best Practices
-    - [HTML](releases/latest/download/best_practices.html)
-    - [PDF](releases/latest/download/best_practices.pdf)
-- [Combined Governance Documents as a PDF](releases/latest/download/governance.pdf)
+    - [HTML](../../releases/latest/download/best_practices.html)
+    - [PDF](../../releases/latest/download/best_practices.pdf)
+- [Combined Governance Documents as a PDF](../../releases/latest/download/governance.pdf)
 
 ## Links to Source Documents
 
