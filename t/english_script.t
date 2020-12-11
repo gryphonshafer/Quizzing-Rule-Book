@@ -21,14 +21,23 @@ lives_ok(
                 my $file = $_;
                 Mojo::DOM->new(
                     markdown( path("$rule_book_dir/$file")->slurp )
-                )->find('pre code')->map( sub {
-                    my $node    = $_->parent;
-                    $node       = $node->previous while ( $node and $node->tag and $node->tag !~ /^h\d$/ );
+                )->find('pre code')->map( sub ($code) {
+                    my $node = $code->parent;
+                    $node    = $node->previous while ( $node and $node->tag and $node->tag !~ /^h\d$/ );
 
                     {
                         file   => $file,
-                        header => ( ( $node and $node->text ) ? $node->text : 'Untitled' ),
-                        block  => $_->text,
+                        block  => $code->text,
+                        header => (
+                            $code->parent->preceding(
+                                'h' . (
+                                    substr(
+                                        $code->parent->preceding('h1, h2, h3, h4, h5, h6')->last->tag,
+                                        1,
+                                    ) - 1
+                                )
+                            )->last->text
+                        ),
                     };
                 } );
             } )->grep( sub { $_->size } )->map( sub { @{ $_->to_array } } )->to_array
@@ -38,5 +47,18 @@ lives_ok(
 
 my $es = English::Script->new;
 lives_ok( sub { $es->parse( $_->{block} ) }, "code parse: $_->{file} -- $_->{header}" ) for (@$speak);
+
+is_deeply(
+    [ sort map { $_->{header} } @$speak ],
+    [
+        'Answer Duration',
+        'Readiness Bonus',
+        'Scoring',
+        'Team Points Calculation',
+        'Timeouts',
+        'Types of Quizzes',
+    ],
+    'code headers are as expected',
+);
 
 done_testing;
