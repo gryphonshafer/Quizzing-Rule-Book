@@ -65,6 +65,10 @@ sub output ($opt) {
     my $content_dir = $root_dir . '/' . conf->get('content_dir');
     return join( "\n",
         map {
+            s/\n{2,}$/\n/;
+            $_;
+        }
+        map {
             (ref)
                 ? $_->[0] . join( '', map {
                     my $md = build($_);
@@ -136,10 +140,14 @@ sub sub_file ( $pre, $file, $post, $dir, $level = 0 ) {
 }
 
 sub generate ( $output, $opt, $header ) {
-    my $out_file = Mojo::File->new( $opt->{output} );
-    $out_file->dirname->make_path;
-
-    $params->{build_file} = $out_file->basename;
+    if ( $opt->{output} ) {
+        my $out_file = Mojo::File->new( $opt->{output} );
+        $out_file->dirname->make_path;
+        $params->{build_file} = $out_file->basename;
+    }
+    else {
+        $params->{build_file} = 'build_file_example.html';
+    }
 
     my %header_level;
     my $headers = sub ($level) {
@@ -201,7 +209,7 @@ sub generate ( $output, $opt, $header ) {
 
         $this_header =~ s|(?=</style>)| $media_print->{ $opt->{type} } |e;
 
-        $output = $this_header . markdown($output) . '</body></html>';
+        $output = $this_header . markdown($output) . "</body></html>\n";
 
         $output =~ s|(<h\d[^\n]+)|</section><section>$1|g;
         $output =~ s|(</body></html>)|</section>$1|g;
@@ -224,7 +232,7 @@ sub generate ( $output, $opt, $header ) {
         path( $opt->{output} )->spurt($output);
     }
     else {
-        say $output;
+        print $output;
     }
 
     return;
