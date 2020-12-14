@@ -9,7 +9,7 @@ my $cwd = getcwd();
 chdir($root_dir);
 
 my $matcher = build_gitignore_matcher( [
-    '.git', map { s|^/|./|; $_ } split( "\n", path('.gitignore')->slurp )
+    './.git', map { s|^/|./|; $_ } split( "\n", path('.gitignore')->slurp )
 ] );
 
 exact->monkey_patch( 'Test::Portability::Files', maniread => sub {
