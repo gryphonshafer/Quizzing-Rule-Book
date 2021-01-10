@@ -1,4 +1,4 @@
-use Test::Most;
+use Test2::V0;
 use exact -conf;
 use Mojo::File 'path';
 

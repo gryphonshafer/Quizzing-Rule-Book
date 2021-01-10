@@ -1,4 +1,4 @@
-use Test::Most;
+use Test2::V0;
 use exact -conf;
 use English::Script;
 use Mojo::DOM;
@@ -13,8 +13,8 @@ my $rule_book_dir = join( '/', map { conf->get(@$_) } (
 
 my $speak;
 
-lives_ok(
-    sub {
+ok(
+    lives {
         $speak = Mojo::DOM
             ->new( markdown( path("$rule_book_dir/index.md")->slurp ) )
             ->find('a')->map( attr => 'href' )->grep( sub { not m|//| } )->map( sub {
@@ -43,12 +43,14 @@ lives_ok(
             } )->grep( sub { $_->size } )->map( sub { @{ $_->to_array } } )->to_array
     },
     'parse content for English-Script',
-);
+) or note $@;
 
 my $es = English::Script->new;
-lives_ok( sub { $es->parse( $_->{block} ) }, "code parse: $_->{file} -- $_->{header}" ) for (@$speak);
+for (@$speak) {
+    ok( lives { $es->parse( $_->{block} ) }, "code parse: $_->{file} -- $_->{header}" ) or note $@;
+}
 
-is_deeply(
+is(
     [ sort map { $_->{header} } @$speak ],
     [
         'Answer Duration',

@@ -1,15 +1,15 @@
 use Test::Portability::Files;
-use exact -conf;
 use Cwd 'getcwd';
 use Mojo::File 'path';
 use Text::Gitignore 'build_gitignore_matcher';
+use exact -conf;
 
 my $root_dir = conf->get( qw( config_app root_dir ) );
-my $cwd = getcwd();
+my $cwd = getcwd;
 chdir($root_dir);
 
 my $matcher = build_gitignore_matcher( [
-    './.git', map { s|^/|./|; $_ } split( "\n", path('.gitignore')->slurp )
+    '.git', map { s|^/|./|; $_ } split( "\n", path('.gitignore')->slurp )
 ] );
 
 exact->monkey_patch( 'Test::Portability::Files', maniread => sub {
@@ -36,5 +36,5 @@ options(
     test_windows_reserved => 1,
 );
 
-run_tests();
+run_tests;
 chdir($cwd);

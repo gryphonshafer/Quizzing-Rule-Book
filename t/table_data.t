@@ -1,4 +1,4 @@
-use Test::Most;
+use Test2::V0;
 use exact -conf;
 use Bible::Reference;
 use Mojo::DOM;
@@ -13,8 +13,8 @@ my $rule_book_dir = join( '/', map { conf->get(@$_) } (
 
 my $tables;
 
-lives_ok(
-    sub {
+ok(
+    lives {
         $tables = Mojo::DOM
             ->new( markdown( path("$rule_book_dir/index.md")->slurp ) )
             ->find('a')->map( attr => 'href' )->grep( sub { not m|//| } )->map( sub {
@@ -37,12 +37,12 @@ lives_ok(
             } )->grep( sub { $_->size } )->map( sub { @{ $_->to_array } } )->to_array
     },
     'parse content for tables',
-);
+) or note $@;
 
 my $material_years;
-lives_ok( sub {
+ok( lives {
     $material_years = ( grep { $_->{header} eq 'Material Rotation Schedule' } @$tables )[0]->{rows};
-}, 'find material years data' );
+}, 'find material years data' ) or note $@;
 
 for my $year ( @{ conf->get( qw( table_data_tests material_style ) ) } ) {
     is(
@@ -54,22 +54,22 @@ for my $year ( @{ conf->get( qw( table_data_tests material_style ) ) } ) {
 
 my @r;
 
-lives_ok( sub {
+ok( lives {
     @r = Bible::Reference->new->in( map { $_->{'Material Scope References'} } @$material_years )->as_text;
-}, 'Bible::Reference processing of Material Scope References' );
+}, 'Bible::Reference processing of Material Scope References' ) or note $@;
 
-is_deeply(
+is(
     \@r,
     conf->get( qw( table_data_tests material_scope ) ),
     'Bible::Reference as_text check',
 );
 
 my $distribution;
-lives_ok( sub {
+ok( lives {
     $distribution = ( grep { $_->{header} eq 'Question Type Distribution' } @$tables )[0]->{rows};
-}, 'find distribution data' );
+}, 'find distribution data' ) or note $@;
 
-is_deeply(
+is(
     [ sort keys %{ $distribution->[0] } ],
     [
         'Maximum',
