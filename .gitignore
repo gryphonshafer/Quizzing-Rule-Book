@@ -1,22 +1,38 @@
-/blib/
-*.bs
-_build/
-/.build/
-Build
-!Build/
-Build.bat
-cover_db/
-inc/
-.last_cover_stats
-/Makefile
-/Makefile.old
-/MANIFEST.bak
-/META.json
-/META.yml
-/MYMETA.*
-nytprof.out
-*.o
-/pm_to_blib
+# Local Files
+local/
+
+# Temporary Files
+*.tmp
+
+# Archives
+*.gz
+*.tar
+*.tgz
+*.zip
+
+# MacOS
+.DS_Store
+
+# Sublime Projects
+*.sublime-project
+*.sublime-workspace
+
+#-------------------------------------------------------------------------------
+
+# Prove
 .prove
-/local
-/build
+
+# Devel::Cover
+cover_db/
+
+# Devel::NYTProf
+nytprof/
+nytprof.out
+
+#-------------------------------------------------------------------------------
+
+# Dest Status
+/.dest/
+
+# GitHub Actions
+/src/
