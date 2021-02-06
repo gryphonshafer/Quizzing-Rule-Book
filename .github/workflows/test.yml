@@ -19,4 +19,4 @@ jobs:
             --with-develop --with-all-features --installdeps . Devel::Cover::Report::Codecov
       - run: HARNESS_PERL_SWITCHES=-MDevel::Cover prove --recurse --lib --failures --jobs 4 --timer t
       - run: CODECOV_TOKEN=${{ secrets.CODECOV_TOKEN }} cover -report codecov
-        if: ${{ matrix.perl-version >= 26 }}
+        if: ${{ secrets.CODECOV_TOKEN && matrix.perl-version >= 26 }}
