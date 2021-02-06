@@ -18,5 +18,7 @@ jobs:
           cpanm --from https://cpan.metacpan.org/ --notest --force --skip-satisfied \
             --with-develop --with-all-features --installdeps . Devel::Cover::Report::Codecov
       - run: HARNESS_PERL_SWITCHES=-MDevel::Cover prove --recurse --lib --failures --jobs 4 --timer t
-      - run: CODECOV_TOKEN=${{ secrets.CODECOV_TOKEN }} cover -report codecov
-        if: ${{ secrets.CODECOV_TOKEN && matrix.perl-version >= 26 }}
+      - run: cover -report codecov
+        env:
+          CODECOV_TOKEN: ${{ secrets.CODECOV_TOKEN }}
+        if: env.CODECOV_TOKEN != null && matrix.perl-version >= 26
