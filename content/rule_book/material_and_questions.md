@@ -15,7 +15,7 @@ Bible Quizzing meets consist of a series of quizzes, which themselves consist of
 : Every word in addition to the question text required to answer a question perfectly
 
 **Reference**
-: Technically, the Scriptural reference for the verse or verses that contain the whole of the question text and answer text, excluding any pronoun clarifications or answers to SIT questions; practically, the Scriptural reference for the 1st verse with content from the question text, except in the case of questions of type Q2V, where both verses are the reference
+: Technically, the Scriptural reference for the verse or verses that contain the whole of the question text and answer text, excluding any pronoun clarifications or answers to SIT questions; practically, the Scriptural reference for the question is the 1st verse with content from the question text, except in the case of questions of type Q2V, where both verses are the reference
 
 **Written Question**
 : All parts of a pre-prepared, written question including question type, reference, question text, and answer text
