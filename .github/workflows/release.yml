@@ -7,7 +7,7 @@ on:
   workflow_dispatch:
 jobs:
   build:
-    runs-on: ubuntu-16.04
+    runs-on: ubuntu-latest
     container:
       image: perldocker/perl-tester:5.32
     steps:
@@ -15,6 +15,7 @@ jobs:
       - uses: perl-actions/install-with-cpanm@v1
         with:
           sudo: false
+      - run: apt-get update
       - run: apt-get --yes --fix-missing install wkhtmltopdf
       - run: |-
           cpanm --from https://cpan.metacpan.org/ --notest --force --skip-satisfied \
