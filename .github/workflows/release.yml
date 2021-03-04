@@ -15,7 +15,7 @@ jobs:
       - uses: perl-actions/install-with-cpanm@v1
         with:
           sudo: false
-      - run: apt-get --yes --force-yes install wkhtmltopdf
+      - run: apt-get --yes install wkhtmltopdf
       - run: |-
           cpanm --from https://cpan.metacpan.org/ --notest --force --skip-satisfied \
             --with-develop --with-all-features --installdeps . Devel::Cover::Report::Codecov
