@@ -23,7 +23,7 @@ Each team must have a coach and may also have an assistant coach.
 
 All arrangements, promotion, and administration will be handled by the CQLT and the Life Office.
 
-Notification by each district of its intention to enter a team must be received by the CQLT, on a form supplied by the CQLT, no later than the date posted on the CMA Bible Quizzing website. The names of the IBQ team, its quizzers, and its coaching staff, and all registration fees must be sent, when specified, to the Life Office for that quiz season. District participation fees the current quiz season must be paid in order to register for the IBQ competition. Any exceptions to this must be brought to the CQLT.
+Notification by each district of its intention to enter a team must be received by the CQLT, on a form supplied by the CQLT, no later than the date posted on the CMA Bible Quizzing website. The names of the IBQ team, its quizzers, and its coaching staff, and all registration fees must be sent, when specified, to the Life Office for that quiz season. District participation fees for the current quiz season must be paid in order to register for the IBQ competition. Any exceptions to this must be brought to the CQLT.
 
 ## Selection of Officials
 
