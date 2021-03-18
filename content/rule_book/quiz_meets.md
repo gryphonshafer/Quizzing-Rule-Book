@@ -120,11 +120,11 @@ Each team in the final 9 must lose twice. A team may make the finals by actually
 
 - Quiz I: 1st Quiz D, 1st Quiz E, 1st Quiz H
 - Quiz J: 2nd Quiz I, 1st Quiz I, 3rd Quiz I
-- Quiz K: 2nd Quiz J, 1st Quiz J, 3rd Quiz J (if needed)
+- Quiz K: 2nd Quiz J, 1st Quiz J, 3rd Quiz J (when no team has taken 1st twice)
 
 If the same team took 3rd place in Quiz I and J, then Quiz K will be a 2-team quiz to determine 1st and 2nd place.
 
-- Quiz L: 3rd Quiz K, 1st Quiz K, 2nd Quiz K (if needed)
+- Quiz L: 3rd Quiz K, 1st Quiz K, 2nd Quiz K (when no team has taken 1st twice)
 
 #### Tournament Bracket "C"
 
@@ -146,11 +146,11 @@ This bracket is a combination of brackets A and B. A team must win at least 2 qu
 
 - Quiz J: 1st Quiz D, 1st Quiz G, 1st Quiz I
 - Quiz K: 2nd Quiz J, 1st Quiz J, 3rd Quiz J
-- Quiz L: 2nd Quiz K, 1st Quiz K, 3rd Quiz K (if needed)
+- Quiz L: 2nd Quiz K, 1st Quiz K, 3rd Quiz K (when no team has taken 1st twice)
 
 If the same team took 3rd place in Quiz J and K, then Quiz L will be a 2-team quiz to determine 1st and 2nd place.
 
-- Quiz M: 3rd Quiz L, 1st Quiz L, 2nd Quiz L (if needed)
+- Quiz M: 3rd Quiz L, 1st Quiz L, 2nd Quiz L (when no team has taken 1st twice)
 
 ## Championship Quizzes
 
