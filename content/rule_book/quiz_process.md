@@ -89,8 +89,6 @@ Regarding bonus questions:
 - If question 16 is a toss-up question and is erred, 16A is a bonus question
 - If 16A through 20A is a toss-up and is erred, then 16B through 20B is a bonus question
 
-Error points begin at question 17.
-
 ### 2-Team 15-Question Tie-Breaker Quiz
 
 A 2-team 15-question tie-breaker quiz operates much like a 3-team 20-question quiz except:
@@ -100,8 +98,9 @@ A 2-team 15-question tie-breaker quiz operates much like a 3-team 20-question qu
 - If questions 12 through 15 are erred, the bonus question will remain on the same question number and will not be counted in the basic 15 questions; both teams must jump on questions 13 through 15
 - All bonus questions up to and including 12B are worth 20 points
 - All bonus questions from 13 to the end of the quiz are worth 10 points
-- Error points begin at question 13
 - A quiz-out is 3 correct questions
+
+Points deduction for every error on a question or toss-up question start at question number 13 instead of question number 17.
 
 ### 2-Team 20-Question Quiz
 
