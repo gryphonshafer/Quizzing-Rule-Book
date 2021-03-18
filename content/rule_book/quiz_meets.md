@@ -135,7 +135,7 @@ This bracket is a combination of brackets A and B. A team must win at least 2 qu
 - Quiz A: Teams 1, 4, 9
 - Quiz B: Teams 2, 5, 7
 - Quiz C: Teams 3, 6, 8
-- Quiz D: 1st Quiz A, 1st Quiz B, 2nd Quiz C
+- Quiz D: 1st Quiz A, 1st Quiz B, 1nd Quiz C
 - Quiz E: 2nd Quiz A, 2nd Quiz B, 2nd Quiz C
 - Quiz F: 3rd Quiz A, 3rd Quiz B, 3rd Quiz C
 - Quiz G: 2nd Quiz D, 3rd Quiz D, 1st Quiz E
