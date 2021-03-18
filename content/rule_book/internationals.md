@@ -43,9 +43,11 @@ At least 1 scorekeeper will tabulate the results of each question on official sc
 
 Statisticians shall:
 
-- Not be a regular scorekeeper
 - Be responsible for keeping individual quizzers' scores
-- Be responsible for keeping individual teams' scores and provide updates to the teams of their current standings
+- Be responsible for keeping individual teams' scores
+- Provide updates to the teams of their current standings
+
+Statisticians shall not be a regular scorekeeper.
 
 ## Quiz Question Selection
 
