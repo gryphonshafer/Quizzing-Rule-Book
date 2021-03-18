@@ -137,7 +137,7 @@ As an example of a logistical rule, consider a scenario wherein the quizmaster d
 
 ## Fouls
 
-A foul is a penalty called by a quiz official against a quizzer or team for conduct that breaks the text of spirit of the rules.
+A foul is a penalty called by a quiz official against a quizzer or team for conduct that breaks the text or spirit of the rules.
 
 - Fouls may be called by any quiz official actively involved in the current quiz.
 - A foul must be called before the quizmaster makes known the next question's type.
