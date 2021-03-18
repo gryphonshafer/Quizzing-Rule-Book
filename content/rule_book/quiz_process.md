@@ -81,7 +81,7 @@ There are 3 primary types of quizzes and 2 related overtime components of quizze
 
 There will be 20 numeric questions in a quiz, excluding any overtime questions.
 
-A toss-up question is the result of an error by 1 team. The 2 remaining teams will have the opportunity to jump, but the team making the error is ineligible for that question. If question 1 to 15 is erred, the next question number will be a toss-up question. If question 16-20 is erred, the next question will be a toss-up appended with A. For example, if 3 teams were participating on 16, the toss-up question will be question 16A.
+A toss-up question is the result of an error by 1 team. The 2 remaining teams will have the opportunity to jump, but the team making the error is ineligible for that question. If question 1 to 15 is erred, the next question will be a numbered question and a toss-up question. If question 16-20 is erred, the next question will be a toss-up appended with A. For example, if 3 teams were participating on 16, the toss-up question will be question 16A.
 
 Regarding bonus questions:
 

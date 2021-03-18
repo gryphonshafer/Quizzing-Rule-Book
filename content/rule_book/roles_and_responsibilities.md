@@ -25,7 +25,7 @@ All conferring between quizmaster and answer judge(s) shall be done privately.
 The quizmaster must:
 
 - Maintain a position such that all currently seated quizzers are able to view the quizmaster's face
-- Speak in such as a way as to be understood by all quizzers
+- Speak in such as a way to be understood by all quizzers
 - Rule immediately upon an obviously correct or incorrect answer if there is no indication from the answer judge to the contrary
 
 When a quizzer's response contains a required completion of the question and that completion is different than the written question, the quizmaster will discuss it with the answer judge. If the quizzer gives a reference question that is different than the written question, the quizmaster and answer judge must ensure that the reference question given is the exact same type as the written question.
