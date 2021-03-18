@@ -8,7 +8,7 @@ Team points are calculated using a team's score at the end of question 20, toget
 
 In case of a tie, points are awarded according to the team score at the end of question 20. Overtime is used solely to determine placements.
 
-If ties are not being broken in prelims, more than 1 team can receive 1st place, 2nd place, or 3rd place points.
+If ties are not being broken in prelims, more than 1 team can receive 1st place or 2nd place points. If 2 tied for 1st, then other team is 3rd. If 2 tied for 2nd, then the 1st team is 1st and the other 2 are 2nd.
 
 ### Team Points Calculation
 
