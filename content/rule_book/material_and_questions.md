@@ -141,7 +141,7 @@ A CR question could be written: "What deeds?" The answer would be: "Lawless." If
 
 ##### Commentary
 
-If 2 identical phrases exist in the same chapter, but 1 occurrence grammatically calls for use of the "who" inserted interrogative word, and the other occurrence grammatically calls for the use of the "what" inserted interrogative word, that difference in the grammatically dictated interrogative word does not change the fact that the phrase from the material (that excludes the inserted interrogative word) occurs more than twice in the same chapter, necessitating a CVR question.
+If 2 identical phrases exist in the same chapter, but 1 occurrence grammatically calls for use of the "who" inserted interrogative word, and the other occurrence grammatically calls for the use of the "what" inserted interrogative word, that difference in the grammatically dictated interrogative word does not change the fact that the phrase from the material (that excludes the inserted interrogative word) occurs more than once in the same chapter, necessitating a CVR question.
 
 The above does not mean that if the quizzer needs to provide a reference question that is a CVR, and their choice of interrogative word changes the question type to MACVR, that the quizzer has given a valid CVR. In this case, the validity changes based on the interrogative word because of how the required answer changes.
 
@@ -202,7 +202,7 @@ The question text should be in the form:
 
 ##### Finish
 
-Finish questions have question text consisting of the 1st 5 words of material starting based on the question type. These 1st 5 words must be unique to all finish questions of the exact same type; for example, FTV compared to all FTVs, FT to all FTs, F2V to all F2Vs, FTN to all FTNs.
+Finish questions have question text consisting of the 1st 5 words of material starting based on the question type. These 1st 5 words must be unique to all possible finish questions of the exact same type; for example, FTV compared to all possible FTVs, FT to all possible FTs, F2V to all possible F2Vs, and FTN to all possible FTNs.
 
 ##### Finish the Verse (FTV)
 

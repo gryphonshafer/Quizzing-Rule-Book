@@ -113,7 +113,7 @@ The result of a challenge may not be challenged.
 
 If the challenge is accepted:
 
-- Points or error points that reflect the new ruling of the judge will be recorded.
+- Points earned or deducted that reflect the new ruling of the judge will be recorded.
 - A new question of the same number will be given if the outcome of the challenge dictates the question needs to be redone.
 
 When a challenge is made, the quizmaster must give each team's captain or co-captain an opportunity to speak to the challenge before making a ruling on the challenge. Whichever team is being challenged against will have the right to speak last.
@@ -127,7 +127,7 @@ Coaches, including assistant coaches, of the teams participating in a quiz may p
 
 The protest must apply to the question or ruling that just occurred. The protest must be placed before the quizmaster makes known the next question's type. If a protest is launched after question number 20 is completed it must be done immediately after the ruling is announced.
 
-The coach may only confer with their assistant coach and substitute quizzer, before protesting.
+The coach may only confer with their assistant coach and any quizzer members of the team that are not currently seated in the quiz before protesting.
 
 The quiz officials and quiz team coaches will meet privately and attempt to come to an agreement. If no agreement is reached within 10 minutes, the meet director will arbitrate and determine the just solution.
 
@@ -137,7 +137,7 @@ As an example of a logistical rule, consider a scenario wherein the quizmaster d
 
 ## Fouls
 
-A foul is a penalty called by a quiz official against a quizzer or team for conduct that breaks the text of spirit of the rules.
+A foul is a penalty called by a quiz official against a quizzer or team for conduct that breaks the text or spirit of the rules.
 
 - Fouls may be called by any quiz official actively involved in the current quiz.
 - A foul must be called before the quizmaster makes known the next question's type.

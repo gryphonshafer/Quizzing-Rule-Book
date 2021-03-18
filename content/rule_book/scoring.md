@@ -47,7 +47,7 @@ Team errors are the sum of all individual, non-bonus errors.
 - -10 points for 4th and subsequent team fouls
 - -10 points for 2nd and subsequent overruled challenges and protests
 - -10 points at the determination of the room officials that a deliberate attempt was made to forfeit a question
-- No more than -10 points can be deducted per question asked due to an error
+- No more than 10 points can be deducted per question asked due to an error
 - Non-error-related deducted points are cumulative
 
 ## Logic
@@ -189,7 +189,7 @@ Below are the scoring calculation rules and the logic for them. This procedure i
 
             Set the scoresheet label to "E".
 
-            If the current question form is "Standard" the quiz type begins with "3", then
+            If the current question form is "Standard" and the quiz type begins with "3", then
                 set the next question form to "Toss-Up".
             Otherwise, if
                 the current question form is "Toss-Up" or

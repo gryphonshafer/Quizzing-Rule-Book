@@ -8,7 +8,7 @@ Team points are calculated using a team's score at the end of question 20, toget
 
 In case of a tie, points are awarded according to the team score at the end of question 20. Overtime is used solely to determine placements.
 
-If ties are not being broken in prelims, more than 1 team can receive 1st place, 2nd place, or 3rd place points.
+If ties are not being broken in prelims, more than 1 team can receive 1st place or 2nd place points. If 2 tied for 1st, then other team is 3rd. If 2 tied for 2nd, then the 1st team is 1st and the other 2 are 2nd.
 
 ### Team Points Calculation
 
@@ -120,11 +120,11 @@ Each team in the final 9 must lose twice. A team may make the finals by actually
 
 - Quiz I: 1st Quiz D, 1st Quiz E, 1st Quiz H
 - Quiz J: 2nd Quiz I, 1st Quiz I, 3rd Quiz I
-- Quiz K: 2nd Quiz J, 1st Quiz J, 3rd Quiz J (if needed)
+- Quiz K: 2nd Quiz J, 1st Quiz J, 3rd Quiz J (when no team has taken 1st twice)
 
 If the same team took 3rd place in Quiz I and J, then Quiz K will be a 2-team quiz to determine 1st and 2nd place.
 
-- Quiz L: 3rd Quiz K, 1st Quiz K, 2nd Quiz K (if needed)
+- Quiz L: 3rd Quiz K, 1st Quiz K, 2nd Quiz K (when no team has taken 1st twice)
 
 #### Tournament Bracket "C"
 
@@ -135,7 +135,7 @@ This bracket is a combination of brackets A and B. A team must win at least 2 qu
 - Quiz A: Teams 1, 4, 9
 - Quiz B: Teams 2, 5, 7
 - Quiz C: Teams 3, 6, 8
-- Quiz D: 1st Quiz A, 1st Quiz B, 2nd Quiz C
+- Quiz D: 1st Quiz A, 1st Quiz B, 1nd Quiz C
 - Quiz E: 2nd Quiz A, 2nd Quiz B, 2nd Quiz C
 - Quiz F: 3rd Quiz A, 3rd Quiz B, 3rd Quiz C
 - Quiz G: 2nd Quiz D, 3rd Quiz D, 1st Quiz E
@@ -146,11 +146,11 @@ This bracket is a combination of brackets A and B. A team must win at least 2 qu
 
 - Quiz J: 1st Quiz D, 1st Quiz G, 1st Quiz I
 - Quiz K: 2nd Quiz J, 1st Quiz J, 3rd Quiz J
-- Quiz L: 2nd Quiz K, 1st Quiz K, 3rd Quiz K (if needed)
+- Quiz L: 2nd Quiz K, 1st Quiz K, 3rd Quiz K (when no team has taken 1st twice)
 
 If the same team took 3rd place in Quiz J and K, then Quiz L will be a 2-team quiz to determine 1st and 2nd place.
 
-- Quiz M: 3rd Quiz L, 1st Quiz L, 2nd Quiz L (if needed)
+- Quiz M: 3rd Quiz L, 1st Quiz L, 2nd Quiz L (when no team has taken 1st twice)
 
 ## Championship Quizzes
 
