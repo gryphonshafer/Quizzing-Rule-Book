@@ -189,7 +189,7 @@ Below are the scoring calculation rules and the logic for them. This procedure i
 
             Set the scoresheet label to "E".
 
-            If the current question form is "Standard" the quiz type begins with "3", then
+            If the current question form is "Standard" and the quiz type begins with "3", then
                 set the next question form to "Toss-Up".
             Otherwise, if
                 the current question form is "Toss-Up" or
