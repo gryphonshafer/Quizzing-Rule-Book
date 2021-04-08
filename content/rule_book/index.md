@@ -6,8 +6,9 @@ This is the official rule book for Bible Quizzing, which represents what will be
 
 ## Version Information
 
-- This document was built on: [[build_date]]
-- This document's version is: [[build_version_short]]
+- Version: [[build_version_short]]
+- Auto-built on: [[build_date]]
+- [[build_conf]]
 
 You can download this document from:
 
@@ -38,7 +39,7 @@ Commentary sections include a series of comments, explanations, or annotations a
 
 ### Logic
 
-There are components within this document that contain logic in the form of *English Script* (ES). ES is a simplified programming language that reads like plain English. For more information, see:
+There are components within this document that contain logic in the form of *English Script* (ES). ES is a simplified programming language that reads like plain English. The rule book uses ES to explicitly describe rules that can be consumed automatically by software directly from the rule book. For more information, see:
 
 [https://metacpan.org/pod/English::Script#DEFAULT-GRAMMAR](https://metacpan.org/pod/English::Script#DEFAULT-GRAMMAR)
 

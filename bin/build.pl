@@ -5,20 +5,13 @@ use Mojo::File 'path';
 use PDF::WebKit;
 use Text::MultiMarkdown 'markdown';
 
-my $opt = options( 'docs|d=s{,}', 'filter|f=s{,}', 'type|t=s', 'output|o=s', 'config|c' );
+my $opt = options( 'docs|d=s{,}', 'filter|f=s{,}', 'append|a', 'type|t=s', 'output|o=s', 'config|c' );
 
 $opt->{docs}   = ['rule_book'] unless ( $opt->{docs} and @{ $opt->{docs} } );
 $opt->{type} //= 'pdf';
 
 my $root_dir = conf->get( qw( config_app root_dir ) );
 my $header   = join( '', <DATA> );
-my $params   = {
-    build_date    => time2str( '%Y-%m-%d %H:%M:%S %Z', time ),
-    build_version => `git rev-parse HEAD`,
-};
-
-chomp( $params->{build_version} );
-$params->{build_version_short} = substr( $params->{build_version}, 0, 7 );
 
 unless ( $opt->{config} ) {
     $opt->{filter} = filter( $opt->{filter} ) if ( $opt->{filter} );
@@ -46,7 +39,14 @@ else {
     } @{ $build_config->{builds} } ];
 }
 
-generate( output($_), $_, $header ) for (@$opt);
+my $params = {
+    build_version => `git rev-parse HEAD`,
+    build_date    => time2str( '%Y-%m-%d %H:%M:%S %Z', time ),
+};
+chomp( $params->{build_version} );
+$params->{build_version_short} = substr( $params->{build_version}, 0, 7 );
+
+generate( output($_), $_, $header, $params ) for (@$opt);
 
 sub filter ($filter) {
     return
@@ -139,7 +139,7 @@ sub sub_file ( $pre, $file, $post, $dir, $level = 0 ) {
     }
 }
 
-sub generate ( $output, $opt, $header ) {
+sub generate ( $output, $opt, $header, $params ) {
     if ( $opt->{output} ) {
         my $out_file = Mojo::File->new( $opt->{output} );
         $out_file->dirname->make_path;
@@ -149,6 +149,12 @@ sub generate ( $output, $opt, $header ) {
         $params->{build_file} = 'build_file_example.html';
     }
 
+    $params->{build_conf} = (
+        ( @{ $opt->{filter} || [] } )
+            ? ( 'Content filtered: ' . join( ', ', map { ucfirst } @{ $opt->{filter} } ) )
+            : 'Content: All'
+    ) . ( ( $opt->{append} ) ? ' (Terms appendix added)' : '' );
+
     my %header_level;
     my $headers = sub ($level) {
         delete $header_level{$_} for ( grep { $_ > $level } keys %header_level );
@@ -156,8 +162,19 @@ sub generate ( $output, $opt, $header ) {
         return join( '', map { $header_level{$_} . '.' } 2 .. $level );
     };
 
+    my ( $term_section, @terms );
+    if ( $opt->{append} ) {
+        @terms = map { chomp; $_ } $output =~ /\*{2}[^\*]+\*{2}\s*:[^\n]+\n\n/g;
+        shift @terms if ( $terms[0] =~ /\*\*Term\*\*\s*:\s*Definition\b/i );
+        ($term_section) = $output =~ /^\s*\-*\s*#(#+\s*terms\s.*?)(?=\n\-*#)/ims;
+        @terms = sort { $a cmp $b } @terms;
+    }
+
     $output =~ s/^\s*\-*\s*#+\s*$_\s.*?(?=\n\-*#)//imsg for ( @{ $opt->{filter} } );
     $output =~ s/\*{2}[^\*]+\*{2}\s*:[^\n]+\n\n//g if ( grep { lc($_) eq 'terms' } @{ $opt->{filter} } );
+
+    $output .= join( "\n", "\n" . $term_section, @terms ) if ( $opt->{append} );
+
     $output =~ s/^(\s*)(#{2,})/ $1 . $2 . ' ' . $headers->( length($2) ) /mge;
     $output =~ s/^(\s*)\-(#+)/$1$2/mg;
     $output =~ s/\[\s*\[\s*$_\s*\]\s*\]/$params->{$_}/ig for ( keys %$params );
@@ -247,6 +264,7 @@ build.pl - Build various documents from Markdown source files
     build.pl OPTIONS
         -d, --docs   DOCS_LIST        ("rule_book best_practices"; default: "rule_book")
         -f, --filter BLOCKS_TO_FILTER ("commentary examples example" or "all"; default: none)
+        -a, --append                  (flag to create a "terms" appendix; default off)
         -t, --type   OUTPUT_TYPE      ("md" or "html" or "pdf"; default: "pdf")
         -o, --output OUTPUT_FILE      (if not defined, output send to STDOUT)
         -c, --config                  (use app config settings to override all others)

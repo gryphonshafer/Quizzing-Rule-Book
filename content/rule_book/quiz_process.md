@@ -1,5 +1,7 @@
 # Quiz Process
 
+The process for running a quiz includes topics like types of quizzes, question type distribution, and how a quiz progresses outside specific quiz events.
+
 **Quiz Question**
 : Every component of a question within the context of a quiz including all components of a written question along with quiz context such as question number
 

@@ -41,6 +41,11 @@ default:
               docs: rule_book
               filter: all
               type: [ pdf, html, md ]
+            - output: rule_book_ref
+              docs: rule_book
+              filter: [ terms, logic ]
+              type: [ pdf, html, md ]
+              append: 1
             - output: best_practices
               docs: best_practices
               type: [ pdf, html ]
