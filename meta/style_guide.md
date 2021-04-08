@@ -2,18 +2,6 @@
 
 What follows are style guide requirements for the rule book project. These are conventions we should attempt to follow, but they are not hard and fast rules like the [syntax document](syntax.md).
 
-## Base Style Guide
-
-Generally use the [APA Style Guide](https://apastyle.apa.org) as the base style guide.
-
-[https://apastyle.apa.org](https://apastyle.apa.org)
-
-However, this style guide is overridden by (at least) the following:
-
-    - Use integer numbers for all numbers
-    - Titles should never contain periods and should be visually styled like level 2 headers
-    - Use "UK punctuation" standards (sentence punctuation exists outside quotations)
-
 ## Technical Text Requirements
 
 The following are technical text requirements:
@@ -33,19 +21,9 @@ Generally use the [APA Style Guide](https://apastyle.apa.org) as the base style 
 
 However, this style guide is overridden by (at least) the following:
 
-    - Use integer numbers for all numbers
-    - Titles should never contain periods and should be visually styled like level 2 headers
-
-## Technical Text Requirements
-
-The following are technical text requirements:
-
-- No non-ASCII characters
-- No tabs (spaces only)
-- No spaces at the end of lines
-- No multiple spaces in a line except to indent the line or to align table columns
-- Line endings are all UNIX style (no MSFT)
-- File names are portable between common operating systems
+- Use integer numbers for all numbers
+- Titles should never contain periods and should be visually styled like level 2 headers
+- Use "UK punctuation" standards (sentence punctuation exists outside quotations)
 
 ## Terms and Definitions
 
