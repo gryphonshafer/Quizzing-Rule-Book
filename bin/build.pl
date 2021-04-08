@@ -413,6 +413,7 @@ __DATA__
             pre, code {
                 background-color : whitesmoke;
                 font-family      : monospace;
+                font-size        : 90%;
             }
 
             pre {
