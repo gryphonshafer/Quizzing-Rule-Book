@@ -14,26 +14,26 @@ The following are the current official renders of documents auto-built from sour
 
 The minimalist render filters all special sections (such as terms, examples, commentary, and logic).
 
-- [PDF](../../releases/latest/download/rule_book_min.pdf)
-- [HTML](../../releases/latest/download/rule_book_min.html)
-- [Markdown](../../releases/latest/download/rule_book_min.md)
+- [Rule Book: Minimalist Render as PDF](../../releases/latest/download/rule_book_min.pdf)
+- [Rule Book: Minimalist Render as HTML](../../releases/latest/download/rule_book_min.html)
+- [Rule Book: Minimalist Render as Markdown](../../releases/latest/download/rule_book_min.md)
 
 ### Rule Book: Full-Content Render
 
 The full-content render contains all material.
 
-- [PDF](../../releases/latest/download/rule_book_full.pdf)
-- [HTML](../../releases/latest/download/rule_book_full.html)
-- [Markdown](../../releases/latest/download/rule_book_full.md)
+- [Rule Book: Full-Content Render as PDF](../../releases/latest/download/rule_book_full.pdf)
+- [Rule Book: Full-Content Render as HTML](../../releases/latest/download/rule_book_full.html)
+- [Rule Book: Full-Content Render as Markdown](../../releases/latest/download/rule_book_full.md)
 
 ### Other Documents
 
 Some other documents that are beyond the scope of the official rule book are also auto-built/rendered:
 
 - Best Practices
-    - [PDF](../../releases/latest/download/best_practices.pdf)
-    - [HTML](../../releases/latest/download/best_practices.html)
-- [Combined Governance Documents as a PDF](../../releases/latest/download/governance.pdf)
+    - [Best Practices as PDF](../../releases/latest/download/best_practices.pdf)
+    - [Best Practices as HTML](../../releases/latest/download/best_practices.html)
+- [Combined Governance Documents as PDF](../../releases/latest/download/governance.pdf)
 
 ## Project Overview
 
