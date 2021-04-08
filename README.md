@@ -4,29 +4,61 @@
 [![release](https://github.com/gryphonshafer/Quizzing-Rule-Book/workflows/release/badge.svg)](https://github.com/gryphonshafer/Quizzing-Rule-Book/actions?query=workflow%3Arelease)
 [![codecov](https://codecov.io/gh/gryphonshafer/Quizzing-Rule-Book/graph/badge.svg)](https://codecov.io/gh/gryphonshafer/Quizzing-Rule-Book)
 
-This project is the content, meta-documents, and tooling for the creation and ongoing rewriting and maintenance of a Bible Quizzing rule book. Content is consumed by software for a variety of purposes:
+This project contains the source content, meta documents, and software tooling for the Bible Quizzing rule book.
 
-- Rendering content output at specific interest or audience levels
+## Current Official Renders
+
+The following are the current official renders of documents auto-built from source content and meta documents.
+
+### Rule Book: Minimalist Render
+
+The minimalist render filters all special sections (such as terms, examples, commentary, and logic).
+
+- [PDF](../../releases/latest/download/rule_book_min.pdf)
+- [HTML](../../releases/latest/download/rule_book_min.html)
+- [Markdown](../../releases/latest/download/rule_book_min.md)
+
+### Rule Book: Full-Content Render
+
+The full-content render contains all material.
+
+- [PDF](../../releases/latest/download/rule_book_full.pdf)
+- [HTML](../../releases/latest/download/rule_book_full.html)
+- [Markdown](../../releases/latest/download/rule_book_full.md)
+
+### Other Documents
+
+Some other documents that are beyond the scope of the official rule book are also auto-built/rendered:
+
+- Best Practices
+    - [PDF](../../releases/latest/download/best_practices.pdf)
+    - [HTML](../../releases/latest/download/best_practices.html)
+- [Combined Governance Documents as a PDF](../../releases/latest/download/governance.pdf)
+
+## Project Overview
+
+The project itself is governed by its own [Change Management Process](content/rule_book/change_management.md).
+
+Source content and meta documents are written in Markdown following the project's:
+
+- [Document Syntax](meta/syntax.md)
+- [Style Guide](meta/style_guide.md)
+
+Software consumes this content for a variety of purposes:
+
+- Auto-building/rendering content output at specific interest levels
 - Selecting portions of content based on situational applicability
 - Describing software specifications for scoring and other objective algorithms and configuration settings
 
 ## Links to Auto-Built Documents
 
-- Rule Book
-    - Minimalist Version
-        - [Markdown](../../releases/latest/download/rule_book_min.md)
-        - [HTML](../../releases/latest/download/rule_book_min.html)
-        - [PDF](../../releases/latest/download/rule_book_min.pdf)
-    - Full-Content Version
-        - [Markdown](../../releases/latest/download/rule_book_full.md)
-        - [HTML](../../releases/latest/download/rule_book_full.html)
-        - [PDF](../../releases/latest/download/rule_book_full.pdf)
-- Best Practices
-    - [HTML](../../releases/latest/download/best_practices.html)
-    - [PDF](../../releases/latest/download/best_practices.pdf)
-- [Combined Governance Documents as a PDF](../../releases/latest/download/governance.pdf)
+Upon any commit and push to `master` or `integration` branches, the auto-build render process is initiated. You can review and download any of these results via:
+
+- [Releases](../../releases)
 
 ## Links to Source Documents
+
+The following are links to source documents:
 
 - Content
     - [Rule Book Index](content/rule_book/index.md)
@@ -38,7 +70,3 @@ This project is the content, meta-documents, and tooling for the creation and on
 - Meta Documents
     - [Document Syntax](meta/syntax.md)
     - [Style Guide](meta/style_guide.md)
-    - [Initial-Version Scope](meta/v1_scope.md)
-    - [Largest Departures from Functional Equivalence for Initial-Version](meta/largest_fe_departures.md)
-    - [Change Management Process](meta/change_management.md)
-    - [Leftovers](meta/leftovers.md)
