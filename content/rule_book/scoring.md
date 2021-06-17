@@ -149,8 +149,9 @@ Below are the scoring calculation rules and the logic for them. This procedure i
             then set reduced bonus points to true.
 
             If the current question form is "Bonus", then apply the following block.
+                Set the quizzer score increment to 0.
+
                 If reduced bonus points is true, then apply the following block.
-                    Set the quizzer score increment to 10.
                     Set the team score increment to 10.
                     Set the scoresheet label to 10.
                 This is the end of the block.
