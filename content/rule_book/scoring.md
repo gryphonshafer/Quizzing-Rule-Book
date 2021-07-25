@@ -142,6 +142,7 @@ Below are the scoring calculation rules and the logic for them. This procedure i
             Set the next question number to the current question integer plus 1.
 
             If
+                the quiz type is "2-Team 20-Question" or
                 the quiz type is not "2-Team 15-Question Tie-Breaker" and
                 the current question integer is greater than or equal to 17 or
                 the quiz type is "2-Team 15-Question Tie-Breaker" and
