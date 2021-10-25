@@ -12,11 +12,11 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - uses: perl-actions/install-with-cpanm@v1
+        env:
+          PERL_CPANM_OPT: --from https://cpan.metacpan.org/ --notest --force --skip-satisfied
         with:
           sudo: false
-      - run: |-
-          cpanm --from https://cpan.metacpan.org/ --notest --force --skip-satisfied \
-            --with-develop --with-all-features --installdeps . Devel::Cover::Report::Codecov
+          args: --with-develop --with-all-features --installdeps .
       - run: HARNESS_PERL_SWITCHES=-MDevel::Cover prove --recurse --lib --failures --jobs 4 --timer t
       - run: cover -report codecov
         env:

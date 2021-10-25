@@ -9,17 +9,17 @@ jobs:
   build:
     runs-on: ubuntu-latest
     container:
-      image: perldocker/perl-tester:5.32
+      image: perldocker/perl-tester:5.34
     steps:
       - uses: actions/checkout@v2
-      - uses: perl-actions/install-with-cpanm@v1
-        with:
-          sudo: false
       - run: apt-get update
       - run: apt-get --yes --fix-missing install wkhtmltopdf
-      - run: |-
-          cpanm --from https://cpan.metacpan.org/ --notest --force --skip-satisfied \
-            --with-develop --with-all-features --installdeps . Devel::Cover::Report::Codecov
+      - uses: perl-actions/install-with-cpanm@v1
+        env:
+          PERL_CPANM_OPT: --from https://cpan.metacpan.org/ --notest --force --skip-satisfied
+        with:
+          sudo: false
+          args: --with-develop --with-all-features --installdeps .
       - run: ./bin/build.pl -c
       - env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
