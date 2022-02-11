@@ -22,9 +22,9 @@ The minimalist render filters all special sections (such as terms, examples, com
 
 The "reference" render contains all material except for logic sections, and it moves all terms/definitions to an appendix.
 
-- [Rule Book: Referfence Render as PDF](../../releases/latest/download/rule_book_ref.pdf)
-- [Rule Book: Referfence Render as HTML](../../releases/latest/download/rule_book_ref.html)
-- [Rule Book: Referfence Render as Markdown](../../releases/latest/download/rule_book_ref.md)
+- [Rule Book: Reference Render as PDF](../../releases/latest/download/rule_book_ref.pdf)
+- [Rule Book: Reference Render as HTML](../../releases/latest/download/rule_book_ref.html)
+- [Rule Book: Reference Render as Markdown](../../releases/latest/download/rule_book_ref.md)
 
 ### Rule Book: Full-Content Render
 
