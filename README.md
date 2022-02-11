@@ -10,6 +10,14 @@ This project contains the source content, meta documents, and software tooling f
 
 The following are the current official renders of documents auto-built from source content and meta documents.
 
+### Rule Book: Standard Render
+
+The stndard render filters logic sections but keeps everything else.
+
+- [Rule Book: Standard Render as PDF](../../releases/latest/download/rule_book_std.pdf)
+- [Rule Book: Standard Render as HTML](../../releases/latest/download/rule_book_std.html)
+- [Rule Book: Standard Render as Markdown](../../releases/latest/download/rule_book_std.md)
+
 ### Rule Book: Minimalist Render
 
 The minimalist render filters all special sections (such as terms, examples, commentary, and logic).
