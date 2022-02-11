@@ -34,8 +34,9 @@ default:
     build:
         dir: build
         builds:
-            - output: rule_book_full
+            - output: rule_book_std
               docs: rule_book
+              filter: logic
               type: [ pdf, html, md ]
             - output: rule_book_min
               docs: rule_book
@@ -46,6 +47,9 @@ default:
               filter: [ terms, logic ]
               type: [ pdf, html, md ]
               append: 1
+            - output: rule_book_full
+              docs: rule_book
+              type: [ pdf, html, md ]
             - output: best_practices
               docs: best_practices
               type: [ pdf, html ]
