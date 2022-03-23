@@ -2,7 +2,7 @@
 
 ## Answer Duration
 
-Prior to a quizzer's answer being correct or incorrect, quizzers may have up to 30 seconds to provide their answer.
+Prior to a quizzer's answer being correct or incorrect, a quizzer has 30 seconds to provide their answer.
 
 ### Logic
 
