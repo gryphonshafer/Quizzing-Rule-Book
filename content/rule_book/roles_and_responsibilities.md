@@ -6,7 +6,7 @@ A team can consist of up to 5 quizzers. Teams can have up to 4 quizzers seated i
 
 ### Captains
 
-Scorekeepers must be notified which quizzer is the captain and which is co-captain before the quizzers take their seats to begin the quiz. The captain and co-captain may change during a given competition but not during a quiz.
+Scorekeepers must be notified which quizzer is the captain and which is co-captain before the quiz begins. The captain and co-captain may change during a given competition but not during a quiz.
 
 Only the captain or co-captain may challenge a decision or respond to a challenge. If both the captain and co-captain have erred-out, another quizzer can be designated by the coach to respond to or initiate challenges.
 
