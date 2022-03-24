@@ -129,7 +129,7 @@ In the below table, any minimum or maximum variation between material seasons is
 |-----------------|--------:|--------:|----------------------|
 | Interrogative   |     8/9 |   14/16 | INT                  |
 | Multiple Answer |       1 |       2 | MA                   |
-| Reference       |       3 |     6/7 | CR, CVR, MACR, MACVR |
+| Reference       |       3 |     6/7 | CR, CVR, CRMA, CVRMA |
 | Quote           |     2/3 |     3/4 | Q, Q2V               |
 | Finish          |       3 |       4 | FT, FTN, FTV, F2V    |
 | Situation       |     2/0 |     4/0 | SIT                  |
