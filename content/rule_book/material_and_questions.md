@@ -224,7 +224,7 @@ Finish questions have question text consisting of the 1st 5 words of material st
 - Must start at the beginning of a sentence or the beginning of a quotation
 - Used when part of a verse is not strong enough on its own and needs another verse (or part of a verse) to explain it or when 2 verses combined form an even stronger thought
 
-#### SIT (SIT)
+#### Situation (SIT)
 
 - Used only in the quiz season where the material type is narrative
 - The question text contains 2 parts:
