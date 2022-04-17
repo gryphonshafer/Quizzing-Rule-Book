@@ -176,7 +176,7 @@ The question text should be in the form:
 
 #### Quote/Finish
 
-Quote and finish questions must be quoted word-perfect. Quizzers may go back and correct their answers if done in the question answer duration period. The quizzer will be required to make 1 full, correct rotation; however, the quizzer can be called correct without 1 full, correct rotation if they have made a mistake only in 1 area of the verse and correct the mistake, making it abundantly clear to the quizmaster and answer judge that they know where their mistake was and what the corrected words are.
+Quote and finish questions must be quoted word-perfect. Quizzers may go back and correct their answers if done in the answering period. The quizzer will be required to make 1 full, correct rotation; however, the quizzer can be called correct without 1 full, correct rotation if they have made a mistake only in 1 area of the verse and correct the mistake, making it abundantly clear to the quizmaster and answer judge that they know where their mistake was and what the corrected words are.
 
 Context is defined as the required verse, which is defined as the 1 or 2 verse range of the question, based on the question type.
 

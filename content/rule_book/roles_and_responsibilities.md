@@ -30,11 +30,11 @@ The quizmaster must:
 
 When a quizzer's response contains a required completion of the question and that completion is different than the written question, the quizmaster will discuss it with the answer judge. If the quizzer gives a reference question that is different than the written question, the quizmaster and answer judge must ensure that the reference question given is the exact same type as the written question.
 
-The quizmaster should consult with the answer judge(s) at any time they feel is necessary, provided it does not infringe upon the quizzer's question answer duration period.
+The quizmaster should consult with the answer judge(s) at any time they feel is necessary, provided it does not infringe upon the quizzer's answering period.
 
 #### Quizmaster Prompts
 
-During the question answer duration period, the quizmaster will use only the following prompts.
+During the answering period, the quizmaster will use only the following prompts.
 
 ##### Pronoun Clarification
 
@@ -50,7 +50,7 @@ On a Reference type question, if the quizzer has given all the information in bo
 
 ##### Answer Correction
 
-On a quote/finish type question, once the quizzer has quoted to the end of the required verse or verses, if the answer is not yet word-perfect, the quizmaster will say, "Again." This will occur as often as needed until the quizzer's answer is word-perfect or the question answer duration period expires. The quizmaster is not allowed to say "again" until the quizzer has come to the end of the verse, each time through, as this would give the quizzer information about where their mistake was made.
+On a quote/finish type question, once the quizzer has quoted to the end of the required verse or verses, if the answer is not yet word-perfect, the quizmaster will say, "Again." This will occur as often as needed until the quizzer's answer is word-perfect or the answering period expires. The quizmaster is not allowed to say "again" until the quizzer has come to the end of the verse, each time through, as this would give the quizzer information about where their mistake was made.
 
 For all other question types, once all of the information in both the question and answer has been given, but something needs to be fixed, the quizmaster will say "Again".
 

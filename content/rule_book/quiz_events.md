@@ -24,7 +24,7 @@ On all question types, a quizzer cannot automatically be ruled out of context by
 
 The correct person of the deity must be given. The quizzer may not move between persons of the deity when answering. Giving the name of a deity that is not correct is considered giving incorrect information.
 
-If a quizzer refers to any person of the deity as either "God" or "Lord", these must be clarified by the quizzer within the question answer duration period when the text requires a more specific answer.
+If a quizzer refers to any person of the deity as either "God" or "Lord", these must be clarified by the quizzer within the answering period when the text requires a more specific answer.
 
 "Jesus" and "Christ" are interchangeable (but refer to the person of the Son) and the quizzer will be called correct.
 
@@ -32,7 +32,7 @@ If a pronoun is used in the text to name the deity, any of the names for that pe
 
 When there is a special name of the deity given in the text, the special name must be given in the quizzer's answer. If the quizzer states any other special names which are not in context, the quizzer will be considered to have not stayed in context, even if they refer to the same person of the deity.
 
-When a quizzer gives other names for the same person of the deity, used within context, these should be allowed to be clarified within the question answer duration period when a more specific answer is needed.
+When a quizzer gives other names for the same person of the deity, used within context, these should be allowed to be clarified within the answering period when a more specific answer is needed.
 
 #### Example
 
@@ -55,7 +55,7 @@ The quizzer's response is correct when:
 
 If the quizmaster did not complete the reading of the question, the quizzer's answer must include the information in the remainder of the question as well as the answer. The quizzer's answer must include all unique words in both the question and the answer.
 
-Only the 1st response of the quizzer will be considered; however, if the response by the quizzer is in context and is not incorrect, the quizzer will be allowed their full question answer duration period to satisfy all requirements of a correct response.
+Only the 1st response of the quizzer will be considered; however, if the response by the quizzer is in context and is not incorrect, the quizzer will be allowed their full answering period to satisfy all requirements of a correct response.
 
 **Quiz-Out**
 : 4 correct questions by the same quizzer in the same quiz
@@ -74,7 +74,7 @@ Suppose an INT question was written:
 
 The correct answer is "God".
 
-If a quizzer answered "Apollos", they have given incorrect information (even though the name "Apollos" is in context) and would be immediately called incorrect. If they had said "I planted the seed, Apollos watered it", they have not given any incorrect information, are in context, and will be given the full question answer duration period to supply the correct answer required.
+If a quizzer answered "Apollos", they have given incorrect information (even though the name "Apollos" is in context) and would be immediately called incorrect. If they had said "I planted the seed, Apollos watered it", they have not given any incorrect information, are in context, and will be given the full answering period to supply the correct answer required.
 
 ### Incorrect
 
@@ -133,7 +133,7 @@ The quiz officials and quiz team coaches will meet privately and attempt to come
 
 ### Example
 
-As an example of a logistical rule, consider a scenario wherein the quizmaster did not allow the full question answer duration period to expire for the quizzer when the quizzer was in context and had not given any wrong information.
+As an example of a logistical rule, consider a scenario wherein the quizmaster did not allow the full answering period to expire for the quizzer when the quizzer was in context and had not given any wrong information.
 
 ## Fouls
 
