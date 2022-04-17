@@ -6,7 +6,7 @@ Prior to a quizzer's answer being correct or incorrect, quizzers may have up to 
 
 ### Logic
 
-    Set the question answer duration to 30.
+    Set the answering period duration to 30.
 
 ## Rulings
 
