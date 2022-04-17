@@ -151,7 +151,7 @@ For 15-question quizzes, prepare quizzes as normal for 20-question quizzes, but 
 - Coaches may have quiz material(s) on the platform during a timeout or prior to a quiz.
 - Quizzers will not touch the officials' table.
 - Quiz rooms will use jump measuring equipment to prevent ties.
-- Push-button jumping can be provided if needed by physically disabled quizzers.
+- Push-button quizzing can be provided if needed by physically disabled quizzers.
 
 ## Jumping
 
