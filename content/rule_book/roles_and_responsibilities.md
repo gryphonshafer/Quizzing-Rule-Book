@@ -6,7 +6,7 @@ A team can consist of up to 5 quizzers. Teams can have up to 4 quizzers seated i
 
 ### Captains
 
-Scorekeepers must be notified which quizzer is the captain and which is co-captain before the quizzers take their seats to begin the quiz. The captain and co-captain may change during a given competition but not during a quiz.
+Scorekeepers must be notified which quizzer is the captain and which is co-captain before the quiz begins. The captain and co-captain may change during a given competition but not during a quiz.
 
 Only the captain or co-captain may challenge a decision or respond to a challenge. If both the captain and co-captain have erred-out, another quizzer can be designated by the coach to respond to or initiate challenges.
 
@@ -30,19 +30,17 @@ The quizmaster must:
 
 When a quizzer's response contains a required completion of the question and that completion is different than the written question, the quizmaster will discuss it with the answer judge. If the quizzer gives a reference question that is different than the written question, the quizmaster and answer judge must ensure that the reference question given is the exact same type as the written question.
 
-The quizmaster should consult with the answer judge(s) at any time they feel is necessary, provided it does not infringe upon the quizzer's question answer duration period.
+The quizmaster should consult with the answer judge(s) at any time they feel is necessary, provided it does not infringe upon the quizzer's answering period.
 
 #### Quizmaster Prompts
 
-During the question answer duration period, the quizmaster will use only the following prompts.
+During the answering period, the quizmaster will use only the following prompts.
 
 ##### Pronoun Clarification
 
-If a quizzer has provided all the information in the answer, except the identification of a pronoun present which is part of the answer text, the quizmaster will ask the quizzer to identify the specific pronoun. For example: "Can you identify 'He'?" or "Can you identify 'They'?"
+If a quizzer has provided all the information in the question and answer, except the identification of a pronoun present which is part of the answer text, the quizmaster will prompt the quizzer to identify the specific pronoun. For example: "Can you identify 'He'?" or "Can you identify 'They'?"
 
 The quizmaster is not allowed to say anything other than what the quizzer has already said when asking for the identification. A pronoun may need to be identified only if the antecedent is in context.
-
-Once the quizzer has provided all information in the question and answer, the quizmaster will prompt the quizzer to identify the specific pronoun.
 
 ##### Reference Questions
 
@@ -50,7 +48,7 @@ On a Reference type question, if the quizzer has given all the information in bo
 
 ##### Answer Correction
 
-On a quote/finish type question, once the quizzer has quoted to the end of the required verse or verses, if the answer is not yet word-perfect, the quizmaster will say, "Again." This will occur as often as needed until the quizzer's answer is word-perfect or the question answer duration period expires. The quizmaster is not allowed to say "again" until the quizzer has come to the end of the verse, each time through, as this would give the quizzer information about where their mistake was made.
+On a quote/finish type question, once the quizzer has quoted to the end of the required verse or verses, if the answer is not yet word-perfect, the quizmaster will say, "Again." This will occur as often as needed until the quizzer's answer is word-perfect or the answering period expires. The quizmaster is not allowed to say "again" until the quizzer has come to the end of the verse, each time through, as this would give the quizzer information about where their mistake was made.
 
 For all other question types, once all of the information in both the question and answer has been given, but something needs to be fixed, the quizmaster will say "Again".
 
