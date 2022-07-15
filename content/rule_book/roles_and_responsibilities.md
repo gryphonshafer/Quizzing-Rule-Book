@@ -38,11 +38,9 @@ During the answering period, the quizmaster will use only the following prompts.
 
 ##### Pronoun Clarification
 
-If a quizzer has provided all the information in the answer, except the identification of a pronoun present which is part of the answer text, the quizmaster will ask the quizzer to identify the specific pronoun. For example: "Can you identify 'He'?" or "Can you identify 'They'?"
+If a quizzer has provided all the information in the question and answer, except the identification of a pronoun present which is part of the answer text, the quizmaster will prompt the quizzer to identify the specific pronoun. For example: "Can you identify 'He'?" or "Can you identify 'They'?"
 
 The quizmaster is not allowed to say anything other than what the quizzer has already said when asking for the identification. A pronoun may need to be identified only if the antecedent is in context.
-
-Once the quizzer has provided all information in the question and answer, the quizmaster will prompt the quizzer to identify the specific pronoun.
 
 ##### Reference Questions
 
