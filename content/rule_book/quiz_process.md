@@ -18,7 +18,7 @@ The process for running a quiz includes topics like types of quizzes, question t
 : Everything the quizmaster reads from the quiz question
 
 **Answer**
-: Everything the quizzer says while answering a question after being recognized by the quizmaster until their question answer duration period has elapsed or being called correct or incorrect
+: Everything the quizzer says while answering a question after being recognized by the quizmaster until their answering period has elapsed or being called correct or incorrect
 
 **Response**
 : A synonym for answer
