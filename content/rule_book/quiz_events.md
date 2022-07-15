@@ -14,29 +14,29 @@ Prior to a quizzer's answer being correct or incorrect, a quizzer has 30 seconds
 : Interchangeable words are words that can be substituted for each other in an answer such that a quizzer will still be counted correct.
 
 **Special Name**
-: A name that imparts specific character qualities or attributes to that person of the deity
+: A name that imparts specific character qualities or attributes to that person of the Trinity
 
 ### Context Application
 
 On all question types, a quizzer cannot automatically be ruled out of context by a single word, even if it is a unique word. Rather, the quizzer must say a complete thought or phrase that conclusively puts them out of context.
 
-### Deity Rule
+### Trinity Rule
 
-The correct person of the deity must be given. The quizzer may not move between persons of the deity when answering. Giving the name of a deity that is not correct is considered giving incorrect information.
+The correct person of the Trinity must be given. Giving the name of a different person of the Trinity is considered giving incorrect information.
 
-If a quizzer refers to any person of the deity as either "God" or "Lord", these must be clarified by the quizzer within the answering period when the text requires a more specific answer.
+If a quizzer refers to any person of the Trinity as either "God" or "Lord", these must be clarified by the quizzer within the answering period when the text requires a more specific answer.
 
 "Jesus" and "Christ" are interchangeable (but refer to the person of the Son) and the quizzer will be called correct.
 
-If a pronoun is used in the text to name the deity, any of the names for that person of the deity within context may be considered an acceptable answer when clarifying. If the pronoun naming the deity is identified by the quizzer using a name that correctly identifies the deity, but with an identification that is out of context, the quizzer will be considered to have not stayed in context.
+If a pronoun is used in the text to name a person of the Trinity, any of the names for that person of the Trinity within context may be considered an acceptable answer when clarifying. If the pronoun naming that person of the Trinity is identified by the quizzer using a name that correctly identifies the person of the Trinity, but with an identification that is out of context, the quizzer will be considered to have not stayed in context.
 
-When there is a special name of the deity given in the text, the special name must be given in the quizzer's answer. If the quizzer states any other special names which are not in context, the quizzer will be considered to have not stayed in context, even if they refer to the same person of the deity.
+When there is a special name of God given in the text, the special name must be given in the quizzer's answer. If the quizzer states any other special names which are not in context, the quizzer will be considered to have not stayed in context, even if they refer to the same person of the Trinity.
 
-When a quizzer gives other names for the same person of the deity, used within context, these should be allowed to be clarified within the answering period when a more specific answer is needed.
+When a quizzer gives other names for the same person of the Trinity, used within context, these should be allowed to be clarified within the answering period when a more specific answer is needed.
 
 #### Example
 
-Examples of special names of a deity are:
+Examples of special names of God are:
 
 - "The Lord God Almighty"
 - "The Bread of Life"
