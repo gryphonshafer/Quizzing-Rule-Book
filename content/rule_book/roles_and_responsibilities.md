@@ -94,4 +94,4 @@ The scorekeeper will:
 The statistician will be responsible for:
 
 - Keeping individual quizzers' scores
-- Keeping individual teams' scores
+- Keeping team scores
