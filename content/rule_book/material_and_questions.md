@@ -120,7 +120,7 @@ Reference question type group questions are used to distinguish between exact du
 
 If a quizzer needs to provide the reference question, the provided reference question must:
 
-- Be of the exact same question type (CR, CVR, MACR, MACVR) as the written question
+- Be of the exact same question type (CR, CVR, CRMA, CVRMA) as the written question
 - Have content and wording similar to the content and wording of the written question
 
 Only the material is used, not the choice of interrogative word, when deciding whether a question is an INT versus CR versus CVR.
@@ -143,7 +143,7 @@ A CR question could be written: "What deeds?" The answer would be: "Lawless." If
 
 If 2 identical phrases exist in the same chapter, but 1 occurrence grammatically calls for use of the "who" inserted interrogative word, and the other occurrence grammatically calls for the use of the "what" inserted interrogative word, that difference in the grammatically dictated interrogative word does not change the fact that the phrase from the material (that excludes the inserted interrogative word) occurs more than once in the same chapter, necessitating a CVR question.
 
-The above does not mean that if the quizzer needs to provide a reference question that is a CVR, and their choice of interrogative word changes the question type to MACVR, that the quizzer has given a valid CVR. In this case, the validity changes based on the interrogative word because of how the required answer changes.
+The above does not mean that if the quizzer needs to provide a reference question that is a CVR, and their choice of interrogative word changes the question type to CVRMA, that the quizzer has given a valid CVR. In this case, the validity changes based on the interrogative word because of how the required answer changes.
 
 ##### Chapter Verse Reference (CVR)
 
@@ -164,12 +164,12 @@ The question text should be in the form:
 
 > According to [book name], chapter [chapter number], [remainder of question text]
 
-##### Multiple Answer Chapter Verse Reference (MACVR)
+##### Chapter Verse Reference Multiple Answer (CVRMA)
 
 - Must meet all the requirements of a CVR except the single answer requirement
 - Must also meet all the requirements of a MA except the unique word or phrase requirement
 
-##### Multiple Answer Chapter Reference (MACR)
+##### Chapter Reference Multiple Answer (CRMA)
 
 - Must meet all the requirements of a CR except the single answer requirement
 - Must also meet all the requirements of a MA except the unique word or phrase requirement
@@ -268,7 +268,7 @@ Questions must be declared invalid by the quizmaster or answer judge(s) if:
 - The question is multiple-choice
 - If the question is not answered
 
-When a question is deemed invalid and thrown out, it must be replaced with the exact same type of question. For example, an MACVR must be replaced with an MACVR, not any multiple-answer reference question.
+When a question is deemed invalid and thrown out, it must be replaced with the exact same type of question. For example, a CVRMA must be replaced with an CVRMA, not any multiple-answer reference question.
 
 #### Example
 
