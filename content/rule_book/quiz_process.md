@@ -18,7 +18,7 @@ The process for running a quiz includes topics like types of quizzes, question t
 : Everything the quizmaster reads from the quiz question
 
 **Answer**
-: Everything the quizzer says while answering a question after being recognized by the quizmaster until their question answer duration period has elapsed or being called correct or incorrect
+: Everything the quizzer says while answering a question after being recognized by the quizmaster until their answering period has elapsed or being called correct or incorrect
 
 **Response**
 : A synonym for answer
@@ -129,7 +129,7 @@ In the below table, any minimum or maximum variation between material seasons is
 |-----------------|--------:|--------:|----------------------|
 | Interrogative   |     8/9 |   14/16 | INT                  |
 | Multiple Answer |       1 |       2 | MA                   |
-| Reference       |       3 |     6/7 | CR, CVR, MACR, MACVR |
+| Reference       |       3 |     6/7 | CR, CVR, CRMA, CVRMA |
 | Quote           |     2/3 |     3/4 | Q, Q2V               |
 | Finish          |       3 |       4 | FT, FTN, FTV, F2V    |
 | Situation       |     2/0 |     4/0 | SIT                  |
@@ -151,7 +151,7 @@ For 15-question quizzes, prepare quizzes as normal for 20-question quizzes, but 
 - Coaches may have quiz material(s) on the platform during a timeout or prior to a quiz.
 - Quizzers will not touch the officials' table.
 - Quiz rooms will use jump measuring equipment to prevent ties.
-- Push-button quizzing can be provided if needed by physically disabled quizzers.
+- Alternative jumping methods can be provided if needed by physically disabled quizzers.
 
 ## Jumping
 

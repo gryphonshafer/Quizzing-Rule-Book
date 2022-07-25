@@ -12,17 +12,11 @@ If ties are not being broken in prelims, more than 1 team can receive 1st place 
 
 ### Team Points Calculation
 
-Team points are calculated by dividing the team score immediately after question 20 by 10 and then applying placement adjustment:
+Team points are calculated by dividing the team score immediately after question 20 (including any A and B questions) by 10 and then applying placement adjustment:
 
-- No change for 1st
-- -1 points for 2nd
-- -2 points for 3rd
-
-A team will be awarded a minimum of team points based on their placement:
-
-- 10 for 1st
-- 5 for 2nd
-- 1 for 3rd
+- No change for 1st, minimum of 10 points
+- -1 points for 2nd, minimum of 5 points
+- -2 points for 3rd, minimum of 1 point
 
 #### Logic
 
