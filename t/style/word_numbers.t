@@ -12,7 +12,7 @@ my $words = join( '|', qw(
     fifteen sixteen seventeen eighteen nineteen twenty
 ) );
 
-path( "$root_dir/" . conf->get('content_dir') )->list_tree->each( sub {
+path( $root_dir . '/' . $_ )->list_tree->each( sub {
     my $file = $_;
     my ( $line, @lines );
     for ( split( /\n/, $file->slurp ) ) {
@@ -27,6 +27,6 @@ path( "$root_dir/" . conf->get('content_dir') )->list_tree->each( sub {
             map { ' ' x 4 . $_->[0] . ', line ' . $_->[1] } @lines
         )
     );
-} );
+} ) for ( @{ conf->get('content_dirs') } );
 
 done_testing;

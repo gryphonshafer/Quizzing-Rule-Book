@@ -3,11 +3,7 @@ use exact -conf;
 use Mojo::File 'path';
 
 my $root_dir      = conf->get( qw( config_app root_dir ) );
-my $rule_book_dir = join( '/', map { conf->get(@$_) } (
-    [ qw( config_app root_dir ) ],
-    ['content_dir'],
-    [ qw( rule_book dir ) ],
-) );
+my $rule_book_dir = join( '/', map { conf->get(@$_) } ( [ qw( config_app root_dir ) ], ['rule_book_dir'] ) );
 
 my ( $acronymic_terms, $acronyms );
 path($rule_book_dir)->list_tree->each( sub {
