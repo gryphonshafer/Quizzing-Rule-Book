@@ -5,6 +5,7 @@ defaults:
     toc: true
     numerate: true
     paged: true
+    pdf_wait: 5
 builds:
   - basename: rule_book_std
     filter:
