@@ -5,22 +5,15 @@ use Mojo::DOM;
 use Mojo::File 'path';
 use Text::MultiMarkdown 'markdown';
 
-my $rule_book_dir = join( '/', map { conf->get(@$_) } (
-    [ qw( config_app root_dir ) ],
-    ['content_dir'],
-    [ qw( rule_book dir ) ],
-) );
+my $rule_book_dir = join( '/', map { conf->get(@$_) } ( [ qw( config_app root_dir ) ], ['rule_book_dir'] ) );
 
 my $tables;
 
 ok(
     lives {
-        $tables = Mojo::DOM
-            ->new( markdown( path("$rule_book_dir/index.md")->slurp ) )
-            ->find('a')->map( attr => 'href' )->grep( sub { not m|//| } )->map( sub {
-                Mojo::DOM->new(
-                    markdown( path("$rule_book_dir/$_")->slurp
-                ) )->find('table')->map( sub {
+        $tables = path($rule_book_dir)->list_tree->map( sub {
+            @{
+                Mojo::DOM->new( markdown( $_->slurp ) )->find('table')->map( sub {
                     my $headers = $_->find('thead tr th')->map('text')->to_array;
                     my $node    = $_;
                     $node       = $node->previous while ( $node and $node->tag and $node->tag !~ /^h\d$/ );
@@ -33,8 +26,9 @@ ok(
                             $row;
                         } )->to_array,
                     };
-                } );
-            } )->grep( sub { $_->size } )->map( sub { @{ $_->to_array } } )->to_array
+                } )->to_array
+            };
+        } )->to_array;
     },
     'parse content for tables',
 ) or note $@;

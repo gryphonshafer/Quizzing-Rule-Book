@@ -1,0 +1,36 @@
+defaults:
+    workspace: rule_book
+    directory: output
+    cover: true
+    toc: true
+    numerate: true
+    paged: true
+builds:
+  - basename: rule_book_std
+    filter:
+      - Logic
+    env:
+        build_label: Standard Render
+  - basename: rule_book_min
+    filter:
+      - Special Sections
+      - Terms
+      - Term
+      - Examples
+      - Example
+      - Commentary
+      - Logic
+    remove_terms: true
+    env:
+        build_label: Minimalist Render
+  - basename: rule_book_ref
+    filter:
+      - Terms
+      - Logic
+    remove_terms: true
+    glossary: true
+    env:
+        build_label: Reference Render
+  - basename: rule_book_full
+    env:
+        build_label: Full-Content Render
