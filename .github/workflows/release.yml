@@ -10,7 +10,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - uses: gryphonshafer/GitHub-MD-Book@v2
+      - uses: gryphonshafer/GitHub-MD-Book@v3
         with:
           settings: .github/github-md-book.yml
       - env:
