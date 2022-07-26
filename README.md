@@ -14,33 +14,33 @@ The following are the current official renders of documents auto-built from sour
 
 The standard render filters logic sections but keeps everything else.
 
-- [Rule Book: Standard Render as HTML](https://gldg.us/gh/gryphonshafer/test-book/releases/latest/download/rule_book_std.html)
-- [Rule Book: Standard Render as "Paged" HTML](https://gldg.us/gh/gryphonshafer/test-book/releases/latest/download/rule_book_std.paged.html)
-- [Rule Book: Standard Render as Markdown](https://gldg.us/gh/gryphonshafer/test-book/releases/latest/download/rule_book_std.md)
+- [Rule Book: Standard Render as HTML](https://gldg.us/gh/gryphonshafer/Quizzing-Rule-Book/releases/latest/download/rule_book_std.html)
+- [Rule Book: Standard Render as "Paged" HTML](https://gldg.us/gh/gryphonshafer/Quizzing-Rule-Book/releases/latest/download/rule_book_std.paged.html)
+- [Rule Book: Standard Render as Markdown](https://gldg.us/gh/gryphonshafer/Quizzing-Rule-Book/releases/latest/download/rule_book_std.md)
 
 ### Rule Book: Minimalist Render
 
 The minimalist render filters all special sections (such as terms, examples, commentary, and logic).
 
-- [Rule Book: Minimalist Render as HTML](https://gldg.us/gh/gryphonshafer/test-book/releases/latest/download/rule_book_min.html)
-- [Rule Book: Minimalist Render as "Paged" HTML](https://gldg.us/gh/gryphonshafer/test-book/releases/latest/download/rule_book_min.paged.html)
-- [Rule Book: Minimalist Render as Markdown](https://gldg.us/gh/gryphonshafer/test-book/releases/latest/download/rule_book_min.md)
+- [Rule Book: Minimalist Render as HTML](https://gldg.us/gh/gryphonshafer/Quizzing-Rule-Book/releases/latest/download/rule_book_min.html)
+- [Rule Book: Minimalist Render as "Paged" HTML](https://gldg.us/gh/gryphonshafer/Quizzing-Rule-Book/releases/latest/download/rule_book_min.paged.html)
+- [Rule Book: Minimalist Render as Markdown](https://gldg.us/gh/gryphonshafer/Quizzing-Rule-Book/releases/latest/download/rule_book_min.md)
 
 ### Rule Book: Reference Render
 
 The "reference" render contains all material except for logic sections, and it moves all terms/definitions to an appendix.
 
-- [Rule Book: Reference Render as HTML](https://gldg.us/gh/gryphonshafer/test-book/releases/latest/download/rule_book_ref.html)
-- [Rule Book: Reference Render as "Paged" HTML](https://gldg.us/gh/gryphonshafer/test-book/releases/latest/download/rule_book_ref.paged.html)
-- [Rule Book: Reference Render as Markdown](https://gldg.us/gh/gryphonshafer/test-book/releases/latest/download/rule_book_ref.md)
+- [Rule Book: Reference Render as HTML](https://gldg.us/gh/gryphonshafer/Quizzing-Rule-Book/releases/latest/download/rule_book_ref.html)
+- [Rule Book: Reference Render as "Paged" HTML](https://gldg.us/gh/gryphonshafer/Quizzing-Rule-Book/releases/latest/download/rule_book_ref.paged.html)
+- [Rule Book: Reference Render as Markdown](https://gldg.us/gh/gryphonshafer/Quizzing-Rule-Book/releases/latest/download/rule_book_ref.md)
 
 ### Rule Book: Full-Content Render
 
 The full-content render contains all material.
 
-- [Rule Book: Full-Content Render as HTML](https://gldg.us/gh/gryphonshafer/test-book/releases/latest/download/rule_book_full.html)
-- [Rule Book: Full-Content Render as "Paged" HTML](https://gldg.us/gh/gryphonshafer/test-book/releases/latest/download/rule_book_full.paged.html)
-- [Rule Book: Full-Content Render as Markdown](https://gldg.us/gh/gryphonshafer/test-book/releases/latest/download/rule_book_full.md)
+- [Rule Book: Full-Content Render as HTML](https://gldg.us/gh/gryphonshafer/Quizzing-Rule-Book/releases/latest/download/rule_book_full.html)
+- [Rule Book: Full-Content Render as "Paged" HTML](https://gldg.us/gh/gryphonshafer/Quizzing-Rule-Book/releases/latest/download/rule_book_full.paged.html)
+- [Rule Book: Full-Content Render as Markdown](https://gldg.us/gh/gryphonshafer/Quizzing-Rule-Book/releases/latest/download/rule_book_full.md)
 
 ## Project Overview
 
