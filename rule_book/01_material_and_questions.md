@@ -202,7 +202,9 @@ The question text should be in the form:
 
 ##### Finish
 
-Finish questions have question text consisting of the 1st 5 words of material starting based on the question type. These 1st 5 words must be unique to all possible finish questions of the exact same type; for example, FTV compared to all possible FTVs, FT to all possible FTs, F2V to all possible F2Vs, and FTN to all possible FTNs.
+- Finish questions have question text consisting of the 1st 5 words of material starting based on the question type. 
+- These 1st 5 words must be unique to all possible finish questions of the exact same type; for example, FTV compared to all possible FTVs, FT to all possible FTs, F2V to all possible F2Vs, and FTN to all possible FTNs.
+- Since the question text must have exactly 5 words, a valid FTV or FT must be six words or more total. Likewise, the full text of a FT2V or FTN must contain six or more words.
 
 ##### Finish the Verse (FTV)
 
