@@ -16,7 +16,7 @@ The quizmaster should:
 - Read at a normal conversation rate. Hesitating or reading too quickly must be avoided since either may cause inaccurate quizzing.
     - Read all questions at the same rate of speed with the ability to stop reading the question at the exact moment a jump is made.
 - Keep the quiz moving at a consistent pace. A quiz should not be rushed, but it is important to maintain the quickest pace which does not interfere with accuracy.
-- Be open to a challenge and be willing to evaluate whatever the captains or co-captains feel is in error.
+- Be open to an appeal and be willing to evaluate whatever the captains or co-captains feel is in error.
 - Facilitate a positive, uplifting environment throughout the quiz. Quizmasters should speak clearly and be enthusiastic about quizzing. To this end, quizzers should be called by name, the score should be announced often (when a scoreboard is not present), and bonuses and quiz-outs should be promptly recognized.
 
 ## Answer Judge
