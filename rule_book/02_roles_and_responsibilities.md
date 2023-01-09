@@ -8,15 +8,15 @@ A team can consist of up to 5 quizzers. Teams can have up to 4 quizzers seated i
 
 Scorekeepers must be notified which quizzer is the captain and which is co-captain before the quiz begins. The captain and co-captain may change during a given competition but not during a quiz.
 
-Only the captain or co-captain may challenge a decision or respond to a challenge. If both the captain and co-captain have erred-out, another quizzer can be designated by the coach to respond to or initiate challenges.
+Only the captain or co-captain may appeal a decision or respond to an appeal. If both the captain and co-captain have erred-out, another quizzer can be designated by the coach to respond to or initiate appeals.
 
 ## Quiz Officials
 
 No comment other than "correct" or "incorrect" need be announced by the quiz officials when announcing a ruling; however, at the discretion of the *quizmaster* (QM) and *answer judge* (AJ), or at the request of the captain, additional information may be given.
 
-If the additional information regarding the ruling is provided at the discretion of the QM/AJ and not at the request of the captain, this is not considered an explanation of a ruling, which would invalidate a challenge or protest.
+If the additional information regarding the ruling is provided at the discretion of the QM/AJ and not at the request of the captain, this is not considered an explanation of a ruling, which would invalidate an appeal or protest.
 
-If the captain requests additional information regarding the ruling, this is considered an explanation of a ruling and invalidates a challenge or protest. Before replying to a request for an explanation, the QM must ask all teams if they wish to challenge.
+If the captain requests additional information regarding the ruling, this is considered an explanation of a ruling and invalidates an appeal or protest. Before replying to a request for an explanation, the QM must ask all teams if they wish to appeal.
 
 All conferring between quizmaster and answer judge(s) shall be done privately.
 
