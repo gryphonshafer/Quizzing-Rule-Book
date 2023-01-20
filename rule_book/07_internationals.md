@@ -8,8 +8,8 @@ All quizzers for IBQ competition must be 12 to 18 years of age at any point duri
 
 In order to quiz at Internationals for a specific district:
 
-- The quizzer must reside in that district or in a bordering community
-- Their home church must be from the district in which they quiz
+- The quizzer must reside in that zone or in a bordering community
+- Their home church must be from the zone in which they quiz
 
 Any exceptions to this must be brought to the CQLT.
 
