@@ -57,6 +57,4 @@ Questions must be written covering the entire material for the quiz season. Ques
 
 Electronic jump-seat equipment must be used for all competitions. A backup set must be on hand at all times.
 
-An unofficial scoreboard must be maintained in full view of the audience at all times or the score read at the beginning of each timeout.
-
 An audio recording system must be used in all rooms.
