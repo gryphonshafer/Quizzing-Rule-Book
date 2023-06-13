@@ -127,12 +127,14 @@ In the below table, any minimum or maximum variation between material seasons is
 
 | Type Group      | Minimum | Maximum | Question Types       |
 |-----------------|--------:|--------:|----------------------|
-| Interrogative   |     8/9 |   14/16 | INT                  |
-| Multiple Answer |       1 |       2 | MA                   |
-| Reference       |       3 |     6/7 | CR, CVR, CRMA, CVRMA |
-| Quote           |     2/3 |     3/4 | Q, Q2V               |
-| Finish          |       3 |       4 | FT, FTN, FTV, F2V    |
+| Interrogative   |       7 |      14 | INT                  |
+| Multiple Answer |       2 |       4 | MA                   |
+| Reference       |       3 |       5 | CR, CVR, CRMA, CVRMA |
+| Quote           |       2 |       3 | Q, Q2V               |
+| Finish          |       3 |       5 | FT, FTN, FTV, F2V    |
 | Situation       |     2/0 |     4/0 | SIT                  |
+
+At least one of the reference questions will be a CVR or CVRMA, and at least one of the reference questions will be a CR or a CRMA.
 
 For a given Question Type:
 
