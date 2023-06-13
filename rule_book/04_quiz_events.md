@@ -92,38 +92,38 @@ The quizzer's response is incorrect when:
 
 An err-out eliminates that quizzer from the quiz. The quizzer must leave the platform immediately.
 
-## Challenges
+## Appeals
 
-Challenges exist so quizzers can contest rulings made by quiz officials. The team captain or co-captain may challenge if:
+Appeals exist so quizzers can contest rulings made by quiz officials. The team captain or co-captain may appeal if:
 
 - The quiz officials have applied the rule book incorrectly
 - The quizmaster mispronounced a word
 - The question is invalid
 
-A challenge must be made at the time of the quizmaster's decision and before the quizmaster makes known the next question's type. If a timeout is called immediately after a ruling, and a quizzer stands to challenge, the challenge may be conducted prior to the timeout.
+An appeal must be made at the time of the quizmaster's decision and before the quizmaster makes known the next question's type. If a timeout is called immediately after a ruling, and a quizzer stands to appeal, the appeal may be conducted prior to the timeout.
 
-No conferring is allowed between the quizzer challenging and anyone else. Conferring with anyone else prior to a challenge will result in:
+No conferring is allowed between the quizzer challenging and anyone else. Conferring with anyone else prior to an appeal will result in:
 
-- The challenge being disallowed
+- The appeal being disallowed
 - A foul being awarded to the quizzer
 
-Once a team has requested an explanation of a ruling, and that explanation has been given, all teams lose the right to challenge. If an explanation of a ruling is requested, the quizmaster will ask if any team wants to challenge.
+Once a team has requested an explanation of a ruling, and that explanation has been given, all teams lose the right to appeal. If an explanation of a ruling is requested, the quizmaster will ask if any team wants to appeal.
 
-The result of a challenge may not be challenged.
+The result of an appeal may not be appealed.
 
-If the challenge is accepted:
+If the appeal is accepted:
 
 - Points earned or deducted that reflect the new ruling of the judge will be recorded.
-- A new question of the same number will be given if the outcome of the challenge dictates the question needs to be redone.
+- A new question of the same number will be given if the outcome of the appeal dictates the question needs to be redone.
 
-When a challenge is made, the quizmaster must give each team's captain or co-captain an opportunity to speak to the challenge before making a ruling on the challenge. Whichever team is being challenged against will have the right to speak last.
+When an appeal is made, the quizmaster must give each team's captain or co-captain an opportunity to speak to the appeal before making a ruling on the appeal. Whichever team is being appealed against will have the right to speak last.
 
 ## Protests
 
 Coaches, including assistant coaches, of the teams participating in a quiz may place the quiz under protest under the following conditions:
 
 - When a coach feels a logistical rule has been broken by the quiz officials
-- When a coach feels a ruling on a challenge is incorrect
+- When a coach feels a ruling on an appeal is incorrect
 
 The protest must apply to the question or ruling that just occurred. The protest must be placed before the quizmaster makes known the next question's type. If a protest is launched after question number 20 is completed it must be done immediately after the ruling is announced.
 
@@ -156,7 +156,7 @@ The following are fouls:
 - During a reference or quote question, if any light goes on after the quizmaster calls "Question" and before they begin to discernibly read the chapter number
 - Starting to answer before being recognized by the quizmaster
 - Having more than the designated team members, 1 coach, and 1 assistant coach on the quiz platform during a timeout
-- If a captain or co-captain confers with their coach or other quizzers prior to issuing a challenge; in addition, the challenge will not be allowed
+- If a captain or co-captain confers with their coach or other quizzers prior to issuing an appeal; in addition, the appeal will not be allowed
 - Infraction of the rules, in letter or spirit, as discerned by the quiz officials
 
 **Individual Fouls**
