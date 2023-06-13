@@ -53,7 +53,7 @@ The quizzer's response is correct when:
 - The quizzer stays in context
 - Mispronounced names are still recognizable as the answer
 
-If the quizmaster did not complete the reading of the question, the quizzer's answer must include the information in the remainder of the question as well as the answer. The quizzer's answer must include all unique words in both the question and the answer.
+If the quizmaster did not complete the reading of the question, the quizzer's answer must include the information in the remainder of the question as well as the answer.
 
 Only the 1st response of the quizzer will be considered; however, if the response by the quizzer is in context and is not incorrect, the quizzer will be allowed their full answering period to satisfy all requirements of a correct response.
 
