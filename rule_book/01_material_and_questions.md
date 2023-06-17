@@ -94,26 +94,6 @@ Interrogative questions, also called standard, regular, normal, general, and str
     - The identification of a singular pronoun does not meet the above requirement
     - The identification of a plural pronoun does meet the above requirement if there is more than 1 clarification of the pronoun
 
-In addition, an MA question is invalid if 1 of the listed answers to the multiple answer's questions is a "negative" answer. A "negative" answer is an answer used to contrast another answer or an answer that does not answer the question, such as an answer that begins with the words or similar words to "not" or "neither".
-
-##### Examples
-
-For an example of a negative word, consider 1 Corinthians 3:7:
-
-> So neither the one who plants nor the one who waters is anything, but only God, who makes things grow.
-
-The question "Who is anything?" would require the answer:
-
-> Neither the one who plants nor the one who waters.
-
-This is an invalid MA.
-
-Consider 1 Corinthians 9:25:
-
-> Everyone who competes in the games goes into strict training. They do it to get a crown that will not last, but we do it to get a crown that will last forever.
-
-The question "A crown that will what?" with an answer "Not last; last forever" is an invalid MA.
-
 #### Reference
 
 Reference question type group questions are used to distinguish between exact duplicate words or phrases from the material. The entire reference question is part of the required question and answer.
@@ -268,10 +248,5 @@ Questions must be declared invalid by the quizmaster or answer judge(s) if:
 - The answer requires interpretation by the quizzer
 - The question is ambiguous, tricky, or misleading
 - The question is multiple-choice
-- If the question is not answered
 
 When a question is deemed invalid and thrown out, it must be replaced with the exact same type of question. For example, a CVRMA must be replaced with an CVRMA, not any multiple-answer reference question.
-
-#### Example
-
-To help illustrate more the idea of "if the question is not answered", consider a scenario where the question asks, "What is good?", and the answer states what is not good. In this case, the question is not answered and is tricky or misleading.
