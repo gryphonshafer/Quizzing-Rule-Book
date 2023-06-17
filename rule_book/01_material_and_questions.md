@@ -94,26 +94,6 @@ Interrogative questions, also called standard, regular, normal, general, and str
     - The identification of a singular pronoun does not meet the above requirement
     - The identification of a plural pronoun does meet the above requirement if there is more than 1 clarification of the pronoun
 
-In addition, an MA question is invalid if 1 of the listed answers to the multiple answer's questions is a "negative" answer. A "negative" answer is an answer used to contrast another answer or an answer that does not answer the question, such as an answer that begins with the words or similar words to "not" or "neither".
-
-##### Examples
-
-For an example of a negative word, consider 1 Corinthians 3:7:
-
-> So neither the one who plants nor the one who waters is anything, but only God, who makes things grow.
-
-The question "Who is anything?" would require the answer:
-
-> Neither the one who plants nor the one who waters.
-
-This is an invalid MA.
-
-Consider 1 Corinthians 9:25:
-
-> Everyone who competes in the games goes into strict training. They do it to get a crown that will not last, but we do it to get a crown that will last forever.
-
-The question "A crown that will what?" with an answer "Not last; last forever" is an invalid MA.
-
 #### Reference
 
 Reference question type group questions are used to distinguish between exact duplicate words or phrases from the material. The entire reference question is part of the required question and answer.
