@@ -246,10 +246,5 @@ Questions must be declared invalid by the quizmaster or answer judge(s) if:
 - The answer requires interpretation by the quizzer
 - The question is ambiguous, tricky, or misleading
 - The question is multiple-choice
-- If the question is not answered
 
 When a question is deemed invalid and thrown out, it must be replaced with the exact same type of question. For example, a CVRMA must be replaced with an CVRMA, not any multiple-answer reference question.
-
-#### Example
-
-To help illustrate more the idea of "if the question is not answered", consider a scenario where the question asks, "What is good?", and the answer states what is not good. In this case, the question is not answered and is tricky or misleading.
