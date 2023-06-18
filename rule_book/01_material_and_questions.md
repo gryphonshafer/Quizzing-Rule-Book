@@ -27,7 +27,7 @@ Bible Quizzing meets consist of a series of quizzes, which themselves consist of
 : 2 or 3 consecutive words appearing in only 1 verse in the material
 
 **1st 5 Words of the Question**
-: The 1st 5 words of the question text that are from the material and the interrogative word
+: The 1st 5 words of the question text that are from the material and the interrogative word. Hyphenated words count as one word. Examples: peace-loving, co-workers, super-apostles, double-minded
 
 ## Material Rotation Schedule
 
