@@ -22,7 +22,7 @@ All points earned or deducted by an individual are to be counted towards the tea
 
 #### Points Earned
 
-- +10 points for the 1st correct answer given by the 3rd and subsequent quizzer on the team
+- +10 points for the 1st correct answer given by the 3rd and subsequent quizzer on the team, excluding bonus questions
 - +20 points for every correct bonus question before question number 17
      - In 2-team quizzes, this scoring rule does not apply
 - +10 points for every correct bonus question after and including question number 17
