@@ -2,7 +2,7 @@
 
 ## Answer Duration
 
-Prior to a quizzer's answer being correct or incorrect, a quizzer has 30 seconds to provide their answer.
+Prior to a quizzer's answer being correct or incorrect, a quizzer has 30 seconds to provide their answer. If a quizzer who has stood to answer sits back down on their seat during the answering period, they forfeit the remainder of their time.
 
 ### Logic
 
