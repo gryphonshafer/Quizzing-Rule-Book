@@ -42,33 +42,13 @@ Team points are calculated by dividing the team score immediately after question
 
 ## Elimination Rounds
 
-When more than 9 teams are involved, at the determination of the meet director and announced before the meet begins, there may be XYZ quizzes following these guidelines:
+The following may be used, in order, to break ties in team placements after preliminary quizzing:
 
-- If there are 10 to 14 teams, the top 9 should be placed into a final 9 championship bracket after the opening round, for the elimination round, and the remaining teams dropped.
-- If there are 15 to 20 teams, the top 6 teams should be placed in the championship bracket, the next 9 places (7 through 15) should quiz in the intermediate quizzes given below (XYZ) and the remaining teams should be dropped.
-- If there are more than 24 teams, the top 6 should be placed in the championship bracket, teams 7-15 should quiz in the XYZ quizzes to determine places 7-15. Teams 16-24 will quiz in XXYYZZ intermediate quizzes given below to determine their placement.
+Head-to-head competition in previous quizzes
+Total points scored in preliminaries
+Least number of errors
 
-A Consolation Final 9 bracket will be used for positions 10-15 (determined by XYZ quizzes) and places 16-18 determined by XXYYZZ quizzes. The teams in the XYZ quizzes cannot move below position 15, regardless of how low their XYZ quiz score was. Likewise, the teams in the XXYYZZ quizzes cannot move above position 16, regardless of how high their intermediate quiz scores were.
-
-**XYZ Quizzes**
-
-- Quiz X: Teams 7, 12, 15
-- Quiz Y: Teams 8, 11, 14
-- Quiz Z: Teams 9, 10, 13
-
-**XXYYZZ Quizzes**
-
-- Quiz XX: Teams 16, 21, 24
-- Quiz YY: Teams 17, 20, 23
-- Quiz ZZ: Teams 18, 19, 22
-
-There will be a tie-breaker quiz for positions 6, 15, and 24. Ties for positions 7 through 14 will be broken in accordance with the following priorities:
-
-- Head-to-head competition in previous quizzes
-- Total points scored in preliminaries
-- Least number of errors
-
-Points earned in these quizzes should be added to the points earned in the opening round by each team. The highest 3 teams, based on the point system above, are then placed in the above bracket. The next 6 teams are placed in the lower bracket.
+In addition, a tie-breaker quiz may be used for ties that determine which bracket a team will compete in for elimination quizzing.
 
 ### Elimination Round Brackets
 
