@@ -46,7 +46,7 @@ The quizmaster is not allowed to say anything other than what the quizzer has al
 
 On a Quote or Reference type question, if the quizmaster did not finish saying the entire reference before the quizzer jumped, then the quizmaster will prompt for the reference. For example: "What is your reference?" or "Your reference?".
 
-#### What is your question?
+##### What is your question?
 
 On a Reference type question, if the quizzer has given all the information in both the question and the answer and the complete question was not read, the quizmaster will prompt for the question. For example: "What is your question?" or "Question?".
 
