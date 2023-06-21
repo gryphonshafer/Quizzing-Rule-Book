@@ -34,35 +34,29 @@ The quizmaster should consult with the answer judge(s) at any time they feel is 
 
 #### Quizmaster Prompts
 
-During the answering period, the quizmaster will use only the following prompts.
+During the answering period, the quizmaster will prompt the quizzer in the following ways. If the quizmaster has given a prompt that is clear and is in keeping with the spirit of these rules even if not word for word, it is acceptable as long as the occasion for the prompt is still correct.
 
-##### Pronoun Clarification
+##### Clarify
 
-If a quizzer has provided all the information in the question and answer, except the identification of a pronoun present which is part of the answer text, the quizmaster will prompt the quizzer to identify the specific pronoun. For example: "Can you identify 'He'?" or "Can you identify 'They'?"
+If a quizzer has provided all the information in the question and answer, except the identification of a pronoun present which is part of the answer text, the quizmaster will prompt the quizzer to identify the specific pronoun. For example: "Can you clarify 'He'?" or "Clarify 'They.'"
 
 The quizmaster is not allowed to say anything other than what the quizzer has already said when asking for the identification. A pronoun may need to be identified only if the antecedent is in context.
 
-##### Reference Questions
+##### What is your reference?
 
-On a Reference type question, if the quizzer has given all the information in both the question and the answer and the complete question was not read, the quizmaster will ask, "What is your question?"
+On a Quote or Reference type question, if the quizmaster did not finish saying the entire reference before the quizzer jumped, then the quizmaster will prompt for the reference. For example: "What is your reference?" or "Your reference?".
 
-##### Answer Correction
+#### What is your question?
 
-On a quote/finish type question, once the quizzer has quoted to the end of the required verse or verses, if the answer is not yet word-perfect, the quizmaster will say, "Again." This will occur as often as needed until the quizzer's answer is word-perfect or the answering period expires. The quizmaster is not allowed to say "again" until the quizzer has come to the end of the verse, each time through, as this would give the quizzer information about where their mistake was made.
+On a Reference type question, if the quizzer has given all the information in both the question and the answer and the complete question was not read, the quizmaster will prompt for the question. For example: "What is your question?" or "Question?".
 
-For all other question types, once all of the information in both the question and answer has been given, but something needs to be fixed, the quizmaster will say "Again".
+##### Again
+
+On a Quote or Finish type question, once the quizzer has quoted to the end of the required verse or verses, if the answer is not yet word-perfect, the quizmaster will say, "Again." This will occur as often as needed until the quizzer's answer is word-perfect or the answering period expires. The quizmaster is not allowed to say "Again" until the quizzer has come to the end of the verse, each time through, as this would give the quizzer information about where their mistake was made.
 
 ##### Quote is Complete
 
-On a Situation type question, when the quizzer has completed the quotation, the quizmaster will say, "Quote is complete."
-
-##### Appending an Answer
-
-On an INT or MA question, if all the information in the answer text has been given but the quizzer is missing information in the question text, the quizmaster will say "More".
-
-On a Situation question, because the quotation is part of the question, the quizmaster will say "More" when required information from the quotation is missing.
-
-On a Quote or Reference question, if either the chapter or verse number were not completely finished when the quizzer jumped, the quizmaster will say "More".
+On a Situation type question, when the quizzer has completed the quotation, the quizmaster will tell the quizzer that the quote is finished. For example: "Quote is complete” or “That is the quote.”
 
 #### Commentary
 
