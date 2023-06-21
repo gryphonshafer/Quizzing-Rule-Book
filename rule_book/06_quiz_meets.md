@@ -44,9 +44,9 @@ Team points are calculated by dividing the team score immediately after question
 
 The following may be used, in order, to break ties in team placements after preliminary quizzing:
 
-Head-to-head competition in previous quizzes
-Total points scored in preliminaries
-Least number of errors
+- Head-to-head competition in previous quizzes
+- Total points scored in preliminaries
+- Least number of errors
 
 In addition, a tie-breaker quiz may be used for ties that determine which bracket a team will compete in for elimination quizzing.
 
