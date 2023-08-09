@@ -45,7 +45,7 @@ Team errors are the sum of all individual, non-bonus errors.
 - -10 points for every team error starting at team error number 3
 - -10 points for every error on a question or toss-up question starting at question number 17
 - -10 points for 4th and subsequent team fouls
-- -10 points for 2nd and subsequent overruled challenges and protests
+- -10 points for 2nd and subsequent overruled appeals and protests
 - -10 points at the determination of the room officials that a deliberate attempt was made to forfeit a question
 - No more than 10 points can be deducted per question asked due to an error
 - Non-error-related deducted points are cumulative
@@ -55,7 +55,7 @@ Team errors are the sum of all individual, non-bonus errors.
 Below are the scoring calculation rules and the logic for them. This procedure is executed after every "quiz event" (defined below).
 
 **Quiz Event**
-: Label for whatever quiz event triggered the run of the procedure; possible values are: "question", "foul", "timeout", "sub-in", "sub-out", "challenge", "unreadiness", and "unsportsmanlike"
+: Label for whatever quiz event triggered the run of the procedure; possible values are: "question", "foul", "timeout", "sub-in", "sub-out", "appeal", "unreadiness", and "unsportsmanlike"
 
 **Quiz Type**
 : Current quiz type, defined under the Quiz Process, Types of Quizzes section of this rule book
@@ -75,11 +75,11 @@ Below are the scoring calculation rules and the logic for them. This procedure i
 **Ruling**
 : Ruling on a question; possible values are: "correct", "incorrect", and "none" (meaning no jump)
 
-**Challenge**
-: Ruling on a challenge; possible values are: "accepted" and "overruled"
+**Appeal**
+: Ruling on an appeal; possible values are: "accepted" and "overruled"
 
-**Overruled Challenges**
-: Integer representing total overruled challenges for the given team
+**Overruled Appeals**
+: Integer representing total overruled appeals for the given team
 
 **Quizzer Score Increment**
 : Amount the given quizzer's score should be incremented
@@ -279,11 +279,11 @@ Below are the scoring calculation rules and the logic for them. This procedure i
     Otherwise, if the quiz event is a "timeout", then set the scoresheet team label to "T".
     Otherwise, if the quiz event is a "sub-in", then set the scoresheet team label to "S+".
     Otherwise, if the quiz event is a "sub-out", then set the scoresheet team label to "S-".
-    Otherwise, if the quiz event is a "challenge", then apply the following block.
+    Otherwise, if the quiz event is an "appeal", then apply the following block.
         Set the scoresheet team label to "C".
-        If the challenge is overruled, then apply the following block.
-            Add 1 to overruled challenges.
-            If the overruled challenges value is greater than or equal to 2, then apply the following block.
+        If the appeal is overruled, then apply the following block.
+            Add 1 to overruled appeals.
+            If the overruled appeals value is greater than or equal to 2, then apply the following block.
                 Set the team score increment to -10.
                 Append "-" to the scoresheet team label.
             This is the end of the block.
