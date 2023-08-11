@@ -134,7 +134,7 @@ In the below table, any minimum or maximum variation between material seasons is
 | Finish          |       3 |       5 | FT, FTN, FTV, F2V    |
 | Situation       |     2/0 |     4/0 | SIT                  |
 
-At least one of the reference questions will be a CVR or CVRMA, and at least one of the reference questions will be a CR or a CRMA.
+At least 1 of the reference questions will be a CVR or CVRMA, and at least 1 of the reference questions will be a CR or a CRMA.
 
 For a given Question Type:
 
