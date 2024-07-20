@@ -45,7 +45,7 @@ Team errors are the sum of all individual, non-bonus errors.
 - -10 points for every team error starting at team error number 3
 - -10 points for every error on a question or toss-up question starting at question number 17
 - -10 points for 4th and subsequent team fouls
-- -10 points for 2nd and subsequent overruled appeals and protests
+- -10 points for 2nd and subsequent overruled appeals and reviews
 - -10 points at the determination of the room officials that a deliberate attempt was made to forfeit a question
 - No more than 10 points can be deducted per question asked due to an error
 - Non-error-related deducted points are cumulative
