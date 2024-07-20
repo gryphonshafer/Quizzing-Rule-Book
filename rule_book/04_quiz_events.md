@@ -120,16 +120,18 @@ When an appeal is made, the quizmaster must give each team's captain or co-capta
 
 ## Protests
 
-Coaches, including assistant coaches, of the teams participating in a quiz may place the quiz under protest under the following conditions:
+Coaches, including assistant coaches, of the teams participating in a quiz may place the quiz under review under the following conditions:
 
-- When a coach feels a logistical rule has been broken by the quiz officials
-- When a coach feels a ruling on an appeal is incorrect
+- When a coach thinks a logistical rule has been broken by the quiz officials
+- When a coach thinks a ruling on an appeal is incorrect
 
-The protest must apply to the question or ruling that just occurred. The protest must be placed before the quizmaster makes known the next question's type. If a protest is launched after question number 20 is completed it must be done immediately after the ruling is announced.
+The review must apply to the question or ruling that just occurred. The review must be placed before the quizmaster makes known the next question's type. If a review is launched after question number 20 is completed it must be done immediately after the ruling is announced.
 
-The coach may only confer with their assistant coach and any quizzer members of the team that are not currently seated in the quiz before protesting.
+The coach may only confer with their assistant coach and any quizzer members of the team that are not currently seated in the quiz before initiating a review.
 
-The quiz officials and quiz team coaches will meet privately and attempt to come to an agreement. If no agreement is reached within 10 minutes, the meet director will arbitrate and determine the just solution.
+The quiz officials and quiz team coaches will meet privately and attempt to come to an agreement. If no agreement is reached within 10 minutes, the meet director will arbitrate and determine the just solution. During the review, quizzers are permitted to leave their seats and converse with other quizzers as well as audience members.
+
+After a review is called, the quizmaster shall inform the room about the procedure outlined in the preceding paragraph.
 
 ### Example
 
