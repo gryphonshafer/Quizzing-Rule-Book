@@ -84,7 +84,7 @@ Interrogative questions, also called standard, regular, normal, general, and str
 
 - Must have exactly 1 inserted interrogative word at the very beginning of the question or the very end of the question
 - Must have a single answer
-- Must include a unique word or a 2 or 3-word unique phrase within the 1st 5 words of the question
+- Must be uniquely identifiable either to a single verse or to a single instance in the material within the first 5 words of the question
 
 #### Multiple Answer (MA)
 
