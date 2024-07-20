@@ -14,9 +14,9 @@ Only the captain or co-captain may appeal a decision or respond to an appeal. If
 
 No comment other than "correct" or "incorrect" need be announced by the quiz officials when announcing a ruling; however, at the discretion of the *quizmaster* (QM) and *answer judge* (AJ), or at the request of the captain, additional information may be given.
 
-If the additional information regarding the ruling is provided at the discretion of the QM/AJ and not at the request of the captain, this is not considered an explanation of a ruling, which would invalidate an appeal or protest.
+If the additional information regarding the ruling is provided at the discretion of the QM/AJ and not at the request of the captain, this is not considered an explanation of a ruling, which would invalidate an appeal or review.
 
-If the captain requests additional information regarding the ruling, this is considered an explanation of a ruling and invalidates an appeal or protest. Before replying to a request for an explanation, the QM must ask all teams if they wish to appeal.
+If the captain requests additional information regarding the ruling, this is considered an explanation of a ruling and invalidates an appeal or review. Before replying to a request for an explanation, the QM must ask all teams if they wish to appeal.
 
 All conferring between quizmaster and answer judge(s) shall be done privately.
 
