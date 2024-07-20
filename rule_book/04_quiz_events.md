@@ -142,11 +142,9 @@ A foul is a penalty called by a quiz official against a quizzer or team for cond
 - Fouls may be called by any quiz official actively involved in the current quiz.
 - A foul must be called before the quizmaster makes known the next question's type.
 
-The quizzer upon whom a foul is called becomes ineligible to jump on that question number, including any alphanumeric question numbers. The chair remains ineligible to jump on that question number, including any alphanumeric question numbers, even if the quizzer who committed the foul is substituted for.
+The quizzer upon whom a foul is called becomes ineligible to jump on that question. 
 
-If the officials fail to call a foul, a coach or captain may call it to the attention of the quizmaster. If in the officials' opinions a foul might have been committed, the quizmaster will give due warning to the violating team. A foul cannot be charged, and points cannot be deducted when the quizmaster receives such help from a coach or captain.
-
-3 fouls by a quizzer eliminate that quizzer from the quiz. The quizzer must leave the platform immediately. That seat will continue to be ineligible to jump for the entire question number, including any alphanumeric question numbers.
+3 fouls by a quizzer eliminate that quizzer from the quiz. The quizzer must leave the platform immediately. If a substitute replaces the fouled-out quizzer, the substitute may not jump until the next question.
 
 The following are fouls:
 
