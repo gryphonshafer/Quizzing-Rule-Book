@@ -27,7 +27,7 @@ Bible Quizzing meets consist of a series of quizzes, which themselves consist of
 : 2 or 3 consecutive words appearing in only 1 verse in the material
 
 **1st 5 Words of the Question**
-: The 1st 5 words of the question text, which may include an interrogative word as the 1st word. Hyphenated words count as one word. Examples: peace-loving, co-workers, super-apostles, double-minded
+: The 1st 5 words of the question text, which may include an interrogative word as the 1st word. Hyphenated words count as 1 word. Examples: peace-loving, co-workers, super-apostles, double-minded
 
 ## Material Rotation Schedule
 
@@ -84,7 +84,7 @@ Interrogative questions, also called standard, regular, normal, general, and str
 
 - Must have exactly 1 inserted interrogative word at the very beginning of the question or the very end of the question
 - Must have a single answer
-- Must be uniquely identifiable either to a single verse or to a single instance in the material within the first 5 words of the question
+- Must be uniquely identifiable either to a single verse or to a single instance in the material within the 1st 5 words of the question
 
 #### Multiple Answer (MA)
 

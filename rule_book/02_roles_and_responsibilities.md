@@ -56,7 +56,7 @@ On a Quote or Finish type question, once the quizzer has quoted to the end of th
 
 ##### Quote is Complete
 
-On a Situation type question, when the quizzer has completed the quotation, the quizmaster will tell the quizzer that the quote is finished. For example: "Quote is complete” or “That is the quote.”
+On a Situation type question, when the quizzer has completed the quotation, the quizmaster will tell the quizzer that the quote is finished. For example: "Quote is complete" or "That is the quote."
 
 #### Commentary
 
