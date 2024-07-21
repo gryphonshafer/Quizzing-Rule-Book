@@ -2,7 +2,7 @@
 
 ## Answer Duration
 
-Prior to a quizzer's answer being correct or incorrect, a quizzer has 30 seconds to provide their answer.
+Prior to a quizzer's answer being correct or incorrect, a quizzer has 30 seconds to provide their answer. If a quizzer who has stood to answer sits back down on their seat during the answering period, they forfeit the remainder of their time.
 
 ### Logic
 
@@ -118,7 +118,7 @@ If the appeal is accepted:
 
 When an appeal is made, the quizmaster must give each team's captain or co-captain an opportunity to speak to the appeal before making a ruling on the appeal. Whichever team is being appealed against will have the right to speak last.
 
-## Protests
+## Reviews
 
 Coaches, including assistant coaches, of the teams participating in a quiz may place the quiz under review under the following conditions:
 

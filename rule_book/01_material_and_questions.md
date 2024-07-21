@@ -27,7 +27,7 @@ Bible Quizzing meets consist of a series of quizzes, which themselves consist of
 : 2 or 3 consecutive words appearing in only 1 verse in the material
 
 **1st 5 Words of the Question**
-: The 1st 5 words of the question text, which may include an interrogative word as the 1st word. Hyphenated words count as one word. Examples: peace-loving, co-workers, super-apostles, double-minded.
+: The 1st 5 words of the question text, which may include an interrogative word as the 1st word. Hyphenated words count as one word. Examples: peace-loving, co-workers, super-apostles, double-minded
 
 ## Material Rotation Schedule
 
@@ -84,7 +84,7 @@ Interrogative questions, also called standard, regular, normal, general, and str
 
 - Must have exactly 1 inserted interrogative word at the very beginning of the question or the very end of the question
 - Must have a single answer
-- Must include a unique word or a 2 or 3-word unique phrase within the 1st 5 words of the question
+- Must be uniquely identifiable either to a single verse or to a single instance in the material within the first 5 words of the question
 
 #### Multiple Answer (MA)
 
@@ -93,26 +93,6 @@ Interrogative questions, also called standard, regular, normal, general, and str
     - The clarification of a single answer does not meet the above requirement
     - The identification of a singular pronoun does not meet the above requirement
     - The identification of a plural pronoun does meet the above requirement if there is more than 1 clarification of the pronoun
-
-In addition, an MA question is invalid if 1 of the listed answers to the multiple answer's questions is a "negative" answer. A "negative" answer is an answer used to contrast another answer or an answer that does not answer the question, such as an answer that begins with the words or similar words to "not" or "neither".
-
-##### Examples
-
-For an example of a negative word, consider 1 Corinthians 3:7:
-
-> So neither the one who plants nor the one who waters is anything, but only God, who makes things grow.
-
-The question "Who is anything?" would require the answer:
-
-> Neither the one who plants nor the one who waters.
-
-This is an invalid MA.
-
-Consider 1 Corinthians 9:25:
-
-> Everyone who competes in the games goes into strict training. They do it to get a crown that will not last, but we do it to get a crown that will last forever.
-
-The question "A crown that will what?" with an answer "Not last; last forever" is an invalid MA.
 
 #### Reference
 
@@ -268,10 +248,5 @@ Questions must be declared invalid by the quizmaster or answer judge(s) if:
 - The answer requires interpretation by the quizzer
 - The question is ambiguous, tricky, or misleading
 - The question is multiple-choice
-- If the question is not answered
 
 When a question is deemed invalid and thrown out, it must be replaced with the exact same type of question. For example, a CVRMA must be replaced with an CVRMA, not any multiple-answer reference question.
-
-#### Example
-
-To help illustrate more the idea of "if the question is not answered", consider a scenario where the question asks, "What is good?", and the answer states what is not good. In this case, the question is not answered and is tricky or misleading.
