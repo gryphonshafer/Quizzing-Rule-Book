@@ -60,7 +60,7 @@ On a Situation type question, when the quizzer has completed the quotation, the 
 
 #### Commentary
 
-On a CVR/CVRMA, in the scenario where the entire reference (which is part of the question text) was not read by the quizmaster, the quizmaster has 2 prompts to give, and must give them in correct order and with correct timing. If the quizzer provides all information in the question text and the answer text, because the quizzer has not yet finished saying the complete reference, which is part of the question, the quizmaster must prompt with "More." The quizmaster cannot prompt with "What is your question?" yet, because the quizzer has not provided all information in the question (which includes the reference) and the answer.
+On a CVR/CVRMA, in the scenario where the entire reference (which is part of the question text) was not read by the quizmaster, the quizmaster has 2 prompts to give, and must give them in correct order and with correct timing. If the quizzer provides all information in the question text and the answer text, because the quizzer has not yet finished saying the complete reference, which is part of the question, the quizmaster must prompt with "What is your reference?" The quizmaster cannot prompt with "What is your question?" yet, because the quizzer has not provided all information in the question (which includes the reference) and the answer.
 
 ### Answer Judges (AJ)
 
