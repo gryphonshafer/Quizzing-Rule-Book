@@ -50,12 +50,6 @@ Punctuation
 Formatting
 Grammar
 Technological
-I just feel like we need to have an exact wording of the section written out ahead of time. This just took all previous suggestions, combined them into 1, and then I also removed the word integration from the 9.3 heading since we removed that word everywhere else
-
-Everyone is invited to review and discuss submitted issues, adding comments to them to further the discussion. An authorized *Rules Committee* (RC) will review each submitted issue for quality, appropriateness, integrational impact, and other factors. The RC will add comments on the issue as necessary to improve or solicit improvements upon any area the RC feels is needed.
-
-The RC will review all open issues at least every 3 months and will by a simple majority vote decide if each issue is ready for progression, needs to remain in discussion, or should be closed without further action. In all cases, the RC should at minimum provide a summary status explanation comment on every issue it reviews. If an issue is deemed ready for progression, the RC will see that a *pull request* (PR) is created and the issue closed. The PR will be constructed against the `integration` branch of the project.
-
 
 ## Change Notification from GitHub
 
