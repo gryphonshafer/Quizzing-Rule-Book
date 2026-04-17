@@ -185,9 +185,8 @@ Each team is allowed 2 1-minute timeouts. Only 1 of those timeouts may be taken 
 Substitutions may be made only during timeouts or to replace a quizzer who quizzes-out, errs-out, or fouls-out on the immediately preceding question.
 
 - A team can only make 1 substitution per timeout.
-- A quizzer being removed from a quiz must stay out for a minimum of 3 question numbers, including alphanumeric question numbers, before re-entering the quiz.
 - Quizzers can be substituted for any chair.
 
 Quizzed-out quizzers may remain in the quiz to answer bonus questions. Substituting for them afterward will require a timeout. If subbed-out, they may not return for any reason.
 
-When a quizzer quizzes-out, errs-out, or fouls-out and leaves the platform after the event, a substitute may take their place immediately and without a timeout, even if the incoming quizzer has been subbed-out less than 3 questions ago.
+When a quizzer quizzes-out, errs-out, or fouls-out and leaves the platform after the event, a substitute may take their place immediately and without a timeout. 
