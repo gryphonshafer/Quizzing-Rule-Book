@@ -187,6 +187,5 @@ Substitutions may be made only during timeouts or to replace a quizzer who quizz
 - A team can only make 1 substitution per timeout.
 - Quizzers can be substituted for any chair.
 
-Quizzed-out quizzers may remain in the quiz to answer bonus questions. Substituting for them afterward will require a timeout. If subbed-out, they may not return for any reason.
-
+Quizzed-out quizzers may remain in the quiz to answer bonus questions. Substituting for them afterward will require a timeout. 
 When a quizzer quizzes-out, errs-out, or fouls-out and leaves the platform after the event, a substitute may take their place immediately and without a timeout. 
