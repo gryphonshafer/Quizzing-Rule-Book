@@ -158,6 +158,7 @@ The following are fouls:
 - Having more than the designated team members, 1 coach, and 1 assistant coach on the quiz platform during a timeout
 - If a captain or co-captain confers with their coach or other quizzers prior to issuing an appeal; in addition, the appeal will not be allowed
 - Infraction of the rules, in letter or spirit, as discerned by the quiz officials
+- Unsportsmanlike conduct as determined by the quiz officials
 
 **Individual Fouls**
 : A foul awarded to 1 or more individual quizzers

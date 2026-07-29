@@ -161,7 +161,6 @@ For 15-question quizzes, prepare quizzes as normal for 20-question quizzes, but 
 - If a quizzer's light comes on after a question has been called and before the question has discernibly begun, a foul will be called.
 - If a quizzer's light comes on after the quizmaster has discernibly begun reading the question, this will be considered a valid jump, and the quizzer will be given an opportunity to answer.
 - The 1st quizzer to rise and trigger their light, provided there has been no foul, will be awarded the jump.
-- If in the judgment of the officials, a deliberate attempt is made to forfeit a question, an error will be charged, and 10 points deducted from the team score. The next question will be the same question number.
 
 ## Timeliness
 
