@@ -26,7 +26,7 @@ Everyone is invited to review and discuss submitted issues, adding comments to t
 
 The RC will by a simple majority vote to decide if each issue is ready for progression, needs to remain in discussion, or should be closed without further action. In all cases, the RC should at minimum provide a summary status explanation comment on every issue it reviews. If an issue is deemed ready for progression, the RC will see that a pull request (PR) is created and the issue closed.
 
- ## Pull Requests
+## Pull Requests
 
 PRs will be in an open review period for 3 calendar months from the date they are created, during which time they can be discussed and debated by anyone using the comment features on GitHub. At the conclusion of the 3 months, a simple majority of RC will approve or reject the PRs. If there are zero public comments after 3 months, it will be assumed that the RC would all vote the same way again, and there will be no second vote taken to approve the changes. All PRs will be sent to the CQLT. The 3 calendar months prior to the CQLT's annual ratification vote is considered the final review period. New PRs created during that time period will not be up for CQLT ratification until the following year.
 
@@ -44,12 +44,12 @@ Any RC members who are also on the CQLT must cast their vote in favor of all rul
 
 No changes to the master file are allowed except for:
 
-The single annual merging of approved PRs
-Non-functional changes such as:
-Punctuation
-Formatting
-Grammar
-Technological
+- The single annual merging of approved PRs
+- Non-functional changes such as:
+    - Punctuation
+    - Formatting
+    - Grammar
+    - Technological
 
 ## Change Notification from GitHub
 
