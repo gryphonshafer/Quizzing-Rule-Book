@@ -102,6 +102,7 @@ If a quizzer needs to provide the reference question, the provided reference que
 
 - Be of the exact same question type (CR, CVR, CRMA, CVRMA) as the written question
 - Have content and wording similar to the content and wording of the written question
+- Must have exactly 1 inserted interrogative word at the very beginning of the question or the very end of the question.
 
 Only the material is used, not the choice of interrogative word, when deciding whether a question is an INT versus CR versus CVR.
 
