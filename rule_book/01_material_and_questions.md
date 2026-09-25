@@ -147,12 +147,12 @@ The question text should be in the form:
 ##### Chapter Verse Reference Multiple Answer (CVRMA)
 
 - Must meet all the requirements of a CVR except the single answer requirement
-- Must also meet all the requirements of a MA except the unique word or phrase requirement
+- Must also meet all the requirements of an MA except being uniquely identifiable within the 1st 5 words of the question.
 
 ##### Chapter Reference Multiple Answer (CRMA)
 
 - Must meet all the requirements of a CR except the single answer requirement
-- Must also meet all the requirements of a MA except the unique word or phrase requirement
+- Must also meet all the requirements of an MA except being uniquely identifiable within the 1st 5 words of the question.
 
 #### Quote/Finish
 
