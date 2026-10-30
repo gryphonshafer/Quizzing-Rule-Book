@@ -12,7 +12,7 @@ Proposed changes should be submitted as an "Issue" to the GitHub project.
 
 [https://github.com/gryphonshafer/Quizzing-Rule-Book/issues/new](https://github.com/gryphonshafer/Quizzing-Rule-Book/issues/new)
 
-Submitted issues will contain:
+Submitted issues should contain:
 
 - A short but fully descriptive title
 - A description that includes:
